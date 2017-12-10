@@ -1,9 +1,15 @@
+# -*- coding: utf-8 -*-
 import requests
 import pathlib
 from bs4 import BeautifulSoup
 
 
-topic = 'back-end'
+'''
+    ! Necessario remover a pasta downloaded da raiz se houver !
+'''
+
+
+topic = 'designer'
 base_url = 'https://www.empregos.com.br/curriculos/'+topic+'/p'
 last_page_number = 3
 
@@ -13,8 +19,8 @@ pathlib.Path('./downloaded/' + topic + '/full').mkdir(parents=True)
 
 
 def find_cvs(url, lista):
-    r = requests.get(url)
-    soup = BeautifulSoup(r.content, 'html.parser')
+    resp = requests.get(url)
+    soup = BeautifulSoup(resp.content, 'html.parser')
     lista_curriculos = soup.findAll("a", class_="nome-candidato")
     for curriculo in lista_curriculos:
         lista.append(curriculo.attrs['href'])
@@ -24,7 +30,7 @@ def find_cvs(url, lista):
 lista = []
 current_url = base_url
 for current_page in range(last_page_number):
-    current_url = base_url+str(current_page+1)
+    current_url = base_url + str(current_page+1)
     find_cvs(current_url, lista)
 
 
@@ -39,15 +45,15 @@ for cv_url in lista:
     base_file_name = cv_url.replace("https://www.", "").replace("/", "-")
 
     print('CV download: ' + base_file_name)
-    
-    r = requests.get(base_url_modal+current_modal, allow_redirects=True)
 
-    soup = BeautifulSoup(r.content, 'html.parser')
-    dados_curriculo=soup.findAll('span')
+    resp = requests.get(base_url_modal + current_modal, allow_redirects=True)
+
+    soup = BeautifulSoup(resp.content, 'html.parser')
+    dados_curriculo = soup.findAll('span')
 
     html_text = str(dados_curriculo)
     soup = BeautifulSoup(html_text, "lxml")
     clean_html = ''.join(soup.findAll(text=True))
 
-    open('./downloaded/' + topic + '/full/' + base_file_name + '.html', 'wb').write(r.content)
+    open('./downloaded/' + topic + '/full/' + base_file_name + '.html', 'wb').write(resp.content)
     open('./downloaded/' + topic + '/short/short_' + base_file_name + '.html', 'w').write(clean_html)
