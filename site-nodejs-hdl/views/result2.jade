@@ -1,11 +1,16 @@
 extends layout
 
 block content
-    h1 Melhores curriculos
-    ol
-        each id in entitiyIDs.list
-            li= id
-        
+    div
+      .container
 
+        form.form-signin
 
-    
+            div.pull-right
+                img.logo(src="/img/logo.jpg", alt="logo")
+
+            h2.form-signin-heading Resultado com os melhores curriculos
+
+            ol
+                each id in entitiyIDs.list
+                    li= id

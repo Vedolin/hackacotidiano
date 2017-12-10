@@ -1,12 +1,20 @@
 extends layout
 
 block content
-    h1 Confira as suas informações
-    h2 Descrição:
-    h3= coisas.desc
-    h2 Quantidade de currículos desejados:
-    h3= coisas.qtRet
+    div
+      .container
 
-    form(method="get", name="form1", action="/webhook", enctype="multipart/form-data")
-      div.actions
-        button.btn.primary(type="submit") Confirm
+        form.form-signin(method="get", name="form1", action="/webhook", enctype="multipart/form-data")
+
+          div.pull-right
+              img.logo(src="/img/logo.jpg", alt="logo")
+
+          h2.form-signin-heading Confira suas infos!
+
+          h3 Descrição:
+          p= coisas.desc
+          h3 Quantidade de currículos desejados:
+          p= coisas.qtRet
+
+          div.form-group
+            button.btn.btn-large.btn-primary(type="submit") Confirmar

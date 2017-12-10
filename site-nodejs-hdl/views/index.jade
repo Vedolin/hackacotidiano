@@ -1,20 +1,30 @@
 extends layout
 
 block content
-    h1 Carregamento de curriculos
-    h2 Faça upload dos curriculos
-    form(method="post", name="form1", action="/upload", enctype="multipart/form-data")
-      fieldset
-        legend Upload curriculos
-        input(type="file", name="singleFile" multiple)
-      fieldset
-        legend Descreva a vaga
-        textarea(name="desc", cols="222", rows="10")
-      fieldset
-        legend Quantidade na lista
-        input(type="number", name="qtRet")
-      br
-      div.actions
-        button.btn.primary(type="submit") Upload
-        p
-        button.btn.cancel(type="button") Cancel
+    div
+      .container
+
+        form.form-signin(method="post", name="form1", action="/upload", enctype="multipart/form-data")
+
+              div.pull-right
+                img.logo(src="/img/logo.jpg", alt="logo")
+
+              h2.form-signin-heading Faça o upload dos cv's
+              br
+              div.form-group
+                  label.btn.btn-large.btn-primary.btn-file Upload de curriculos
+                    input.form-control.input-block-level(type="file", name="singleFile" multiple id="envio")
+                  p.arquivos Por favor, escolha o(s) arquivo(s)
+              
+              div.form-group
+                  label.mais-margem Descreva a vaga
+                  textarea.form-control.input-block-level(name="desc")
+              
+              div.form-group
+                  label.mais-margem Quantidade na lista
+                  input.form-control.input-block-level(type="number", name="qtRet")
+
+              div.form-group.margem
+                  button.btn.btn-large.btn-danger.mais-margem(type="button") Cancelar
+                  button.btn.btn-large.btn-primary.mais-margem.afasta(type="submit") Enviar
+                  
