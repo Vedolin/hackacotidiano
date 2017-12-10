@@ -1,0 +1,33 @@
+ENGENHEIRO DE TELECOMUNICAÇÃO
+Dados Pessoais
+56 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Engenheiro de telecomunicação
+Analista de redes
+Analista de banco de dados
+Salário
+Mínimo aceitavel: R$ 3.000,00
+Pretendido: R$ 4.500,00
+Resumo do currículo
+Formação •	Graduação em Engenharia de Telecomunicações – Pontifícia Universidade Católica de Campinas – 2016; •	Curso de CCNA Routing & Switching – Lan University - 2017; •	Inglês Intermediário.
+
+
+
+Qualificação Profissional •	Conhecimentos na área de Programação C++, Arduino, Radiuino (RFBee), Linux Wireshark, Cisco Packet Tracer.; • Conhecimento teórico de redes de comunicação de dados como as camadas de rede do modelo OSI e TCP/IP; conhecimento em FPGA além dos protocolos como Ethernet, IP, TCP, UDP, FTP, HTTP, Telnet, IPv4, IPv6; •	Desenvolvimento do Trabalho de Conclusão de Curso (TCC) voltado para redes de comunicação sem fio utilizando micro controladores; com a proposta de fazer uma rede de alarmes entre veículos do tipo Ad Hoc; •	Desenvolvimento de planilha de controle no Excel, com o intuito de sanar os problemas que a empresa apresentava com os IPs (Números de Cadastro de Equipamentos) repetidos. Três setores da empresa desenvolviam essas atividades e cada uma dessas áreas passou a cadastrar um tipo de equipamento específico na planilha. Criou uma forma de bloqueio para que cada Departamento tivesse acesso apenas aos seus equipamentos. Com a planilha alimentada não havia como repetir o número do IP, desta forma não gerava “bloqueios” nos mesmos; •	Responsável pelo desenvolvimento de uma planilha de controle de férias dos funcionários do Departamento; que devido a uma demanda de crescimento no número de Agentes (em torno de 125 Agentes). Inseriu 365 colunas represen
+Escolaridade
+Unicamp
+Engenharia de Telecomunicações - Pós-graduação cursando
+02/2017 - 12/2020
+Cursos importantes
+Lan University
+Ccna R&s, 3 Meses - 03/2017
+Experiências profissionais
+Assistente administrativo
+Somente para Assinantes, Setor Público
+Salário final: R$ 2.313,00 ( 02/2012 - Até hoje)
+
+Distribuição de serviço para 120 agente de leitura os quais são responsáveis por fazer a distribuição das faturas de a de Campinas. Apoio aos funcionários que realizam serviço de campo. Apoio aos 7 funcionários internos, principalmente com excel e sistemas próprio da empresa. Criação e desenvolvimento de novas soluções para melhoria do setor e da empresa.
+Idiomas
+Inglês - Avançado

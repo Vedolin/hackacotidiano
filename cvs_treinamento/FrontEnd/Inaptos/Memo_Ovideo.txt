@@ -1,0 +1,45 @@
+CONSULTOR TÉCNICO
+Dados Pessoais
+40 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Consultor técnico
+Salário
+Mínimo aceitavel: R$ 5.000,00
+Resumo do currículo
+•	Profissional especialista com 16 anos de experiência em Consultoria, Arquitetura e Liderança em TI em multinacionais nas áreas de pré-venda, delivery on-site e remoto no Brasil e países da América Latina e Central. •	Experiência em atuar respondendo para gerência internacional e em projetos com equipes multidisciplinares de diversos países. •	Relacionamento com foco na gestão ao cliente em Arquitetura de Serviços em soluções de Big Data Platform analytics de dados não estruturados, Backup & Recovery, Information Management, Governança, Risco, Compliance, Segurança da Informação, ITIL e PMI. •	Amplo conhecimento de tecnologias e sistemas Unix, Linux, Windows, Virtualização, Hardware, Redes e Storage. •	Expertise em implementações de projetos de infraestrutura com os principais players de mercado: SAP, ORACLE, IBM, MICROSOFT, CITRIX, DELL, HPE, CISCO, entre outros. •	Inglês Avançado e Espanhol Intermediário.
+Escolaridade
+Universidade Estácio
+Computação/Informática - Superior cursando
+01/2015 - 06/2018
+Experiências profissionais
+Consultor Sênior de Tecnologia III
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 11.000,00 ( 10/2012 - 10/2016)
+
+•	Implementações, migrações e Arquitetura de Soluções com foco na elaboração de propostas técnicas e comerciais, atendendo RFPs/RFIs e editais para projetos nacionais e internacionais em ambientes complexos de alta disponibilidade nas soluções HPE Adaptative Backup & Recovery, Big Data Platform IDOL, Data Protector, Connected Backup e Connected MX. •	Principais Projetos: -Suriname Bank – Suriname: design e implementação de Soluções Enterprise Backup & Recovery, HPE Information Management e Big Data, on-site e remota com replicação de dados entre sites integrando com MS SQL, HPE Converged System e hardwares StoreOnce de desduplicação de dados. -Corte Suprema - Nicarágua; Inst. de Ciências Forenses - Porto Rico: design e implementação da arquitetura de proteção de dados em projetos envolvendo multiunidades de negócio e parceiros da HPE, aplicando melhores práticas e integrações de Aplicações e Bancos de dados de forma customizada de acordo com o ambiente dos clientes.
+Consultor Sênior de Tecnologia II
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 9.000,00 ( 10/2008 - 09/2012)
+
+•	Implementação de solução Enterprise Information Management HP Integrated Archive Platform (IAP) em ambientes Exchange (MS), Lotus Domino e storage, no arquivamento de informações em grande escala. •	Consultoria, implementação e customização da Suite Openview (HP Operations Manager, Performance Manager e Network Node Manager). •	Principais Projetos: -Banco do Brasil - maior projeto de Information Management implementado pela HP no Brasil com aproximadamente 350 servidores para o arquivamento de emails corporativos. -Marinha do Brasil, Fertilizantes Heringer e outros clientes - integrando a Solução de Enterprise Content Management (HP TRIM) e File Migration Agent (FMA) atendendo conformidades legais. ?	Oi Telecom - migração de aproximadamente 1.500 servidores (diversos sistemas operacionais) para plataforma de Gerenciamento HP Operations Manager. -Integrações no Banco do Brasil entre as soluções HP Operations Manager, Performance Manager, Performance Insight e LDAP, customização de Smart PlugIns para ambiente Vmware.
+Consultor Sênior de Segurança da Informação
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.000,00 ( 09/2006 - 10/2008)
+
+•	Consultoria em segurança da informação, Gestão de Continuidade de Negócios e análise de riscos. •	Principais Projetos: - Plano Corporativo de Segurança da Informação e Continuidade de Negócio para a CEMIG utilizando Governance, Risk e Compliance na definição estratégica dos projetos de SI e PCN. - Desenvolvimento de metodologia de testes no SERPRO (CMMI e ITIL) atendendo requisitos do Banco Central no projeto de auditoria SOTN (Sistema Operações do Tesouro Nacional). Consultoria estratégica para os Planos de Migração do Data Center Principal.
+Consultor em Governança e Infraestrutura
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 09/2005 - 09/2006)
+
+•	Pré-venda e Pós-venda em gerenciamento de serviços e infraestrutura. Implantações do HP Openview em órgãos públicos. Arquitetura técnica, propostas comerciais atendendo RFPs/RFIs e editais. •	Principais Projetos: - Líder do projeto Service Desk e Security Network Operations Center, utilizando HP Openview, Compuware, CISCO e RADWARE para gerenciamento de serviços e segurança e mapeamento de processos para implementação do ITIL na disciplina Service Support.
+Gestor de TI e Administração de Infraestrutura
+Somente para Assinantes, Telemarketing/ CallCenter
+Salário final: R$ 3.000,00 ( 03/1999 - 03/2005)
+
+•	Analista de Suporte a Gestor de TI, liderando técnicos do CPD e gestão da estrutura física, ativos de TI, grupo motogerador e contratos de terceirização, finanças e compras. •	Principais Projetos e Premiações - Criação e implementação de projeto Linux na Central de atendimento FOMEZERO. Prêmio destaque “melhor do ano em 2003 e 2004”. Desenvolvimento de aplicação (PHP e MySQL) de monitoramento proativo da infra técnica (CPD).
+Idiomas
+Espanhol - Intermediário  Inglês - Avançado
+Habilidades e qualificações
+Segurança da Informação Information Management Windows Unix Linux Hpe Gestão de Riscos Connected Backup Pmi Itil Backup Governança Data Protector Analytics Big Data Idol Vmware Auto Didata

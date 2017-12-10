@@ -1,0 +1,52 @@
+GERENTE DE OPERAÇÕES
+Dados Pessoais
+40 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Gerente de operações
+Salário
+Mínimo aceitavel: R$ 10.000,00
+Pretendido: R$ 14.000,00
+Resumo do currículo
+Estou há 22 anos trabalhando na área de TI, atuando com administração, gerência e suporte de serviços; liderando projetos de sustentação, implantação e migração de infraestrutura de Datacenter; prestando serviços para empresas de pequeno a grande porte na gestão técnica e operacional; aplicando as melhores práticas da TI para adequar as necessidades dos mesmos. 
+
+Sou certificado em: ITIL Foundations - Information Technology Infrastructure Library VCP401 - VMware Certified Professional 4 MCSA – 2000 e 2003 - Microsoft Certified System Administrator
+
+Estou atualizando minhas certificações abaixo: ITIL, MCSA: Cloud Platform and Infrastructure 2012 e VMware 6.5
+
+Estou cursando MBA em Gestão de Negócios na FGV.
+
+Novas certificações em fase de preparação: PMP e Cobit
+Escolaridade
+IBMEC
+Outra Área de Estudo - Pós-graduação completa - Mba - Gestão de Projetos
+08/2009 - 03/2012
+Universidade Estácio de Sá
+Computação/Informática - Superior completo - Rede de Computadores
+02/1998 - 12/2001
+Cursos importantes
+Trainning
+Gestão de Projetos (pmp Advanced, Scrumm, Ms Project), 80 Hs - 10/2017
+FGV
+Design Thinking, 12hs - 09/2017
+Experiências profissionais
+Gerente de operações
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 14.000,00 ( 08/2008 - 12/2016)
+
+Fui gerente de operações, onde liderei equipes técnicas nos projetos de transição / transformação e projetos de sustentação do ambiente de TI dos clientes (on going). Meu trabalho no cliente consistiu em planejar, controlar e gerenciar toda entrega de serviço ao cliente, como controle de SLA, condução de processos de mudança, sustentação do ambiente com qualidade, gestão das equipes técnicas em processos de running e projetos. Participei e liderei vários projetos importantes na empresa, como upgrade de Nota Fiscal Eletrônica; virtualização do ambiente com VMware Infrastructure; criação e duplicação de todo ambiente da nova Join Venture Raízen, criada entre a Shell e a Cosan com alta disponibilidade e site de DRP; Move DataCenter de vários clientes, Migração e transformação de servidores físicos e virtuais para outro Datacenter P2V (Backupexec System Recover ou live state) V2V (OVF, .vmdk ou converter); Migração de VMs para outro Datacenter (HOT) com Dobletake tool; Migração de VMs de Datacenter Físico para plataforma Cloud Azure e AWS; Duplicação e segmentação de Datacenter; Criação de Cluster Vmware e migração de todos os servidores físicos para virtual; Migração de plataforma SAP; Implantação de plataforma NETAPP com servidores físicos com boot from iSCSI para host Vmware; Migração Exchange para nuvem (Office 365); Criação de ambiente de DR com sincronização via Storage, via Vmware replication site, via standby database (Oracle) e mirroring ou logshipping em MS SQL; etc..
+Líder de Projetos e Serviços
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 7.500,00 ( 07/2007 - 07/2008)
+
+Trabalhei como consultor de serviços de rede e segurança dos nossos clientes. Atuei no gerenciamento dos projetos da CVM (baseado no PMBOK), onde fui responsável pelo planejamento, reestruturação da rede do cliente e a gerencia de serviços de TI, baseado nos fundamentos do ITIL. Trabalho com tecnologias como F5 Big IP, Firewall checkpoint e ISA 2004, Switch e Roteadores Cisco, Storage EMC, Exchange 2003, Symantec Backup Exec System Recovery, Virtualização de Servidores usando VMWare e Microsoft Virtual Server, etc...
+Consultor de Suporte
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.000,00 ( 07/2006 - 07/2007)
+
+Trabalhei como consultor suporte aos servidores Windows, Exchange 2000/2003, Isa Server, Virtual Servers, Redes e todos os serviços que rodam em plataforma Microsoft dos clientes do DataCenter. Fui suporte Premier do cliente VMB e também trabalhei na sustentação de outros clientes como White Martins, SHV, Xerox, Gol, John Deere, etc. Tive a participação em vários projetos de migração e implantação de novos serviços com a utilização de gerenciamento de serviços baseado no ITIL.
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Mcsa – 2000 e 2003 - Microsoft Certified System Ad Vcp401 - Vmware Certified Professional 4 Itil Foundations - Information Technology Infrastr Redes Microsoft Wmware Liderança Técnica Cobit Pmp Aws Cloud Computing Exchange Active Directory Dns Dhcp Storage Drp Gestão de Pessoas Scrumm Gestão de Incidentes Gestão de Problemas Gestão de Mudanças Mcitp Cisco Checkpoint F5 Big Ip Alta Disponibilidade Cluster Data Center Gestão de Operações Migração P2v e V2v Double Take Transição e Transformação Migração Datacenter

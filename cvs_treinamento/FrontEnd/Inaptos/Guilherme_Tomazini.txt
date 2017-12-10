@@ -1,0 +1,64 @@
+ANALISTA DE SEGURANÇA DE REDE
+Dados Pessoais
+45 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de segurança de rede
+Analista de Infraestrutura
+Analista de redes
+Salário
+Mínimo aceitavel: R$ 5.000,00
+Pretendido: R$ 8.000,00
+Resumo do currículo
+Mais de 20 anos de experiência em TI, com atuação nas áreas de projeto, implantação, suporte, monitoração de redes e segurança com conhecimentos em processos e tecnologias de rede e segurança da informação;
+
+Domínio em tecnologias de firewalls (Cisco ASA/PIX, Check Point), VPN (Cisco ASA/PIX e VPN 3000 Concentrator), balanceadores de carga (F5 BIG-IP, Cisco ACE, CSS e LD), DNS, filtros de conteúdo (WebSense) e workflow (Algosec FireFlow, MT4 Load Balance Center);
+
+Forte conhecimento em infraestrutura de redes, segurança, sistemas operacionais e processos e governança de TI;
+
+Detalhista, processual, focado na análise e resolução de problemas, rápida assimilação de tecnologias e processos;
+
+Certificações:
+
+- CompTIA® Security+ - COBIT® Foundation Certificate. - ITIL® Foundation Certificate in IT Service Management. - IT Service Management Foundation based on ISO/IEC 20000. - EXIN Information Security Management based on ISO/IEC 27001.
+
+Graduação em Tecnologia em Processamento de Dados com Especialização em Auditoria e Segurança da Informação.
+Escolaridade
+Faculdades Associadas de São Paulo
+Computação/Informática - Pós-graduação completa - Especialista em Auditoria e Segurança da Informaçã
+01/1999 - 01/2000
+Universidade Presbiteriana Mackenzie
+Computação/Informática - Superior completo - Tecnólogo em Processamento de Dados
+06/1993 - 12/1996
+Fundação Escola de Comércio Álvares Penteado
+Computação/Informática - Ensino Médio Técnico - Técnico em Processamento de Dados
+01/1990 - 12/1992
+Cursos importantes
+Daryus
+Ethical Hacking Foundation, 10 Horas - 08/2016
+Experiências profissionais
+Analista Engenharia TI Pleno
+Somente para Assinantes, Bancário
+Salário final: R$ 12.228,00 ( 12/2012 - 05/2016)
+
+Atuação no gerenciamento, análise e planejamento de demandas de liberação de regras firewalls (Cisco ASA, Check Point), configuração de VPNs site-to-site (Cisco ASA/PIX e VPN 3000 Concentrator) e balanceamento de carga (F5 BIG-IP, Cisco ACE, CSS e LD). Atuação na melhoria dos processos de demandas de infraestrutura de segurança com a definição de SLAs, participação em processos de Kaizen, implantação de ferramentas de workflow (Algosec FireFlow, MT4 Load Balance Center) e apresentações junto a áreas clientes.
+Analista Suporte TI Pleno
+Somente para Assinantes, Bancário
+Salário final: R$ 9.487,00 ( 10/2011 - 11/2012)
+
+Atuação na área de gerenciamento de redes, na administração, suporte e implantação de softwares de gerenciamento de infraestrutura de redes (CA Spectrum), de gerenciamento autenticação e autorização de usuários em servidores (BoKS ServerControl), segurança de banco de dados (IBM Guardium) e de monitoração e análise de mensagens do protocolo FIX (Greenline MagniFIX e MetriFIX).
+Analista Suporte Redes Pleno
+Somente para Assinantes, Bancário
+Salário final: R$ 8.825,00 ( 06/2006 - 09/2011)
+
+Atuação na área de suporte redes, implantação e operação de redes e infraestrutura de segurança especificamente em firewalls (Cisco ASA, Check Point), balanceadores de carga (Cisco ACE, CSS e LD), configuração de VPNs site-to-site e acesso remoto (Cisco ASA e VPN 3000 Concentrator), servidores DNS BIND, operação de servidores proxy (Blue Coat), filtro de conteúdo (WebSense), RSA SecurID, HSM e IDS. Participação em testes de Disaster Recovery no suporte de redes, firewalls e balanceadores de carga.
+Analista Segurança Informática Pleno
+Somente para Assinantes, Bancário
+Salário final: R$ 5.311,00 ( 10/2000 - 06/2006)
+
+Atuação na área de Segurança de Informática na implantação, administração, suporte e operação dos primeiros firewalls (Check Point, Cisco PIX e IBM) do Banco Itaú nos ambientes Intranet, Extranet e Internet no Brasil e unidades externas em Buenos Aires e Lisboa. Administração das soluções autenticação e autorização da IBM Tivoli Access Manager (TAM) e de provisionamento de usuários IBM Tivoli Identity Manager (TIM) . Definição e implementação de procedimento de hardening de servidores nas plataformas Windows, Unix e Linux. Participação na definição e processo de assinatura digital (PKI) para contratos de câmbio.
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Implantação Suporte Monitoração de Redes e Segurança Segurança da Informação Firewalls Vpn Balanceadores de Carga Dns Filtro de Conteúdo Comptia® Security+ Cobit Itil Iso20000 Iso27002

@@ -1,0 +1,31 @@
+Aline Alves Ferreira
+Front-end Developer
+Summary
+Analista e desenvolvedora Frontend. Graduada em análise e desenvolvimento de sistemas.
+Experiência e vivência em HTML5, CSS3, Javascript, Jquery, SASS, LESS, GitHub, TFS(Team Foudation Server), ASP.NET MVC(Criação de views e customização do frontend), Bootstrap, gestão de projetos com tecnologias ágeis, cronograma e desempenho da equipe.
+Experience
+Frontend Developer at Buscando Meu APÊ
+fevereiro de 2017 - Present
+Responsável pelo desenvolvimento, padronização e melhorias na área de frontend da empresa. Atualmente utilizando as seguintes tecnologias: HTML5, CSS3 (LESS), Bootstrap3, Javascript (jQuery), GruntJs, Git e AWS.
+Desenvolvedor Front-end at BPF - Banco de Pontos Fidelidade
+agosto de 2014 - fevereiro de 2017 (2 anos 7 meses)
+Desenvolvimento de sistemas utilizando HTML5, CSS3, Sass, Javascript, jQuery, Razor (VB.Net).
+Gerenciamento de pacotes Nuget, versionamento de código usando TFS.
+Gerenciamento das atividades de desenvolvimento, escopo de projeto, cronograma e desempenho da equipe. Utilizando ferramentas de gerenciamento de projetos concentrada na metodologia ágil de desenvolvimento: Target Process e Visual Studio Team Services (VSTS/TFS).
+Programador Web
+novembro de 2011 - fevereiro de 2012 (4 meses)
+Conduzir reuniões para identificação de necessidades da empresa, analisar requisitos funcionais e não
+funcionais. Propor e implantar soluções de melhorias. Responsável pelo planejamento e execução dos projetos. Criação, desenvolvimento e manutenção de sistemas web com padrões de programação, utilizando PHP, ASP, HTML, JavaScript(JQuery), CSS, Tableless e Json, voltados para diversas áreas do comércio. Criação, desenvolvimento e manutenção de layouts para websites, criação de logotipos. Configuração e gerenciamento de arquivos via FTP. Execução de Testes, correção de erros. Modelagem e gerenciamento de banco de dados, garantir o funcionamento de procedimentos de armazenamento, manutenção e backup. Sanar dúvidas de clientes e realizar apresentação das funções e usabilidade de sistemas através de reuniões.
+  Estagiário Web Designer
+Page 1
+junho de 2011 - novembro de 2011 (6 meses)
+Participação de reuniões para identificar necessidades do negócio, analisar requisitos funcionais e não
+funcionais, implantar melhorias, criar, desenvolver e dar manutenção em Layouts para websites e sistemas web com padrões de programação utilizando PHP, ASP, HTML, JavaScript(JQuery), CSS, Tableless e Json. Criação de logotipos, criação de banners publicitários para e-mail marketing. Execução de testes, correção de erros, modelagem e gerenciamento de banco de dados.
+Education
+UniItalo Centro Universitário
+Análise e Desenvolvimento de Sistemas, 2012
+  Page 2
+Aline Alves Ferreira
+Front-end Developer
+Contact Aline Alves on LinkedIn
+          Page 3

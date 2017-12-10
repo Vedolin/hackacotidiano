@@ -1,0 +1,81 @@
+Diego Sueiro
+Engenheiro de plataforma Linux embutido
+Resumo
+* Engenheiro de Controle e Automação com 10 anos de experiência em desenvolvimento de software incorporado.
+* Trabalhando ativamente com microprocessadores de 8bits e 32bits usando linguagens assembly e C.
+* Experiência sólida em desenvolvimento de placa e desenvolvimento de driver de dispositivo Linux.
+* Fundo sólido no Linux incorporado criando plataformas baseadas em ARM: Buildroot, OpenWrt,
+ OpenEmbedded e projeto Yocto e desenvolvimento de driver de dispositivo Linux para uma ampla gama de tipos de dispositivos.
+* Habilidades de programação de software: Assembly, C, Shell Script, Python, CVS, SVN, GIT, Perforce, GDB, RTOS;
+* Experiência em desenvolvimento de sistemas embarcados com Microchip (PIC 16 / 18F), Freescale (HCS08, ColdFire
+ V1, DSP 56F, MCF5485, iMX53, iMX6), Texas (OMAP3530, AM3517, AM3359, OMAPL138),
+ Samsung (S3C2440) e Atheros (Ath7000).
+* Experiência com Kernel em tempo real do Linux (patch PREEMPT_RT).
+* Definição e design de requisitos da plataforma do sistema Linux incorporado.
+* Produtos / Projetos / Recursos escopo.
+* Trabalhando em um ambiente Agile Scrum.
+* Participou da Conferência Embedded Linux Europe 2016/2017.
+* Suporta e gerencia o Portal da Web "Embarcados.com.br", responsável pela difusão de
+ Tecnologias integradas no Brasil.
+Experiência
+Principal engenheiro de plataforma Linux embutido no Sepura plc
+Janeiro de 2016 - presente
+Desenvolvedor de Linux incorporado, responsável pelo carregador de inicialização, Kernel Real Time em tempo real (patch PREEMPT_RT),
+ Device Drivers e Embedded Linux Distribution, desenvolvimento, manutenção, integração e lançamento.
+Produtos / Projetos / Recursos escopo.
+Trabalhando em uma metodologia Agile Scrum e Integração Contínua.
+Principalmente trabalhando / desenvolvendo com o Projeto Yocto, consagram ferramentas de desenvolvimento e depuração do Linux, Perforce e
+ Teamcity.
+CEO da Embarcados
+2009 - Presente
+Planejamento e operação administrativo, estratégico, comercial, comercial e financeiro
+Autor de Conteúdo Técnico.
+Proprietário
+Janeiro de 2014 - dezembro de 2015 (2 anos)
+Página 2
+Fornecendo serviços de desenvolvimento de software e consultoria para sistemas baseados em Linux incorporados:
+* Gerenciamento de Projetos
+* Recolha e análise de dados exigidos
+* Desenvolvimento de pacotes de suporte de placa e kit de desenvolvimento de software
+* Desenvolvimento de Aplicações Incorporadas nas áreas de: Automóvel, Digital Signage, Telecom, Consumer
+ Eletrônica, Automação Industrial
+* Yocto Project Custom Linux Distributions Development
+Proprietário no Embedded Labworks
+Maio de 2013 - janeiro de 2014 (9 meses)
+Fornecer serviços de desenvolvimento de software, consultoria e treinamento em projetos de sistemas embarcados e
+ Sistemas embutidos baseados em Linux:
+* Gerenciamento de Projetos
+* Recolha e análise de dados exigidos
+* Desenvolvimento de pacotes de suporte de placa e kit de desenvolvimento de software
+* Desenvolvimento de Aplicações Incorporadas nas áreas de: Automóvel, Digital Signage, Telecom, Consumer
+ Eletrônica, Automação Industrial
+* Yocto Project Desenvolvimento de Distribuições Linux
+Engenheiro de sistemas embutidos no Padtec S / A
+Abril de 2011 - abril de 2013 (2 anos 1 mês)
+Drivers de dispositivos e desenvolvimento de camada de abstração de hardware para sistemas Linux incorporados rodando em
+ Alvos ARM e ColdFire.
+BSP, Linux Kernel e U-boot customizing maintainer.
+Co-design com equipe de hardware para especificação de plataformas, desenvolvimento e análise de requisitos de produtos.
+Engenheiro de P & D
+Setembro de 2009 - março de 2011 (1 ano 7 meses)
+Configuração de Bing e Bring para Linux embutido nas plataformas ARM e MIPS.
+Desenvolvimento de aplicativos de telecomunicações usando firewall, controle de largura de banda, proxy e conexão PPP (C e
+ Phyton).
+Participação na análise de requisitos do produto.
+Engenheiro de Firmware na PST
+Novembro de 2008 a setembro de 2009 (11 meses)
+Desenvolvimento de software embutido (montagem e C) no sensor de estacionamento e dispositivos de navegação pessoal
+ (com WinCE e Android) produtos.
+Co-design com equipe de hardware para especificação de plataformas, desenvolvimento e análise de requisitos de produtos.
+Engenheiro de Software da Motorola
+Março de 2008 - outubro de 2008 (8 meses)
+Página 3
+Reparar correções de software de mecanismo para novos celulares CDMA (C).
+Trabalhando em conjunto com equipes remotas da China e da Índia.
+Engenheiro de Firmware
+Setembro de 2007 - fevereiro de 2008 (6 meses)
+Aplicação e correção de bugs para dispositivos de rede Linux embutidos (C e Shell Scripts). Atualização de produtos para
+ Suporte IPv6.
+Educação
+Universidade Federal de Itajubá
+Nível de engenheiro, Controle, Automação, Eletrics, Eletronics, Software, Embedded, 2002 - 2006

@@ -1,0 +1,59 @@
+Osny Netto
+Desenvolvedor Front-End em Conpass
+Resumo
+Eu sou um desenvolvedor Front-end Senior e UX Designer com mais de 10 anos de experiência prática no trabalho, com foco em práticas de design web baseadas em padrões, modernas e responsivas usando HTML5, CSS3 e SASS. Experiência de pilha completa com Ruby on Rails, PHP.
+Ultimamente, tenho trabalhado principalmente como um desenvolvedor de pilha completa e melhorando minhas habilidades de JavaScript todos os dias usando frameworks / libs, como React e VueJS, para criar aplicativos web sustentáveis, elegantes e poderosos.
+Ao longo do caminho, trabalhei em projetos tão interessantes para pequenas e grandes empresas, como Coca-Cola, Avon, Sandvik Coromant, WEG. Eu também sou um antigo organizador da OlhóCON, uma conferência de marketing digital.
+# Conhecimento avançado de:
+HTML5, CSS (Sass, Compas), JavaScript, Design responsivo, desempenho da Web, Bootstrap, jQuery
+# Experiência com:
+Git, Node, Ruby on Rails, PHP, ReactJS, VueJS, Gulp / Grunt, Backbone.js, CMSs (Wordpress, Joomla), SQL,
+Linux
+# Áreas de experiência:
+Desenvolvimento de front-end, UI / UX Design, desenvolvimento de back-end, SEO
+______________________
+Encontre-me em:
+E-mail: netto@osny.me
+Website: http://www.osny.me
+Github: https://github.com/osnysantos Twitter: https://twitter.com/osnysantos Skype: osnysantos
+Experiência
+Desenvolvedor Front End em Conpass - Usuário Onboarding
+  Maio de 2017 - presente
+Página 1
+Senior Front-end Developer / UX Designer
+Junho de 2016 - presente
+Desenvolvedor Front-End e UI UX Designer no CIMM
+Outubro de 2012 - junho de 2016 (3 anos 9 meses)
+A maior parte do meu tempo foi dedicado ao principal produto, o site cimm.com.br. Trabalhei em vários projetos,
+fazendo o desenvolvimento e o back-end front-end (geralmente com Ruby on Rails).
+• Prototipagem de desenhos de alta qualidade
+• Trabalhou em SEO (principalmente na página)
+• Configurar o ambiente em nuvem para hospedar as aplicações
+• Automatizou o processo de implantação usando Capistrano
+• Desenvolver e manter aplicativos legados
+• Automatize o processo de desenvolvimento usando Vagrant • Crie documentações de aplicativos
+• Desenvolver sites usando o WordPress
+Eu trabalhei com: Design responsivo, Ruby on Rails, WordPress, Axure, UI / UX Design, Desenvolvimento Web, CSS3, HTML5, JavaScript, Jquery, Bootstrap, Cloud, Vagrant, Capistrano, Git, SEO, SASS, Compass
+Desenvolvedor Front-End e UI UX Designer no Filmow
+Julho 2013 - março 2014 (9 meses)
+• Melhorar a experiência do usuário em algumas seções do site
+• Desenvolveu os estilos front-end usando SASS
+• Colaborou com outros membros da equipe usando ferramentas como: Mercurial, Jira, Bitbucket
+Web Designer & Developer no Instituto Stela
+Janeiro de 2012 - setembro de 2012 (9 meses)
+• Desenvolvimento de sites com Wordpress, Joomla e Liferay.
+Web Designer & Developer em Jimmy
+Junho de 2005 - janeiro de 2010 (4 anos 8 meses)
+• Design de interface do usuário e desenvolvimento de front-end.
+• Desenvolvimento de sites com Wordpress e Joomla. • Desenvolveu aplicativos da web usando Ruby on Rails e PHP.
+Web Designer & Developer na FabriCO
+Dezembro de 2007 - julho de 2008 (8 meses)
+• Desenvolver e criar temas para o sistema LMS (Moodle) • Desenvolver e projetar o site da empresa
+ Página 2
+Educação
+Universidade do Vale do Itajaí
+Graduação, Design Gráfico, 2010 - 2013
+ Página 3
+Osny Netto
+Desenvolvedor Front-End em Conpass
+Entre em contato com Osny no LinkedIn

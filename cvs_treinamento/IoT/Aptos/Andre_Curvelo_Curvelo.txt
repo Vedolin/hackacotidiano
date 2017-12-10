@@ -1,0 +1,78 @@
+André Curvello
+Professor e Engenheiro de Sistemas Embarcados
+Summary
+André Márcio de Lima Curvello é Engenheiro de Computação graduado pela Universidade de São Paulo,
+ campus São Carlos, com ênfase em Sistemas Embarcados.
+Possui MBA em Gestão de Tecnologia da Informação pela Universidade de Franca, e é Mestre em
+ Processamento de Sinais e Instrumentação pela Escola de Engenharia de São Carlos, USP.
+Atualmente é Analista de Tecnologia Sr. para Sistemas Embarcados na PadTec S/A, empresa líder no segmento
+ de telecomunicações com redes óticas na américa latina.
+Atuou como docente na UNIFRAN nos cursos de Ciência da Computação, Sistemas de Informação, Engenharia
+ Mecatrônica e Mecatrônica Industrial, onde ministrou cursos tais como Robótica, Lógica Digital, Sistemas
+ Digitais, Sistemas Distribuídos, Processamento Digital de Sinais, Eletrônica de Aquisição e Processamento,
+ Microcontroladores, Programação Orientada a Objetos, dentre outras.
+Também ministra cursos de pós-graduação, extensão e in-company nas áreas de desenvolvimento móvel
+ com Android e Java para Web; Sistemas Embarcados com FPGA, 8051, PIC e ARM, como também Linux
+ Embarcado em sistemas com processadores ARM.
+Realiza projetos e consultorias com foco no desenvolvimento de sistemas embarcados para internet das coisas,
+ como aplicações em automação de sistemas, domótica, robótica e visão computacional.
+Ministra palestras, e é articulista do Portal Embarcados.com.br e do Blog FilipeFlop.
+Experience
+Analista de Tecnologia Sênior para Sistemas Embarcados at Padtec S/A
+agosto de 2017 - Present
+Trabalho voltado ao desenvolvimento de sistemas embarcados para redes de comunicação com fibra ótica.
+Professor de Pós-Graduação at UNISAL - Centro Universitário Salesiano de São Paulo
+outubro de 2016 - Present
+Atividade de docência no curso de Pós-Graduação em Sistemas Embarcados da UNISAL de Campinas, com
+ foco em disciplinas de FPGA, Microcontroladores e Linux Embarcado.
+Articulista at Embarcados
+Page 2
+junho de 2014 - Present
+Portal Embarcados - Reúne artigos, tutoriais, notícias e demais informações acerca da área de Embarcados
+ no Brasil. Neste portal eu atuo como articulista, escrevendo tópicos acerca de Internet das Coisas, Linux
+ Embarcado, sistemas embarcados baremetal, dentre outros. Também apresento tutoriais, projetos, novidades,
+ etc, na forma de artigos apresentados no portal.
+Articulista at FILIPEFLOP
+setembro de 2016 - Present
+Trabalho como colaborador na escrita de artigos, tutoriais e demais publicações de produtos voltados a
+ Sistemas Embarcados, tais como placas, kits didáticos, sensores, etc.
+CEO
+janeiro de 2016 - Present
+Startup voltada ao desenvolvimento de soluções de Linux Embarcado e Internet das Coisas.
+Analista de Tecnologia Pleno para Sistemas Embarcados at Padtec S/A
+julho de 2016 - agosto de 2017 (1 ano 2 meses)
+Trabalho voltado ao desenvolvimento de sistemas embarcados para redes de comunicação com fibra ótica.
+Professor de Cursos EAD
+janeiro de 2016 - agosto de 2016 (8 meses)
+Trabalho na empresa TECHTraining como professor em curso de Ensino a Distância (EAD) com foco em
+ Linux Embarcado aplicado à Raspberry Pi..
+Professor Universitário at Universidade de Franca
+fevereiro de 2013 - junho de 2016 (3 anos 5 meses)
+Professor universitário na UNIFRAN - Universidade de Franca. Ministro aulas de disciplinas tais como
+ Microcontroladores, Robótica Microprocessada, Eletrônica, Lógica e Circuitos Digitais, dentre outras, nos
+ cursos de Ciências da Computação, Engenharia Mecatrônica e em Mecatrônica Industrial.
+Estagiário at Siena Idea
+maio de 2011 - janeiro de 2013 (1 ano 9 meses)
+Estágio realizado na Siena Idea, uma start-up de TI localizada na cidade de São Carlos – SP.
+Os trabalhos realizados são focados no desenvolvimento de produtos inovadores nas áreas de Inteligência de
+ Negócios, Big Data, Social, Mobile, e Computação em Nuvem com JavaEE.
+Analista de Responsabilidade Social at EESC jr.
+fevereiro de 2011 - dezembro de 2011 (11 meses)
+Trabalho realizado na empresa júnior da Escola de Engenharia da Universidade de São Paulo, atuando no
+ Grupo de Responsabilidade Social e Empresarial, visando elaborar atividades de análise de indicadores
+ de responsabilidade social, elaboração de eventos e atividades sociais, desenvolvimento de atividades de
+ treinamento de ética e aperfeiçoamento de pessoal.
+Page 3
+Education
+Universidade de São Paulo
+Mestre, Processamento de Sinais e Instrumentação, 2013 - 2016
+Universidade de Franca
+MBA em Gestão Estratégica de TI, Administração e Gerenciamento de Computação/Tecnologia da
+ Informação, 2013 - 2014
+Universidade de São Paulo
+Engenheiro de Computação, Computer Engineering, 2008 - 2012
+Activities and Societies: Professor de Informática no grupo Inclusão.com do ICMC, e analista no grupo de
+ Responsabilidade Social e Empresarial da EESC Jr.
+Honors and Awards
+Professor Homenageado, Professor Homenageado, Professor Nome de Turma, Menção Honrosa, Professor
+ Patrono, Professor Paraninfo

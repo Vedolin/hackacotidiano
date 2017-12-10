@@ -1,0 +1,50 @@
+Priscila Apolinário
+front end developer
+Summary
+N/A
+Experience
+Front End Developer at AMPFY
+November 2015 - March 2017 (1 year 5 months)
+Responsável pelo desenvolvimento front end da Mitsubishi Motors Brasil.
+- Criação de landing-pages responsivas de campanhas:
+Envolvida em todos os processos front end (html, css e javascript).
+- Manutenções no portal utilizando plataforma WebSphere IBM.
+- Peças de e-mail mkt;
+Desenvolvedora Front End
+October 2013 - August 2015 (1 year 11 months)
+Funções:
+- Desenvolvimento junto da equipe de TI de ferramentas para web, landing pages e manutenções no site
+corporativo.
+Ferramentas:
+- Concrete5 (PHP)
+- Smarty (PHP)
+- GIT
+- HTML, CSS (less/sass) - Javascript/Jquery
+- Freemarker
+Conhecimento:
+- Metodologias Ágeis (Scrum/Kanban).
+Desenvolvedora Web at Nuovo design
+August 2012 - May 2013 (10 months) Funções:
+  Page 1
+- Estruturação de websites em html5(tableless/css/javascript).
+- Criação de CMS, blog e e-commerce utilizando plataforma wordpress (php+MySql) - Treinamento de clientes e equipes para o sistema de gerenciamento de conteúdo.
+Ferramentas:
+- HTML, CSS
+- Javascript/Jquery - Wordpress
+- Google Analytics
+Estagiária Front End at Líbero+ Web Marketing
+July 2009 - December 2011 (2 years 6 months)
+Funções:
+- Estruturação de websites em html (tableless/css/javascript).
+- Envio e validação de formulários nas linguagens php e asp.
+- Otimização básica (instalação e manutenção de google analytics, inserção de titles, sitemaps e descripitions).
+- Manutenção de conteúdos em plataformas wordpress e joomla.
+- Atendimento ao cliente (presencial, e-mail e telefone)
+Ferramentas:
+- HTML, CSS
+- Javascript/Jquery
+ Page 2
+Priscila Apolinário
+front end developer
+Contact Priscila on LinkedIn
+          Page 3

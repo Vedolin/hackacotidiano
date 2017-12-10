@@ -1,0 +1,87 @@
+Thiago Lima
+CMO - Diretor de Marketing da Embarcados | IoT - Internet das coisas | Sistemas embutidos | Hardware |
+Desenvolvimento de negócios
+thiagolima@gmail.com
+Resumo
+Eu completei o meu Bacharel em ENGENHARIA ELÉTICA em 2002 pela USP - Universidade de
+ São Paulo e Mestrado em Engenharia Elétrica, Área de Sistemas Digitais em RIT- Rochester, NY, EUA.
+Experimentar o mundo das startups nos EUA foi fantástico. Eu fundou uma startup de tecnologia chamada Una, sendo
+ acelerado e incubado por um programa Startups especial no RIT. No final, recebemos um prêmio de melhor
+ inicialização no programa.
+Hoje eu lanço o site mais visualizado sobre EMBEDDED SYSTEMS, IoT (INTERNET OF THINGS) e
+ Desenvolvimento de Hardware na América Latina. Eu trabalho especialmente com MARKETING e vendas aplicando moderno
+ técnicas todos os dias em Embarcados.
+Experiência
+Diretor de Marketing em Embarcados
+Setembro de 2013 - presente
+Portal Embarcados é um site brasileiro que apresenta notícias e artigos técnicos sobre o conteúdo incorporado.
+ mundo de sistemas para engenheiros portugueses nativos, estudantes e técnicos. Alcançamos as visualizações de página 250k por
+ mês e mais de 100k visitas. Publicamos todos os dias os seguintes temas:
+Projetos de sistemas embutidos
+Eletrônica: Teoria e Prática
+Revisões de Hardware
+Detalhe análise técnica de ICs
+IoT: Internet das coisas
+Fabricantes e eletrônicos básicos
+Linux embutido
+Robótica, AI, mecatrônica
+Inovação e empreendedorismo para startups de hardware
+História da eletrônica
+Notícia
+Mostra, Workshops e Fóruns
+Página 2
+Embarcados também executa um canal de vídeo no Youtube, um fórum na web, com perguntas e respostas e Concursos
+ que promovem as melhores ideias através do uso de placas eletrônicas.
+Mentor de Negócios em Baita
+Agosto de 2016 - presente
+Eu trabalho em Baita especialmente em tecnologia e orientação de mercado digital para todas as startups sendo aceleradas em
+ Baitta.
+Fundador e COO da UNA Smart
+Janeiro 2015 - outubro 2015 (10 meses)
+Startup criado em Nova York. A UNA como empresa, tem a missão de desenvolver produtos tecnológicos
+ Isso pode mudar a forma como as pessoas experimentam atividades simples em sua rotina diária, como beber uma xícara de
+ café.
+Engenheiro eletrônico de P & D da Gertec
+Setembro de 2010 - agosto de 2014 (4 anos)
+Área: Pesquisa e Desenvolvimento - Hardware e Software para sistemas embutidos
+Equipe de desenvolvimento da Gertec Projeta e desenvolve produtos eletrônicos, incluindo bateria móvel
+ sistemas, verificador de preços (principalmente para supermercados e grandes lojas), atendimento no tempo e sistemas de segurança (POS,
+ Teclados PINPAD e Crypto).
+Minhas principais responsabilidades incluem:
+Projeto de hardware e modificações -> Testes Esquemáticos, Layout, Debbuging e produção - incluindo EMC
+ e testes de compatibilidade EMI para cumprir os padrões das agências nacionais (ANATEL).
+Programação de Firmware -> Design, desenvolvimento, integração, depuração, manutenção, revisões de código,
+ validação e verificação de firmware embutido em C, C ++ e Assembly.
+- Experimente o desenvolvimento e a depuração de drivers de dispositivos para Círculos ARM (C e C ++)
+- Sistemas operacionais em tempo real para aplicativos de microcontroladores
+- Familiarizado com os softwares do Version Control (CVS e SVN)
+- Documentação de software.
+Suporte ao produto-> Desenvolve e fornece relatórios oportunos e precisos, como planilhas, clientes
+ apresentações técnicas e documentos internos para efetivamente vender os novos produtos / sistemas eletrônicos.
+Engenheiro eletrônico de P & D da Philips Healthcare
+2007 - 2010 (4 anos)
+Participação no projeto Tomografia de Impedância elétrica como engenheiro de hardware.
+Página 3
+Projeto de hardware de fornecimento de energia médica e design de circuitos analógicos, layout, protótipo e testes, incluindo EMC
+ e compatibilidade EMI para cumprir os padrões de segurança médica (IEC 60601-1).
+Participação na análise de risco, documentação do FMEA e CE.
+Engenheiro Eletrônico de Pesquisa e Desenvolvimento da AUTEQ Telemática S.A.
+2006 - 2007 (2 anos)
+Trabalhando como engenheiro de software embutido, concebido, projetado, implementado e documentado complexo
+ sistemas de firmware para computadores de máquinas pesadas e agrícolas.
+C Linguagem de programação para microcontroladores Atmel AVR, NXP LPC2000 e Microchip PIC, principalmente.
+ Veículos Monitoramento GPS e interface de comunicação incluindo Bluetooth e Wi-Fi (modems embutidos
+ protocolo), CAN e GPRS. Programação Windows CE para Pocket PC para interface de usuário usando C ++. Marvell
+ Controladores de dispositivo PXA270 no Windows CE usando linguagem C. Interface do cliente e redesenho do produto.
+Suporte ao produto, que inclui viagens de trabalho para verificar, modificar, testar e atualizar o firmware no cliente.
+Engenheiro do Grupo Enalta
+2002 - 2005 (4 anos)
+Trabalhou como Software Integrado / Hardware Engineer.
+Os membros da equipe da Enalta trabalharam especialmente em registradores de dados eletrônicos para sistemas agrícolas e controle e
+ Computadores de bordo para máquinas de máquinas.
+Minhas principais responsabilidades incluíram:
+Desenvolvimento de especificações para novos sistemas eletrônicos
+Layout de PCBs analógicos e digitais.
+Montagem, teste e depuração de protótipos e sistemas prontos para produzir
+Participando na concepção, desenvolvimento, implementação e manutenção de aplicações de software complexas
+Participação

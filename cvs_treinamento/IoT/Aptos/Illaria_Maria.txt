@@ -1,0 +1,39 @@
+ENGENHEIRO DE COMPUTAÇÃO
+Dados Pessoais
+23 anos, Masculino
+
+
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Engenheiro de computação
+
+Salário
+Mínimo aceitavel: R$ 1.200,00
+
+Resumo do currículo
+Busco oportunidade de demonstrar meu potencial em áreas de atuação de Engenharia da Computação ou áreas afins relacionadas a automação, engenharia, Inteligência artificial, programação e internet das coisas.
+
+Escolaridade
+FAINOR
+Engenharia da Computação - Superior completo
+
+02/2012 - 12/2016
+
+Cursos importantes
+Java Essential
+4java Cursos, 1 Ano - 07/2016
+
+Experiências profissionais
+Desenvolvedor Arduino
+Somente para Assinantes, Engenharia
+
+Salário final: R$ 800,00 ( 06/2016 - 12/2016)
+
+
+? Criação de uma plataforma capaz de capturar o peso e altura do indivíduo e, após a coleta dos dados, calcular o IMC (índice de massa corporal), exibir a situação do indivíduo quanto ao peso (abaixo, normal, ou acima do peso ideal), além do peso que o usuário deve alcançar.
+
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Pic Arduino Eagle Protheus Eletrônica Sistemas Embarcados Iot Git Javafx Sql C++ Java

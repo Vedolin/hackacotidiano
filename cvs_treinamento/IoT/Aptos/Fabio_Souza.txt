@@ -1,0 +1,56 @@
+Fabio Souza
+COO Embarcados | Sistemas Embarcados | Hardware
+Summary
+Engenheiro, com experiência no desenvolvimento de projetos eletrônicos embarcados. Trabalhou com ensino
+ técnico de eletrônica e programação. Hoje é Diretor de operações do Embarcados, onde trabalha para levar
+ conhecimento de eletrônica e sistemas embarcados para o Brasil.
+Entusiastas do movimento maker, DIY e do compartilhamento de conhecimento, publica diversos artigos e
+ cursos sobre eletrônica e sistemas Embarcados, além de projetos open hardware. Realiza palestras e workshops
+ onde leva conhecimento para as pessoas de forma presencial.
+Experience
+Diretor de operações at Embarcados
+outubro de 2013 - Present
+Responsável por artigos técnicos, reviews de placas, treinamentos, palestras e eventos.
+Engenheiro de desenvolvimento de Sistemas Embarcados
+janeiro de 2014 - agosto de 2016 (2 anos 8 meses)
+Desenvolvimento de projetos eletrônicos embarcados:
+-Microcontroladores 8 bits Microchip PIC12, PIC16,PIC18, Atmel AVR;
+-Microcontroladores ARM Cortex - Freescale, ST;
+-Firmware: linguagem C/C++, assembly;
+-Hardware: esquemas eletrônicos, layout de PCI;
+-Interface para aquisição e manipulação de dados por Computador;
+Programação:C, C++, C#, Python
+-Desenvolvimento de jig de teste.
+-treinamentos: linguagem C, microcontroladores PIC, Atmel, Freescale Kinetis, Arduino e Eletrônica
+Engenheiro de desenvolvimento at Sascar
+agosto de 2014 - abril de 2015 (9 meses)
+Desenvolvimento de Firmware e hardware para soluções na área de rastreadores de cargas e veículos.
+ Projetos utilizando microcontroladores de 8 bits para interface com modem GPRS e GPS.
+Instrutor de formação profissional III at SENAI SP
+setembro de 2013 - agosto de 2014 (1 ano)
+Instrutor no curso técnico de Eletroeletrônica
+Professor at SENAI SP
+Page 2
+fevereiro de 2013 - setembro de 2013 (8 meses)
+Professor de formação continuada na área de eletroeletrônica.
+Técnico em Eletrônica pleno
+janeiro de 2009 - dezembro de 2012 (4 anos)
+Desenvolvimento de Software e Hardware para equipamentos eletroeletrônicos para a área de automação
+ industrial, como por exemplo:
+- controladores de temperatura (PID);
+- temporizadores;
+- controladores de rotação e posição;
+- automação de processos;
+- desenvolvimento de soluções customizadas.
+Education
+Faculdade de Engenharia de Sorocaba
+Engenheiro Eletricista, Engenharia Elétrica, 2008 - 2012
+Activities and Societies: Iniciação Científica
+Centro Universitário Salesiano de São Paulo
+Pós graduação em Eletrônica Embarcada, Engenharia Elétrica e Eletrônica, 2015 - 2017
+SENAI
+Técnico em Eletroeletrônica, Industrial Electronics Technology/Technician, 2005 - 2007
+Activities and Societies: Inova SENAI
+Honors and Awards
+Prêmio Crea-SP de Formação Profissional, Honra ao Mérito - Melhor aluno da XXXII turma de Engenharia
+ Elétrica

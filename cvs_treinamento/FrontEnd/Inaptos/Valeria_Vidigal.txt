@@ -1,0 +1,115 @@
+GERENTE DE ARQUITETURA
+Dados Pessoais
+58 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Gerente de arquitetura
+Gerente de informática
+Gerente de desenvolvimento sistemas
+Salário
+Mínimo aceitavel: R$ 14.000,00
+Pretendido: R$ 15.000,00
+Resumo do currículo
+. Gestão da área de BI, conjugando soluções com a ferramenta de Georreferenciamento, ferramentas OLAP(Tableau, e MicroStrategy) e SAS. Implantação de estruturas para a monetização de informação (Big Data);
+
+. Sólidos conhecimentos em Arquitetura de Dados com definição de padrões e governança para estruturas relacionais e multidimensionais, contemplando todo o ciclo de vida de informações;
+
+. Gestão da área de Arquitetura de TI, considerando três dos pilares TOGAF: Aplicação, Tecnologia e Dados, com o estabelecimento da Governança;
+
+. Experiência na implantação da área de Arquitetura de Integração, utilizando os conceitos e princípios de Arquitetura SOA, estabelecendo o barramento (OSB) e barramento Batch ETL para integrar sistemas legados e ERP(SAP);
+
+. Experiência em Gestão de Projetos desde análise de viabilidade, gestão da demanda, estabelecimento de cronograma e execução com aplicação prática de metodologia PMBOK-PMI, SCRUM;
+
+. Liderança de equipes próprias, terceirizadas e multidisciplinares com até 40 profissionais. Vivência em contratação e organização de equipes e formação de sucessores;
+
+. Vivência consolidada em Desenvolvimento de Sistemas, com implantação de diversos tipos de Sistemas integrados em alta e baixa plataforma;
+
+. ++ 27 anos de experiência em TI em empresas nacionais e multinacionais, últimos 18 anos em Gestão de TI;
+
+. Formada em Matemática (Mackenzie) e Pós-Graduada em Tecnologia da Informação (Poli – USP).
+Escolaridade
+POLI - USP
+Engenharia da Computação - Pós-graduação completa - Tecnologia da Informação
+09/2006 - 02/2008
+Cursos importantes
+FIA
+Big Data/hadoop, 44 Horas - 12/2016
+MODELO PM
+Design Thinking, 08 Horas - 12/2016
+Fundação Getulio Vargas
+Gestão de Projetos Pmbok/pmi, 2 Meses - 09/2011
+Cielo S/A (curso in company)
+Gestão de Qualidade Lean Six Sigma, 320 Horas - 08/2014
+Wisnet (in company no Unibanco)
+Gestão de Pessoas, 160 Horas em 04 Módulos - 12/2006
+Experiências profissionais
+Gerente de Arquitetura de Dados e BI
+Somente para Assinantes, Financeiras
+Salário final: R$ 20.000,00 ( 03/2015 - 06/2016)
+
+. Revisei a estrutura organizacional, criando uma coordenadoria exclusiva para as demandas de DBM e duas outras para atender BI. Revi horários e escalas de trabalho e conjuguei com modificações estruturais da malha de extração de dados, corrigi causa raiz de 68% dos incidentes, o que resultou na extinção total de horas extras e desativação de celular de plantão da equipe, e triplicando a quantidade de entregas mensais. . Acompanhei a implantação da nova plataforma para o BI, o EXADATA, com expressivos resultados no processamento da malha “batch” o que permitiu a disponibilização dos dados para consumo on-line com apenas um dia de defasagem (D-1) e liberado, de forma contumaz às 09:00 horas, substituindo o que antes era entregue com 2 dias de defasagem (D-2), entre 12:00 e 14:00 horas; . Implantei processos de extração (ETL) e ferramenta específica (ÚNICA/IBM) para atender a área de Data Base Marketing, integrando com os canais URA e CRM; . Diversifique a forma de disponibilizar os dados, mantendo a ferramenta OLAP – MicroStrategy, criando novos “Dashboards” em Tableau e também disponibilizando o Tableau para clientes do tipo “power users”, institucionalizando a prática de “Self Service BI”; . Implantei a ferramenta de Georreferenciamento (ARCGIS – ESRI) e além de georreferenciar toda a base de clientes da empresa, correlacionei com outras informações georrefenciadas, o que permitiu estabelecer um novo patamar de qualidade ao atendimento da área de logística;
+Gerente de Arquitetura Corporativa
+Somente para Assinantes, Financeiras
+Salário final: R$ 18.200,00 ( 05/2013 - 03/2015)
+
+. Redesenhei os processos e os entregáveis da Arquitetura, implantando as células: Aplicação, Dados e Integração, instaurando uma Gestão Integrada entre Arquitetura & Desenvolvimento de Sistemas, o que propiciou a redução dos cronogramas dos projetos em TI com ganhos de comunicação e sinergia operacional; . Criei a vertical de Arquitetura de Integração, fundamentada nos conceitos e princípios SOA, estabeleci uma robusta governança para registrar e controlar os serviços e implantei o barramento de serviços online. Estabeleci parceria com fábricas de software o que acelerou a produção dos serviços e a consequente prática do reuso, proporcionando a redução de tempo e custos no desenvolvimento de sistemas que faziam uso dos serviços já implantados; . Modifiquei a atuação da Arquitetura de Dados, promovendo a engenharia reversa de todas estruturas dos dados existentes na empresa. Adquiri ferramenta “case” para criar e documentar os modelos lógicos, físicos e respectivos metadados. Contratei e reenquadrei a equipe técnica para suprir lacunas e deficiências nos processos, implantando a prática de análise preditiva de desempenho dos acessos aos bancos de dados, assegurando a integridade de todas as informações, tanto no processo de criação, como no de manutenção aos dados registrados nos bancos relacionais; . Implantei melhorias no módulo orçamentário, o que agilizou o início e a conclusão dos projetos, com destaque à Implantação de “Building Blocks” (Arquitetura de Referências).
+Gerente de arquitetura
+Somente para Assinantes, Financeiras
+Salário final: R$ 15.000,00 ( 09/2011 - 04/2013)
+
+. Defini “framework” de arquitetura funcional, categorizei os sistemas existentes e os plotei em domínios e subdomínios funcionais. Este framework tornou-se o ferramental de apoio a todas as áreas internas da empresa, tanto para assegurar a funcionalidade dos sistemas existentes, como para a criação de novos sistemas, estabelecendo transparência do “AS IS” e do “TO BE”; . Implantei controles para administrar obsolescência de ativos de TI, segundo princípios de ITIL, atuando em conjunto com as áreas de infraestrutura e desenvolvimento de sistemas, estabeleci planos de ação e indicadores para acompanhar as realizações e evoluções dos “upgrades” pertinentes; . Redesenhei a arquitetura funcional/sistêmica dos POS para reduzir o tempo transacional entre os pontos de venda e a REDE e ampliar a malha de serviços não financeiros; . Participei do projeto do Novo BI, em conjunto com a equipe de sistemas responsável, com o objetivo de gerar maior segurança e disponibilidade das informações e melhor munindo a alta gestão no processo de tomada de decisão. . Implantei novos processos de atendimento aos clientes internos de TI e defini novos entregáveis tanto para a Arquitetura de Aplicação, como para a Arquitetura de Dados, elevando o grau de confiabilidade na área e extinguindo pareceres técnicos de arquitetura registrados em e-mails, buscando ampliar o suporte aos desenvolvedores de sistemas e estabelecer maior robustez às atividades desempenhadas pelos arquitetos especialistas;
+Gerente de arquitetura
+Somente para Assinantes, Financeiras
+Salário final: R$ 15.000,00 ( 01/2009 - 05/2011)
+
+Gerente de Arquitetura de Dados e Informação (pós fusão com Itaú) . Desliguei empresa terceira que mantinha 13 profissionais internalizados há 3 anos na área e que foi contratada para auxiliar a estruturação da Arquitetura de Dados do Itaú, contudo constatei que, até aquele momento, não existiam resultados tangíveis, desta forma fundi as equipes de dados do Unibanco e Itaú e passamos a trabalhar como uma única equipe; . Redefini a abrangência e funcionalidades da área, remodelei processos e passei a garantir que os sistemas tivessem seus modelos de dados lógicos e físicos definidos antes de serem encaminhados às fábricas de programação; . Estabeleci um novo patamar de credibilidade da TI do banco para com a Área de Arquitetura de Dados, modificando os processos, criando padrões e contratei empresa parceira para ministrar treinamento aos desenvolvedores de sistemas divulgando os novos processos, padrões e até mesmo instruindo-os para construírem sistemas com as técnicas de modelagem adotadas pelo mercado de TI que atua com bancos de dados relacionais. Ao final de 14 meses de atuação, pude apurar 300 novos sistemas padronizados, com modelos de dados e respectivos metadados documentados em ferramenta case que customizei para otimizar os processos de criação e validação dos modelos de dados; . Participei da definição da nova plataforma de BI, bem como do projeto de conversão das diversas plataformas de BI, para a nova.
+Gerente de arquitetura
+Somente para Assinantes, Financeiras
+Salário final: R$ 14.000,00 ( 12/2002 - 12/2008)
+
+. Atuei como gerente responsável para a criação da Arquitetura de TI do Unibanco, formei uma equipe com 8 integrantes, estabeleci padrões e diretrizes de arquitetura, construí arquiteturas de referência, defini “framework” funcional para os 1.200 sistemas existentes e estabeleci a Arquitetura “ to be”; . Redefini os processos de atendimento da Arquitetura de Dados, fiz “upgrade” da versão da ferramenta case que estava obsoleta e atualizei os processos e a ferramenta que garantiam o bom desempenho das aplicações, alarmando quando da existência de comandos que coibiam a boa performance em bancos de dados relacionais (Db2 e Oracle); . Participei de cursos de Lean/SixSigma e atuei em conjunto com “black belt”, sendo a gerente precursora que implantou 2 Projetos Lean/SixSigma em TI durante o mesmo ano, o que me conduziu a condecoração do título de “Yellow Belt”; . Estabeleci parceria com a área que analisava o desempenho dos bancos de dados e com a equipe de “capacity”, realizava um trabalho de análise com 13 DBA´s de desenvolvimento sob a minha gestão para garantir o nível de qualidade transacional aos clientes do Unibanco, o que também possibilitou evitarmos compras de “mips” por 2 anos consecutivos; . Implantei Comitê de Arquitetura de TI que contava com participação de CIO e Diretores de TI, a fim de demonstrar o encaminhamento das soluções técnicas dos projetos, buscar aprovação de compras de novas tecnologias e estabelecer novas diretrizes arquiteturais;
+Consultor de sistemas
+Somente para Assinantes, Financeiras
+Salário final: R$ 20.000,00 ( 06/2000 - 07/2002)
+
+Atuação como Pessoa Jurídica . Atuei como gerente de negócios e projetos definindo requisitos e construindo especificações funcional e técnica para implantação do novo Front-End de sistema WEB de Crédito Direto ao Consumidor; . Fui a agente responsável pela definição de requisitos, especificação e homologação de Sistema de Conciliação de Ativos entre empresa de recolhimento físico de ativos (PROTEGE) e registro lógico de cheques pré-datados que garantiam operações de Crédito Direto ao Consumidor (CDC) efetuadas nos “dealers” – clientes da Financeira Alfa; . Fui gestora responsável pela sustentação de sistema de Crédito Direto ao Consumidor com liquidação financeira em cheques pré-datados, ou carnês e com pagamento aos lojistas através de Cessão de Crédito; . Criei plataforma EAD (“e-learning”) para promover treinamento de qualidade aos operadores e analistas de crédito que operavam o sistema de concessão de crédito por todo o território nacional.
+Gerente de desenvolvimento sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 15.000,00 ( 06/1996 - 05/2000)
+
+. Concebi, em conjunto com outros 3 sócios, a Usanet, empresa de prestação de serviços a bancos e financeiras, na época em que o Brasil renascia com uma moeda forte, o Real, e o crédito estava aquecido, fazendo a classe média “C” emergir, aumentando a procura por crédito; . Gerenciei a equipe de desenvolvimento de produtos/sistemas (CDC, Crédito Pessoal e Leasing) para atender instituições financeiras como: Bradesco, Fininvest, Banco Real, GE Capital, Banco Volkswagen e Financeira Alfa; . Atuei como gestora responsável, contratando e treinando os operadores do sistema da Usanet que atuavam em todo território nacional, alocados nos pontos de venda credenciados aos Bancos e Financeiras clientes da Usanet.
+Gerente de informática
+Somente para Assinantes, Financeiras
+Salário final: R$ 12.000,00 ( 11/1994 - 06/1996)
+
+. Atuei como gerente das equipes de Desenvolvimento de Sistemas e de Infraestrutura, conduzindo a mudança de plataforma e migração dos sistemas para disponibilizar o produto de Crédito Direto ao Consumidor, Leasing e Custódia de Cheques para diversos clientes lojistas da financeira;
+Consultor de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.000,00 ( 03/1992 - 10/1994)
+
+. Gerente de equipe responsável por implementar os primeiros serviços para o Unibanco 30 Horas (pagamentos de contas, doc´s e transferências), integrando com os sistemas legado do banco e solidificando o pioneirismo do produto 30 Horas; . Gerente de equipes, responsáveis pela implementação de diversos sistemas no Banco Sudameris: Unificação de Extrato, Sistema de Empréstimos; Home Banking e Suprimentos;
+Consultor de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.000,00 ( 11/1990 - 01/1992)
+
+Atuação como Coordenadora de Sistemas . Coordenei equipe de desenvolvimento de sistemas para a implementação dos sistemas de: Câmbio Flutuante, Fundo de Aplicações (FAF), Câmbio Comercial no Deutsche Bank; . Atuei como consultora responsável pela definição funcional do Sistema de Arrecadação de Tributos e Convênios na Caixa Econômica Federal.
+Consultor de sistemas
+Somente para Assinantes, Financeiras
+Salário final: R$ 10.000,00 ( 08/1989 - 10/1990)
+
+Atuação de Coordenadora de equipe de sistemas . Coordenei o desenvolvimento e implantação dos seguintes sistemas: Cadastro Único de Clientes, Informações Gerenciais, Contas Correntes, Cobrança e Contabilidade; . Meu primeiro cargo de gestão, sendo coordenadora responsável por uma equipe com 10 analistas/programadores.
+Analista de desenvolvimento sistemas
+Somente para Assinantes, Financeiras
+Salário final: R$ 10.000,00 ( 08/1985 - 07/1989)
+
+Analista de Sistemas Sênior	. Responsável pelo desenvolvimento e Implementação do conceito on-line/Real Time no Banco, implantando diversas novas funções sobre os sistemas de Contas Corrente e Cobrança; . Avaliação junto a IBM de Banco de Dados DB2 e de linguagem de 4.a geração - CSP para futura implantação no banco; . Desenvolvi e implantei os sistemas de Risco/Reciprocidade/Rentabilidade, contemplando todos os produtos do banco, inclusive câmbio, elevei o grau de segurança do banco para a concessão de crédito, disponibilizando o posicionamento íntegro e assertivo de cada um dos clientes, com o diferencial para as análises de Pessoas Jurídicas, que demonstravam os Riscos Cruzados conforme a composição societária das empresas em questão.
+Analista de desenvolvimento sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.000,00 ( 06/1978 - 07/1985)
+
+Analista de Sistemas Pleno Programadora (Cics/Cobol, Natural/Adabas)
+Idiomas
+Inglês - Avançado
+Habilidades e qualificações
+Especificações Funcionais Especificações Técnicas Hadoop Arquitetura de Aplicação Big Data Business Intelligence Arquitetura Integração Arquitetura de Dados Gestao Desenvolvimento de Sistemas Gestão de Arquitetura de Ti Gestão em Bi Gestão de Pessoas

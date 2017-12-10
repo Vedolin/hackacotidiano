@@ -1,0 +1,107 @@
+ANALISTA DE SISTEMAS
+Dados Pessoais
+37 anos, Masculino
+
+
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de sistemas
+
+Analista de desenvolvimento sistemas
+
+Analista programador
+
+Salário
+Mínimo aceitavel: R$ 2.500,00
+
+Pretendido: R$ 4.000,00
+
+Resumo do currículo
+Profissional focado em Análise de Sistemas, com know-how de informações para desenvolvimento, aplicação e suporte, bem como Engenharia de software, linguagens e gerenciamento de projetos. Atuante há 8 anos no mercado. Domínio na área de desenvolvimento Front-end e Back-end
+
+Escolaridade
+Facamp
+Publicidade e Propaganda - Superior completo
+
+02/2003 - 12/2007
+
+Cursos importantes
+Treina Web
+Java Avançado, 4 Meses - 09/2015
+
+Treina web
+Mvc, 6 Meses - 10/2013
+
+People Brasil
+Web Developer, 24 Meses - 12/2011
+
+Experiências profissionais
+Analista Desenvolvedor Back-End PHP - PJ
+Somente para Assinantes, Publicidade/ Propaganda
+
+Salário final: R$ 4.500,00 ( 09/2015 - 01/2016)
+
+
+Arquitetura Back-end do projeto: Catálogo Online Mattel. Configuração de ambiente Linux para desenvolvimento do projeto, com utilização de Homestead Virtual Box para desenvolvimento local e Nginx para ambientes de homologação e produção. Desenvolvimento estrutural do projeto na plataforma Laravel. Estruturação de procedimento de uploads e downloads simultâneos no sistema de arquivos de grande porte como PSD, TIFF, PDF. Integração com Web Analitycs com gerenciamentos em gráficos de desempenho de sistemas em geral.
+
+Analista Desenvolvedor PHP
+Somente para Assinantes, Informática/ Tecnologia
+
+Salário final: R$ 5.000,00 ( 09/2014 - 09/2015)
+
+
+Consultoria e desenvolvimento de sistemas para todo departamento de CSC (Centro Serviço Compartilhado) da empresa Lojas Leader. Manutenção em sistemas gestão de desempenho. Integrações com softwares empresariais.
+
+Analista Desenvolvedor PHP
+Somente para Assinantes, Informática/ Tecnologia
+
+Salário final: R$ 3.500,00 ( 02/2014 - 09/2014)
+
+
+Desenvolvimento e configuração do Sistema Right Now (CRM) da Oracle. Criação de páginas Web com integração ao sistema usando PHP, JavaScript e Jquery. Criação e Configurações de processos customizados. Elaborações de relatórios gerenciais. Configurações de ambientes de atendimentos helpdesk.
+
+Analista Desenvolvedor PHP - PJ
+Somente para Assinantes, Informática/ Tecnologia
+
+Salário final: R$ 3.800,00 ( 11/2013 - 02/2014)
+
+
+Consultoria e desenvolvimento de sistema trabalhista para área jurídica no departamento de CSC (Centro Serviço Compartilhado) da empresa AMBEV de Jaguariúna/SP.
+
+Programador Back-End – PJ
+Somente para Assinantes, Informática/ Tecnologia
+
+Salário final: R$ 3.000,00 ( 06/2013 - 11/2013)
+
+
+Desenvolvimento de serviços PHP na construção da estrutura de banco de dados e programação Back-End para aplicativo mobile Curso de Bolso.- Integração do Aplicativo com servidores de telefonia móvel para realização de cobranças de crédito.
+
+Programador Web
+Somente para Assinantes, Publicidade/ Propaganda
+
+Salário final: R$ 2.500,00 ( 08/2012 - 06/2013)
+
+
+Desenvolvimento e criação de sites desenvolvidos em PHP, CSS, JAVASCRIPT, HTML (5). Gerenciamento dos mecanismos da ferramenta SEO. Desenvolvimento de aplicativos para sistemas móveis em C++ e C#. Responsável pela reformulação de sites em Flash para HTML (5).
+
+Coordenador WEB
+Somente para Assinantes, Publicidade/ Propaganda
+
+Salário final: R$ 3.000,00 ( 04/2011 - 08/2012)
+
+
+- Responsável pela criação e manutenção de sites desenvolvidos em PHP (5), CSS, JAVASCRIPT, JOOMLA, AJAX e .NET; - Desenvolvimento e manutenção de e-commerces; - Criação de aplicativos para sistemas móveis, desenvolvidos em C++ e C#; - Criação de emails marketing; - Gerenciamento dos mecanismos da ferramenta SEO; - Prospecção e assessoria ao cliente.
+
+Lider Departamento Web
+Somente para Assinantes, Estética/ Cosméticos
+
+Salário final: R$ 2.200,00 ( 12/2008 - 12/2010)
+
+
+- Responsável pela criação e gerenciamento de seis sites do Grupo Consulfarma, desenvolvidos em PHP (5), HTML, ASP e JAVASCRIPT; - Responsável pela criação e envio de emails marketing; - Gerenciamento do site de contato direto dos clientes com a empresa.
+
+Idiomas
+Espanhol - Fluente  Inglês - Avançado
+Habilidades e qualificações
+Php Java Javascript Css Laravel Mvc Codeigneiter Kohana Ajax Jquery Back-end Front-end Linux Nginx Homestead Bootstrap Crm Oracle Right Now Zend Powerpoint Windows Excel Redes Internet

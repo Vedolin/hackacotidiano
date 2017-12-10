@@ -1,0 +1,103 @@
+ANALISTA DE INFRAESTRUTURA
+Dados Pessoais
+33 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de Infraestrutura
+Analista de segurança de rede
+Analista de processos
+Salário
+Mínimo aceitavel: R$ 4.500,00
+Pretendido: R$ 5.500,00
+Resumo do currículo
+Carreira desenvolvida na área de Tecnologia da Informação, com 12 anos de experiência, sendo 4 anos atuando em cargo de Gestão de Infraestrutura e Projetos, com sólida experiência na análise e arquitetura de sistemas, gerenciamento e troubleshooting Windows Server, virtualização (Hyper V/VMware), domínio de ambiente cloud computing, administração de firewalls e de ferramentas de backups, antivírus e monitoramento de redes.
+
+Gerenciamento de projetos em todos seus estágios, acompanhamento e modelagem de processos e soluções voltadas à otimização de tarefas e redução de custos. Vivência em processos de governança, com amplas habilidades no gerenciamento de T.I e na estruturação de serviços, seguindo as metodologias de TI: ITIL, ISO 20000, COBIT e PMBOK.
+
+Habilidades na elaboração de relatórios gerenciais, desenvolvimento de planilhas e procedimentos, em ministrar treinamentos técnicos/operacionais e apresentações para equipes internas e externas. Conhecimento em análise de indicadores, orçamentos, controle de inventários, negociação com fornecedores, na gestão de contratos, SLA, gerenciamento de equipe e gestão de ambiente. 
+
+Elaboração e implementação de políticas, normas e procedimentos de contingências, visando a segurança aos níveis de dados, acessos, auditorias e continuidade dos serviços, avaliações de compliance, práticas do ISO/IEC 27000.
+Escolaridade
+Faculdade Anhanguera
+Computação/Informática - Superior completo - Graduação em Gestão de Tecnologia da Informação
+02/2013 - 06/2015
+Cursos importantes
+AXELOS
+Itil® Foundation Certificate In It Service Management, 1 - 08/2016
+EXIN
+It Service Management Foundation According To Iso/iec 20000, 1 - 08/2016
+EXIN
+Information Security Foundation Baseado Na Iso 27002 Foundation - Isfs, 1 - 09/2016
+EXIN
+Clous Computing Foundation Certificate (cloudf), 1 - 10/2016
+EXIN
+Secure Cloud Services, 4 - 10/2016
+ITCERTS
+Big Data Foundation, 1 - 08/2017
+ITCERTS
+Cybersecurity Risk Management Foundation, 1 - 08/2017
+ITCERTS
+It Governance Foundation, 1 - 08/2017
+ITCERTS
+Infosec Foundation, 1 - 08/2017
+ITCERTS
+Csirt Foundation, 1 - 07/2017
+ITCERTS
+Cybersecurity Foundation, 1 - 07/2017
+GREEN Treinamentos
+Itil® Foundation 2011, 20 - 06/2015
+GREEN Treinamentos
+Cobit 5 Foundation, 20 - 06/2015
+GREEN Treinamentos
+Cloud Computing Foundation, 16 - 07/2015
+GREEN Treinamentos
+Mta - Networking Fundamentals, 20 - 09/2015
+GREEN Treinamentos
+Técnicas de Comunicação para Profissionais de Ti, 12 - 07/2015
+GREEN Treinamentos
+Gerenciamento de Projetos - Pmbok 5, 16 - 11/2015
+GREEN Treinamentos
+Iso 27002 - Information Security Foundation, 16 - 12/2015
+GREEN Treinamentos
+Iso 20000 - Foundation, 20 - 12/2015
+Ka Solution
+Treinamento 6420: Fundamentals Of Windows Server 2008 Network And Applications Infrastructure, 20 - 05/2013
+Ka Solution
+Treinamento 6421: Configuring And Troubleshooting a Windows Sever 2008 Network Infrastructure, 20 - 08/2013
+Ka Solution
+Treinamento 6425: Configuring And Troubleshooting Active Directory Domain Services In Windows Server 2008, 20 - 08/2013
+Ka Solution
+Treinamento 6426: Configuring And Troubleshooting Identity And Access In Windows Server 2008 Active Directory, 20 - 08/2013
+Ka Solution
+Treinamento 6433a: Planning And Implementing Windows Server 2008, 20 - 09/2013
+Experiências profissionais
+Gerente de informática
+Somente para Assinantes, Comércio Varejista
+Salário final: R$ 6.000,00 ( 10/2016 - 09/2017)
+
+Responsável por toda Infraestrutura da matriz, filial e loja, com a missão de padronizar os processos de TI e procedimentos operacionais. Forte atuação na construção de parcerias internas e externas, na interface entre a área de Negócio e TI, otimizando a comunicação, atendimento às necessidades e garantindo a satisfação nos projetos realizados. Gestão de contratos com fornecedores de serviços, controle de SLA, orçamentos e custos, controle de aquisições, CMDB, inventario e gestão de ativos. Gerenciamento de Incidentes e problemas e gerenciamento de mudanças. Implementação de processo de segurança de informação (Gestão de acessos), normas e procedimentos administrativos e processos de avaliações de compliance. Responsável pela gerencia dos incidentes de segurança da informação, criação e validação de plano de continuidade do negócio e a realização de testes de disaster recovery. Atuação na restruturação do Datacenter: Servidores, Storage, Backup, Nobreaks, cabeamento estruturado, links dedicados, telefonia (PABX e VOIP), firewall e sistema de DVR. Validação e homologação de novas soluções e ferramentas a fim de identificar melhorias contínuas para o ambiente. Administração e gerenciamento de infraestrutura em nuvem, data centers e servidores dedicados.
+Analista de Infraestrutura Sênior
+Somente para Assinantes, Engenharia
+Salário final: R$ 5.200,00 ( 06/2011 - 06/2016)
+
+Responsável pelo gerenciamento da infraestrutura, suporte aos usuários em todos níveis, administração de relatórios gerenciais dos sistemas de chamados (GLPI) e monitoramento do ambiente de TI (Zabbix). Implantação, gerenciamento e troubleshooting dos servidores: Linux, Windows Server 2008 e 2012 (AD, DNS, DHCP, IIS, WDS, File Server, Print Server, GPO’s, WSUS), servidores virtualizados (Hyper V/VMware/XEN), servidor de aplicação e o banco de dados (SQL Server 2008). Administração de CPD, PABX, cabeamento estruturado e links de internet, bem como trabalhando no controle do appliance Fortinet Fortigate, firewall com gerenciamento WEB, regras de proxy, lista negra, links em modo load balance e fail-over, VPN, protocolos de internet TCP/IP, topologia de rede, relatórios de medição. Gerenciamento de ambiente Cloud Computing (SaaS), sistemas nos servidores, sistemas financeiros, NFE, certificados digitais e nos processos dos sistemas ERP: Sienge e RHNydus, nas integrações, parametrizações, implantações de melhorias e suporte ao usuário, além de gerenciar os contratos dos fornecedores de T.I, realizando negociações, medições e provisões de pagamento. Implantações de projetos, como: Migração para novos servidores (Hardware e Software), sistema ERP e sistema de DP, Office 365, GED, Benefícios do DP (VT/VA/VR), outsourcing impressão, implantação em rede com integração com AD e GPO’s e monitoramento por software de bilhetagem, realizando relatórios para auditoria interna.
+Analista de Suporte Pleno
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 2.200,00 ( 06/2009 - 02/2011)
+
+Experiência no suporte aos sistemas do cliente NET, na abertura de chamados, direcionamento e resolução de incidentes e problemas em 1º e 2º nível de chamados, responsável pela capacitação e disseminação da informação para os demais analistas da equipe. Monitorando ambientes críticos (infraestrutura e funcional), follow-up e análise para identificação de correlação e causa raiz para resolução e recuperação do Incidente. Suporte na plataforma Windows (XP, Windows 7, Windows Server 2003 e 2008), no pacote Office, ferramentas de acesso remoto: (Automatos, SRCRV, NetMeeting) e aos sistemas de Portabilidade Numérica (NETSMS e NETSALES) e demais sistemas da NET. Instalação de softwares e aplicativos específicos e implementação dos mesmos em rede, além de atuar no monitoramento da Rede LAN e WAN (PRTG Monitor). Elaboração de relatórios diários para melhoria de atendimento, para redução SLA, analise de chamados e de telefonia, proposta de melhoria para base de conhecimento e criação de novos ofensores (CA Service Desk Manager).
+Analista de suporte técnico
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.200,00 ( 02/2008 - 02/2009)
+
+Atuação alocado no cliente Sadia, na abertura de ocorrências e/ou incidentes em caso de falhas, contato com os responsáveis de forma hierárquica através de e-mail, telefone ou SMS. Na instalação, configuração e suporte aos sistemas: Citrix Metaframe e SAP, na plataforma ThinClien, Windows (NT, Me, 2000, XP, Vista, 7, Server2000 e 2003) e suporte as políticas de segurança de dados (software de backup Arcserver e antivírus corporativo McAfee). Interface com o usuário para suporte à aplicação e responsável por supervisionar as operações diárias de disponibilidade das aplicações e servidores. Instalação e configuração de terminal services, aplicativos e sistemas específicos e implementação dos mesmos em rede.
+Analista de suporte técnico
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.000,00 ( 10/2006 - 12/2007)
+
+Reinstalação de sistemas operacionais e criação de Imagens viam Norton GHOST, além de realizar o manuseio e organização de RACKS, patch panels, switches e roteadores. Instalação e configuração de terminal services, plataforma ThinClient, sistemas e implementação dos mesmos em rede. Realização de testagem do funcionamento dos equipamentos, de sistemas operacionais, cabeamentos e tomadas de rede, placas, sendo responsável pela manutenção e configuração de Impressoras, computadores, roteadores e switches. Realização de inventario de todo parque tecnológico, elaborando controle de entrada e saídas de equipamentos.
+Idiomas
+Espanhol - Técnico  Inglês - Intermediário
+Habilidades e qualificações
+Excel Internet Powerpoint Gerenciamento de Infraestrutura Gerenciamento de Servidores Windows Server 2008 Gerenciamento de Servidores Windows Server 2012 Plataforma Office 365 Implantações de Sistemas Modelagem de Processos Administração de Firewall Protocolos de Rede Servidores Virtualizados Monitoramento de Rede Execução de Projetos Estruturação de Serviços de T.i Segurança de Informação Windows Word Redes Governança de T.i Gerenciamento de Serviços de T.i Relatórios Gerenciais

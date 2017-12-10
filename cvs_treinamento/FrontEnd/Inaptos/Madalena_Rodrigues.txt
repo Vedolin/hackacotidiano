@@ -1,0 +1,39 @@
+OPERADOR DE COMPUTADOR
+Dados Pessoais
+30 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Operador de computador
+Operador de monitoramento
+Salário
+Mínimo aceitavel: R$ 2.000,00
+Pretendido: R$ 3.000,00
+Resumo do currículo
+Tenho experiência com criação de documentação e rotinas de suporte, organização e elaboração de relatórios e desenvolvimento de procedimentos baseados na estrutura ITIL. Realizava monitoração de sistema através das ferramentas SPLUNK, NIMSOFT, BI/ODI e realizações de DASBORD DAS URAS SAC, COMPRA RAPIDA, VC, HABILITAÇÃO. Acompanhamento de alarmes na ferramenta APM WEB VIEW. Acompanhamento e shedulagem de rotinas de Jobs criados através da ferramenta CONTROL-M.
+Escolaridade
+Estacio
+Computação/Informática - Superior cursando - Sistema de Informação
+06/2015 - 06/2019
+Cursos importantes
+Linux
+Zabbix, 48 Horas - 07/2017
+Bradesco
+Itil, 48 Horas - 04/2017
+Control M
+Control M, 48 Horas - 01/2017
+Experiências profissionais
+Operadora de data center
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 2.500,00 ( 04/2015 - 07/2017)
+
+Operadora de data Center. Realizava criação de documentação e rotinas de suporte, organização e elaboração de relatórios e desenvolvimento de procedimentos baseados na estrutura ITIL. Realizava monitoração de sistema através das ferramentas SPLUNK, NIMSOFT, BI/ODI e realizações de DASBORD DAS URAS SAC, COMPRA RAPIDA, VC, HABILITAÇÃO. Acompanhamento de alarmes na ferramenta APM WEB VIEW. Acompanhamento e shedulagem de rotinas de Jobs criados através da ferramenta CONTROL-M.
+Técnica de infraestruturas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.600,00 ( 04/2013 - 02/2015)
+
+Realizava acionamentos e abertura de chamados para acompanhar problemas internos de sistemas, após solução do problema, envia sms para comunicar a empresa.
+Idiomas
+Espanhol - Intermediário  Inglês - Intermediário
+Habilidades e qualificações
+Configuração de Servidores Windows e Linux Através Shedulagem de Jobs No Control M Configurações de Servidores No Sistema Splunk

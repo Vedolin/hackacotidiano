@@ -1,0 +1,57 @@
+ESTÁGIO EM ENGENHARIA ELÉTRICA
+Dados Pessoais
+24 anos, Masculino
+
+
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Estágio em engenharia elétrica
+
+Salário
+Mínimo aceitavel: R$ 300,00
+
+Resumo do currículo
+Olá, tenho 24 anos, nascido em São Paulo-SP e moro em Florianópolis-SC desde 2012 onde faço graduação em engenharia elétrica na Universidade Federal de Santa Catarina.
+
+Participei de inúmeros projetos durante meus 5 anos tanto na vida acadêmica quanto profissional. Projetos em vários setores da engenharia como por exemplo: Smart Grid, instalações elétricas, luminotécnico, microcontroladores 8051 e ARM, PCBs, metalurgia, elaboração de documentação técnica (datasheet), controle de motores, automação industrial, câmeras de CFTV, processamento de imagens, sensores a laser, sensores de laços magnéticos, desenvolvimento de Firmwares. 
+
+A partir desses projetos consegui reunir algumas qualificações listadas abaixo: 
+
+QUALIFICAÇÃO: •	Softwares: Office, MATLAB, AutoCad 2D/3D, AutoCad Electrical, Maple, Quartus, Proteus, PSIM, DiaLUX, Solidwork. • Programação: C, Java, C++ , Assembly, LabVIew, Ladder, Python, Ladder. •	Sistemas Operacionais: Windows, OS X e Linux. •	Conhecimento em microcontroladores Intel, ARM e PIC. •	Projetos em automação residencial com Arduino e Raspberry PI. •	Protocolos de comunicação: Serial RS232 e TCP/IP
+
+Escolaridade
+Universidade Federal de Santa Catarina
+Engenharia Elétrica - Superior cursando
+
+08/2012 - 08/2018
+
+Experiências profissionais
+Estagiário de Produto
+Somente para Assinantes, Engenharia
+
+Salário final: R$ 600,00 ( 10/2016 - 08/2017)
+
+
+•	Desenvolvimento e manutenção de firmwares de CLPs em soluções de automação em linguagem Ladder; •	Estudo de viabilidade, projeto de instalações elétricas para implantação de automações em portos; • Projeto, montagem e teste de quadro de comandos; •	Responsável pele área de desenvolvimento de Hardware e integração com Software de novos produtos. Exemplo: Quiosque de autoatendimento em portos; •	Projeto de detectores de veículos utilizando laços indutivos para solucões em automação; •	Projeto de estruturas metálicas em AutoCad e acompanhamento do processo metalúrgico; FIz minha tese de conclusão de curso (TCC) vinculado a um dos produtos da GTT, o EasyGate, um sistema de ca^meras e software de alto desempenho que possibilita identificar as placas de vei´culos, caminho~es e nu´meros de conte^ineres nas portarias de entrada e sai´da do recinto. Meu TCC consiste em identificar placas de conteúdo da carga transportada pelo veículo através de processamento de imagem. Além da GTT o laboratório LPDS da UFSC, referência em processamento de imagem no Brasil, também está sendo usado para o desenvolvimento da tese.
+
+Pesquisador
+Somente para Assinantes, Pesquisas
+
+Salário final: R$ 400,00 ( 01/2016 - 08/2016)
+
+
+Fiz parte do projeto Desenvolvimento e Implantação de Microrredes Inteligentes, financiado pela Tractebel Energia, tendo sua equipe formada por pesquisadores das partes Tractebel, Fundação CERTI, INEP e IFSC. Uma smart grid, tema do projeto, é composta por diversos recursos energéticos interligados, dentre eles uma microturbina a gás. Devido a impossibilidade de se adquirir uma microturbina a gás devido a normas do laboratório, foi feito a emulação da mesma. Sob as orientações do Prof. Marcelo Lobo eu fui o responsável por fazer a emulação. Meu trabalho abordou o funcionamento básico da turbina, baseado em conceitos de termodinâmica. Em seguida, fiz uma descrição minuciosa da composição das características de dinâmica da microturbina em software e a elaboração e implementação das interfaces de comunicação envolvidos no setup. Para desenvolver a sistemática da emulação do comportamento dinâmico da microturbina estudado e estabelecer uma interface com hardware (retificador e inversor), o ambiente computacional escolhido foi o software NI LabVIEW. A implementação da smart grid se encontrava, predominantemente, em estágio de protótipo ao final de minha bolsa. Porém a emulação da microturbina se encontrava validada pelo orientador e pronta para uso no projeto. Apesar de ser em um ambiente acadêmico, essa experiência envolveu uma empresa de grande porte o que fez eu ter o primeiro contato com a vida profissional, com prazos, trabalho em equipe, reuniões e etc.
+
+Professor de Ensino Médio
+Somente para Assinantes, Educação/ Treinamento/ Idiomas
+
+Salário final: R$ 200,00 ( 01/2017 - 08/2017)
+
+
+Professor de matemática de cursinho pré-vestibular.
+
+Idiomas
+Alemão - Básico  Inglês - Avançado
+Habilidades e qualificações
+Word Excel Redes Internet Powerpoint Autocad Tcp/ip Rs232 Clp Ladder C Python Assembly Labview Arduino Raspberry Microcontrolador Pcb Instalacão Elétrica Montagem Quadro de Comando Processamento de Imagem

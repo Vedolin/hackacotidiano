@@ -1,0 +1,114 @@
+TÉCNICO ELETRÔNICO
+Dados Pessoais
+23 anos, Masculino
+
+
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Técnico eletrônico
+
+Programador
+
+Engenheiro eletrônico
+
+Salário
+Mínimo aceitavel: R$ 1.500,00
+
+Pretendido: R$ 2.000,00
+
+Resumo do currículo
+Discente de Engenharia de Computação no Instituto de Ciência e Tecnologia da Universidade Federal de São Paulo (ICT-UNIFESP), localizada em São José dos Campos. Em curso desde 2016, depois de ter completado o Bacharelado em Ciência e Tecnologia pela mesma universidade. No mesmo ano de entrada na UNIFESP, me juntei ao projeto de desenvolvimento de uma bomba de insulina de baixo custo, para o mercado brasileiro, tal projeto rendeu a publicação de um artigo em um congresso da IEEE. Sou fundador da Equipe de Robótica da UNIFESP (Grupo de Robótica Forgers), que tem como foco a união dos discentes e docentes em prol da pesquisa e desenvolvimento de robôs voltados para a socidade e competições. Tenho forte experiência na área de Robótica, Eletrônica e Automação, devido ao curso técnico em mecatrônica feito em 2009, aos estudos e pesquisas realizados na UNIFESP, e a experiência profissional em empresas. Em 2017 fui um dos palestrantes do Arduino Day SJC, evento promovido em todos os pólos tecnológicos do mundo, para difundir a plataforma Arduino, sendo o palestrante mais novo até hoje do evento na região.
+
+Escolaridade
+Universidade Federal de São Paulo (UNIFESP)
+Engenharia da Computação - Superior cursando
+
+01/2016 - 12/2018
+
+Universidade Federal de São Paulo
+Computação/Informática - Superior completo - Bacharelado em Ciência e Tecnologia
+
+01/2013 - 12/2015
+
+Escola Técnica Professor Everardo Passos (ETEP)
+Curso Técnico - Ensino Médio Técnico - Técnico em Mecatrônica
+
+01/2009 - 12/2011
+
+Cursos importantes
+Princeton University
+Computer Architecture, 12 Semanas - 04/2017
+
+Columbia University
+Mos Transistors, 12 Semanas - 04/2017
+
+Experiências profissionais
+Estagiário de manutenção
+Somente para Assinantes, Metalurgia/ Siderurgia
+
+Salário final: R$ 600,00 ( 01/2012 - 07/2012)
+
+
+Acompanhei todos profissionais do departamento de manutenção, desde o gerente até o técnico de manutenção predial. Aprendi muito de como realizar a manutenção elétrica de diversos equipamentos (painéis industriais, máquinas, luminárias) além de poder arriscar a programar a prensa de extrusão juntamente com os italianos da Presezzi Extrusion.
+
+Estagiário de desenvolvimento
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+
+Salário final: R$ 1.000,00 ( 01/2016 - 03/2016)
+
+
+Desenvolvi equipamentos de monitoramento de dados clínicos, tais como batimento cardiaco, oximetria, capinografia e etc. Foi desenvolvido a eletrônica embarcada e o firmware de dois equipamentos, o DL-430 e o DL-500. Para o desenvolvimento foi utilizado o software Altium PCB Designer, para a manipulação do esquema elétrico, e o IAR Embedded workbench for ARM, para o desenvolvimento do firmware em C para o microcontrolador LPC1769 ( que possui núcleo de ARM).
+
+Programador de Sistema Embarcado
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+
+Salário final: R$ 1.400,00 ( 12/2016 - 04/2017)
+
+
+Depois de concluir com sucesso o estágio de verão no ano anterior, a Delta Life me contratou temporariamente para desenvolver uma nova versão do equipamento DL760 (Anestesia Inalatória).
+
+Pesquisador Jovens Talentos CAPES
+Somente para Assinantes, Engenharia
+
+Salário final: R$ 400,00 ( 08/2013 - 07/2014)
+
+
+O objetivo deste projeto foi o desenvolvimento do módulo de interface com o usuário de um protótipo de bomba de infusão de insulina. Este projeto inseriu-se dentro de um projeto maior (financiado pela FAPESP) que tem como finalidade o desenvolvimento de um protótipo de bomba de infusão de insulina de baixo custo, para uso em nível nacional. O módulo de interface com o usuário é responsável pela interação do paciente com o sistema de controle da bomba de infusão de insulina. A interação ocorre por meio de quatro botões e um display LCD gráfico, além de avisos sonoros e vibração. O módulo de interface com o usuário foi desenvolvido em linguagem C e executado em microcontrolador da família MSP430. Durante esse projeto foi feito um estudo de casos sobre o funcionamento de uma bomba de infusão de insulina, assim como levantamento de dados de UX em relação as bombas já existentes no mercado. Após uma longa pesquisa com análise de usabilidade, com definição de requisitos do sistema usando SysML, foi definido uma interface. Quanto ao display, dividiu-se em duas linhas de desenvolvimento. Desenhei um modelo de display segmentado, no qual foi fabricado na China e visava o protótipo menor. E implementei uma biblioteca de interface gráfica para usar o GLCD que estava no protótipo maior (era na verdade um kit de desenvolvimento desenvolvido por nós mesmos com LEDs, GPIO, driver de motor , botões e etc.
+
+Pesquisador PIBITI
+Somente para Assinantes, Engenharia
+
+Salário final: R$ 400,00 ( 08/2014 - 08/2015)
+
+
+Continuação de um projeto iniciado em 2013, teve como objetivo o desenvolvimento de um protótipo de uma bomba de infusão de insulina de baixo custo. Durante o projeto foi implementado todos os outros módulos para se obter um MVP para testes in-vitro, tais módulos são: controle de motor, timer, infusão e memória flash. Por esse caráter geral, ao realizar o projeto, utilizou-se muitos conceitos de eletrônica e mecânica. Ao final do projeto, obteve-se um protótipo, que conseguiu um resultado inicial ruim, mas que conseguiu juntar dados para poder fazer melhorias e correções e todos os níveis.
+
+Bolsista PIBITI
+Somente para Assinantes, Engenharia
+
+Salário final: R$ 400,00 ( 08/2016 - 08/2017)
+
+
+Continuação do projeto iniciado em 2013, teve como objetivo o desenvolvimento de um protótipo de uma bomba de infusão de insulina de baixo custo. Durante o projeto foram feitos ajustes no protótipo V1, descrito anteriormente. Dentre os ajustes inclui refatoração do código fonte, excluindo gargalos de desempenho, projeto mecânico (CAD) de um novo sistema de movimentação do êmbolo da seringa com o motor de passo, revisão do projeto eletrônico. Ao final de um ano, foram feitos 1000 testes in-vitro, com 99,5% de confiabilidade, o que foi um sucesso, abrindo portas para o desenvolvimento do protótipo menor, que tem o tamanho de uma bomba de insulina usual. Importante ressaltar que os 99,5% ainda não é o ideal, precisam-se de ajustes ainda, pois se trata de um sistema crítico, e não pode haver falhas.
+
+Fundador/CEO
+Somente para Assinantes, Engenharia
+
+Salário final: R$ 100,00 ( 01/2014 - 04/2014)
+
+
+No período estabelecido, fui presidente e fundador do Grupo de Robótica Forgers, um grupo de extensão da UNIFESP que proporciona o aprendizado de robótica para jovens de baixa renda, difunde o conhecimento na universidade, realiza projetos de pesquisa e desenvolvimento, além de participar das competições nacionais. Ao fundar e gerenciar o grupo, aprendi as dificuldades que existem ao ser a figura representativa de uma organização. Aprendi a estabelecer padrões e burocracias no nível certo, para não atrapalhar o desenvolvimento e a força criativa da equipe. E o mais difícil de tudo, aprendi como lidar com as pessoas e seus problemas pessoais do dia-a-dia para poder extrair produtividade.
+
+Desenvolvedor de Eletrônica
+Somente para Assinantes, Engenharia
+
+Salário final: R$ 100,00 ( 05/2015 - 09/2016)
+
+
+Após re-estruturar o grupo de robótica, e deixar o caminho livre para o um sucessor, decidi abandonar a presidência, e assumi o papel de desenvolvedor da eletrônica dos robôs. No momento, eu era o mais capacitado, e precisávamos de uma base sólida para o futuro, então abandonei a administração para pôr a mão na massa e ensinar os futuros integrantes. Saí do grupo, pois o meu dever estava cumprido, hoje a equipe está muito bem, com projetos saindo e muitas atividades importantes sendo feitas para a sociedade. Nessa função fui orientador do Robotruck, um projeto de extensão que, com várias outras organizações, visava o ensino de robótica com uma carreta itinerante pelas escolas públicas. Desenvolvi também duas placas de controle de motor escovados, uma apelidada de Forgers Motor Control, e outra de Apollo Mk1. Antes de sair pude ainda escrever uma breve apostila para os futuros membros e servir de conselheiro para os novos desenvolvedores.
+
+Idiomas
+Inglês - Avançado  Italiano - Básico
+Habilidades e qualificações
+Autodesk Eagle Proteus Compiladores Vhdl Verilog Java Python Pic Basic Arduino C Matlab C# C++ C Sistemas Embarcados Microcontroladores Arm Msp430 Fpga Arduino

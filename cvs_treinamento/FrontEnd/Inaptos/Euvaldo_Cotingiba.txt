@@ -1,0 +1,31 @@
+ANALISTA DE SISTEMAS
+Dados Pessoais
+38 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de sistemas
+Salário
+Mínimo aceitavel: R$ 6.000,00
+Pretendido: R$ 9.000,00
+Resumo do currículo
+Atuo desde Novembro de 1999 como analista de sistemas e negócios com foco principal em sistema de gestão. Participei de projetos de inicialização e parametrização do ERP MFG-PRO QAD, projetos de centralização de bancos de dados e implantação e gestão de sistema de business intelligence. Executei projetos de integração e desenvolvimento de interfaces entre legados, além de prestar suporte e atendimento aos usuários dos sistemas. Possuo habilidade no relacionamento com pessoas de diferentes níveis hierárquicos, responsabilidade e competência para trabalhos em equipe visando a qualidade na execução das tarefas, senso de prioridade e comprometimento. Meus dois últimos projetos foram para migração do QAD para SAP . Atuando como follow-up dos key-users envolvidos e mediando reuniões de adequação de processos. Mapeando extrações de masterdata e data migration.
+
+Idioma inglês intermediário.
+Escolaridade
+Universidade Metodista de São Paulo
+Computação/Informática - Superior completo
+01/1998 - 12/2001
+Experiências profissionais
+Analista de master Data
+Somente para Assinantes, Automobilística/ Autopeças
+Salário final: R$ 9.000,00 ( 03/2016 - 01/2017)
+
+Analista responsável pela migração de dados do sistema legado (QAD) para o SAP, execução de extrações de dados e definição de processo de upload de dados. Saneamento e gerenciamento de informações fizeram parte da minha responsabilidade nesse projeto.
+Analisa de Sistemas
+Somente para Assinantes, Automobilística/ Autopeças
+Salário final: R$ 8.700,00 ( 03/2011 - 11/2015)
+
+Atividades rotina: ?	Desenvolvimento de relatórios e pequenas customizações em Progress ?	Suporte aos usuários em todos os módulo do QAD. ?	Análise e definição de melhorias e automatização de processos . ?	Aplicação de patches e testes iniciais de modificações. ? Gerenciamento de segurança/acesso aos módulos do QAD. ?	Adminstração de sistema Fiscal Dzyon. Projetos : ?	Implantação QAD unidade Pindamonhangaba, migrando de Totvs Protheus 11 para QAD 2007. Duração de 4 meses. ?	Definição e desenvolvimento de apontamento de processo produtivo e faturamento automático para nova linha de produto para caminhões. Duração de 3 meses. ?	Definição, desenvolvimento e implantação de interface QAD - Softway . Duração de 6 meses ?	Desenvolvimento de rotinas e processos e controle de cronogramas e tarefas de Key-users para migração SAP. Definição de data cleasing e data migration para SAP (para divisão escapamentos). Duração de 1 ano. ?	Arquivamento de todas as bases de dados QAD, divisão escapamentos, para base de conhecimentos Optim. ?	Carga de dados contábeis no parceiro Dzyon para geração de SPED _- EFD – ECD – database 2014
+Idiomas
+Inglês - Intermediário

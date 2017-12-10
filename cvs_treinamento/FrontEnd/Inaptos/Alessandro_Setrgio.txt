@@ -1,0 +1,45 @@
+ANALISTA DE BI (INTELIGÊNCIA DE MERCADO)
+Dados Pessoais
+26 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de BI (Inteligência de Mercado)
+Salário
+Mínimo aceitavel: R$ 5.500,00
+Pretendido: R$ 6.600,00
+Resumo do currículo
+I am an organized and resourceful employee with a range of skills . I am proactive in understanding the overall goal of the project , quick learner and excited for new technologies experiences.
+
+Working as a System Analyst for seven years I have an extensive background in SDLC process using both Agile and waterfall methodologies . I am able to maintain a objective viewpoint throughout the daily workload.
+
+I have a consistent experience in gathering requirements , SQL Server ,Oracle, .Net, Data Analysis , Data Business , ETL, ERP , CRM , Delphi, SAS, Microsoft Project , Excel (VBA). I am always looking forward to improve my results in every project that I work.
+Escolaridade
+BandTec
+Outra Área de Estudo - Pós-graduação cursando - Big Data
+06/2017 - 12/2018
+Experiências profissionais
+Analista de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.500,00 ( 12/2015 - Até hoje)
+
+Big project for predictive analysis using Qlikview 11 , with section access , many types of dashboards. ETL process - SQL Server (Stored Procedures , scripts , performance ) - ETL SSIS developer - DBM Analysis. Bank Project - I was responsible to extract data for the CRM/Marketing department . The team uses SAS System integrated with Oracle to attend the demand.
+Analista de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.500,00 ( 11/2014 - 12/2015)
+
+Implementation of PROS Pricing software in BRF company. Development and maintenance of ETL's processes by SSIS. Development and maintenance of cubes, dimensions, processes and tuning of the database in SQL Server 2012. http://fortune.com/2015/09/24/pros-pricing-software/ Modeling and project documentation in IBM BPM.
+Analista de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.000,00 ( 05/2012 - 04/2014)
+
+Worked as a system analyst in the Tax department . I was responsible for calculate legal obligation of Walmart Brasil and generate taxes balance and final reports . Development in Visual Basic and SQL Server . Large data processing , tuning , development and maintenance of databases.
+Analista de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.000,00 ( 12/2008 - 05/2012)
+
+Working with an ERP software , experienced in software implementation , development, requirement gathering and quality. Modules: Accounts and Finance Management ; Purchase and Supplier Module ; Production Management (MRP II) ; Sales; Software Development with Delphi , C#, SQL Server (DML and DDL) and methodology SCRUM.
+Idiomas
+Inglês - Avançado
+Habilidades e qualificações
+Bi Big Data Qlikview Sql Etl Ssis

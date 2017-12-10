@@ -1,0 +1,92 @@
+CONSULTOR DE BUSINESS INTELLIGENCE
+Dados Pessoais
+32 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Consultor de Business Intelligence
+Analista de desenvolvimento sistemas
+Analista de suporte técnico
+Salário
+Mínimo aceitavel: R$ 6.000,00
+Pretendido: R$ 7.500,00
+Resumo do currículo
+Mais de 8 anos de experiência em desenvolvimento de Business Intelligence, Data Warehousing, realizando atividades de líder técnico, análise de sistemas de origem juntamente com as necessidades dos usuário, criação de especificação técnica, Integração de dados, desenvolvimento de mapas ETL utilizando a tecnologia Informática Power Center e solução BI da Microsoft (SSIS, SSAS e SSRS), geração de universos e relatórios através da ferramenta Microstrategy. Experiência de projetos nas áreas de telecomunicações, saude e petróleo.
+
+Bacharel em ciência da computação (UNIFESO-2008), pós-graduação em análise e projeto de sistemas (PUC - 2010) e 3 três certificações (Sun e Microsoft), procuro sempre buscar novos desafios na carreira profissional na área de BI(Business Intelligence). Atualmente cursando pôs graduação em MIT Big Data.
+
+Especialidades: Business Intelligence, Data warehouse, PL SQL, Big Data, Integração de dados, Enterprise system design and analysis, ETL Processes and toolsets, Modeling and development, BI systems & reporting. OLAP processes and toolsets, Infra-estrutura.
+Escolaridade
+Infnet
+Computação/Informática - Pós-graduação cursando - Mit em Big Data
+01/2016 - 01/2018
+PUC - Rio de Janeiro
+Computação/Informática - Pós-graduação completa - Analise e Projeto de Sistemas
+10/2009 - 08/2011
+UNIFESO
+Computação/Informática - Superior completo - Ciência da Computação
+07/2004 - 07/2008
+Cursos importantes
+Brasas
+Ingles, 4 Anos - 07/2016
+ALLEN
+Implementing And Data Models And Reports With Microsoft Sql Server 2012, 15 Dias - 11/2014
+HP - Chicago
+Sql Server 2012 Pdw Training, 1 Semana - 03/2012
+PUC
+Tbds - Técnicas Básicas de Desenvolvimento de Software, 3 Meses - 01/2010
+Microsoft
+Implementing And Maintaining Microsoft Sql Server 2008– Integration Services, 3 Meses - 01/2011
+Microsoft
+Implementing And Maintaining Microsoft Sql Server 2008 – Analysis Services, 3 Meses - 01/2011
+Microsoft
+Implementing And Maintaining Microsoft Sql Server 2008 – Reporting, 3 Meses - 01/2011
+NTT Data
+Microstrategy Basic, 1 Mês - 11/2009
+NTT Data
+Informática Powercenter 8 Basic, 1 Mês - 12/2009
+Experiências profissionais
+Consultor de Business Intelligence
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 7.000,00 ( 05/2016 - Até hoje)
+
+Projeto: ehealth (Canada - Internacional) - Suporte, manutenção e administração de mapas ETLs - Suporte, manutenção e administração dos servidores informática power center 9.6 - Suporte, manutenção e administração dos servidores Business Objects XI 3.1(BO) - Levantamento de requisitos e desenho da arquitetura dos servidores junto ao cliente
+Consultor de Business Intelligence
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 7.000,00 ( 08/2013 - 04/2016)
+
+Projeto: TV Globo - Suporte ao time de produção na ocorrência de Incidentes nos processos de BI - Apresentação e implantação de propostas de melhorias nos processos de BI - Desenvolvimento de Mapas ETL - Colaborar com o analista de negócios e analista de dados para documentar e resolver as lacunas entre os requisitos de negócio e especificações de design de ETL - Produzir especificações detalhadas do design ETL que conduz com os requisitos de negócios no âmbito da arquitetura estabelecida.
+Analista de desenvolvimento sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.000,00 ( 01/2012 - 08/2013)
+
+Projeto: Shell (Europa - Internacional) - Desenvolvimento e manutenção de processos ETL utilizando a ferramenta de BI da Microsoft (SSIS, SSAS, SSRS 2008) - Suporte a produção, analise de falhas e reprocessamento dos dados - Responsável pela cadeia de carga mensal dos dados em Produção - Treinamento e integração com o time de testes
+Analista de desenvolvimento sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.500,00 ( 08/2011 - 01/2012)
+
+Projeto: TV Globo - Suporte ao time de produção na ocorrência de falhas dos processos de BI - Instrução ao time de DBA em como tratar as falhas dos processos - Estudo e apresentação de propostas de melhorias nos processos de BI - Colaborar com o analista de negócios e analista de dados para documentar e resolver as lacunas entre os requisitos de negócio e especificações de design de ETL.
+Analista de desenvolvimento sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.500,00 ( 11/2010 - 08/2011)
+
+Projeto: Cultura Inglesa e BMA - Participar dos levantamentos de requisitos junto ao usuário - Desenvolvimento de fluxos ETL utilizando SSIS - Integração de dados.
+Trainee análise de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.500,00 ( 10/2009 - 11/2010)
+
+Projeto: Bradesco Seguros - Desenvolvimento de Dashboards e relatórios utilizando a tecnologia Microstrategy - Colaborar com o analista de negócios para documentar e resolver as lacunas entre os requisitos de negócio e especificações de design OLAP - Produzir especificações detalhadas do design OLAP que conduz com os requisitos de negócios no âmbito da arquitetura estabelecida.
+Suporte de Sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.000,00 ( 05/2009 - 10/2009)
+
+Projeto: Suporte aos sistemas da Totvs na Universidade UNIFESO - Desenvolvimento de Relatórios através de PL–SQL - Suporte a Incidentes ocasionados pelo sistema.
+Estagiário
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.000,00 ( 09/2006 - 04/2009)
+
+Projeto: Suporte e manutenção dos laboratórios de Informática na Universidade UNIFESO - Suporte e manutenção dos computadores nos laboratórios de informática - Construção de clusters.
+Idiomas
+Inglês - Fluente
+Habilidades e qualificações
+Linux Mongo Python Analista de Bi Analista de Negocios Big Data Machine Learning Microestrategy Microsoft Informatica Sql Server Oracle Java Pl/sql Business Intelligence Data Warehousing Levantamento de Requisitos Olap Etl

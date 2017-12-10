@@ -1,0 +1,239 @@
+Analista e Desenvolvedor de Sistemas de Software, especializado em Java/SOA e com experiência em C/C++. Iniciante em iOS/Objective C. Maker e Técnico em Eletrônica, com conhecimento em projetos de Hardware, Eletrônica Embarcada, IoT, Eletrônica Digital e desenvolvimento para microcontroladores Microchip PIC.
+
+Especializações:
+- Java (JSE, JEE, Web, SOA, Web Services)
+- C/C++ (padrões ANSI, STL, POSIX, Windows API, ferramentas GNU, Qt framework)
+- Iniciante em iOS/Objective C
+- Borland Delphi (Pascal, VCL, Lazarus)
+- Hardware (Eletrônica Digital e Embarcada)
+- IoT - Internet das Coisas (Arduino, ESP8266, Raspberry Pi; Protocolos HTTP/REST, MQTT)
+- Microcontroladores PIC (Assembly, C e JAL)
+- CAD para Eletrônica (Tango, P-CAD, Eagle) Visualizar menos Visualizar menos do resumo de Robson
+Destaques
+ Thiago Lima
+3 conexões em comum
+Você e Robson conhecem Thiago Lima, Marcia Golfieri e mais 1 pessoa
+
+ FIAP
+Ambos estudaram na FIAP
+Robson estudou na FIAP antes de você começar
+
+Experiência
+ SERPRO
+Analista de Desenvolvimento
+Nome da empresaSERPRO
+Períodoset de 2010 – o momento  Duração do emprego7 anos 4 meses
+LocalidadeSão Paulo e Região, Brasil
+Desenvolvimento de Sistemas:
+- Receita Federal do Brasil (RFB), Departamento Nacional de Trânsito (Denatran)
+• Java, JEE, JPA, JSF, Web Services, Maven, Demoiselle, JavaScript, Oracle.
+
+Grupo de Trabalho e Pesquisa:
+- Internet das Coisas (IoT)
+• Tecnologias, aplicações, arquitetura, modelos de negócio.
+
+Suporte Tecnológico em Ferramentas e Ambientes de Desenvolvimento:
+• Prospecção, internalização e sustentação de ferramentas de desenvolvimento;
+• Internalização e adequação de ferramenta ECM/GED Alfresco para o projeto "Processo Verde" (Gestão de Aquisições sem papel);
+• Internalização e adequação de ferramenta ALM (IBM), módulos Rational Team Concert (RTC) e Rational Requirements Composer (RRC) para uso no Serpro;
+• Internalização de tecnologia BPMS e integrações, com o produto TIBCO ActiveMatrix BPM e TIBCO Business Works;
+• Participação no projeto Mobile Marketing, para promover a internalização da tecnologia no Serpro.
+
+ RAGTECH Indústria Eletrônica
+Técnico Eletrônico / Analista Programador
+Nome da empresaRAGTECH Indústria Eletrônica
+Períodoout de 2002 – ago de 2010  Duração do emprego7 anos 11 meses
+LocalidadeSão Paulo e Região, Brasil
+Desenvolvimento de Software para controle e monitoramento de nobreaks:
+• Delphi, C/C++.
+
+ LSI-USP
+Bolsista CNPq - Desenvolvimento Tecnológico Industrial
+Nome da empresaLSI-USP
+Períodojun de 2003 – dez de 2003  Duração do emprego7 meses
+LocalidadeSão Paulo e Região, Brasil
+Desenvolvimento para clusters em Linux:
+• Linguagem C e JNI.
+
+ Esys Colibri
+Programador Jr.
+Nome da empresaEsys Colibri
+Períodojul de 2001 – out de 2002  Duração do emprego1 ano 4 meses
+LocalidadeSão Paulo e Região, Brasil
+Desenvolvimento de Sistemas para varejistas do ramo de alimentos:
+• Delphi e MS SQL Server.
+
+ Alstom Transport
+Técnico Eletrônico Jr.
+Nome da empresaAlstom Transport
+Períodojan de 1998 – set de 2000  Duração do emprego2 anos 9 meses
+LocalidadeSão Paulo e Região, Brasil
+• Desenvolvimento de Projetos de Sistemas de Sinalização na área de Circuitos de Via;
+• Programas Simuladores de Sistemas de Sinalização Metroferroviária;
+• Documentação (Esquemas Elétricos, Procedimentos de Teste, etc.)
+
+Visualizar mais cargos
+Formação acadêmica
+ FIAP
+FIAP
+Nome do diplomaMBA em Desenvolvimento de Aplicações Corporativas Java / SOA Área de estudoEspecialização
+Período (ou ano previsto para a graduação) 2011 – 2012
+
+ Faculdade Batista de Administração e Informática
+Faculdade Batista de Administração e Informática
+Nome do diplomaBacharelado em Sistemas de Informação Área de estudoGraduação
+Período (ou ano previsto para a graduação) 2000 – 2003
+
+ Liceu de Artes e Ofícios de São Paulo
+Liceu de Artes e Ofícios de São Paulo
+Nome do diplomaTécnico Área de estudoEletrônica
+Período (ou ano previsto para a graduação) 1994 – 1997
+
+ Visualizar mais formações acadêmicas
+Experiência com trabalhos voluntários
+Igreja Batista Jardim Brasil
+Voluntário de ação social em comunidades
+Nome da empresaIgreja Batista Jardim Brasil
+Datas do trabalho voluntáriofev de 2012 – o momento  Duração do trabalho voluntário5 anos 11 meses
+Transmissão de palavras de amor e esperança às pessoas; promoção de eventos de ação social nas comunidades ou periferias de várias cidades; ensino gratuito de disciplinas como Matemática e Informática.
+
+Igreja Batista em Jardim Fontális
+Voluntário de ação social em comunidades
+Nome da empresaIgreja Batista em Jardim Fontális
+Datas do trabalho voluntáriofev de 1999 – fev de 2006  Duração do trabalho voluntário7 anos 1 mês
+Distribuição de alimentos aos moradores de rua; transmissão de palavras de amor e esperança às pessoas; promoção de eventos de ação social no bairro; ensino gratuito de música (teclado/contrabaixo) e alfabetização de adultos.
+
+Competências e recomendações em destaque
+Java Visualizar 10 recomendações para Java10
+Filipe Camargo e 9 conexões recomendaram esta competência
+
+Java Enterprise Edition Visualizar 6 recomendações para Java Enterprise Edition6
+Filipe Camargo e 5 conexões recomendaram esta competência
+
+SOA (Arquitetura voltada para serviços) Visualizar 6 recomendações para SOA (Arquitetura voltada para serviços)6
+Filipe Camargo e 5 conexões recomendaram esta competência
+
+Robson também tem a competência…
+
+SOA Visualizar 4 recomendações para SOA4
+Desenvolvimento de software Visualizar 8 recomendações para Desenvolvimento de software8
+Software Development Visualizar 4 recomendações para Software Development4
+C++ Visualizar 3 recomendações para C++3
+Sistemas operacionais Visualizar 5 recomendações para Sistemas operacionais5
+SQL Visualizar 4 recomendações para SQL4
+Web Development Visualizar 2 recomendações para Web Development2
+Microcontroladores Visualizar 3 recomendações para Microcontroladores3
+Linux Visualizar 3 recomendações para Linux3
+Desenvolvimento de sites Visualizar 3 recomendações para Desenvolvimento de sites3
+C/C++ STL Visualizar 1 recomendação para C/C++ STL1
+Raspberry Pi Visualizar 1 recomendação para Raspberry Pi1
+Microcontrollers Visualizar 1 recomendação para Microcontrollers1
+Digital Electronics Visualizar 1 recomendação para Digital Electronics1
+Embedded Systems Visualizar 1 recomendação para Embedded Systems1
+IoT Visualizar 1 recomendação para IoT1
+Hardware Design Visualizar 1 recomendação para Hardware Design1
+Microchip PIC Visualizar 1 recomendação para Microchip PIC1
+Borland Delphi Visualizar 1 recomendação para Borland Delphi1
+Linux development Visualizar 1 recomendação para Linux development1
+FreeBSD development Visualizar 1 recomendação para FreeBSD development1
+Operating Systems Visualizar 1 recomendação para Operating Systems1
+Computer Maintenance Visualizar 1 recomendação para Computer Maintenance1
+Desenvolvimento para iOS Visualizar 1 recomendação para Desenvolvimento para iOS1
+Objective-C Visualizar 1 recomendação para Objective-C1
+NodeMCU / ESP8266 Visualizar 1 recomendação para NodeMCU / ESP82661
+Visualizar menos competências 
+Recomendações
+Recebidas (1)
+Concedidas (2)
+Adriana Del Nero Romano
+Adriana Del Nero Romano
+Sr. System Analyst | Zup Innovation | ITIL®
+
+Em 22 de outubro de 2011, Adriana e Robson estudavam juntos
+
+Robson tem facilidade de aprendizado e visivelmente mostra-se interessado por tecnologias,e está sempre disposto a ajudar as pessoas ao seu redor.
+Conquistas
+Robson tem 20 cursos20
+Expandir seção de cursos
+cursos
+ALM: IBM Rational Requirements Composer (RRC) ALM: IBM Rational Team Concert (RTC) Apache Maven Desenvolvedor Básico TIBCO Desenvolvimento FPGA com VHDL Desenvolvimento iOS com Objective-C - SHIFT FIAP ECM Alfresco: Instalação e Configuração Gamification - SHIFT FIAP Integração de Sistemas: Simplificando a Vida do Cidadão Internet das Coisas - O Serpro na Atualidade e no Futuro da Tecnologia
+Robson tem 7 reconhecimentos7
+Expandir seção de reconhecimentos e prêmios
+reconhecimentos e prêmios
+Startup Weekend IoT ConSerpro 2015 Prêmio Luiz Edmundo Moreto - ConSerpro 2015 ConSerpro 2014 ConSerpro 2012 Prêmio Engenheiro Roberto Mange Honra ao Mérito
+Robson tem 6 projetos6
+Expandir seção de projetos
+projetos
+Hermes Ambulância Conectada Gloob Smart Taps Redução de Custos na Implantação de Laboratórios de Inclusão Digital com o Uso de Software e Hardware Livres: Um Estudo de Caso Fiscal Cidadão AcaaS: Acessibilidade como um Serviço (Accessibility as a Service) Integração de Sistemas: Simplificando a Vida do Cidadão
+Robson tem 3 publicações3
+Expandir seção de publicações
+publicações
+Redução de Custos na Implantação de Laboratórios de Inclusão Digital com o Uso de Software e Hardware Livres: Um Estudo de Caso Fiscal Cidadão Integração de Sistemas: Simplificando a Vida do Cidadão
+Robson tem 3 notas de provas3
+Expandir seção de notas de provas
+notas de provas
+Concurso Público: TRE/SP - Tribunal Regional Eleitoral / São Paulo Concurso Público: Metrô/SP - Companhia do Metropolitano de São Paulo Concurso Público: SERPRO - Serviço Federal de Processamento de Dados
+Robson conhece 1 idioma1
+Expandir seção de idiomas
+idioma
+English
+Informações pessoais e de contato
+Perfil e Sites de Robson
+Exibir mais Visualizar mais informações pessoais e de contato
+
+As pessoas também viram
+Josilene Zanardi
+Josilene Zanardi  Conexão de 3º grau3º
+Analista Financeiro
+
+Luciana Perez Miranda Ferreira
+Luciana Perez Miranda Ferreira  Conexão de 3º grau3º
+Coordenadora de Depto Pessoal na Grupo Aste
+
+Cristiano Machado
+Cristiano Machado  Conexão de 3º grau3º
+Analista de Sistemas na SalvadorCard - SETPS
+
+Bruna Polo
+Bruna Polo  Conexão de 3º grau3º
+Analista de Produtividade Pleno na Hypermarcas S/A
+
+Edson França
+Edson França  Conexão de 2º grau2º
+Coordenador de Governança de TI at Porto Seguro
+
+Gilson Soldan
+Gilson Soldan  Conexão de 3º grau3º
+Analista de desembaraço e financeiro pleno na DHL Global Forwarding
+
+Patricia Gonçalves N. Candido
+Patricia Gonçalves N. Candido  Conexão de 3º grau3º
+Consultora Comercial at Metadados
+
+Matheus Teixeira
+Matheus Teixeira  Conexão de 3º grau3º
+Treasury Finance Analyst at Bank of America Merrill Lynch
+
+Daniela Gonzalez
+Daniela Gonzalez  Conexão de 3º grau3º
+Aluna no Colégio Paulista
+
+Guilherme Bravin
+Guilherme Bravin  Conexão de 3º grau3º
+Arquiteto/Professor e Empresário
+
+Cursos relacionados às competências de Robson
+Electronics Foundations: Fundamentals
+Electronics Foundations: Fundamentals
+59.733 visualizaram
+
+Creative Insights: Ayah Bdeir and littleBits
+Creative Insights: Ayah Bdeir and littleBits
+9.389 visualizaram
+
+Learning Arduino
+Learning Arduino
+38.688 visualizaram
+
+Visualizar mais cursos
+

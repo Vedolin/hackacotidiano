@@ -1,0 +1,61 @@
+ANALISTA DE INFRAESTRUTURA
+Dados Pessoais
+19 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de Infraestrutura
+Salário
+Mínimo aceitavel: R$ 3.500,00
+Pretendido: R$ 4.000,00
+Resumo do currículo
+Em 4 anos de estudo e trabalho, tenho acumulado um forte conhecimento em:
+
+* Fornecer infra-estruturas escaláveis de alta disponibilidade e de missão crítica; * Computação em nuvem e ambientes de datacenter; * Excelente conhecimento em Linux; * Proativo, solução de problemas;
+
+Mais alguns conhecimentos:
+
+* Administração de sistemas operacionais * Linux (Debian, Ubuntu Server e CentOS) * VyOS, Cisco IOS
+
+* Serviços e Aplicações * KeepAlived, Bind, HAProxy * HeartBeat, ACL, Iptables * NAT, OpenVPN, IPV4, IPV6 * Quagga, Zabbix, VLAN * OSPF, BGP, RIP
+
+* Nuvem / Virtualização / Automação * Apache CloudStack * VMWare, XenServer * ScaleIO * GNS3, VirtualBox * Docker, Ansible, Chef, Puppet
+
+LinkedIn: www.linkedin.com/in/fboliveira38
+Escolaridade
+Univel
+Computação/Informática - Superior cursando - Analise e Desenvolvimento de Sistemas
+02/2017 - 11/2019
+Cursos importantes
+SENAI
+Técnico em Redes de Computadores, 2 Anos - 11/2015
+4Linux
+Ferramentas de Automação Devops com Ansible, Chef e Puppet, 1 Mês - 06/2017
+DlteC
+Ccna Ccent (100-101), 3 Mêses - 06/2016
+DlteC
+Linux Essentials, 1 Mês - 08/2016
+Udemy
+Vmware Vsphere 6.5 - Configurando Um Laboratório Vmware, 1 Mês - 04/2017
+Shape Blue
+Apache Cloudstack, 3 Dias - 07/2016
+Udemy
+Ccna Data Center, 1 Mês - 09/2016
+DlteC
+Cisco Network Management, 1 Mês - 05/2015
+Udemy
+Virtualizando com Citrix Xenserver, 1 Mês - 07/2016
+NIC br
+Gter-43-gts-29, 2 Dias - 05/2017
+LACNIC
+Lacnic 27, 5 Dias - 05/2017
+Experiências profissionais
+Analista de Data Center
+Somente para Assinantes, Serviços
+Salário final: R$ 3.000,00 ( 01/2016 - Até hoje)
+
+Fornecer infra-estruturas escaláveis de alta disponibilidade e de missão crítica, Computação em nuvem e ambientes de datacenter, solução de problemas, administração de sistemas operacionais (Linux, Windows), Apache CloudStack, ScaleIO, XenServer, vSphere 6, VPN, BGPv4, VLAN, Firewall.
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Puppet Chef Windows Server Networking Lvm Cloud Computing Ansible Docker Scaleio Xenserver Vmware Apache Cloudstack Vlan Zabbix Quagga Ipv6 Ipv4 Bgp Ospf Haproxy Bind Keepalived Cisco Ios Vyos Centos Ubuntu Server Debian

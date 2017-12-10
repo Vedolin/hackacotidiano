@@ -1,0 +1,45 @@
+ESTAGIÁRIO
+Dados Pessoais
+22 anos, Masculino
+
+
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Estagiário
+
+Salário
+Mínimo aceitavel: R$ 500,00
+
+Resumo do currículo
+Faço engenharia de controle e automação, na faculdade Boa Viagem(FBV). Atualmente estou no 5 período no turno da noite. Criei um tênis para deficientes visuais e apresentei na World Maker Faire em Nova Iorque no ano de 2015. Sou do grupo de robótica Maracatronics da UFPE e cursei ciências da computação até o 3 período. Sou fluente em Inglês e atualmente curso alemão. Procuro estágios ou empregos nas áreas de Engenharia ou TI , sou motivador e sempre em busca de novos desafios.
+
+Escolaridade
+Faculdade Boa Viagem
+Engenharia de Controle e Automação - Superior cursando
+
+03/2015 - 12/2020
+
+Cursos importantes
+Fuctura
+Arduino Básico, 4 Semanas - 07/2014
+
+CESAR
+Curso Node Mcu, 8 Horas - 04/2017
+
+UFPE
+Solidworks Intermediário, 40 Horas - 08/2017
+
+Experiências profissionais
+Inovação
+Somente para Assinantes, Estágio
+
+Salário final: R$ 878,00 ( 10/2015 - 07/2016)
+
+
+Fiquei por um período de 6 meses como analista de suporte das ferramentas do pacote Office e ferramentas da IBM. Após isso, fiquei 2 meses não área de inovação.
+
+Idiomas
+Alemão - Técnico  Inglês - Fluente
+Habilidades e qualificações
+Linguagem C - Intermediária Arduino e Microcontroladores Conhecimento Avançado em Hardware Desenvolvimento de Peças em 3d Comsolidworks Impressão 3d Automação Iot com Nodemcu

@@ -1,0 +1,74 @@
+Ney Simões
+Desenvolvedor Front-end Sênior
+Summary
+Desenvolvedor front-end com seis anos de experiência no mercado, nesse tempo já passei por empresas como UOL, CI&T, e-Construmarket, Beleza Na Web, etc...
+Habilidades e interesses:
+- HTML (e linguagens de template como Nunjucks, Pug...)
+- CSS (Stylus, Sass, Less e PostCSS)
+- JS (VanillaJS, jQuery, AngularJS, NodeJS, D3.js...)
+- Testes unitários e de integração/e2e (ProtractorJS, Jest, Jasmine, Karma...) - Task runners (grunt, gulp, webpack)
+- Back-end (NodeJS e Scala)
+- Mobile (Ionic Framework, Cordova, Phonegap)
+Experience
+Desenvolvedor Front-end Sênior at Escale Brasil
+April 2017 - Present
+Desenvolvedor front-end Pleno at Beleza na Web
+October 2015 - March 2017 (1 year 6 months)
+Front-end Developer, working with AngularJS 1.5, NodeJS, stylus, PostCSS, Gulp and RESTful APIs. Trabalhei na construção da nova plataforma de e-commerce da Beleza Na Web.
+O front de todos os sistemas (loja, backoffice e lojas parceiras) conta com uma stack de CSS de minha autoria
+usando Stylus, PostCSS e bootstrap.
+Para automatização de tarefas usamos scripts em shell e GulpJS.
+O gerenciamento de dependências é feito em NPM e Bower.
+O front é integrado com as APIs RESTful do backend.
+As páginas da loja, carrinho, minha conta e checkout são feitos em AngularJS e jQuery.
+O painel administrativo Backoffice também foi feito em AngularJS.
+Monitoramos erros e performance, usando ferramentas como webpagetest, gtmetrix, yslow, google page
+speed, dareboost.
+Logs na ferramenta splunk e performance no New Relic.
+Desenvolvedor Font-end Pleno at CI&T
+November 2014 - August 2015 (10 months)
+  Page 1
+Front-end and Mobile Developer working with Ionic, AngularJS, Sass, GruntJS and IBM Worklight (Mobile First).
+Fui alocado no projeto do Banco Original no desenvolvimento do aplicativo do cliente.
+Desenvolvemos usando o framework IBM Worklight, hoje conhecido como Mobile First que é baseado no
+Cordova e Phonegap. Usamos componentes do Ionic feitos em Sass e AngularJS.
+O aplicativo era integrado com APIs RESTful do back-end.
+Fui responsável por definir a arquitetura CSS, o pré-processador usado no projeto e também em automatizar
+as tarefas com GrunJS.
+Ministrei treinamentos e workshops para a equipe e na empresa sobre Sass e arquiteturas CSS.
+Front-end Developer
+January 2014 - February 2015 (1 year 2 months)
+Front-end Developer working on any projects with jQuery, ZeptoJS, VanillaJS, Sass, Grunt and AngularJS.
+Alguns projetos que trabalhei como freela:
+Aplicativo BEAUTYX:
+Fiquei alocado na startup trabalhando no aplicativo híbrido feito em Phonegap usando JavaScript puro em
+sua maior parte, ZeptoJS, Sass e GruntJS. O aplicativo que está no ar hoje é o mesmo que eu trabalhei e está
+disponível para iOS e Android.
+Android: https://play.google.com/store/apps/details?id=com.beautyx.app iOS: https://itunes.apple.com/br/app/beautyx/id935087224?mt=8
+Website Serverloft:
+Trabalhei remoto no site da Serverloft, usei jQuery, Sass e GruntJS. O site passou por algumas mudanças
+depois, mas em sua maioria o que existe hoje foi o que eu fiz na época. Site: http://www.serverloft.com.br/
+Projeto "Cuidado do Seu Dinheiro" - Natura:
+Fui responsável pelo front-end do projeto Cuidado do Seu Dinheiro da Natura que visava ensinar as
+consultoras a cuidar melhor do dinheiro e estoque dos produtos. Consistia em aproximadamente 60 telas
+simples que fariam parte de um passo-a-passo com interações e rota feitas em AngularJS. Projeto interno, não estava disponível na web.
+Desenvolvedor Front-end Junior at UOL
+April 2013 - April 2014 (1 year 1 month)
+Front-end Developer working with jQuery, Sass, Grunt and Velocity.
+Page 2
+Trabalhei na equipe do UOL Cloud dentro do UOL Host, desenvolvendo o painel administrativo do cliente. As tecnologias utilizadas foram jQuery, Sass e para o template Velocity. A automatização de tarefas era feita em GruntJS.
+Web Designer at e-Construmarket
+2011 - 2013 (3 years)
+Web Designer working with HTML, CSS, JS, Photoshop, Flash and Corel. Desenvolvimento de páginas páginas para o Portal AECWeb.
+Criação de banners animados em flash.
+Criação gráfica da página das marcas no Portal AECWeb.
+Desenvolvimento, criação e disparos de emails marketing.
+Desenvolvimento de hotsites de eventos do Construcompras e Costrumanager.
+Education
+Universidade de Mogi das Cruzes
+Marketing, 2011 - 2012
+  Page 3
+Ney Simões
+Desenvolvedor Front-end Sênior
+Contact Ney on LinkedIn
+          Page 4

@@ -1,0 +1,49 @@
+PROGRAMADOR
+Dados Pessoais
+22 anos, Masculino
+
+
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+
+Salário
+Mínimo aceitavel: R$ 600,00
+
+Pretendido: R$ 800,00
+
+Resumo do currículo
+Área de Formação :Análise e Desenvolvimento de Sistemas.
+
+Experiência: 1 mês e 3 dias na empresa Eagle Inteligência Digital.
+
+Realizações profissionais: Monitor da disciplina Algoritmo e Programação I realizado em c++, no período de Abril a Julho de 2015 no IFRS-Campus Osório.
+
+Habilidades e Competências: - Grande vontade de aprender. - Facilidade de Aprendizagem. -Autodidata.
+
+- Português (Fluente). - Inglês (Intermediário). - Espanhol (Básico). - Libras (Básico).
+
+Conhecimentos:
+
+- Web: HTML5,HTML, CSS3, JavaScript ,AngularJS, jQuery,jQueryUI, Bootstrap,Joomla e PHP(Orientado a Objetos). - Bancos : PostgreSQL e MySQL. - Programação : Android, Java Orientado a Objetos e C++. - Conhecimentos Básicos em: Programação com objetos distribuídos(RMI, MPI e Web Service), Sistema Linux , Shell Script e Haskell.
+
+Escolaridade
+IFRS- Campus Osório
+Computação/Informática - Superior incompleto - Analise e Desenvolvimento de Sistemas
+
+02/2014 - 12/2017
+
+Experiências profissionais
+Programador back end
+Somente para Assinantes, Estágio
+
+Salário final: R$ 850,00 ( 06/2017 - 07/2017)
+
+
+Criação do modelo ER,Atualização da versão do PHP da 5.2 para 5.6 e Correção de código usando CMS Joomla.
+
+Idiomas
+Espanhol - Básico  Inglês - Técnico
+Habilidades e qualificações
+Comunicação Interpessoal Utilização de Framework para Back End e Front End Modelagem de Banco e Dados Desenvolvimento Front End Desenvolvimento Back End

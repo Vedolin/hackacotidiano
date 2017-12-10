@@ -1,0 +1,47 @@
+PROGRAMADOR
+Dados Pessoais
+26 anos, Masculino
+
+
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+
+Salário
+Mínimo aceitavel: R$ 2.000,00
+
+Pretendido: R$ 4.000,00
+
+Resumo do currículo
+Sou desenvolvedor front-end e back-end para web com mais de seis anos de experiência. Já trabalhei em vários projetos de pequeno e médio porte com grande apelo a gestão empresarial e medicina. Possuo conhecimento em diversas tecnologias, as principais são: PHP, NODE JS, Jquery, HTML5, CSS3, Codeigniter (Framework PHP), Laravel (Framework PHP), Slim Framework (Framework PHP), Twitter Bootstrap, Angular JS (Framework front-end JS), entre outros.
+
+Escolaridade
+Estácio de Sá
+Computação/Informática - Superior cursando - Análise e Desenvolvimento de Software
+
+01/2015 - 06/2017
+
+Cursos importantes
+Externato Campista
+Técnico de Informática, 1 Ano e 6 Meses - 12/2012
+
+Experiências profissionais
+Desenvolvedor web front-end e back-end
+Somente para Assinantes, Informática/ Tecnologia
+
+Salário final: R$ 1.800,00 ( 03/2012 - 04/2014)
+
+
+Desenvolver aplicações de pequeno e médio porte. Era responsável pelo front-end e back-end (PHP).
+
+Desenvolvedor web front-end e back-end
+Somente para Assinantes, Informática/ Tecnologia
+
+Salário final: R$ 2.400,00 ( 05/2014 - Até hoje)
+
+
+Analisar requisitos, Modelar banco de dados e Desenvolver (Front-end e Back-end).
+
+Idiomas
+Inglês - Intermediário
