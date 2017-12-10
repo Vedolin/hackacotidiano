@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    h1 Confira as suas informações
+    h2 Descrição:
+    h3= coisas.desc
+    h2 Quantidade de currículos desejados:
+    h3= coisas.qtRet
+
+    form(method="get", name="form1", action="/webhook", enctype="multipart/form-data")
+      div.actions
+        button.btn.primary(type="submit") Confirm

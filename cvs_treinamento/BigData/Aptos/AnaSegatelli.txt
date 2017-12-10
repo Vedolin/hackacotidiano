@@ -12,11 +12,11 @@ ETL com PySpark, Hadoop, Hive, DataStage, Hbase, Redis.
 Analista DBM BI at MarketData
 agosto de 2014 - fevereiro de 2016 (1 ano 7 meses)
 Empresa atendida: Santander.
-• Levantamento de regras de negócio;
-• Criação, manutenção de objetos de banco e pl/sql (procedures, packages, triggers, índices, particionamento e
+•Levantamento de regras de negócio;
+•Criação, manutenção de objetos de banco e pl/sql (procedures, packages, triggers, índices, particionamento e
 subparticionamento de tabelas, views, pks, fks, cursores);
-• ETL de grandes volumes de dados;
-• Automatização das cargas através de bats e criação de loaders; • Execução de processos em SAS;
+•ETL de grandes volumes de dados;
+•Automatização das cargas através de bats e criação de loaders; • Execução de processos em SAS;
 • Criação de tabelas dinâmicas.
 • Criação de indicadores para relatórios.
 Analista funcional at Keyrus do Brasil

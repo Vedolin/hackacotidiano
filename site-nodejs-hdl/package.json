@@ -1,0 +1,25 @@
+{
+	"name": "express-upload-amazon-s3",
+	"version": "0.0.4",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ryanhanwu/express-upload-amazon-s3"
+	},
+	"dependencies": {
+		"aws-sdk": "*",
+		"delay": "^2.0.0",
+		"express": "latest",
+		"flow": "*",
+		"jade": "*",
+		"multer": "*",
+		"request": "^2.83.0",
+		"underscore": "*"
+	},
+	"license": {
+		"type": "MIT",
+		"url": "http://ryanwu.mit-license.org"
+	}
+}
