@@ -1,0 +1,51 @@
+
+ANALISTA DE DESENVOLVIMENTO SISTEMAS
+Dados Pessoais
+30 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de desenvolvimento sistemas
+Analista programador
+Programador
+Salário
+Mínimo aceitavel: R$ 4.000,00
+Pretendido: R$ 5.000,00
+Resumo do currículo
+•	Experiência de mais de 7 anos na área de desenvolvimento de sistemas para mercado financeiro, sendo os últimos anos dedicados meios de pagamento eletrônicos. 
+
+•	Participação em projetos e desenvolvimento de sistema em mainframe, programação em COBOL e JCL com banco de dados DB2 e IMS.
+
+•	Domínio das ferramentas: Endevor, Changeman, rumba, ambientes TSO e ROSCOE. •	Análise e desenvolvimento de sistemas transacionais para captura, aprovação, processamento e liquidação de transações financeiras de crédito, débito, bandeiras privadas e voucher. • Tratamento de transações administrativas, com movimentos que ultrapassam 10 milhões de transações diárias, e em volume superior a 1000 tps. •	Experiente no gerenciamento de projetos, envolvendo o controle de demandas, definição do cronograma, negociação de prazos e escopo, assegurando o cumprimento dos prazos, custos e qualidade. •	Formada em sistemas de informação e pós-graduada em Gestão de TI.
+Escolaridade
+FIAP
+Computação/Informática - Pós-graduação completa - Gestão em Ti
+03/2014 - 05/2015
+Uniban
+Computação/Informática - Superior completo - Analise de Sistemas
+03/2008 - 10/2012
+Experiências profissionais
+Analista de sistemas
+Somente para Assinantes, Bancário
+Salário final: R$ 6.000,00 ( 01/2014 - 10/2016)
+
+•	Desenvolvi um projeto que permitiu com que a Rede transitasse com os dados do cliente por uma fila file transfer, homologuei junto ao Banco Itaú para conferência do processo e implementei o sistema garantindo a correta transferência de valores da conta do cliente. Este projeto garantiu a redução de perda nas cobranças por meio de um sistema totalmente automatizado. •	Elaborei o planejamento, defini requisitos funcionais, fiz o desenho lógico e contratei Fábrica de software para realizarem o desenvolvimento de um sistema de cobrança direto da conta do cliente para o Bradesco. Monitorei o desenvolvimento, controlei o orçamento, realizei a homologação do sistema junto ao usuário e implantei o projeto de Troca de arquivo entre a Rede e o Bradesco, reduzindo a perda nos recebíveis de aluguel das maquininhas entre outras cobranças. •	Realizei toda a gestão e implantação do Projeto de troca de arquivo entre Rede e Banco Santander, permitindo aumentar o lucro financeiro de cobranças de tarifas dos clientes da Rede com este projeto totalmente automatizado. • Desenvolvi e implantei um sistema que verificava se a data de vencimento de uma compra parcelada estava sendo calculada corretamente, garantindo que a respectiva data não fosse um feriado regional ou estadual, com isso pude contribuir para o aumento do lucro da empresa em 5 bilhões ano, considerando que uma compra parcelada garante maior tempo para se trabalhar com os valores antes que o mesmo seja repassado para o cliente
+Analista de sistemas
+Somente para Assinantes, Bancário
+Salário final: R$ 4.500,00 ( 11/2013 - 02/2014)
+
+•	Desenvolvi, homologuei e implantei um sistema que previa uma série de melhorias no sistema já utilizado para o Banco Santander, após este upgrade o sistema ficou mais rápido e mais confiável, pois foi revisto todos os cálculos que eram realizados antes e foram retirados vários Hard code no código-fonte.
+Analista de sistemas
+Somente para Assinantes, Bancário
+Salário final: R$ 2.500,00 ( 06/2010 - 07/2013)
+
+•	Desenvolvi e implantei o projeto de Cobrança, segurança lógica e Bancos falidos para o cliente Bradesco. •	Desenvolvi alguns programas de atualização de sistema para o Itaú e Santander.
+Analista programador
+Somente para Assinantes, Bancário
+Salário final: R$ 2.500,00 ( 11/2008 - 07/2010)
+
+•	Atuei no Desenvolvimento de programas para o cliente Santander
+Idiomas
+Inglês - Básico
+Habilidades e qualificações
+Levantamento de Requisitos Analista de Sistemas Programadora

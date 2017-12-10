@@ -1,0 +1,58 @@
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+46 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Salário
+Mínimo aceitavel: R$ 7.500,00
+Pretendido: R$ 10.000,00
+Resumo do currículo
+Administrador de Banco de Dados Oracle, SQL Server e MySQL e Profissional Big Data. Graduado em Ciências da Computação. Certificação DBA Oracle 11G: Administration OCP, Certificação DBA Oracle 9i: Administration OCP. Inglês fluente. Experiência em extração de informações estratégicas através de conceitos de Bigdata usando ecossistema Hadoop (Ambari, Hive, MapReduce, HDFS), administração, análise e desenvolvimento, tuning de banco e aplicações, criação de ambientes virtualizados para banco de dados, políticas de backup e recuperação usando ferramentas export/import e RMAN, auditoria de banco, implementação e administração Oracle RAC em storage ASM, implementação e administração DataWarehouse, modelagem relacional e dimensional, PL/SQL, Forms Reports, processos ETL. Conhecimento e experiência avançada em ambiente AIX, SUN, Linux.
+Escolaridade
+Fundação Getúlio Vargas
+Computação/Informática - Superior completo - Big Data e Data Science
+09/2016 - 01/2017
+Centro Universitário La Salle
+Computação/Informática - Superior completo
+01/1997 - 12/2002
+Cursos importantes
+SENAC Informatica
+Certificação Dba Oracle 11g: Administration Ocp, 6 Meses - 10/2011
+Ensof Informática
+Certificação Dba Oracle 9i: Administration Ocp, 6 Meses - 04/2003
+Fontoura Informática
+Certificação Oracle Application Server 10g: Oca, 4 Meses - 01/2006
+Oracle University
+Certificação Oracle Soa Implementation, 3 Meses - 08/2006
+Experiências profissionais
+Engenheiro de Dados
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 9.400,00 ( 02/2017 - Até hoje)
+
+- Monitoramento e ajuste de objetos de Banco de Dados Oracle. Execução de medidas corretivas adequadas para cada situação que esteja impactando no desempenho do banco de dados. - Experiência em BI - Extração de informações estratégicas para tomada de decisão em formato tabular e em diversos formatos gráficos usando ferramentas de BI acessando tanto bases estruturadas como não estruturadas. - Conciliamento de dados de diversas fontes propondo visualizações e novas formas de análise. - Manutenção da integridade dos dados coletados durante todas as fases (construção e consumo). - Estruturação de procedimentos de captura de dados de área financeira e marketing. - Definição de análises aprofundadas para compreensão de acontecimentos atípicos de negócio.
+Administrador de Banco de Dados Oracle
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.920,00 ( 03/2013 - 08/2016)
+
+- Experiência em BI Extração de informações estratégicas para tomada de decisão em formato tabular e em diversos formatos graficos usando ferramenta de BI Tableau acessando tanto bases estruturadas como não estruturadas. - Experiência em BIG DATA Extração de dados relevantes através de conceitos de Big Data e estatísticos como Data Mining, Séries Temporais, Regressão Linear, Análises Preditivas, Modelo Sarima, usando ecossistema Hadoop (Linguagem R, Python, Ambari, Hive, MapReduce, HDFS). - Administração de objetos do Banco de Dados Oracle. Monitoramento de status e crescimento de objetos como tabela, índices e também tablespaces e respectivos datafiles, temporary tablespace e respectivos tempfile e redo log groups e respectivos redo log files. Em cada situação de falta de espaço ou outra situação que esteja impactando na performance faço análise da situação e executo medida corretiva adequada. - Experiência em Oracle RAC. Desenvolvi projetos de topologia física e lógica Oracle RAC, desde a instalação de SO, linux, configuração de parâmetros de kernel, instalação de pacotes, configuração da rede considerando que cada cluster tem 3 interfaces de rede sendo uma para rede publica e outra para rede privada, instalação de Oracle Clusterware, instalacão e configuração de storage Oracle ASM, instalação de instancias oracle RAC em cada nodo, administração de ambiente Oracle RAC sobre storage ASM.
+Administrador de Banco de Dados Oracle/SQL Server
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.900,00 ( 12/2010 - 02/2013)
+
+- Experiência em SqlServer e MySql. Instalação de bancos MySQL e SQL Server, configuração de storage com respectivos filegroups e datafiles. Configuração e administração de banco MySQL e SQL Server em ambientes OLTP e DW. Atuei em ambientes de DWs SQLServer de dezenas de TBs com tabelas fato e dimensão particionados por unidade de tempo e cada partição em filegroups distintos. - Backup e Restore com RMAN. Criação de topologia RMAN como banco que servirá como repositório do RMAN, parametrização do ambiente, criação de scripts e jobs para atender requisitos de backup e restore que podem ser full ou incremental. - Instalação, Upgrade, Aplicação de Patches, Parametrização, Administração. Instalação full de solução oracle desde camada física até lógica em ambiente virtualizado e físico, instalação de SO Linux, configuração de interfaces de rede, disco, mount points, memoria, usuários e grupos de usuário, instalação de packages RPM, definição de parâmetros de kernel, instalação de SGBD Oracle, criação de tablespaces em discos distribuídos visando máxima performance, criação de usuário e perfis de usuários considerando adequação a cada grupo de privilégios, criação do banco através de scripts ou ferramenta DBCA. Parametrização do banco em termos de storage, memória e demais parâmetros visando máxima performance. - Experiência em Oracle GoldenGate. Uso de Oracle GoldenGate e seus processos de extração e replicação para população de DW Oracle a partir de banco SQL Server.
+Administrador de Banco de Dados Oracle
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.500,00 ( 03/2009 - 11/2010)
+
+- Performance Tuning, Troubleshooting. Tarefas de Troubleshooting como tunning de aplicações e de ambiente de banco de dados incluindo detecção e ajuste de categorias de problemas que implicam baixa performance no banco, detecção e ajuste de tablespaces e segmentos do banco que estão próximos de seu limite de espaço, análise e otimização de indexação e uso de espaço em ambiente DataWarehouse, análise e otimização da lógica de uso de recursos de banco classificados por perfis de usuários usando Oracle Resource Manager, ajuste de SGA, ajuste de taxa de acerto baixa no buffer cache e shared pool. - Experiência em Oracle Data Guard. Implementação e configuração de conjunto de bancos de dados standby como solução Oracle Data Guard para servir como cópia do banco de produção focando em alta disponibilidade, proteção de dados e recuperação de desastres em caso de indisponibilidade do ambiente de produção. - Experiência em Oracle Streams. Instalação, configuração e manutenção de topologia Oracle Streams para compartilhamento de mensagens entre bancos distintos. - Experiência em Oracle Exadata em Oracle Linux. Planejamento, instalação, configuração e administração de topologia Oracle Exadata que consistia de 8 Dual-processors x64 databases servers, 14 High-Performance Storage Servers em 100 TBs High Performance Disks e 5.3 TBs de memória PCI Flash em sistema operacional Oracle Linux.
+DBA / Administrador de Oracle Application Server
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.500,00 ( 07/2006 - 11/2008)
+
+- Atuei com programação avançada PL/SQL como também fui instrutor em dezenas de cursos de PL/SQL visando performance e melhores práticas de programação.	- Planejamento, instalação, configuração, administração e manutenção de SGBD Oracle. - Planejamento e configuração de politica de segurança e privilegios de usuários. - Implementação e manutenção de jobs e rotinas de backup e restore de banco usando RMAN e ferramentas export/import. - Virtualização de ambientes para bancos de dados e servidores de aplicação usando Sun VirtualBox e VMWare Workstation incluindo criação de VMs, clonagem de VMs, instalação de SO Linux, configuração de rede, disco, mount points, memoria, usuários e grupos de usuário, instalação de packages RPM e definição de parametros de kernel. - Tuning de banco de dados. Dimensionamento, administração e monitoramento de tablespaces em sistema de arquivos e ASM. Performance e tunning de aplicações SQL e PL/SQL tendo em vista performance e adequação aos objetivos técnicos especificados. Detecção e ajuste de consultas com baixa performance ou que estejam onerando o banco. - Administração e manutenção de Oracle Application Server incluindo instalação e configuração de ambiente, deploy de aplicações, integração de sistemas coorporativos, BPEL, migração de oracle portal, gerenciamento de web cache, configurações de gerenciamento de identificação do Oracle Internet Directory por Oracle Directory Manager, Comand-Line Tools e Delegated Administration Service.
+Idiomas
+Inglês - Fluente
+Habilidades e qualificações
+Python Linguagem R Hdfs Hive Mysql Hadoop Big Data Administrador de Banco de Dados Mysql Access Word Administração de Banco de Dados Oracle Programação Oracle Plsql Excel Administração de Oracle Application Server Programação Forms Reports Administração de Banco de Dados Sql Server Powerpoint Internet

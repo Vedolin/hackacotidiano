@@ -1,0 +1,41 @@
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+24 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Analista de banco de dados
+Analista de desenvolvimento sistemas
+Salário
+Mínimo aceitavel: R$ 2.800,00
+Resumo do currículo
+USINA COLOMBO S/A AÇÚCAR E ALCOOL Cargo: Analista de Sistemas Desenvolvimento: PL/SQL (Triggers, Functions e Procedures); Html-CSS; PHP; Java Desktop e Android (Básico). Banco de dados: Oracle 10g. (Instalação e configuração); SQLServer (Instalação e configuração); MySQL (Instalação e configuração); Principais atividades: - Suporte ERP Totvs 12 (Datasul: Frotas, HCM e EMS2 Financ);-Integrador Easyconn x EAI (XML); -Gestão Totvs Agro (PIMS CANA); -Gestor de Telefonia Móvel (1200 linhas, consumo, contestação, análises e estratégias para redução de custos). -Active Directory; Exchange Server 2010; Windows Server 2008; -Chekpoint VPN; TrendMicro IMSVA; Totvs PIMS: Instalação completa do sistema, atualizações, configurações, parametrização, ajuste de objetos, Instalação e configuração do JBoss 6.1, PIMSServer, gestão de usuários, perfis, início de safra, abertura de chamados. Implantações: CUSTAG, PLATIV, Mobilidade (PIMS Mobile), Contratos Agrícola, Pagamento de Fornecedores e Serviços, LOGTRA Web. Gestão plena de todos softwares e serviços agrícolas da empresa. Conhecimento Key-user: Apontamentos (Insumos, Mecanizadas, Fitossanitários, Produção, MO, Plantio, Perdas da colheita). Ativid. E Recusos, Contratos Agrícola, Colcam, Cotrafeg, Import, GestFund, LocProd, PIMSView, RCMP e SPA. Outras tarefas: - Suporte (CMA 4; Neogrid; ExataID; Metta; SmartBio; Auteq Telemetria; Dimep; HelpDesk; Preâmbulo CPJ; Portaria, Portal Intranet, Almoxarifado Mobile, Comboio-Abastecime
+Escolaridade
+UNIRP
+Computação/Informática - Superior completo - Ciência da Computação
+01/2013 - 12/2016
+Cursos importantes
+MDL Consulting
+Sap - Módulos: Pp, Mm, Sd, Fi e Co, 10 Horas - 09/2011
+UNIRP (São José de Rio Preto)
+Int. Ao Banco de Dados Oracle, 8hrs - 06/2013
+UNIRP (São José de Rio Preto)
+Um Mundo Chamado Linux, 10hrs - 05/2013
+UNIRP (São José de Rio Preto)
+Armazenamento de Dados em Nuvem, 8hrs - 04/2013
+Microlins (Santa Adélia)
+Atendimento a Clientes, 144hrs - 10/2009
+Microlins (Santa Adélia)
+Montagem e Manutenção de Computadores, 135hrs - 04/2008
+Microlins (Santa Adélia)
+Web-designer (html, Flash, Photoshop, Corel Draw), 144hrs - 03/2007
+Experiências profissionais
+Analista de TI
+Somente para Assinantes, Agro-Indústria/ Pecuária/ Pesca
+Salário final: R$ 2.000,00 ( 11/2014 - Até hoje)
+
+USINA COLOMBO S/A AÇÚCAR E ALCOOL Cargo: Analista de Sistemas Desenvolvimento: PL/SQL (Triggers, Functions e Procedures); Html-CSS; PHP; Java Desktop e Android (Básico). Banco de dados: Oracle 10g. (Instalação e configuração); SQLServer (Instalação e configuração); MySQL (Instalação e configuração); Principais atividades: - Suporte ERP Totvs 12 (Datasul: Frotas, HCM e EMS2 Financ);-Integrador Easyconn x EAI (XML); -Gestão Totvs Agro (PIMS CANA); -Gestor de Telefonia Móvel (1200 linhas, consumo, contestação, análises e estratégias para redução de custos). -Active Directory; Exchange Server 2010; Windows Server 2008; -Chekpoint VPN; TrendMicro IMSVA; Totvs PIMS: Instalação completa do sistema, atualizações, configurações, parametrização, ajuste de objetos, Instalação e configuração do JBoss 6.1, PIMSServer, gestão de usuários, perfis, início de safra, abertura de chamados. Implantações: CUSTAG, PLATIV, Mobilidade (PIMS Mobile), Contratos Agrícola, Pagamento de Fornecedores e Serviços, LOGTRA Web. Gestão plena de todos softwares e serviços agrícolas da empresa. Conhecimento Key-user: Apontamentos (Insumos, Mecanizadas, Fitossanitários, Produção, MO, Plantio, Perdas da colheita). Ativid. E Recusos, Contratos Agrícola, Colcam, Cotrafeg, Import, GestFund, LocProd, PIMSView, RCMP e SPA. Outras tarefas: - Suporte (CMA 4; Neogrid; ExataID; Metta; SmartBio; Auteq Telemetria; Dimep; HelpDesk; Preâmbulo CPJ; Portaria, Portal Intranet, Almoxarifado Mobile, Comboio-Abastecime
+Idiomas
+Inglês - Intermediário
+

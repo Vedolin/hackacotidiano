@@ -1,0 +1,32 @@
+
+WEB DEVELOPER
+Dados Pessoais
+25 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Web developer
+Salário
+Mínimo aceitavel: R$ 5.000,00
+Pretendido: R$ 6.000,00
+Resumo do currículo
+Acumulo aproximadamente 8 anos de experiência em projetos web atuando em agências digitais consolidadas da Grande Florianópolis, projetos freelancers e atualmente ofereço meus serviços para um dos mais expressivos e-commerces de produtos odontológicos do Brasil.
+
+Embora tenha conhecimento em diferentes tecnologias, sou especializado em HTML5, CSS3 e Javascript. Apaixonado por metodologias ágeis (He <3 Scrum), código limpo, projetos organizados e modulares.
+
+Minha missão é agregar valor ao negócio em que atuo, aprimorando cada vez mais meus conhecimentos na área.
+Escolaridade
+Estácio de Sá
+Computação/Informática - Superior cursando - Gestão da Tecnologia da Informação
+02/2017 - 06/2019
+Experiências profissionais
+Front-end developer
+Somente para Assinantes, Internet
+Salário final: R$ 4.000,00 ( 06/2014 - Até hoje)
+
+Como desenvolvedor front-end, minhas responsabilidades incluem criar e desenvolver o e-commerce, aplicativos mobile, hotsites institucionais e sistemas web.
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+E-commerce Php Nodejs Npm Gulp Agile Git Sass Javascript Jquery Angularjs Css3 Html5
+

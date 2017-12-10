@@ -1,0 +1,37 @@
+Priscilla Marinho
+Analista Big Data
+Orientada a resultados, busco oportunidades desafiadoras para crescer e otimizar os processos da empresa.
+Experience
+Consultora Big Data at everis
+março de 2017 - Present
+Atuo com desenvolvimento de projetos de Big Data, apoiando principalmente a parte de ingestão de dados no ecossistema Hadoop em grandes instituições financeiras. Principais tecnologias com quais trabalho: armazenamento em ambiente Big Data utilizando HDFS, Hbase, Hive; desenvolvimento de processos Real Time utilizando Kafka, Flume; desenvolvimento de scripts python.
+Analista de negócios at Finity Consultoria
+fevereiro de 2016 - fevereiro de 2017 (1 ano 1 mês) Estagiária at FIAP
+agosto de 2014 - dezembro de 2015 (1 ano 5 meses)
+Education
+FIAP
+04143-050, Curso Superior de Tecnologia em Analise e Desenvolvimento De Sistemas, 2014 - 2016
+Honors and Awards
+3o Lugar - Bolsa Mérito, HACKATHON ISBAN - 3o Lugar, Certificados FIAP Qualified - Selo Ouro
+    Page 1
+Priscilla Marinho
+Analista Big Data
+
+SAP 
+Microsoft Excel 
+UML 
+Análise de requisitos 
+Modelagem dimensional 
+Oracle SQL Developer 
+Microsoft Office 
+Desenvolvimento de software 
+Microsoft Windows 
+SQL 
+Databases 
+OLAP 
+Banco de dados 
+Algoritmo 
+Scrum
+Python 
+Hive 
+          

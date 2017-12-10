@@ -1,0 +1,55 @@
+ANALISTA DE BANCO DE DADOS
+Dados Pessoais
+42 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de banco de dados
+Analista de desenvolvimento sistemas
+Consultor de sistemas
+Salário
+Mínimo aceitavel: R$ 8.000,00
+Pretendido: R$ 10.000,00
+Resumo do currículo
+Carreira com mais de quatorze anos de experiência na área de TI como Analista Programador Oracle atuado em projetos e sustentação de Sistemas em Oracle Forms/Reports 4.5/6i/10G/11G, realizando levantamento de requisitos, modelagem de dados, análise e programação em PL/SQL com Banco de Dados Oracle 8i/9i/10G/11G, Tuning de SQL, migração de dados entre Sistemas, desenvolvimento e integração de interfaces (TXT e XML). Conhecimentos em Delphi, Java (básico), SQLServer e nas ferramentas ErWin, ErStudio, Oracle Designer, Oracle Discoverer e PL/SQL Developer.
+Escolaridade
+UNIPAR
+Computação/Informática - Superior completo - Tecnologia da Informação
+01/1999 - 12/2002
+Cursos importantes
+Megawork
+Melhores Praticas para Desenvolvimento com Oracle Forms, 16 Horas - 10/2011
+Megawork
+Melhores Praticas para Desenvolvimento com Pl/sql, 16 Horas - 10/2011
+CNA
+Inglês Nível 1 (básico), 6 Meses - 12/2013
+Experiências profissionais
+Analista Programador Oracle
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.000,00 ( 09/2012 - 08/2014)
+
+Atuação: Análise, modelagem, desenvolvimento e manutenção de Sistema de Transporte (Sistemas de Transportes), Manutenção de Sistema legado, Tunning de SQL, desenvolvimento de interfaces txt e xml treinamento e suporte aos Usuários; Ferramentas: Linguagens Oracle Forms/Reports 6i, Designer 2000, Oracle Discoverer, PL/SQL Developer e Banco de Dados Oracle 9i/10G.
+Analista Programador Oracle
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.000,00 ( 08/2014 - Até hoje)
+
+Atuação: Análise, levantamento de requisitos, modelagem, desenvolvimento e manutenção de Sistema Cartão de Crédito (Pernambucanas e Mastercard),  Tuning de SQL, migração de dados, desenvolvimento de interfaces txt e XML, treinamento e suporte aos Usuários; Ferramentas: Linguagens Oracle Forms/Reports 6i/10G, Designer 2000, PL/SQL Developer e PL/SQL com Banco de Dados Oracle 10G/11G.
+Analista de Sistemas Oracle
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 9.000,00 ( 03/2006 - 09/2012)
+
+Segmento: Consultoria e Desenvolvimento de Sistemas; Função: Analista Programador Oracle; Atuação: Análise, levantamento de requisitos, modelagem, desenvolvimento e manutenção de Sistema de Saúde (Intermédica - Cadastro e Faturamento), migração de dados de Sistemas legados, Tuning de SQL, treinamento e suporte aos Usuários; Ferramentas: Linguagens Oracle Forms/Reports 4.5/6i, Designer 2000, PL/SQL Developer e PL/SQL com Banco de Dados Oracle 8i/9i/10G e SQL Server.
+Analista Programador Oracle
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.500,00 ( 06/2005 - 03/2006)
+
+Segmento: Consultoria e Desenvolvimento de Sistemas; Função: Analista Programador Oracle; Atuação: Análise, levantamentos, desenvolvimento e manutenção de Sistema Bancário de Empréstimos PJ (CitiBank); Ferramentas: Linguagens Oracle Forms/Reports 6i, PL/SQL Developer e PL/SQL com Banco de Dados Oracle 8i/9i.
+Analista Programador Oracle
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 02/2003 - 06/2005)
+
+Segmento: Consultoria e Desenvolvimento de Sistemas; Atuação: Análise, levantamentos, manutenção e desenvolvimento de Sistemas em diversos segmentos como Plano de Saúde (UNIMED e CAAPSML), Cadastro de Clientes, Faturamento, Vendas, WMS (CATIVA, Itamarati e DB1), Controladoria (UNIMED) e Contábil (CATIVA); Ferramentas: Linguagens Oracle Forms/Reports 6i, Delphi5/6, PL/SQL Developer e PL/SQL com Banco de Dados Oracle 8i/ 9i. Ferramenta Case ERStudio e ErWin.
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Iniciativa e Auto Gestão Flexibilidade Visão do Negócio Foco No Cliente Bom Relacionamento Interpessoal Capacidade de Liderança

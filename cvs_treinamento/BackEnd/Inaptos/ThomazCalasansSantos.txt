@@ -1,0 +1,52 @@
+Thomaz Calasans dos Santos
+Cientista de Dados em Itau
+Resumo
+Eu sou um aprendiz ao longo da vida. Inspirado no conhecimento sobre dados e na criação de valor real para as pessoas. Atualmente, estou cursando um Mestrado em Aprendizagem Profunda / Aprendizagem de Máquinas na USP e trabalhando como Cientista de Dados no Itaú Unibanco com uma ótima equipe, comunidade e liderança.
+Experiência
+Cientista de Dados no Itaú
+setembro de 2016 - presente
+Trabalhando em casos selecionados de toda a empresa, fornecemos soluções de ponta para esses problemas em termos de técnicas de aprendizado de máquinas e infra-estrutura de informática paralela, deixando um legado de ferramentas de longo prazo para a organização.
+Estagiário do Itaú Unibanco
+novembro de 2014 - setembro de 2016 (1 ano 11 meses)
+Análise e otimização do portfólio de recuperação de débito do Itaú. Focando em canais e estratégias digitais.
+Desenvolvedor de software
+outubro de 2013 - outubro de 2014 (1 ano 1 mês)
+Desenvolvimento e teste de um sistema baseado em java para telecomunicações. Usado como suporte sql e nosql
+tecnologia. Os projetos foram desenvolvidos através da metodologia Scrum com reuniões diárias com clientes americanos.
+Desenvolvedor de software da Innovatech Telecom
+novembro de 2011 - novembro de 2012 (1 ano 1 mês)
+Manutenção e otimização de software com base no protocolo GSM / GPRS e 3G-WCDMA incorporado
+(Linux). Desenvolvimento de Interface Web para controle e configuração de sistemas embarcados (Linux).
+Educação
+Universidade de São Paulo
+Mestrado, Aprendizagem de Máquinas - Aprendizagem Profunda, 2017 - 2018
+Fundação Getulio Vargas
+Cursos de Curto Prazo, Estatísticas Avançadas, 2015 - 2015
+Saint Paul Escola de Negócios
+Cursos de Curto Prazo, Banca e Finanças, 2014 - 2015
+FIA - Fundação Instituto de Administração
+   Página 1
+Especialização, Aprendizagem de Máquinas, 2017 - 2017
+Universidade Estadual de Campinas
+Bacharel em Engenharia (B.E.), Informática, 2008 - 2014
+ Página 2
+Thomaz Calasans dos Santos
+Cientista de Dados em Itau
+
+
+Machine Learning
+ 
+Recomendada 
+Data Science
+ 
+Recomendada 
+Deep Learning
+Spark
+Python
+Tensorflow
+R
+Big Data
+Hadoop
+Hive
+Computer Science
+Git

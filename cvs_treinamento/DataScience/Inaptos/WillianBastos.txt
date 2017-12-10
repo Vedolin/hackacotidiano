@@ -1,0 +1,35 @@
+
+ENGENHEIRO DE AUTOMAÇÃO
+Dados Pessoais
+35 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Engenheiro de Automação
+Salário
+Mínimo aceitavel: R$ 9.000,00
+Pretendido: R$ 12.000,00
+Resumo do currículo
+Durante os últimos 10 anos de minha carreira tenho trabalhado buscando aplicar o estado da arte em tecnologia com base em normas internacionais de boas práticas, tendo como referência a ISA e ASM. Fui autor de trabalhos como: •	Desenvolvimento de sistema para monitoramento das elevatórias de esgoto da Grande Vitória via rede de telefonia celular; • Primeira aplicação de controle avançado preditivo na Samarco (moinho de carvão); •	Projeto e desenvolvimento com mão de obra própria da primeira célula robótica da Samarco (medição de umidade de pellet feed em campo); •	Desenvolvimento do padrão e documento de filosofia de alarmes para as salas de controle; •	Migração das telas de operação da Usina 3, pátio e porto para o padrão do consórcio ASM; •	Co-autor dos padrões de projeto de lógica de controladores da Usina 4; •	Co-autor dos padrões de projeto para redes industriais Profibus e Fieldbus da Samarco; •	Participação ativa do comissionamento das Usinas 3 e 4.
+
+Durante 5 anos desenvolvi projetos Lean Six Sigma como Black Belt e Desgin For Six Sigma, sempre voltados a área de melhoria e otimização do processo produtivo. 
+
+Nós últimos meses ajudei nos esforços para gerenciamento da crise iniciada devido ao rompimento da barragem de Fundão. Atuei na área de topografia, mapeamento 3D, inspeções utilizando Drones e monitoramento ambiental com estações telemétricas para medição da qualidade da água do rio Doce.
+Escolaridade
+Universidade Federal do Espírito Santo
+Engenharia Eletrônica - Pós-graduação completa - Controle e Automação
+06/2000 - 12/2005
+Cursos importantes
+Universidade de Uberaba
+Especialização em Automação Industrial, 18 Meses - 06/2008
+Experiências profissionais
+Engenheiro de Automação
+Somente para Assinantes, Mineração
+Salário final: R$ 12.000,00 ( 06/2006 - Até hoje)
+
+Responsável administração e manutenção dos sistemas de automação dos 4 fornos, pátio e porto. Desenvolver projetos Lean Seis Sigma de melhoria continua. Conduzir projetos de capital, CAPEX, utilizando metodologia do PMI.
+Idiomas
+Inglês - Avançado
+Habilidades e qualificações
+Monitoramento Ambiental Desenolvimento de Aplicações Embarcadas Gestão de Redes de Computadores Instrumentação Gestão de Projetos de Capital Programação de Plc/ Dcs
+

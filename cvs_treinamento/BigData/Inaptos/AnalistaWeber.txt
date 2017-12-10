@@ -1,0 +1,84 @@
+
+ANALISTA PROGRAMADOR
+Dados Pessoais
+40 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista programador
+Programador
+Salário
+Mínimo aceitavel: R$ 3.000,00
+Pretendido: R$ 4.000,00
+Resumo do currículo
+Graduação concluída em Automação Industrial (Mecatrônica) e cursando Ciências da Computação na Fadergs. Estou redirecionando minha carreira para a área de desenvolvimento de software. Programo em Java há cerca de 4 anos, atuando no desenvolvimento de sistemas de sistemas para o mercado financeiro, processamento distribuído com framework Jade e também no desenvolvimento de sistema de gestão do processo de corte de couro para indústria calçadista. Possuo também conhecimentos em Delphi, Labview e programação em C para microcontroladores. Na área de eletrônica atuei com projeto, desenvolvimento e integração de equipamentos eletrônicos e sistemas multimídia. Projeto de sistemas de áudio e vídeo, fonte chaveada e reprojeto de equipamentos antigos, incluindo hardware analógico e digital, além de firmware e softwares de teste e validação. Supervisor de Engenharia de Componentes na AEL Sistemas, incluindo criação, implantação e desenvolvimento do setor de engenharia de componentes, assim como a elaboração de fluxo de trabalho, procedimentos e indicadores técnicos e de desempenho.
+Escolaridade
+Unisinos
+Computação/Informática - Superior cursando
+01/2009 - 07/2018
+Universidade Estadual do RS - UERGS
+Engenharia de Controle e Automação - Superior completo
+01/2007 - 12/2011
+Fundação Esc. Téc. Liberato Salzano V. C.
+Engenharia Eletrônica - Ensino Médio Técnico
+01/1995 - 12/1999
+Cursos importantes
+Fundação Liberato Salzano V. C.
+Java, 40h - 12/2015
+Fundação Liberato Salzano V. C.
+Administrador de Sistemas Linux, 40h - 06/2014
+Experiências profissionais
+Programador desenvolvedor
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.000,00 ( 03/2016 - Até hoje)
+
+Desenvolvimento e manutenção de aplicativos para investimentos financeiros automatizados. Pesquisa e desenvolvimento de novas técnicas e estratégias de investimento.
+Programador Java
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 10/2015 - 03/2016)
+
+Revisão, correção e implementação de melhorias no sistema de gestão de máquina de corte de couro (IHM). Especificação, acompanhamento e integração dos aplicativos envolvidos no processo de corte de couro.
+Bolsista em Projetos de Inovação pelo IEL/CNPQ
+Somente para Assinantes, Engenharia
+Salário final: R$ 3.000,00 ( 06/2014 - 10/2015)
+
+Programador Java, LabVIEW e texto estruturado para CLP (ST). Pesquisa e desenvolvimento de sistemas inovadores para automação da manufatura na área de sistemas autoadaptáveis, comissionamento virtual, manutenção inteligente, gestão de energia, programação de sistemas multi-agentes em Java e plataforma JADE, elaboração de artigos científicos, manuais técnicos, apresentação pública dos sistemas desenvolvidos. Projeto e desenvolvimento de sistema de leitura de relógios analógicos automático para automação de laboratórios de metrologia (utilizando LabVIEW). Participação no projeto e desenvolvimento de máquina de corte de couros para indústria calçadista, incluído hardware e software (utilizando controlador/CLP Beckhoff).
+Projetista de produto
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+Salário final: R$ 3.800,00 ( 01/2013 - 06/2014)
+
+Projetista Eletrônico Projeto e integração de equipamentos e sistemas multimídia embarcados para ônibus, além de sistemas de entretenimento individual e coletivo. Projeto de sistemas de áudio e vídeo, fonte chaveada e reprojeto de equipamentos antigos. Pesquisa de novos produtos para entretenimento, novas tecnologias e novos serviços para melhor competitividade da empresa.
+Chefe ou supervisor de organização e métodos
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+Salário final: R$ 3.400,00 ( 01/2011 - 01/2013)
+
+Supervisor de Engenharia de Componentes Criação, implantação e desenvolvimento do setor de engenharia de componentes, assim como a elaboração de fluxo de trabalho, procedimentos e indicadores técnicos e de desempenho. Coordenação e distribuição das atividades dentro do setor, avaliação do desempenho do setor, identificação de necessidades e problemas e implantação de melhorias.
+Projetista de produto
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+Salário final: R$ 3.000,00 ( 03/2006 - 01/2012)
+
+Projetista Eletrônico Atuação no desenvolvimento de aplicativos em Labview para teste e homologação de equipamentos responsáveis pelo sistema de alimentação de satélite, neste segmento atuei também no desenvolvimento do hardware destes equipamentos, incluindo equipamentos de testes de conversores DCDC, controladores de carga e descarga de baterias, conversor shunt para painéis solares e unidade de telemetria e controle de satélites. Participei também das etapas iniciais do projeto, abrangendo desenvolvimento, seleção de componentes, serviços e fornecedores, homologação de componentes e de fornecedores, produção, testes funcionais e homologação dos próprios equipamentos espaciais, assim como elaboração de documentação técnica de controle, processos e manuais.
+Técnico eletrônico
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+Salário final: R$ 2.500,00 ( 06/2005 - 03/2006)
+
+Técnico em Eletrôncia Suporte técnico, manutenção corretiva de equipamentos automotivos e militares, microcomputadores de bordo, unidades de leitura móvel, rádio base, gravador de vídeo digital (DVR) e computador digital de dados aéreos (DADC).
+Técnico eletrônico
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+Salário final: R$ 1.800,00 ( 03/2002 - 03/2005)
+
+Técnico em Eletrônica Manutenção corretiva e preventiva em campo e em laboratório de controladores eletrônicos de velocidade (pardais) e montagem, configuração e manutenção de computadores. Conserto de câmeras de vídeo, módulos de flash eletrônico e “placas de velocidade” (circuitos com sensores indutivos e microcontrolador que calculam a velocidade do automóvel e enviam para o computador).
+Técnico eletrônico
+Somente para Assinantes, Máquinas/ Equipamentos/ Ferramentas
+Salário final: R$ 1.300,00 ( 11/2000 - 12/2001)
+
+Técnico em Eletrônica Assistência técnica de ferramentas em geral e torquímetros mecânicos e eletrônicos. Conserto de placas lógicas de torquímetros, substituição de sensores strain gauge e aferição dos equipamentos. Auxílio na manutenção e programação de equipamentos CNC.
+Técnico eletrônico
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+Salário final: R$ 1.000,00 ( 05/1998 - 09/2000)
+
+Técnico em Eletrônica Início das atividades como estagiário na área técnica no setor de produção executando montagem, revisão, testes e controle de qualidade de equipamentos eletrônicos. Após o período de estágio atuei como técnico prestando assistência técnica em laboratório e campo (atendendo clientes) e suporte ao cliente por telefone. Conserto de placas lógicas com microprocessador 8031, fontes de alimentação e conversores de padrão de comunicação (RS232 – RS485) de microterminais de consulta de dados e roletas eletrônicas.
+Idiomas
+Espanhol - Técnico  Francês - Intermediário  Inglês - Avançado
+Habilidades e qualificações
+Powerpoint Word Excel Internet Programação em Delphi Programação Labview Projetos de Sch, Pci com Altium Designer Programação em C - Ccs para Microcontroladores Pic Solidworks Programação Java Programação em C# Programação em C Access

@@ -1,0 +1,60 @@
+Nildo Garcia
+Analista Senior de Inteligência de Negócios
+Resumo
+OBJETIVO
+Arquitetura de inteligência de negócios:
+Arquitetura de inteligência de negócios, como o processo de desenvolvimento do KPI e o Painel de controle e Balanced Scorecard que precisam de conhecimento sênior. Análise de regras de negócios e Indicador de desempenho chave
+Precisão, cruzando informações do departamento para descobrir as notícias KPI's.Usando as melhores tendências para as práticas de mineração de dados. Modelando Data Marts e Data Warehouse para dar suporte ao processo de ferramentas e análise da Olap usando as melhores tendências do mercado para as soluções corporativas de Business Intelligence.
+QUALIFICAÇÃO
+Sistema de informação graduado e especialista em banco de dados "Análise de dados".
+Trabalho 12 anos como arquiteto e analista no sistema de informação ambiental e executivo B.I
+Desenvolvimento de data warehouse e Data Mart Modelando metodologias Molap, Rolap Even Star e snowflakes, como bottom up e top down.Making Integração Corporativa de Dados no modelo de banco de dados (ETL). Desenvolvimento de Dash e BSC Interfaces e Relatórios Corporativos fazendo vida de BI Manutenção de Ciclo e outras tarefas usuais em Business Intelligence Corporate Environment.
+EDUCAÇÃO
+MIT Big Data e Social Analytics (2016) maldição on-line - em andamento
+Instituto de Formação de Negócios e Informática BCT - Business Studies (2011) - Reino Unido. PEC - FGV - Contabilidade e Finanças (2009) - BR
+Instituto Brasileiro de Tecnologia Avançado IBTA - Sistema de Informação (2008) SENAI Suíço Brasileiro - Especialização em Informática (2003) -BR
+Habilidades
+1 Microstrategy Project Designer 2 Microstrategy Administration 3 Microstrategy SDK
+4 Microstrategy Mobile
+ Página 1
+5 Microstrategy Web 7 Tableau
+8 Pentaho - ETL
+9 Talend - ETL;
+10 DataStage - ETL
+11 Serviços de Integração (SSIS) - ETL
+12 Oracle
+14 Teradata
+15 SERVIDOR SQL
+16 PLSQL \ TSQL \ SQL Teradata \ MDX
+17 Performance DashBoard
+18 Data Mining
+19 Data Modeler - Data Warehouse e Data Mart (Expert)
+20 Java
+21 HTML
+22 XML
+23 Axis2 - Web Service 24 Metodologia Scrum 27 Shell Script
+28 Controle-M
+29 Hadoop - MapReduce
+Experiência
+Engenheiro de dados sênior da BETC Digital
+Março de 2017 - presente
+Consultor de Inteligência de Negócios do Consultor da Banca Intesa SanPaolo no colega de trabalho GFT Italia
+Maio de 2016 - outubro de 2016 (6 meses)
+Líder técnico responsável neste projeto para dirigir todas as melhores tendências
+desenvolver o modelo Data Mart com o Teradata DB, bem como gerenciar diariamente maciços
+informações usando a melhor abordagem com as ferramentas Teradata ETL, modelando o processo Data Mart, como
+preencha as tabelas, atualize as tabelas de pesquisa com informações DELTA (Dimensão em mudança lenta) Criando ETL Script para preencher Tabelas no Modelo de Dados, criando seqüência e trabalhos com o Data Stage para ser usado para executar o TPT Teradata Process e a tarefa usual correlacionada com o ambiente de Business Intelligence corporativo como a definição KPY, o requisito de dados do usuário para OLAP
+ Página 2
+Desenvolvimento de ferramentas e assim por diante.
+Especialista em Inteligência de Negócios do GFT Group
+Janeiro de 2016 - maio de 2016 (5 meses)
+O escopo do projeto foi correlacionado com a migração de dados em dois Bancos Financeiros TSB - UK Banks e
+Sabadell Spanish Bank. Com a aquisição da TSB, o Banco Sabadell precisava entender lacunas de negócios entre a TSB e a Sabadell para integrar a informação no EDW. Criamos um novo modelo de Data Warehouse para atender a todos os requisitos de negócios para dar suporte a algumas ferramentas OLAP, como SaS e Microstrategy. As informações para carregar o novo Modelo vieram de algumas plataformas como IBM Mainframe, SAP (Ledger) e MSP (Mortgage). Processo técnico especificado para fazer a extração das regras TSB para Sabadell Bank ETL, como transformação, processo de mesclagem, mudança de atraso Dimensão, e assim por diante.
+Analista de Inteligência de Negócios no Itaú Unibanco
+Junho 2014 - novembro de 2015 (1 ano 6 meses)
+As atividades realizadas atuaram desde o levantamento de requisitos técnicos e funcionais para a área Itaú SBI
+fazendo entrevistas com as partes interessadas para identificar as necessidades de KPI exigidas pelos departamentos, bem como desenhar soluções analíticas tanto na camada de dados "ETL" Como a camada semântica "Olap" usando a estrutura de possíveis ferramentas de soluções como Cognos, Tableau, Microstrategy e Datastage como Control-M para monitorar e executar processos de malha de agendamentos de soluções de Business Intelligence adotadas e outras tarefas de Business Intelligence utilizadas em uma instituição financeira, tais como mineração de dados, layout de Painel, Balanced Scorecard e assim por diante.
+Senior Business Intelligence Analyst na Editora Abril
+Março de 2013 - junho de 2014 (1 ano 4 meses)
+Ativo na pesquisa funcional e técnica desenvolvendo e coordenando processos relacionados à arquitetura Business Intelligence em Abril Educação.Competência no planejamento da modelagem de dados utilizada no enriquecimento de informações corporativas DW em que os dados foram integrados pela extração de um legado Oracle ERP (EBS)
+por rotinas ETL criadas com ferramentas pentaho. Na camada OLAP utilizaram-se a ferramenta Microstrategy para gerar Balanced Scorecards, Dashboards e relatórios de operação bem como seus artefatos (Métricas, Atributos e entre outros) acessados ​​pelos Stakeholders

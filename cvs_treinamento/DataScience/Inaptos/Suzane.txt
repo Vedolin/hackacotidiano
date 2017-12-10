@@ -1,0 +1,26 @@
+
+ANALISTA PROGRAMADOR
+Dados Pessoais
+39 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista programador
+Analista de desenvolvimento sistemas
+Salário
+Mínimo aceitavel: R$ 4.000,00
+Pretendido: R$ 5.500,00
+Resumo do currículo
+Programador ASP(Classico) Senior ASP VBScript, javascript, jquery, Ajax,JSON, CSS,XML, SOAP Conhecimento de Orientação a Objeto, MVC, Entity Framework, Data Compare e SQL Compare com Visual Studio e RedGate. Conhecimentos de Diagramas, UML, e rotinas SCRUM Analise de Sistema Levantamento e documentação de requisitos	Entrevista com clientes Entrevista com usuários chaves Analise de interface com outros sistemas Elaboração de diagrama sequencial e comportamental entre os sistemas a serem interfaceados. Desenvolvimento via Webservices Desenvolvimento via arquivo texto Desenvolvimento via LinkedServer(utilizando CTEs do SQL Server) Desenvolvi integrações com os mais diversos sistemas tais como. Totvs RM e Protheus, SAP, Sigam, DealerNet, Multiplus Fidelidade(Programa de fidelidade da TAM/Latan), vários sistemas de rastreamento, SML,(Gestao de multas de trânsito) entre outros. Utilização de SOAPUi para prototipação de interfaces.GET/Post/SOAP Integração simples ou via barramento(Enterprise Service Bus) Gestão de projetos Gestao de projetos de pequeno (50h) médio (500h) e grande (6000h) porte. Contratação e montagem de equipe Gerenciamento de atividade das equipes controlando escopo, custo e prazo (controle de cronogramas) Gestão de conflitos internos Elaboração de cronogramas Controle de entregas Controle de escopo Conhecimento avançado em SQL Server Estrutura de tabelas e tipagem de dados Criação de Procedures, functions e Views
+Escolaridade
+universidade positiva
+Computação/Informática - Superior completo
+01/2008 - 12/2012
+Experiências profissionais
+analista desenvolvedor
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.500,00 ( 08/2008 - Até hoje)
+
+Entrevista com cliente, projeto, prototipação codificação e teste de softwares a serem desenvolvidos. Desenvolvimento de bando de dados SQL server 2008 > criando BD, tabelas, functions, views, procedures, tunnig, CTes mais complexas com cross apply e outer apply. Desenvolvimento de documento de requisito. Configuração de Servidor para acomodar a aplicação. Instalação e configuração de IIS e SQL Server. Desenvolvimento de integrações entre sistemas sincornas e assincronas via webservice, LinkedServer, Arquivo texto.
+Habilidades e qualificações
+Analista de Integração Analista de Requisitos Analista Desenvolvedor Sql Server Programador Asp Senior Desenvolvedor Ajax Desenvolvedor Css Desenvolvedor Jquery Desenvolvedor Javascript Desenvolvedor Front-end Desenvolvedor Back-end

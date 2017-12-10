@@ -1,0 +1,220 @@
+Julio Cesar Correa
+Data Analyst - Big Data/Analytics Consultant at TQI - Technology and Quality on Information
+Summary
+- Consultor senior com experiencia na área de TI, atuando nas áreas de projetos e administração de banco de dados Oracle e Business Intelligence .
+- Scrum Master
+- Inglês avançado e habilidade na conversação
+- Experiência em administração, gestão de dados e informações de grandes corporações
+- Habilidades para solucionar problemas complexos com a gestão de informações nas organizações.
+- Conhecimento e experiência multidisciplinar nas sub-áreas de TI como em Sistemas Unix/Linux, ERPs e
+integração com as áreas de negócios e operação nas empresas
+- Experiência com de ferramentas amplamente utilizadas no mercado como Oracle Database(8i,9i,10g,11g
+e 12c) , MySQL, Microstrategy 8/9/10, OBIEE, IBM Datastage e QualityStage, ODI 11, Pentaho DI, IBM
+Websphere, Cognos e SAS.
+- Conhecimento avançado em alta disponibilidade de banco de dados como RAC, DG, Grid e Advanced
+Replication para Oracle e MySQL Replication
+- Adoção de metodologias ágeis; Experiência com framework Scrum e Kanban
+- Conhecimento e atualização em linguagens de programação do mercado , novos frameworks e produtos
+como : Python, Ruby, Erlang, Anaconda, Rails, SOA, Rest, Web Analytics, Big Data, HA
+Experience
+Data Analytics / Big Data Consultant at TQI - Technology and Quality on Information
+dezembro de 2016 - Present
+# Big Data / Data Analytics
+Working with Python for data analysis | Apache Hive | Apache Spark(Python/Scala) | Apache Sqoop Hadoop Ecosystem
+Development of Spark applications
+Oracle ; Teradata ; Linux
+Sr Consultant - BI at EAI Brasil
+agosto de 2016 - dezembro de 2016 (5 meses)
+Sr Consultant at America Movil(Claro,Net e Embratel)
+ETL development for data integartion purposes.
+Used skills /Techs: Oracle Data integrator, PLSQL, SQL , Shell Scripting, ETL with severals Flat files format
+Analista de BI - Microstrategy at B2T - Business to Technology
+  junho de 2016 - julho de 2016 (2 meses)
+Page 1
+Projeto - Alocação temporária
+Cliente do segmento de Call Center
+- Ajuste de métricas, atributos e layout em relatórios usando a ferramenta Microstrategy 10. - Validação de dados
+-
+Senior Consultant at Evolution IT Services Ltda
+março de 2016 - maio de 2016 (3 meses)
+Project development; Programming at Brasil Kirin, beverage company.
+My challenge here is basically to systematize a "gamefication" internal process to provide more accurate reports and controlling to HR, Ops and Business area .
+Collect , measure and report data to provide better and reliable decisions.
+Using PLSQL, Oracle APEX 5 and Apex Listener.
+BI Consultant at Softtek
+setembro de 2014 - novembro de 2015 (1 ano 3 meses) - Business Intelligence Analysis
+- Data Analysis
+- Reports using Oracle BIEE
+- ETL with ODI 11g
+- SQL, PL/SQL and Shell script - Documentation
+On Demand
+- Database Administration
+- Database Performance Tuning
+Owner - Consultor DW/BI/ ETL
+agosto de 2014 - setembro de 2014 (2 meses)
+Raia Drogasil : Business Intelligence with Oracle Database, PL/SQL routines and SAP BO
+DBA / Analista de Dados at Predicta
+abril de 2014 - julho de 2014 (4 meses) DBA
+- Gerenciamento de várias instancias MySQL 5 e replicações(one e two-way) em Linux Centos OS (produção,desenvolvimento e homologação)
+ETL
+- Construção de rotinas ETL e fluxos usando o Pentaho Data Integrator(Kettle, Kitchen)
+Page 2
+DW/BI
+- Manutenção e desenvolvimento de relatóios utilizando o Microstrategy 8/9
+- Modelagem para DW
+- Manipulação de dados oriundos de Facebook,Twitter, Google Analytics via XML
+Consultor Senior - Ernst & Young at EY
+setembro de 2013 - dezembro de 2013 (4 meses)
+Consultor Senior no setor IT Risk and Auditing na subarea IMAS - Information Management and Analysis
+Services. Soluções para auditoria contábil em grandes volumes. Consultoria em integração e Big Data.
+Clientes :
+VALE - RJ
+- Projeto de Data Science para classificações de itens de materiais em UNs. Trabalho integrado com a equipe
+de Supply Chain da Vale RJ.
+Uso de lógica Baysiana, Python(anaconda), Linux, MS SQL Server e SQLite .
+Trabalhos em canal 2 para Via Varejo, DASA and AMB(Associação Médica Brasileira) - Auditoria contábil com ACL
+- Integração de base de dados e de pesquisas
+DBA Oracle / Analista de DW/BI at CMT/Autopass
+agosto de 2012 - agosto de 2013 (1 ano 1 mês)
+Trabalho na equipe de projetos com as seguintes funções/tecnologias :
+- DBA Oracle(10g e 11g, Grid Contro e Weblogic,Backup com RMAN
+- ETL Developer : Datastage e QualityStage; Shell script e PL/SQL
+- Sysadmin : AIX 6.1 e 7.1 ; Windows Server 2003/2008 E IIS; VMWare ESXi 5.1 - Gerenciamento de servidores, Storage e Tape Library da IBM
+2013 : Data Analysis and DW/BI
+- Uso das aplicações IBM DataStage and QualityStage 8.2,Oracle - 10g,SQL,PL/SQL para limpeza e tratamento de daos no sistema de bilhetagem eletronica do cartão BOM.
+- Novos fluxos ETL e rotinas usando PL/SQL, ODI 11g and OBIEE 11g .
+2012 : Administração de banco de dados e sistemas para um novo projeto do BOM
+- Oracle Database 10g/11g on AIX 6,7 and Windows 2008 ; Backup with RMAN tasks
+Page 3
+- Server configuration using IBM AIX 6,7, VMWare ESXi 5, AD on Windows Server 2003/2008 and IIS.
+- Setup of IBM tools : IBM Rational Jazz 4.0 , RAD , WebSphere 8, QualityStage 8.2, Managing IBM Tivoli
+Storage Manager 6.3
+Owner / Consultor Independente
+agosto de 2009 - agosto de 2013 (4 anos 1 mês)
+Solução para problemas de performance em banco de dados.Tuning de Oracle Instance e PL/SQL. Instalação e manutenção de SO Linux e opensource software como o mini-ERP Stoq(gestão comercial). Criação e manutenção de websites para pequenas empresas;.
+Configuração de redes.
+Desenvolvimento de software usando Ruby on Rails,Heroku e API social como o OminiAuth.
+Obs. Atuei como consultor freelancer na cidade de Sorocaba/SP por um pouco mais de um ano.
+Analista de DW/BI at ST IT Consulting
+abril de 2012 - julho de 2012 (4 meses)
+- Sistemas gestão de contratos, bonificações
+- Desenvolvimento de rotinas e tuning para DW/ BI par ao cliente Carrefour . 04/2012 - 08/2012 - Ambiente Oracle, Microstrategy 8,9 e Unix
+- PL/SQL , Korn Shell, awk
+Engenheiro de Software at GFT
+maio de 2011 - outubro de 2011 (6 meses)
+Especialista em banco de dados Oracle para o Deutsche Bank NY.
+Suporte a uma ambiente de DW/BI que fornece relatórios sobre compra e venda de ações para a Controladoria do banco. Atuação com a área de TI e negócios do cliente em NY. Utilização de Oracle database, Solaris e Coldfusion para a apresentação de dados.
+Gestão do processo ETL do DW.
+Obs. Trabalho em horario comercial. Nesta época acumulava os trabalhos com consultor freelancer para pequenas empresas usando o nome Riverside TI.
+DBA Oracle at Arvato Mobile Brazil / Mondia Media
+março de 2010 - novembro de 2010 (9 meses)
+Responsável pela administraçao do banco de dados da empresa e elaboração de relatórios em nível de BI para
+área de negócios.
+Responsável pela integração e consolidação de dados com outros escritórios da companhia. Utilização de
+softwares como Oracle Database 11gR2 em Linux RHEL 5,Apex 4 e MIcrostrategy. Gestão do processo ETL do DW.
+Page 4
+Implementaão ambiente de failover, rotinas de backup com RMAN e backup lógico com Data Pump para o servidor de banco de dados;
+Desenho e implantação de Datamart para fornecimento relatórios gerenciais. Atuação como AD em todos os projetos da empresa.
+Oracle DBA Consultant at Discover Technology
+setembro de 2009 - março de 2010 (7 meses)
+Atuação como consultor on demand em clientes de medio e grande porte como Abril, Consórcio
+VolksWagen, Interchange,SpeedPak Aerofast,Grupo Affinia Automotiva, Yoki e Polimix .
+Atuação com recover,tuning e instalação de software Oracle como Database,App Server e Oracle BIEE.
+Oracle DBA Consultant at Interfile
+maio de 2009 - setembro de 2009 (5 meses)
+Responsável pelos servidores de banco de dados Oracle e SQL Server na Interfile Gestao de
+documentos .Suporte a uma equipe de quase 50 desenvolvedores e analistas.
+- Oracle Database 10gR2, ASM instance, Oracle Grid Control, Red Hat EL 5 - HP Blade Server and Storage system
+DBA Oracle / System Analyst at Consórcio Metropolitano de Transportes(Autopass)
+novembro de 2008 - maio de 2009 (7 meses)
+Administração de servidores single instance e Oracle RAC 10g.Suporte a Oracle BIEE Responsável por relatórios analíticos para a área de negócios da empresa e diretoria. Gestão do processo ETL do DW.
+Conhecimentos no processo de bilhetagem de cartões de ônibus BOM
+Conhecimentos em processos billing, auditoria e BI
+Programmer at Accenture
+agosto de 2007 - novembro de 2008 (1 ano 4 meses)
+Programação em PL/SQL ; Criação e manutenção de processos ETL com Shell Script e PLSQL ; Modelagem de banco de dados transacional e DataWarehouse(multidimensional);
+Tuning de código PL/SQL ; Administração de banco de dados Oracle 9i,10g
+Projeto/Clientes : Natura Cosméticos, Bristol Mayers Squibb-BMS (analista de BI) e Carrefour (atuação como DBA)
+Estágiario - Assistente de PMO / Programador PL/SQL at Tata Consultancy Services
+setembro de 2006 - junho de 2007 (10 meses) Estágio em TI
+Clientes :
+Bank Of America no Brasil :
+Page 5
+- Atuação como auxiliar de PMO e Project Manager da equipe de mainframe. - Status report diário de tarefas e para o usando as
+- Documentação seguindo a metodologia RUP .
+- Acompanhando pelas ferramentas Rational e IBM ClearCase
+OESP - “ESTADÃO” :
+- Programação PL/SQL
+- Acompanhamento processo de carga do AMDOCS e DW do produto Listão.
+- Criação e execução de de plano de testes; Testes únitários e de aplicações para PL/SQL, FORMS e Reports
+4 e VB 6.
+Analista Help Desk - Suporte Remoto at Atento / Telefonica de São Paulo
+agosto de 2005 - setembro de 2006 (1 ano 2 meses) SERA : Rede de Acesso
+- Suporte técnico a redes ADSL , ADSL e LP dados corporativos, - Suporte ao ADSL da Telefonica/Telesp/Vivo
+TIC - Alphaville
+- SPDADOS e backbone da Telefônica de São Paulo
+- Remote Support for ISDN and ADSL lines
+- Remote Support for ADSL,DSLan and ATM networks
+- Remote support for Circuit and packet Switching networks
+Callcenter Employee at CSU CardSystem SA
+janeiro de 2005 - abril de 2005 (4 meses) Atendente para o cliente Natura Cosméticos.
+Education
+University of Michigan
+Coursera / University of Michigan, Applied Data Science with Python, 2016
+Centro Universitário de Araraquara
+Pós-Graduação em Psicologia Clínica - Humanista, Fenomenológica e Existencial, Clinical Psychology, 2015 - 2016
+Escola Superior Aberta do Brasil - ESAB
+Extensão Universitária, Psicologia Social e Saúde Mental, 2014 - 2014 Activities and Societies: Extensão Universitária em Psicologia e Saude Mental Faculdades Oswaldo Cruz
+Informartion Technology, Engineering Technologist, 2005 - 2007
+  Page 6
+Julio Cesar Correa
+Data Analyst - Big Data/Analytics Consultant at TQI - Technology and Quality on Information
+Contact Julio Cesar on LinkedIn
+          Page 7
+
+
+
+Oracle
+PL/SQL
+SQL
+
+Julio Cesar também tem a competência…
+Business Intelligence
+ETL
+Oracle PL/SQL Development
+Oracle Certified DBA
+Linux
+Shell Scripting
+Kanban
+Scrum
+Unix
+Data Science
+Data Modeling
+Big Data
+Python
+Business Requirements
+AIX
+Statistical Data Analysis
+Oracle Data Integrator(ODI)
+DataStage
+SAP
+DW
+BI
+ODI
+Lean
+QualityStage
+Windows Server
+DWBI
+Backend Development
+Ruby
+TDD
+BDD
+Web Analytics
+Data Analysis
+Microsoft SQL Server
+Databases
+IBM AIX
+Pandas
+Python 3
+Numpy
+Operating Systems

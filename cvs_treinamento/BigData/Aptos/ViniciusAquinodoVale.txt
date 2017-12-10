@@ -1,0 +1,57 @@
+Vinicius Aquino do Vale
+Big Data Engineer na 99taxis
+Summary
+Vinicius Vale, Bacharel em Ciência da Computação formado pela Universidade Vale do Rio Doce - UNIVALE, possui MBA em Big Data pela FIAP. Atualmente trabalha como Big Data Engineer, ajudando as empresas a utilizar o Big Data, conhecimentos avançados em ecossistema Hadoop
+• Hadoop Administration (Cloudera);
+• Configuração de componentes Hadoop (HDFS, MapReduce, YARN);
+• Configuração de serviços (NameNode, Secondary NameNode, DataNode, JobTracker and TaskTracker); • Instalação e configuração de ferramentas para ecossistema Hadoop: (HBase, Hive, Pig, Impala, Sqoop 2,
+Oozie, Flume, HUE, Sentry, Kerberos and Cloudera Manager);
+Além integração com LDAP, através de protocolo Kerberos para integração com segurança, e banco de dados Cassandra.
+Dedicou anos no seu aperfeiçoamento, obtendo certificações internacionais como: ITIL, LPIC (Linux), OCJP (Oracle Certified Professional, Java SE 6 Programmer), OCE-WCD (Oracle Certified Expert, Java EE 6 Web Component Developer), OCE-JPAD (Oracle Certified Expert, Java EE 6 Java Persistence API Developer), OCE-EJB (Oracle Certified Expert, Java EE 6 Enterprise JavaBeans Developer)
+Possui grande experiência em desenvolvimento Java para Web, trabalhando com várias tecnologias e frameworks, também possui capacidade de liderança e coordenação de projetos com metodologia ágil com SCRUM/Kanban.
+Seu trabalho como consultor, proporcionou-lhe uma vasta experiência em grandes sistemas fazendo analises em todas as 3 camadas do negócio (Apresentação, Aplicação e Banco de Dados). Com seu conhecimento em sistema operacional Linux e banco de dados PostgreSQL, possui a capacidade e experiência para fazer performance tuning, replicação, backup e modelagem. Além de identificação de problemas e lentidões.
+Possui domínio sobre outras tecnologias como Android, Jenkins, Oracle, MySql, SqlServer, JBoss, Zimbra e Zabbix.
+Experience
+  Big Data Engineer at 99
+Page 1
+setembro de 2017 - Present
+Responsável pelo gerenciamento, manutenção e suporte a ambientes de banco de dados relacionais (MySQL e PostgreSQL) e noSQL. Além de oferecer apoio em tecnologias do ecossistema Hadoop (HDFS, YARN, Sqoop, Kafka, Flume, Spark, HBase, Hive, Impala, Zookeeper e etc)
+Todo o gerenciamento e controle dos ambientes feitos em soluções de Cloud (Amazon, Google Cloud), integração dos ambientes com AD via protocolo LDAP.
+Big Data Engineer at Semantix Brasil
+junho de 2016 - Present
+Big Data Engineer, ajudando as empresas a encontrar valor no negócio com Big Data. Atuo na elaboração e montagem de ambiente Big Data com Cloudera Manager, além de oferecer apoio em ambientes com banco de dados NoSQL como Cassandra.
+Consultor sênior
+novembro de 2015 - Present
+Trabalho como Especialista em TI e DBA PostgreSQL ajudando as empresas a identificar problemas
+e gargalos em suas camadas de negócio. Meu trabalho envolve analises a níveis minuciosos a fim de identificar o que levou o sistema a uma lentidão ou a um problema, assim que é identificado são feitas ações de melhoria. Toda a camada de negócio são analisados a fim de uma analise completa.
+Atualmente trabalho com ferramentas opensource como: Linux, Apache/Nginx, Jboss/WildFly, PostgreSQL, Zabbix.
+Consultor e Instrutor Sênior at 4Linux
+julho de 2012 - outubro de 2015 (3 anos 4 meses)
+Working with opensource solutions consulting for various companies. I specialize JAVA (OCJP, OCE- JPAD, OCE-EJB OCE-WCD), in which I advise sometimes write and minister courses, both actual and the
+EAD (Distance Education) environment. Working with midlleware environments, making configuration and maintenance with JBoss AS and JBoss EAP.
+I have experience in Android development by creating custom applications, with native applications or through phonegap also do implementation and administration in high-availability environments with PostgreSQL, Corosync / Pacemaker on Debian servers, Ubuntu Server and CentOS.
+DBA postgres at youDb
+maio de 2011 - setembro de 2011 (5 meses)
+Trabalhei num projeto pontual com período compreendido entre maio e setembro de 2011 na função de DBA
+Pleno. Utilizando o banco de dados postgresql, também desempenhei uma função de programador Java criando, desenvolvendo e implementando o novo modelo para atender a empresa.
+Page 2
+Analista de Help-Desk at locaralpha locadora de veiculos ltda
+março de 2010 - outubro de 2010 (8 meses)
+Fui contratado inicialmente como programador Delphi, desempenhei o papel por cerca de 3 meses e
+fui promovido a coordenador de um novo departamento criado. O Departamento de Help-Desk, estava sob minha responsabilidade, estando no cargo como Analista de Help-Desk. Todo o seu controle foi desenvolvido e criado por mim sendo integrado ao sistema da empresa (ERP).
+Programador Junior
+julho de 2008 - outubro de 2009 (1 ano 4 meses)
+Trabalhei prestando serviços em indústrias como Santher, Leite Ibituruna (Parmalat), Cooperativa
+Agropecuária Vale do Rio Doce. Sendo responsável pela administração de redes e suporte a computadores. Fazia também trabalhos como programador Delphi e criava relatórios para o ERP - DataSul/EMS - utilizando a linguagem Progress.
+Programador Junior
+julho de 2007 - junho de 2008 (1 ano)
+Contratado como programador Delphi, iniciei no desenvolvimento do sistema, sendo mais tarde direcionado
+para a criação, desenvolvimento e implantação de um novo sistema de controle de psicotrópicos que segue regras da Anvisa, o sistema foi distribuído em outros estados - MG/ES.
+Education
+FIAP
+Master of Business Administration (MBA), Big Data - Data Science, 2014 - 2015
+Universidade Vale do Rio Doce
+Bacharel em Ciências da Computação, Exatas, 2002 - 2006 Activities and Societies: Ministrei o curso de Linux básico.
+Honors and Awards
+Reconhimento pelos grandes serviços prestados, FISL16
+

@@ -1,0 +1,56 @@
+
+ANALISTA DE SISTEMAS
+Dados Pessoais
+39 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de sistemas
+Web developer
+Analista programador
+Salário
+Mínimo aceitavel: R$ 3.500,00
+Resumo do currículo
+Tenho experiência em análise e desenvolvimento de sistemas com foco voltado mais para Web. Procuro sempre estar atualizados com as novas tecnologias e novidades do desenvolvimento. Possuo um bom relacionamento com a equipe que trabalho, explorando sempre o melhor e também compartilhando conhecimento. Sou proativo e colaborativo, o que considero perfil fundamental para o trabalhar com TI. Iniciei a graduação em Análise e Desenvolvimento de Sistemas e por motivos de força maior, tranquei. Pretendo retomar o curso o mais breve possível.
+Escolaridade
+FACULDADE INTEGRADA DO CEARÁ - FIC
+Computação/Informática - Superior incompleto - Analise e Desenvolvimento de Sistemas
+01/2008 - 12/2009
+Cursos importantes
+Code Education
+Laravel 5, 80hrs - 07/2016
+Synapsis
+Postgressql, 120hrs - 05/2008
+Lanlink
+Developing Microsoft Asp.net Web Applications Using Visual Studio .net, 120 - 08/2005
+Escola de Gestão Pública do Estado do Ceará - EGP/
+Gestão de Processos com Bpm, 20 Hrs - 10/2017
+Escola de Gestão Pública do Estado do Ceará - EGP/
+Modelagem de Processos com Bpmn, 20 Hrs - 12/2017
+Escola de Gestão Pública do Estado do Ceará - EGP/
+Análise de Processo, Arquitetura de Mediações e Gestão de Desempenho, 32 Hrs - 12/2017
+Experiências profissionais
+Analista de Sistemas - BPM
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.500,00 ( 10/2017 - 12/2017)
+
+Automação de Processos BPM utilizando a ferramenta IBM BPM - Process Design e seguindo as normas e notações do BPMN para execução no BPMS (Suite).
+Analista de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.800,00 ( 10/2007 - 03/2017)
+
+Analista e Desenvolvedor do Sistema de Informações dos Municípios do Ceará. Ambiente Web usando PHP com Laravel
+Analista de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.800,00 ( 07/2007 - 06/2016)
+
+Cedido pelo TCM/CE. Analista de Sistemas e Desenvolvedor de Sistemas Web com .Net (VB.Net) e SQL SERVER no Projeto do Sistema de Gerenciamento de Processos do MP/CE.
+Analista de desenvolvimento sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 02/2007 - 10/2007)
+
+Desenvolvedor de sistemas em ASP Clássico e .Net (VB.Net e C#)
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Php Laravel C Sharp Postgressql Vb.net Dot Net .net Sql Server Bootstrap Jquery Javascript Back End Front End Mysql T-sql Css Html C# Asp

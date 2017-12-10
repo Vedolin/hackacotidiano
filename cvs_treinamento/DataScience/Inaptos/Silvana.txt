@@ -1,0 +1,58 @@
+PROGRAMADOR
+Dados Pessoais
+30 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Projetista de máquinas
+Analista programador
+Salário
+Mínimo aceitavel: R$ 4.800,00
+Resumo do currículo
+Histórico profissional
+
+ENGETEAM Desenvolvedor de Sistemas Robotizados desde Agosto/2015 Desenvolver e integrar programas de robôs, CLPs, IHMs e supervisórios, a partir de conceitual de funcionamento, sendo capaz de responder pela integração plena de um sistema ou equipamento automático. Conhecimentos: Programação e startup de robôs (Kuka, ABB,Comau C4G e C5 G, MOTOMAN), comissionamento de redes de comunicação, programação de CLPs e IHMs utilizando Step 7, WinCC, RsLogix e afins. Experiência em desenvolvimento de sistemas supervisórios Elispe, acompanhamento de montagem de sistemas de comando e demais elementos de automação existentes em plantas industriais. Experiência em desenvolvimento de softwares em automação industrial voltados para o setor de manufatura e/ou indústria automotiva. Experiência com software de simulação de robôs industriais utilizando software process simulate siemens.
+
+FT Automação
+
+Programador de CLP - de Dezembro/2014 a Abril/2015 Programação de PLC, IHM, integração de robô KUKA com o sistema Rockwell, configuração de hardware e software em redes ethernet e deviceNet, ControlNet. Implementação de dispositivos e desenvolvimento de logicas especificas
+Escolaridade
+UNA
+Engenharia Mecatrônica - Superior completo - Tecnólogo em Automação Industrial
+01/2012 - 12/2015
+SENAI
+Curso Técnico - Ensino Médio Técnico - Automação Industrial
+02/2005 - 01/2006
+SENAI
+Engenharia Eletrônica - Ensino Médio Técnico - Pós - Técnico em Instrumentação
+02/2008 - 08/2008
+PUC - MG
+Engenharia de Controle e Automação - Pós-graduação cursando - Automação Industrial
+06/2016 - 12/2017
+IETEC
+Administração - Pós-graduação cursando - Gestão de Projetos
+06/2016 - 12/2017
+Cursos importantes
+SENAI
+Especialização Técnica em Automação, 6 Meses - 12/2012
+Experiências profissionais
+Instrutor de Formação Profissional
+Somente para Assinantes, Educação/ Treinamento/ Idiomas
+Salário final: R$ 4.200,00 ( 10/2005 - 08/2015)
+
+Professor de curso técnico em Automação e Mecatrônica, lecionando disciplina de Programação de CLP, robôs ABB, Redes industriais e Supervisórios. Atuando na padronização de curso e laboratórios.
+Programador
+Somente para Assinantes, Automobilística/ Autopeças
+Salário final: R$ 6.200,00 ( 11/2014 - 03/2015)
+
+Programação de PLC, IHM, integração de robô KUKA com o sistema Rockwell, configuração de hardware e software em redes ethernet e deviceNet, ControlNet. Implementação de dispositivos e desenvolvimento de logicas especificas no padrão FORD, utilizando as ferramentas necessárias. Desenvolvendo logicas no padrão DCP16 (FORD COMPANY) e integrando robôs (KUKA e ABB) no PLC Rockwell com rede ethernet. - Acompanhamento de produção e resolução de falhas encontradas nos equipamentos.
+Desenvolvedor de Sistemas Robotizados
+Somente para Assinantes, Automobilística/ Autopeças
+Salário final: R$ 4.800,00 ( 07/2015 - Até hoje)
+
+Desenvolver e integrar programas de robôs, CLPs, IHMs e supervisórios, a partir de conceitual de funcionamento, sendo capaz de responder pela integração plena de um sistema ou equipamento automático. Conhecimentos: Programação e startup de robôs (Kuka, ABB,Comau C4G e C5 G, MOTOMAN), comissionamento de redes de comunicação, programação de CLPs e IHMs utilizando Step 7, WinCC, RsLogix e afins. Experiência em desenvolvimento de sistemas supervisórios Elispe, acompanhamento de montagem de sistemas de comando e demais elementos de automação existentes em plantas industriais. Experiência em desenvolvimento de softwares em automação industrial voltados para o setor de manufatura e/ou indústria automotiva. Experiência com software de simulação de robôs industriais utilizando software process simulate siemens. Realizações: Instalação e integração robô MOTOMAN na SODECIA-MG projeto X6H nas linhas cruscoto, parabrezza e longuerone. instalação e integração robô ABB na FORD Motores; Instalação Robôs Comau C3G e C4G na Aethra projeto X6H e X1H
+Idiomas
+Espanhol - Técnico  Inglês - Intermediário
+Habilidades e qualificações
+Access Powerpoint Word Instrutor de Formação Programador de Clp Programador de Robo Abb Internet Excel

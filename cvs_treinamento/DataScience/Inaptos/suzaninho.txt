@@ -1,0 +1,71 @@
+ANALISTA DE INFRAESTRUTURA
+Dados Pessoais
+38 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de Infraestrutura
+Coordenador de BI/ Inteligência de Mercado
+Analista de BI (Inteligência de Mercado)
+Salário
+Mínimo aceitavel: R$ 9.000,00
+Pretendido: R$ 11.000,00
+Resumo do currículo
+•	Carreira desenvolvida na área de Tecnologia da Informação, com ampla experiência no gerenciamento de capacidade de recursos computacionais, implantação e manutenção de sistemas, gestão de equipes e implementação de melhorias. Trajetória desenvolvida em empresas multinacionais de grande porte.
+
+•	Gerenciamento de projetos, seguindo as práticas do PMI, ITIL e COBIT, envolvendo o controle de demandas, definição do cronograma, análise da viabilidade, negociação de prazos e escopo, assegurando o cumprimento dos prazos, custos e qualidade requeridos pela organização.
+
+•	Forte atuação na construção de parcerias internas e externas, na interface entre a área de Negócios e TI e na otimização da comunicação.
+
+•	Reestruturação do departamento de TI, realizando o planejamento de atividades, especificação, definição e implantação de normas, padronização de procedimentos e otimização de rotinas.
+
+•	Membro e palestrante ativo do CMG Brasil (Computer Measurement Group), grupo voltado para estudos em otimização de recursos computacionais.
+Escolaridade
+Faculdade Bandeirantes
+Computação/Informática - Superior completo
+01/1998 - 12/2001
+Cursos importantes
+EMC
+Vmax, 1 - 02/2017
+EMC
+Srm, 1 - 08/2016
+ITAU
+Gestão de Pessoas, 1 - 08/2013
+ITAU
+Gestão do Tempo, 80h - 01/2013
+IBM
+Mainframe Básico, 200h - 01/2012
+ITAU
+Gestão de Capacidade, 100 - 01/2005
+ITAU
+Itil, 40h - 01/2011
+Experiências profissionais
+Consultor Capacity e Performance Storage
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 15.000,00 ( 11/2014 - 02/2017)
+
+Residência EMC² com alocação direta ao cliente VIVO. ANALISTA DE SUPORTE / CAPACIDADE Administração e gerenciamento de storage EMC. Administração e gerenciamento de SAM CISCO e BROCADE PROJETOS DE DESTAQUE: • Implantação e Administração ViPR SRM na empresa VIVO sendo administrado 20PB e 12000 portas de SAN. • Centralização e normatização de informação para cliente. • Criado mecanismo de mensuração de utilização de recursos por mês e tendência de utilização. • Automação de relatórios reduzindo o tempo de coletas e customizações. • Idealização e Implantação de Dashboards para cliente.
+Analista de Suporte IT Senior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 8.000,00 ( 09/2013 - 08/2014)
+
+Administração e gerenciamento de storage HDS atuando em alocação e remoção de volumes, automações de rotinas, desenvolvimento de mecanismos para facilitação de analise e a gestão de capacidade do ambiente. PROJETOS DE DESTAQUE: •	Implantação de ferramenta para gerenciamento da capacidade o	SAN – Implantação de monitoração da SAN Brocade em 1.2000 portas. o	Storage – Implantação de monitoração em 02 storage HDS, representando 128TB. •	Criação e implantação de metodologia de gestão, organização de tempo e controle de horas para analistas seguindo os modelos pré-definidos pelo ITIL. •	Implantação da filosofia de Capacity Planning seguindo os modelos do ITIL.
+Analista de Capacity Planning Senior
+Somente para Assinantes, Bancário
+Salário final: R$ 8.000,00 ( 10/2001 - 10/2013)
+
+Administrador de Redes Novel e Microsoft, gerenciamento de capacity planning, automações de rotinas e desenvolvimento de mecanismos para facilitar analises e procedimentos operacionais. Linha do tempo com as atribuições exercidas. •	2011 – 2013 – Analista de Capacity Planning em Storage Open •	2004 – 2011 – Analista de Capacity Planning em servidores de Plataforma Distribuída; •	2002 – 2004 – Administrador de Redes Novel e Microsoft; PROJETOS DE DESTAQUE: •	Administração e gerenciamento de Storages EMC, HDS, IBM e NetApp •	Implantação de procedimento operacional para alocações de Storages EMC e Hitachi. •	Automações de relatórios executivos com o objetivo de apontar possíveis desvios de comportamento dos recursos alocados x utilizados. •	Capacitação periódica e análise de impacto em datas críticas nos ambientes de storage e servidores. •	Idealizador do projeto “Ações PróAtivas SQL”, possibilitando a redução de 96% de acionamentos por falta de espaço em Base de dados. •	Idealizador do projeto “HotSpot”, efetuado o mapeamento de servidores que atendem as LOBs críticas com Banco Itaú Unibanco e mensalmente são enviadas propostas para melhoria do ambiente, este projeto trouxe a redução do risco operacional e aproximou as áreas de suporte à negócios. •	Membro e palestrante ativo do CMG Brasil (Computer Measurement Group), grupo voltado para estudos em otimização de recursos computacionais. 2012. palestras com os temas “Capacity planning conceitos básicos”
+Analista de HelpDesk
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1,00 ( 03/1999 - 10/2001)
+
+Analista de HelpDesk nível 2
+Analista de suporte técnico
+Somente para Assinantes, Industrial
+Salário final: R$ 1,00 ( 01/1996 - 03/1999)
+
+Analista de Help Desk
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Dinamisno Alta Performance Lógica Capacity Planning Storage Gestão Gestão Pessoas Itil Excel Specialist Gestão de Projetos Emc² Hds Shell Script Vba Cobit Windows Server Linux Unix Bmc Products Brocade Monitoração Performance Process Tivoli Mainframe

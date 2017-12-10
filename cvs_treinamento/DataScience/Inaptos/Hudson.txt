@@ -1,0 +1,25 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+56 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Salário
+Mínimo aceitavel: R$ 8.000,00
+Resumo do currículo
+Experiência na administração de bancos de dados SQL Server desde 2003, sendo responsável pelo ambiente computacional de banco de dados: instalação, desinstalação e recuperação, ajustes e análises de capacidades e desempenho, configurar e atualizar instâncias SQL e objetos correlatos, efetuar manutenção, limpeza e reorganização dos bancos de dados; - Atuar na elaboração de documentações técnicas e criar de políticas de backup, implementar rotinas e projetos, controlando os níveis de serviços dos sistemas operacionais, com objetivo de assegurar o desempenho e a integridade no ambiente de banco de dados; - Administrar os bancos de dados, criar e implementar sistemas de integração com outros servidores e sistemas; atuar na análise, controle e modificação de métodos e processos, identificar falhas e ineficiências; estudar e implementar soluções; - Disponibilidade: Garantir o máximo de uptime; - Recuperabilidade: Criação e teste de backups, definir, executar e controlar o plano de backup; - Integridade: verificar a integridade física e lógica dos bancos de dados; - Monitoração do crescimento do ambiente de banco de dados, defragmentação de base de dados, de tabelas e índices etc; - Abertura e atendimento de chamados. - Tuning de bases de dados; - Segurança: Definir e/ou implementar os controles de acesso aos dados; - Desenvolvimento e suporte a testes: orientar os desenvolvedores de forma correta e mais eficiente sobre o uso do banco de dados;
+Escolaridade
+Universidade Mackenzie
+Computação/Informática - Superior completo - Dba
+07/1981 - 06/1984
+Experiências profissionais
+DBA
+Somente para Assinantes, Bancário
+Salário final: R$ 6.600,00 ( 08/2015 - 11/2017)
+
+Área de produção 24x7, execução de querys sob demanda e análise de desempenho dos servidores, uso de espaço em disco e manutenções associadas a estas atividades. Plataformas Linux, Unix, Solaris e Windows, bancos de dados Oracle, Postgres, DB2, Sybase e SQL Server.
+Idiomas
+Espanhol - Intermediário  Inglês - Avançado
+

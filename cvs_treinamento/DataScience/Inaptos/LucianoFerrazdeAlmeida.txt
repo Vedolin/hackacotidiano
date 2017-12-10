@@ -1,0 +1,91 @@
+Luciano Ferraz de Almeida
+Especialista Business Intelligence
+Summary
+Power BI, Tableau, Datazen, Especialista Business Intelligence.
+SQL Server 2000, 2005, 2008, 2012, Integration Services, SSIS, Analysis Services, SSAS, Reporting Services, SSRS, Crystal Reports, Visual Studio 2005, 2008, 2012.
+Experiência em todas as etapas de um projeto de BI, desde a sua concepção a sua implantação.
+Experiência em Tableau Desktop, Online e Server.
+Experiência em Datazen.
+MCTS Especialista em Microsoft Performance Point Server 2007. Microsoft Certification ID: 6116347
+Experiências em clientes dos mais diversos ramos de atividades: Educacional, Financeiro, Varejo, Administradora de Shoppings Centers, Suprimentos, Automobilístico, Marketing, Alimentos e Bebidas, Leilões.
+Projetos nas Empresas: Locaweb, Coca-Cola Femsa, Nestlé, Markup (Mercedez Benz e Brastemp), Saint Gobain, CPIC Fiberglass, Pilkington, Cebrace, Mercado Eletrônico, Linx, WAE Educacional, ESPM, Loccitane, Honda, Banco Sofisa, Iguatemi Empresa de Shoppings Centers, Bureau Veritas, Cesvi, Fortisagro, Plaempre, Microlins.
+Experience
+Especialista Business Intelligence at Locaweb
+julho de 2013 - Present
+Restruturação do ambiente de Business Intelligence para as Áreas de Vendas, Financeiro, Contábil, Produtos, Sites, Relatórios para Diretoria e Presidência
+Criação e manutenção das cargas no Integration Services provenientes dos sistemas legados e SAP dos variados bancos de dados: SQL, MySQL, PostgreSQL, MongoDB
+Criação e manutenção dos cubos no Analysis Services
+Criação e desenvolvimento do ambiente no Sharepoint
+Disponibilização de Pivot Tables no Excel e Excel Services (Sharepoint) Publicação de Reports e Dashboards no Reporting Services e no Sharepoint
+  Page 1
+Administrador do Banco de dados do BI (relacional e multidimensional)
+Utilização do controle de versão Team Foundation Server
+Responsável pela implantação e manutenção dos servidores do Tableau e Datazen, fazendo inclusive o
+trabalho de administrador dos mesmos.
+Analista Business Intelligence at Wise Consultoria Ltda
+setembro de 2006 - junho de 2013 (6 anos 10 meses)
+Responsável pelo levantamento, especificação, desenvolvimento e mantenimento de soluções de Business
+Intelligence.
+Responsável pela administração, performance e tunning das bases de dados.
+Analista Business Intelligence at CPIC/fiberglass
+setembro de 2011 - março de 2013 (1 ano 7 meses)
+Levantamento, especificação e desenvolvimento do projeto de BI. Origem dos dados SAP, sistemas de vendas e suprimentos. Criação de Relatórios e Dashboards.
+Analista Business Intelligence
+janeiro de 2011 - março de 2013 (2 anos 3 meses)
+Criação e desenvolvimento do ambiente de Business Intelligence para Área de Sac e Recorrências para 2 e 4
+rodas, bem como atendimento a Área Vendas X Emplacamentos
+Criação e manutenção das cargas no Integration Services provenientes dos sistemas provenientes do SQL e
+AS400
+Criação e manutenção dos cubos no Analysis Services
+Disponibilização de Pivot Tables no Excel e Interfaces DotNet Publicação de Reports e Dashboards no Reporting Services Administrador do Banco de dados do BI (relacional e multidimensional) Utilização do controle de versão Team System
+Analista Business Intelligence at Banco Sofisa S/A
+setembro de 2010 - março de 2013 (2 anos 7 meses)
+Criação e desenvolvimento do ambiente de Business Intelligence para Área de Captação
+Criação e manutenção das cargas no Integration Services provenientes dos sistemas Criação e manutenção dos cubos no Analysis Services
+Disponibilização de Pivot Tables no Excel e Interfaces DotNet
+Publicação de Reports e Dashboards no Reporting Services
+Administrador do Banco de dados do BI (relacional e multidimensional) Utilização do controle de versão Team System
+Analista Business Intelligence at L'Occitane en Provence
+provenientes do SQL
+junho de 2008 - março de 2013 (4 anos 10 meses)
+Page 2
+Criação e desenvolvimento do ambiente de Business Intelligence para Área de Vendas Atacado e Varejo, Área Financeira e Contábil.
+Criação e manutenção das cargas no Integration Services provenientes dos sistemas legados e SAP, AX e Dynamics provenientes do SQL
+Criação e manutenção dos cubos no Analysis Services
+Disponibilização de Pivot Tables no Excel e Interfaces DotNet Publicação de Reports e Dashboards no Reporting Services Administrador do Banco de dados do BI (relacional e multidimensional) Utilização do controle de versão Team System
+Analista Business Intelligence at Iguatemi Empresa de Shopping Centers
+janeiro de 2008 - março de 2013 (5 anos 3 meses)
+Criação e desenvolvimento do ambiente de Business Intelligence de Locações, integrando em suas bases mais
+de 10 shoppings centers, atendento diretamente a Diretoria e Presidencia
+Criação e manutenção das cargas no Integration Services provenientes dos sistemas legados e SAP
+provenientes do SQL
+Participação em toda migração dos sistemas legados para o ambiente SAP, bem como as cargas do ambiente
+de BI
+Criação e manutenção dos cubos no Analysis Services
+Disponibilização de Pivot Tables no Excel e Interfaces DotNet Publicação de Reports e Dashboards no Reporting Services Administrador do Banco de dados do BI (relacional e multidimensional) Utilização do controle de versão Team System
+Analista Business Intelligence
+julho de 2008 - dezembro de 2012 (4 anos 6 meses)
+Criação e desenvolvimento do ambiente de Business Intelligence para Área de Suprimentos Criação e manutenção das cargas no Integration Services provenientes dos sistemas legados e SAP
+provenientes do SQL
+Criação e manutenção dos cubos no Analysis Services
+Disponibilização de Pivot Tables no Excel e Interfaces DotNet Publicação de Reports e Dashboards no Reporting Services Administrador do Banco de dados do BI (relacional e multidimensional) Utilização do controle de versão Team System
+Analista Business Intelligence at Coca-Cola FEMSA
+janeiro de 2003 - setembro de 2006 (3 anos 9 meses)
+Criação e desenvolvimento do ambiente de Business Intelligence
+Criação e manutenção das cargas no Integration Services provenientes dos sistemas legados e SAP
+provenientes do SQL
+Page 3
+Criação e manutenção dos cubos no Analysis Services
+Disponibilização de Pivot Tables no Excel e Interfaces DotNet Publicação de Reports e Dashboards no Reporting Services Administrador do Banco de dados do BI (relacional e multidimensional) Utilização do controle de versão Team System
+Reponsável pelo desenvolvimento de um Sistema de Informação paralelo, responsável em substituir o AS400 na entrada do SAP R/3, bem como preparando o ambiente para a implementação do BW.
+Analista Genexus – DBA SQL at Nestlé Brasil
+novembro de 2001 - janeiro de 2003 (1 ano 3 meses) Desenvolvimento de Aplicações em Genexus.
+Administração e performance das bases de dados SQL Server.
+Education
+Universidade Metodista de Piracicaba
+Analista de Sistemas, 1996 - 1999
+  Page 4
+Luciano Ferraz de Almeida
+Especialista Business Intelligence
+Contact Luciano on LinkedIn
+          Page 5

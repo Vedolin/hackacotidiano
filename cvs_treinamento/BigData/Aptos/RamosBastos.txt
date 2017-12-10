@@ -1,0 +1,32 @@
+
+Dados Pessoais
+27 anos, Masculino
+
+Objetivos Profissionais
+Cargo
+Arquiteto
+Salário
+Mínimo aceitavel: R$ 10.000,00
+Pretendido: R$ 10.001,00
+Resumo do currículo
+Out/16 – Atual	Linx S.A Arquiteto Big data •	Reestruturação do Flow de Ingestão de Dados; •	Provas de conceito para solução Big Data, utilizando soluções dos players AWS e Azure; •	Analise de benchmark para definição de solução Big Data; •	Definição de arquitetura da solução; •	Gestão de demandas das áreas relacionadas ao projeto; •	Automação de processos utilizando processamento batch com AWS Lambda Functions e AWS Cloud Watch; •	Implementação de Pipeline de integração de processamento utilizando a ferramenta Airflow; • Desenvolvimento de processo de integração de dados estruturados utilizando a ferramenta Pentaho Data Integration; •	Desenvolvimento de algoritmos em R (Árvore de Decisão, Cluster e Regressão Logística); •	Desenvolvimento de extrator de dados de PDV’s utilizando o SDK AWS S3, para importação de dados near-time; •	Desenvolvimento de processo de integração do sistema MID-E ECF/NFC-E para análise de dados realtime utilizando AWS Kinesis; •	Desenvolvimento e Load de base de dados analíticas na ferramenta Redshift; •	Desenvolvimento de Painéis no Software Tableau;
+
+Mar/14 – Out/2016 Cnova Comércio Eletrônico Especialista Business Intelligence
+
+ORT - Orders Real Time • Definição da arquitetura da solução; • Configuração do ambiente Hadoop (SO, Disco, Interface de Rede); • Desenvolvimento de interface de ingestão de dados em Sqoop e NiFi; • Desenvolvimento de DW utilizando Apache Hive; • Desenvolvimento de solução de armazenamento de dados NoSQL utilizando
+Escolaridade
+FIAP
+Engenharia da Computação - Pós-graduação cursando - Big Data
+05/2017 - 05/2018
+Impacta
+Computação/Informática - Superior completo - Banco de Dados
+01/2010 - 12/2012
+Experiências profissionais
+Arquiteto Big Data
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.200,00 ( 10/2016 - Até hoje)
+
+Reestruturação do Flow de Ingestão de Dados; ? Provas de conceito para solução Big Data, utilizando soluções dos players AWS e Azure; ? Analise de benchmark para definição de solução Big Data; ? Definição de arquitetura da solução; ? Gestão de demandas das áreas relacionadas ao projeto; ? Automação de processos utilizando processamento batch com AWS Lambda Functions e AWS Cloud Watch; ? Implementação de Pipeline de integração de processamento utilizando a ferramenta Airflow; ? Desenvolvimento de processo de integração de dados estruturados utilizando a ferramenta Pentaho Data Integration; ? Desenvolvimento de algoritmos em R (Árvore de Decisão, Cluster e Regressão Logística); ? Desenvolvimento de extrator de dados de PDV’s utilizando o SDK AWS S3, para importação de dados near-time; ? Desenvolvimento de processo de integração do sistema MID-E ECF/NFC-E para análise de dados realtime utilizando AWS Kinesis; ? Desenvolvimento e Load de base de dados analíticas na ferramenta Redshift; ? Desenvolvimento de Painéis no Software Tableau;
+Idiomas
+Espanhol - Intermediário  Inglês - Avançado
+

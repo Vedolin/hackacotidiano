@@ -1,0 +1,43 @@
+Analista de sistemas com mais de 15 anos de ampla experiência de mercado. Conhecedor de várias tecnologias, possui interesse em aprender e está sempre se desenvolvendo, seja no trabalho, ou em tempo pessoal.
+Atualmente está se especializando em Big Data, tendo trabalhado com Hadoop, Spark, HBase, Hive, Pig, Sqoop e com as distribuições Hortonworks/Cloudera. Possui conhecimentos de Aprendizado de Máquina, em várias implementações (Matlab, Spark, Mahout). Utiliza ferramentas de análises de dados R, Weka e Octave (Matlab).
+Especialista em Garantia de Receita (utilizando a ferramenta RAID – Wedo Technologies), com experiência na análise e na criação de processos de verificação de massas com cargas de terabytes por dia, principalmente no ambiente de telecomunicações.
+Especialista Java com mais de quinze anos de experiência, com conhecimentos de J2EE, EJB, Android 5, Spring 4, assim como os Design Patterns adequados.
+Especialista SQL, com ênfase em Oracle, com experiência na criação de queries e procedures complexas e da sua otimização em ambientes reais de produção, lidando com bases de vários terabytes e missões críticas concorrentes.
+Possui conhecimento de inúmeras linguagens de programação e metodologias, além das já citadas, como Scala, shellscript, etc.
+
+Especialista Big DataPeríodo
+Empresa: Propus Informática Segmento:Tecnologia de InformaçãoPorte:Média - entre 100 e 499 funcionáriosOrigem:Nacional
+Atividades: Trabalhando como especialista Hbase e desenvolvedor Big Data para a Petrobras RJ. Ministrou um curso de Hbase para a Petrobras. Outras tarefas realizadas sob NDA para a Petrobras.
+- Realizando treinamento interno e para usuários.
+- Tecnologias Principais Utilizadas:
+- xml
+- xsl
+- Oracle
+- Java
+- Jsp/Servlets
+- Shellscript
+- Raid (PI, RC, FRAUD) – Tecnologias de revenue assurance.
+- Dashboard – ferramenta Wedo de análise gerencial.
+- Raid CM – Ferramenta de controle de tratamento de casos.
+ Especialista Garantia de Receita (2014 - 2015)
+
+Cargo:Especialista Garantia de ReceitaPeríodo:Março de 2014 até Outubro de 2015
+Empresa: Tqi Consulting
+Atividades: Servindo como especialista e ponto focal para projetos de Garantia de Receita na GVT – Curitiba. Análise de novas oportunidades, geração de orçamentos e desenvolvimento em projetos contínuos de verificação integrada de faturamento e sistemas da empresa, com a integração e suporte a outros desenvolvedores remotos. Implementação de validações no cluster Big Data da GVT. Participação do projeto de GR na Nextel.
+- Raid
+- Oracle
+- Spark
+- Hadoop
+- Java
+- Qlikview
+- ROC RA
+ Coordenador de Projetos Especiais (2011 - 2014)
+
+Cargo:Coordenador de Projetos EspeciaisPeríodo:Novembro de 2011 até Fevereiro de 2014
+Empresa: Sandigital
+Atividades: Coordenador de Projetos Especiais
+Atuou em vários projetos da companhia. Participação de projeto piloto de Revenue Assurance na Empresa Brasileira de Telecomunicações (Embratel), de um projeto de SOA para a Generali, Desenvolvimento no projeto Twitter Like, e otimização pós-produção de código e queries. Criação de clientes web-services. Estudou a integração cobol-java microfocus.
+- Vb, Sqlserver, Asp, Dlls, Automatização de Testes, Java, Axis2, Cobol.
+Outras Experiências Profissionais
+
+Desenvolvedor Android independente, trabalhando com projetos envolvendo serviços REST/JSON. Desenvolvedor de Sites.

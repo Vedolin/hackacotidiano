@@ -1,0 +1,66 @@
+
+ENGENHEIRO DE SOFTWARE
+Dados Pessoais
+26 anos, Masculino
+Por Porção de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Carga
+Engenheiro de software
+Engenheiro de sistemas (software)
+Salário
+Mínimo aceitavel: R $ 7.000,00
+Pretendido: R $ 8.500,00
+Resumo do currículo
+Licenciado em Engenharia (Engenharia Informática) na Universidade Federal do Rio Grande do Sul (UFRGS), mestrado em Sistemas Distribuídos, Paralelo e Embedded em Grenoble-INP (França). Hoje em dia, finalizando o Mestrado em Dados Grandes e trabalhando como Engenheiro de Engenharia de Dados da Amadeus Services Limited (Londres). Determinado e focado, trabalhando bem em grupo, com um enorme desejo de enfrentar desafios. Admirador de pesquisa e desenvolvimento de software e áreas de Grandes Dados.
+Escolaridade
+Universidade Federal do Rio Grande do Sul
+Engenharia da Computação - Mestrado completo - Dados importantes
+02/2015 - 20/0816
+Grenoble Institute of Technology (França)
+Engenharia da Computação - Mestrado completo - Sistemas paralelos, distribuídos e embutidos
+07/2012 - 01/2014
+Universidade Federal do Rio Grande do Sul
+Engenharia da Computação - Superior completo - Engenharia de Computacao
+08/2009 - 01/2014
+Cursos importantes
+MapR Technologies
+Apache Hadoop Essentials, 10h - 06/2016
+MapR Technologies
+Desenvolvendo aplicativos Hadoop, 10h - 06/2016
+MapR Technologies
+Apache Spark Essentials, 10h - 06/2016
+MapR Technologies
+Criar e monitorar aplicativos Apache Spark, 10h - 07/2016
+MapR Technologies
+Apache Hive Essentials, 10h - 07/2016
+MapR Technologies
+Mapr Distribution Essentials, 10h - 05/2016
+MapR Technologies
+Modelo e arquitetura de dados Apache Hbase, 10h - 20/2016
+Instituto de Tecnologia de Massachusetts (MIT)
+Data Mining, 60h - 08/2016
+Experiências profissionais
+Data Engineer Intern - Big Data
+Somente para Assinantes, Informática / Tecnologia
+Salário final: R $ 9.000,00 (05/2016 - Até hoje)
+
+Desenvolvimento e implantação da arquitetura da Lambda na equipe de gerenciamento de clientes da Amadeus, visando registros de armazenamento de forma distribuída, além de extrair conhecimento de vôos e comportamentos de passageiros. O armazenamento é realizado usando o Apache Kafka (corretor de mensagens) e o Sistema de arquivos distribuídos Hadoop (HDFS), os dados são acessados ​​e processados ​​usando MapReduce, Spark e SparkStreaming, e a visualização de dados é feita através do Apache Zeppelin (painéis) e JasperReports (relatórios agendados). - Arquitectura Lambda, Hadoop Ecosystem - Apache Tools: Hadoop, Kafka, Spark, SparkStreaming, Zeppelin, Hive, HBase - MapReduce, JasperReports - Virtualização, Docker - Java, Scala
+Analista de TI
+Somente para Assinantes, Industrial
+Salário final: R $ 6.500,00 (20/07/2015 - 20/05/20)
+
+Contato direto com clientes e usuários dos principais sistemas da Federação das Indústrias do Estado do Rio Grande do Sul, participando e contribuindo para a compreensão de negócios, coleta de requisitos e gerenciamento de projetos. Contato forte com casa de software de terceira parte, também desempenhando o papel de desenvolvedor de software (Java, PL / SQL). - Gerente de Projeto - Analista de Sistemas e Negócios - Desenvolvedor Java e PL / SQL
+Desenvolvedor de software Inter-Data Mining
+Somente para Assinantes, Informática / Tecnologia
+Salário final: R $ 7.000,00 (02/2013 - 20/0813)
+
+Desenvolvimento de um protótipo de motor de recomendação de vôo para as companhias aéreas da empresa TAM. Protótipo de uma aplicação inteligente que usa a abordagem de computação de similaridade, tendo em conta algumas informações de inteligência de negócios, bem como algumas informações não estruturadas da web, com o objetivo de recomendar os melhores voos para o usuário - Java, Python, Apache Cassandra - Cosinidade, Euclidiana Distância - algoritmos de recomendação, mineração de dados, normalização de dados, geolocalização, Big Data
+Desenvolvedor de Software e Pesquisador
+Somente para Assinantes, Pesquisas
+Salário final: R $ 1.000,00 (01/2011 - 07/2012)
+
+Desenvolvedor de Software - Redes de Computadores - Desenvolvimento de uma nova ferramenta projetada para gerenciar redes de computadores, backbones, roteadores, etc. (financiados pela DATACOM) - Java EE, Java SE, Oracle, UML, SCRUM, Hibernate, Spring, Maven, Vaadin, Glassfish Software Desenvolvedor / Pesquisador - Sistemas integrados - Pesquisador em Teste e Confiabilidade de Sistemas Integrados HW / SW - Projeto e avaliação de técnicas de tolerância a falhas - Desenvolvimento de uma ferramenta baseada em Java responsável por injetar falhas em microprocessadores - Java, VHDL, HTML
+Idiomas
+Francês - Avançado Português - Fluente
+Habilidades com qualificações
+Scala Apache Hive Apache Kafka Apache Spark Hadoop Ecosystem Agile Software Development Java Big Data

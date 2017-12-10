@@ -1,0 +1,72 @@
+Sérgio Carvalho
+Cientista de dados na Raízen
+Summary
+N/A
+Experience
+Cientista de dados at Raízen
+junho de 2017 - Present
+Pesquisador at Instituto de Ciências Matemáticas e de Computação (ICMC) - USP
+março de 2015 - Present
+Desenvolvimento de uma nova família de distribuições, denominada distribuições k- Modificadas, para modelar dados de contagem nos casos em que há inflação ou deflação na frequência de um determinado ponto k do suporte.
+Modelagem Credit Scoring at Instituto de Ciências Matemáticas e de Computação (ICMC)
+janeiro de 2014 - janeiro de 2015 (1 ano 1 mês)
+Modelagem Credit Scoring para conjunto de dados financeiros para concessão de
+crédito, Neste trabalho realizei o desenvolvimento teórico e computacional para implementação da técnica de
+regressão logística a qual utilizei segmentação de covariáveis a fim de melhorar o desempenho do modelo em termos de predição.
+Pesquisa em Data Mining at Instituto de Ciências Matemáticas e de Computação (ICMC)
+janeiro de 2013 - janeiro de 2014 (1 ano 1 mês)
+Neste trabalho utilizei técnicas de Data Mining para detecção de fraude em transações comerciais com base
+na mediana das transações, considerando variáveis como produtos, regiões, vendedores e etc.
+Analista de Call Center
+janeiro de 2011 - fevereiro de 2012 (1 ano 2 meses)
+Atividade: Suporte aos Clientes Toyota / Audi / Jaguar / Nissan. Função: Gerenciar suporte aos clientes em caso de pane nos veículos.
+Education
+Universidade de São Paulo
+Pós-graduação, Mestrado em Estatística, 2015 - 2017 Activities and Societies: Música
+Universidade de São Paulo
+Bacharelado, Estatistica, 2012 - 2014
+   Page 1
+Activities and Societies: Música
+ Page 2
+Sérgio Carvalho
+Cientista de dados na Raízen
+Contact Sérgio on LinkedIn
+
+
+
+
+C (linguagem de programação)
+Raniere Ramos
+Programação SAS
+Raul Pereira Micena
+Microsoft Excel
+Java
+Linux
+Pesquisa
+MySQL
+Regressão Logística
+Modelagem Estatística
+Análise Multivariada
+Simulação Estocástica
+Microsoft Office
+SQL
+Microsoft PowerPoint
+Microsoft Word
+Inglês
+R (linguagem de programação)
+Estatística
+Desenvolvimento de software
+Programação de computadores
+LaTeX
+Mineração de dados
+Análise de dados
+Inteligência empresarial
+Matemática
+Capacidade analítica
+Gestão de relação de clientes
+Análises
+Análise de dados estatísticos
+Gestão de dados
+Pesquisa quantitativa
+Análise quantitativa
+Ensino universitário

@@ -1,0 +1,22 @@
+Yongguang Qin
+Data Scientist na NYC Data Science Academy
+Resumo
+Analista de BI com excelentes habilidades quantitativas, analíticas e de resolução de problemas desenvolvido através de treinamento acadêmico e experiência profissional vigorosa; Experiente em projetos líderes de relatórios e análises e gerenciamento e orientação de uma equipe geográfica cruzada; Possuem excelentes habilidades de comunicação e um forte impulso para o auto-aperfeiçoamento.
+Habilidades técnicas:
+- Ferramentas de BI: SQL, OLAP, Excel (VBA), Tableau, Python, C ++, R; Boa compreensão de algoritmos de aprendizagem de máquinas populares, como regressão logística e SVM etc.
+- Finanças Quantitativas: Probabilidade e Estatística, Cálculo Estocástico, Movimento Browniano, Modelo Black-Scholes, Preços Risco-Neutro.
+Experiência
+Data Scientist na NYC Data Science Academy
+Setembro de 2017 - presente
+Analista de negócios da Cablevision
+Agosto de 2015 - presente
+Senior Quantitative Analyst da SNL Financial
+2010 - fevereiro de 2015 (5 anos 2 meses)
+Sou um membro sênior da equipe de análise e análise de uso da SNL, focando principalmente no uso de produtos e
+dados operacionais empresariais. Eu trabalho em uma variedade de projetos, incluindo a criação de relatórios complexos e interativos, realizando pesquisas sobre tendência de uso incomum e integrando dados de CRM de empresas adquiridas, etc. Eu também executo tarefas relacionadas à manutenção e aprimoramento de data warehouse, como fornecer especificações técnicas e validar dados. Além de contribuir individualmente, sou responsável pela contratação, treinamento e gerenciamento de funcionários globais. Recentemente, trabalhei em projetos de modelagem de dados usando técnicas de aprendizado de máquinas voltadas para a resolução de problemas comerciais de alto impacto.
+Analista sênior da SNL Financial
+Janeiro de 2007 - 2010 (4 anos)
+Encarregado de projetar e criar modelos baseados em Excel como membro das Operações de Produto Energético
+equipe. Fornecer um valor agregado aos clientes aumentando continuamente a visibilidade do produto e melhorando o desempenho e usabilidade do modelo. Conheceu conhecimento da indústria e extensa experiência no Excel e na tabela dinâmica
+
+- proficiência excepcional com a escrita de fórmulas complexas e scripts VBA, e utilizando outros recursos avançados. Execute consultas SQL para atender solicitações de clientes complexas.

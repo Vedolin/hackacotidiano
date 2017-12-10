@@ -1,0 +1,76 @@
+ENGENHEIRO DE TELECOMUNICAÇÃO
+Dados Pessoais
+31 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Engenheiro de telecomunicação
+Analista de telecomunicações
+Analista de BI (Inteligência de Mercado)
+Salário
+Mínimo aceitavel: R$ 3.500,00
+Pretendido: R$ 5.000,00
+Resumo do currículo
+Eu sou Engenheiro em Teleinformática voltada para três pilares: pilar técnico com diploma em engenharia de telecomunicações na Universidade Federal do Ceará, domino as tecnologias : Redes, GSM, WIMAX, MIMO, CDMA, HSPA, LTE etc., Tenho uma experiência comprovada nos principais projetos de pesquisa e na realização profissional. O segundo pilar é BI (Business Intelligence), onde possuo excelentes capacidades analíticas, estatísticas e organizacionais, com formação acadêmica em Informática de Gestão com orientação ao banco de dados e ao gerenciamento de recursos (services) de TI, no Instituto Superior de Estatística de Kinshasa e treinamento profissional em banco de dados relacionais e não relacional á Microsoft Innovation Center. Eu tenho uma sólida experiência profissional em DHS2, MS SQL, MySql, R, Synergia (ERP), EPI Info, Stata, Novicat, VBA e Microsoft Office Suite (Access, Excel, Word, com foco em KPI (Key Performance Indicator), DashBoard, e gestão de resultados. Finalmente, o último é baseado no gerenciamento de projetos. Minhas experiências profissionais me permitiram adquirir os recursos necessários no gerenciamento de projetos e cultivar uma polivalência em diversas areas, com metodologia Agile (Scrum) e ferramentas como: Ms Project, visio, ITIL / COBIT, Trello etc. Posso Lhes dizer mais na entrevista.
+Escolaridade
+Universidade Federal do Ceará
+Engenharia de Telecomunicações - Superior completo - Redes, Gsm, Mimo, Lte, Fibra Ótica, Umts, 3g,etc
+01/2015 - 08/2017
+Universidade Federal do Ceará
+Engenharia da Computação - Superior completo - Database, Desenvolvimento, Web, Bi, Etl, Power Bi,
+02/2011 - 12/2014
+Estácio FIC
+Computação/Informática - Pós-graduação incompleta - Arquitetura Cloud e Big Data Analytic
+08/2017 - 03/2019
+Cursos importantes
+Microsoft Innovation Center - MIC
+Sql Database, Relational Data Modeling, File System Administration (uml, Xml, Etc.), Backup, Database Restore, Automation And Task Optimization., 6 Mêses - 09/2012
+Microsoft Innovation Center - MIC
+Network Infrastructure - Network Management With Windows Server R2012 And Information Security, 6 Mêses - 06/2013
+GREAT: Computer Networks and Software Engineering
+Development Of Applications With Android And Visual Studio - C #, 3 Mêses - 11/2013
+University of Digital Work (UTD)
+Web Development, Connectivity And It Security, Systems And Server Administration Via Linux, Php / Mysql, 4 Mêses - 07/2014
+Metropolitan Faculty (FAMETRO):
+Technical Development In Oracle 12c Database With Linux Operating System And Cloud Computing., 3 Mêses - 04/2016
+GAUSS-UFC : Statistic Department
+Software R (probability, Statistics And Applied Mathematics): Exploration, Extraction, Manipulation, Analysis And Visualization Of Data And Its Graphical Representations., 3 Mêses - 05/2017
+Udemy
+Bi Analyst: Power Bi, Ssas, Ssrs, Sql Analysis, 4 Mêses - 07/2017
+UDEMY
+Machine Learning And Data Science With Python; C# Developer: In Progress, 5 Mêses - 08/2017
+Experiências profissionais
+Analista Senior TI / Processamento de dados
+Somente para Assinantes, Energia
+Salário final: R$ 3.250,00 ( 10/2016 - Até hoje)
+
+Processamento de Dados no setor das Perdas e Balanço Energético, na Diretoria das Infraestruturas e Redes I&N: TI & Banco de Dados. - Processamento de dados, - suporte aos serviços Web & BI (Sharepoint 2013, Power BI, Tableau 10), - Banco de Dados, - suporte aos usuários internos e externos (Infraestrutura de redes), - Gestão e geração de relatórios de Qualidade com focos em KPI's, APS, Dashboard, Backlog, etc
+Trainee TI
+Somente para Assinantes, Energia
+Salário final: R$ 1.450,00 ( 10/2014 - 10/2016)
+
+Estagiário no setor de Corte, Religação e Novos Clientes, na Diretoria das Operações Comerciais: TI & Gestão de Qualidade: - Elaborar propostas de criação e integração de Sistemas; - Auxiliar na execução de revisão previa de relatórios de inspeções terceirizadas, em conjunto com os demais engenheiros envolvidos na tarefa; - Auxiliar na geração de relatórios de qualidade para controle; -	Auxiliar na criação de bancos de dados para automatizar as tarefas diárias; - Auxiliar na criação de sistemas de armazenamento de aparelhos e outros componentes.
+Estagiário Sênior TI & Financial Assistant
+Somente para Assinantes, Educação/ Treinamento/ Idiomas
+Salário final: R$ 1.250,00 ( 05/2013 - 08/2014)
+
+Estagiário Sênior TI & Financial Assistant: - Administrar serviços Web, - Apoio ao Banco de Dados, - suporte e Analise de redes e - conciliação, lançamentos de faturas, cobranças etc
+Pesquisador
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 2.200,00 ( 11/2013 - 08/2016)
+
+Estagiário voluntario e Pesquisador, participação nos projetos de Desenvolvimento das aplicações nas soluções da Telefonia Móvel e Telecomunicações sem Fil: Gestão de Qualidade (QoS).
+Analista Funcional de TI
+Somente para Assinantes, Governamental
+Salário final: R$ 3.845,00 ( 05/2003 - 09/2006)
+
+- Analisar as necessidades técnicas e informáticas do Ministério. - Participar no desenvolvimento, implementação e execução de estratégias de TI. - Identificar problemas e oportunidades; - Questionar os usuários do Ministério para obter informações sobre levantamento de requisitos, dimensionamento de esforço e detalhamento de um processo; - Atuar na geração de planilhas de movimentação e documentos de especificação. - Garantir a qualidade dos produtos e serviços de TI de acordo com os padrões, normas e procedimentos em vigor. - Propor e implementar soluções para os problemas relacionados a TI e Otimização dos recursos.
+Analista de Sistemas Senior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.600,00 ( 11/2006 - 01/2010)
+
+- Implantar sistemas informatizados - - dimensionando requisitos e funcionalidade do sistema, auxiliando na especificação da sua arquitetura, escolhendo ferramentas de desenvolvimento, especificando programas, codificando aplicativos. - Administrar ambiente informatizado, prestam suporte técnico aos usuários e os treinam, elaborar documentação técnica. - Auxiliar na Gestão de Banco de Dados. - Análise em processamento de dados estatísticos e do suporte aos sistemas. - Estabelecer padrões, coordenar projetos e oferecer soluções para ambientes informatizados e pesquisar novas tendências tecnológicas em TI.
+Idiomas
+Espanhol - Básico  Francês - Fluente  Inglês - Avançado
+Habilidades e qualificações
+Cobit Pmbok ?	metodologia Agile / Scrum ?	itil Project Management ?	erp Sig ?	lógica de Programação Mimo Cdma Linux Windows Fdd Odfdm Lan Wan Vpn Pathloss Radio Mobile Ansoft Multissim Firewall (pare-feu) X-mon Team Viewver ?	photoshop Indesign Adobe Illustrator Page Maker Corel Draw. ?	infraestrutura & Telecom: Gsm 2g 3g Lte 4g Hpsa Filezilla Client Samba Bacula Endian Unix Suite Office Microsoft (access Excel ?	java Java Script C# C Android Mysql Visual Basic Applications - Vba Php Html Css Joomla Wordpress (cms) Visio Autocad Matlab Scilab Vhdl. ?	windows Server R2008/r2012 Oracles 12c Ms.sql Server Power Bi Dhs2 Word Power Point Etc.) Tableau Desktop 10. ?	ccna (cisco) Mpls Bgp Tcp/ip Ftp Http Filezilla Server Wimax Fibra Otíca Etc ?	microsoft Project

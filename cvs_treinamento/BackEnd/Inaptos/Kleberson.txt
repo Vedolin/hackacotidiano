@@ -1,0 +1,84 @@
+Analista de Modelagem para Prevenção à Fraudes
+Estatístico com expericiência em Machine Learning
+
+São Paulo, SP
+Cargo de Especialista ou Consultor em Data Science
+Experiência Profissional
+Analista de Modelagem para Prevenção à Fraudes
+Santander Brasil - São Paulo, SP
+Outubro de 2017 a Data Atual
+Faço parte da equipe de Modelagem e Inteligência Preditiva para Prevenção à Fraudes e realizo a manipulação de bases de dados de grande escala e volume, minhas atividades incluem todo o processo de Data Mining, Modelagem e Business Analytics das operações realizadas pelos milhões de clientes do banco. 
+ 
+Síntese das Atividades: 
+ 
+* Estruturar e preparar os dados para consumo, incluindo ambientes de big data; 
+* Utilizar conceitos matemáticos, incluindo testes estatísticos e distribuições; 
+* Trabalhar com uma variedade de linguagens de programação, incluindo SAS, R e Python; 
+* Reconhecimento de padrões nos dados, bem como detectar perfis comportamentais; 
+* Modelagem através de técnicas como Logistic Regression, Neural Networks e Random Forest; 
+* Coletar grandes quantidades de dados não estruturados e transformá-los em dados utilizáveis.
+Analista de Modelagem de Risco Energético
+EDP ENERGIAS DO BRASIL - São Paulo, SP
+Maio de 2017 a Outubro de 2017
+* Avaliação de custos para formação de preços; 
+* Elaboração de propostas e cenários; 
+* Acompanhamento de indicadores de desempenho (internos e externos); 
+* Participação em estudos de mercado e tendências; 
+* Participação nos projetos de desenvolvimento de produto e de portfólio de produto; 
+* Desenvolvimento de modelos através de Machine Learning como Random Forest e Neural Network; 
+* Forecast de resultados utilizando Time Series como ARIMA, SARIMA entre outras técnicas; 
+ 
+Softwares e Linguagens Utilizados: R, SAS Guide, SAS Visual Analytics, SQL, Oracle, SAP e Excel.
+Analista de MIS e Modelagem de Cobrança
+Sistema Integrado de Cobrança LTDA
+Junho de 2016 a Janeiro de 2017
+* Responsável pelo MIS da operação de cobrança; 
+* Tratamento de bancos de dados da carteira de clientes; 
+* Desenvolvimento de modelos de classificação através de Machine Learning e Data Mining; 
+* Avaliação da eficiência dos recuperadores; 
+* Proposição de soluções para melhora da performance operacional do processo de cobrança.
+Professor de Estatística Computacional e Modelagem
+Universidade Federal de Sergipe
+Julho de 2014 a Fevereiro de 2016
+Lecionamento de disciplinas de Estatística teórica e aplicada com ênfase nos aspectos 
+computacionais e multidisciplinares desta ciência; 
+* Pesquisa científica e estudos colaborativos em Machine Learning, Data Mining, Pesquisa 
+Operacional (Programação Linear), Bioestatística e Análise de Experimentos. 
+ 
+Fundação de Apoio à Pesquisa e Inovação Tecnológica (FAPITEC) - 01/2014 a 02/2014 
+Autarquia Governamental 
+ 
+Pesquisador DTI 
+* Acompanhar os projetos de inovação tecnológica aprovados pelos editais da FAPITEC; 
+* Apoiar as atividades de relevância à ciência e tecnologia designadas pela Diretoria Executiva; 
+* Atuar na tabulação de dados, análise e formatação de resultados e projetos; 
+* Atuar na formatação de bancos de dados e indicadores e de material de divulgação de projetos.
+Analista de Modelagem de Risco de Crédito
+Centros Comerciales Sudamericanos (CENCOSUD)
+Abril de 2011 a Agosto de 2013
+* Participação no processo de mitigação do risco de crédito da Joint-Venture Cencosud-Bradesco; 
+* Desenvolvimento de modelos de classificação de risco através de Machine Learning e Data Mining; 
+* Homologação e validação dos modelos de crédito; 
+* Previsão do valor destinado a provisão de devedores duvidosos (PDD).
+Estagiario de Estatística
+Secretaria de Planejamento, Orçamento e Gestão de Sergipe
+Dezembro de 2009 a Abril de 2011
+Secretaria Governamental 
+ 
+Estagiário 
+* Análises estatísticas de planilhas orçamentárias; 
+* Implementação de informações sistêmicas; 
+* Controle estatístico no envio e recebimento de informação. 
+ 
+FORMAÇÃO COMPLEMENTAR
+Formação Acadêmica
+Especialização - Governança de Tecnologia da Informação
+PUC - MG São Paulo, SP
+Setembro de 2017 a Dezembro de 2018
+Bacharelado - Estatística
+Universidade Federal de Sergipe São Cristóvão, SE
+Março de 2007 a Dezembro de 2011
+Mestrado - Ciências da Computação
+Universidade Federal de Sergipe
+Habilidades e Competências
+Big Data (2 anos), Machine Learning (2 anos), MIS (5 anos), Excel Avançado (5 anos), SPSS (5 anos), Análise de Informações Gerenciais (5 anos), Programação em R (2 anos), Programação em Java (2 anos), Estatística (Mais de 10 anos)

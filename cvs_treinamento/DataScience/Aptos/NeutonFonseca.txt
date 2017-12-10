@@ -1,0 +1,102 @@
+Neuton Fonseca
+Cientista de dados na NYC Data Science Academy
+Summary
+Minha experiência profissional na Vale foi de intenso aprendizado na área corporativa de saúde e segurança
+do trabalho, onde consegui desenvolver uma visão de corporação, participando de diversas cadeias de processos. Aprendi com isso as dificuldades e benefícios de padronizar e implementar processos de segurança e indicadores em diversas áreas, de forma global.
+Meu objetivo profissional é conseguir aprender ainda mais com as diversas fontes de informação, aplicando métodos, conceitos e práticas estatísticas e também compartilhar meus aprendizados de modo a gerar informações relevantes às empresas para tomada de decisão.
+Experience
+Cientista de dados at NYC Data Science Academy
+setembro de 2017 - Present
+Participação de um programa imersivo envolvendo estratégia de dados e experiência prática em machine learning, big data, estatística avançada e analytics, usando R e Python como linguagens de desenvolvimento e aplicando estratégias de ensemble e stacking , deep learning, visualização de dados, SQL, Git/GitHub.
+Alguns projetos realizados:
+• Desenvolvimento de um aplicativo Shiny utilizando R (dplyr, tidyr, ggplot2, Googlevis, plotly) e bases
+de dados do governo americano para entender o cenário de fatalidades ocupacionais nos Estados Unidos e
+avaliar a evolução da taxa de frequência de fatalidades ocupacionais.
+• Utilização de técnicas de web scraping para capturar os reviews dos sites Yelp (Selenium) e Seamless
+(Scrapy) e analisar se há diferença significativa entre os reviews de restaurantes como um todo (Yelp) e os de
+serviço de entrega (Seamless).
+• Top 12% na competição Kaggle de House Prices, aplicando pre-processamento de dados, feature
+engineering e diversos modelos de machine learning e técnicas de stacking para conseguir previsão do preço de casas.
+Durante o curso, foi possível aprender e aplicar algumas linguagens e ferramentas: - Git/GitHub
+- SQL
+- R e Shiny
+- Python
+- Web scraping (Beautiful Soup, Scrapy, Selenium) - Machine learning em R
+- Machine learning em Python
+  Page 1
+- Spark
+- Hadoop - Hive
+Engenheiro de Segurança do Trabalho at Vale
+maio de 2014 - Present
+- Gerenciamento de equipamentos de proteção individual, onde atuo com fortes interfaces junto às áreas de suprimentos e áreas operacionais, buscando as melhores tecnologias, com o melhor custo/benefício;
+- Gerenciamento de condições inseguras, realizando análise dos dados registrados em sistema para direcionar estratégia e gerar aprendizado organizacional, além de revisão e melhoria do processo;
+- Desenvolvimento e implantação de programas de prevenção de fatalidade junto às áreas operacionais. - Gerenciamento de incidentes de saúde, segurança e meio ambiente, com foco em aprendizado
+organizacional para prevenção de incidentes.
+- Coordenação de reuniões periódicas de segurança com líderes de todos os países em que a Vale atua;
+- Análise crítica de indicadores de segurança, realizando monitoramento, gerando relatórios e executando
+correlação com outros indicadores para atuar de forma preditiva.
+- Coordenação da customização global e implantação de um sistema ERP, no módulo de gerenciamento de
+incidentes, no Brasil e nas operações do Canadá (presencialmente por 02 meses).
+- Apoio na integração do sistema de gestão de saúde e segurança com o sistema de gestão ambiental.
+- Elaboração dos conteúdos de segurança para reporte em relatórios externos (Relatório de Sustentabilidade,
+Índice de Sustentabilidade Empresarial, etc.)
+Engenheiro at Vale
+janeiro de 2011 - maio de 2014 (3 anos 5 meses)
+- Implantação do processo de gerenciamento de indicadores de saúde e segurança, com análise crítica e
+confecção de relatórios estratégicos para a liderança, estabelecendo critérios e limites para contabilização de
+acidentes;
+- Implantação do sistema de gestão de saúde e segurança, ministrando treinamentos e realizando auditorias
+locais de implantação;
+- Gerenciamento e apuração de metas anuais de saúde e segurança (participação nos lucros);
+- Elaboração dos tópicos de segurança para reportes externos (Relatório de Sustentabilidade, Índice de
+Sustentabilidade Empresarial, etc.)"
+Estagiário at Vale
+janeiro de 2010 - dezembro de 2010 (1 ano)
+- Apoio no processo de planejamento de auditorias corporativas de saúde e segurança;
+- Apoio no processo de gerenciamento de indicadores e confecção de relatórios gerenciais;
+- Apoio no processo de inspeções focadas em desvios críticos (relacionados a atividades críticas executadas
+na empresa).
+- Apoio no gerenciamento de incidentes de saúde e segurança e análise crítica (qualitativa e quantitativa).l
+Page 2
+ Education
+NYC Data Science Academy
+Bootcamp, Business/Office Automation/Technology/Data Entry, 2017
+Fundação Getulio Vargas
+Master of Business Administration - MBA, Business Analytics e Big Data, 2017 - 2018
+Universidade Federal Fluminense / UFF
+Especialização em Engenharia, Engenharia de Segurança do Trabalho, Engenharia de Segurança do Trabalho, 2011 - 2012
+Universidade Federal Fluminense / UFF
+Bacharelado em Engenharia, Engenharia Química, Engenharia Química, 2006 - 2010
+ Page 3
+Neuton Fonseca
+Cientista de dados na NYC Data Science Academy
+Contact Neuton on LinkedIn
+
+
+Engenharia
+Gabriel Luciano de Souza e 12 conexões recomendaram esta competência
+ISO (Organização Internacional para Padronização)
+Leonardo Dias Pinto, M.Sc. e 3 conexões recomendaram esta competência
+Chemical Engineering
+Recomendada por 2 colegas de Neuton na Vale
+Neuton também tem a competência…
+Safety Engineering
+HSE Management Systems
+Microsoft Office
+Engenharia química
+Engineering
+SAP ERP
+Implementação SAP
+Big data
+Análise de dados
+Safety Indicators
+Sistema de Gestão de SSMA
+Indicadores de S&S
+Indicadores
+R
+Python
+Shiny
+SQL
+Machine Learning
+Data Analysis
+Data Visualization

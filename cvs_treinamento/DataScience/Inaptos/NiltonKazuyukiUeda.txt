@@ -1,0 +1,57 @@
+Nilton Kazuyuki Ueda
+Consultor de Inteligência e Análise de Dados, Professor e Orador
+kazu.ueda@hotmail.com
+Resumo
+Especialidades: Business Intelligence, Data Insights, Data Warehouse, SSMS, Extração de Dados e Transformação, Integração de Dados Pentaho, Visual Analytics, Tableau Desktop, Tableau Server, Tableau Online, Tableau Mobile, Power BI, Alteryx, SAP HANA, AWS Redshift, EC2, Google Cloud Plataform, Big Query
+Experiência
+Analista, Entrega Digital e Analítica no Accenture Analytics
+novembro de 2017 - presente
+Trabalhando na Business Unit Digital com diferentes ferramentas de análise, como (mas não limitado) Tableau, AWS Redshift, SQL Server e ETL Alteryx / Talend e oferecem suporte para muitas empresas.
+Analista de Inteligência de Negócios na VIDI
+outubro de 2016 - outubro de 2017 (1 ano 1 mês)
+VIDI é uma EMPRESA DE MONITORIZAÇÃO DE EXECUÇÃO DE MARCA E EXPERIÊNCIA DE CONSUMIDORES /
+SHOPPERS em canais de vendas com foco em INTELIGENCE GENERATION para gerenciamento de empresas.
+Eu sou membro da BI BU servindo contas estratégicas com o escopo abaixo:
+• Criação e desenvolvimento de arquitetura para a construção e verificação de indicadores de auditoria de Programas de Excelência Comercial em Marketing Comercial e Experiência de Compras usando TABLEAU, Microstrategy e Power BI;
+• Ao longo do ciclo de vida da análise de alcance, desenvolvimento, teste de software e entregáveis ​​usando Wrike e Asana;
+• Pesquisa de requisitos e necessidades de negócios, definição de escopo, arquitetura e solução de projetos;
+• Criação e desenvolvimento de processos ETL com ferramentas como Pentaho Data Integration for Data Quality
+e processos de validação de dados, para executar integrações com bancos de dados externos;
+• Desenvolvimento de relatórios corporativos para ambiente Desktop e Móvel;
+• Fornecer soluções de acordo com a compreensão do negócio estudado e geração de novas idéias;
+• Incentivar o uso de novas metodologias e tecnologias para o negócio, com foco em atender mais
+e mais (com menos);
+• Relacionamento com clientes internos e externos;
+• Treinamento, orientação e treinamento para clientes internos e externos; • Entrevistas técnicas com candidatos para a área;
+  Página 1
+• Execute o gerenciamento do escopo do projeto; realizando interação e alinhamentos com Vendas, Operação, Garantia de Qualidade, Planejamento de Capacidade e TI;
+Analista de Inteligência de Negócios do Grupo LEGO
+março de 2016 - outubro de 2016 (8 meses)
+Atualmente, a LEGO oferece brinquedos, experiências e material didático para crianças em mais de 130 países, sendo
+o terceiro maior fabricante de materiais para jogos do mundo.
+Eu sou um membro da Intel BU com o escopo abaixo:
+• Analista de informação gerencial dedicado à conta LEGO do Brasil pela agência YES PROMO;
+• Especialista na gestão completa do ambiente Agile Promotor; incluindo saneamento e higiene de todas as bases de dados existentes para garantir a governança cadastral e a confiabilidade dos dados, bem como a sustentabilidade e parametrização no meio ambiente;
+• Análise das funcionalidades do Agile Promoter para ser aplicada na operação e para maximizar os resultados obtidos;
+• Esclarecimento de incidentes no Agile Promoter junto à operação e também esclarecimentos técnicos com o fornecedor de software;
+• Coleta de requisitos, modelagem de dados multidimensional e desenvolvimento do Relatório de Status para campanhas periódicas e on-demand. Desenvolvimento de ativos (nível de serviço), desempenho operacional e produtividade, estoque, participação de mercado, preço, presença de marca e outros com o objetivo de gerenciar análise de negócios. Neste item, também há discussão e alinhamento da melhor maneira de visualizar a informação com a área de negócios interna e com o cliente;
+• Automação de rotinas manuais para rotinas VBA e gerenciamento de dados de alto volume em SQL;
+• Cruzamento de estoque virtual com estoque físico;
+• Desenvolvimento de relatórios com Tableau Desktop 9.2, Power BI e Microsoft Excel;
+• Criação e desenvolvimento de informações usando o Excel como front-end com gerenciamento de dados (como um repositório ou um data warehouse) e inteligência VBA no Access como back-end;
+• Gestão do conhecimento sobre soluções sistêmicas para novos funcionários;
+Página 2
+• Estruturação da governança de registro;
+Assistente Comercial da AES Brasil
+fevereiro de 2015 - março de 2016 (1 ano 2 meses)
+• Análise de variados tipos de dados extraídos da SAP, envolvendo a extração, transformação e tratamento
+passos;
+• Criação de rotinas de extração de relatórios gerenciais;
+• Realização de procedimentos de Qualidade de Dados para garantir uma base de dados confiável e sustentável;
+• Criação de painéis administrativos e operacionais usando Tableau Desktop, QlikView e também Microsoft
+Excel;
+• Criação de apresentações usando Power Point em integração com Think Cell;
+• Criação e divulgação de um painel de gerenciamento com os principais indicadores operacionais estratégicos da
+Gestão de canais de relacionamento;
+• Criação e desenvolvimento de soluções com frond-end em planilhas do Excel e banco de dados Access e usando
+Inteligência VBA como back-end;

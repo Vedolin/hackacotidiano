@@ -1,0 +1,48 @@
+
+ANALISTA DE SISTEMAS
+Dados Pessoais
+23 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de sistemas
+Analista programador
+Salário
+Mínimo aceitavel: R$ 2.300,00
+Resumo do currículo
+Bacharel em Engenharia de Software pela Universidade Federal do Amazonas/Instituto de Ciências Exatas e Tecnologia. Tem experiência na área de Ciência da Computação, com ênfase em ENGENHARIA DE SOFTWARE, modelagem de sistemas e no desenvolvimento de software orientado a modelo para redes de sensores sem fio. Atualmente, ocupa o cargo de Programadora Júnior em uma empresa de TI desenvolvendo soluções, correções tecnológicas e testes para sistemas do ramo comercial. Tem experiência no desenvolvimento web utilizando as tecnologias UNIGUI e DataSnap, além de experiência nas linguagens C e Java. Tem experiência em desenvolvimento de sistemas utilizando Delphi X10 integrado com banco de dados firebird, sql server, protocolo REST e modelo Cliente-Servidor. Possui experiência em gerenciamento e controle de banco de dados Firebird e SQL Server. Possui conhecimentos no desenvolvimento de aplicativos para a plataforma android e no uso de sistemas de controle de versão como GIT e TortoiseSVN. Possui conhecimento em documentação de software e na metodologia de desenvolvimento Scrum e XP.
+Escolaridade
+Universidade Federal do Amazonas
+Computação/Informática - Superior completo - Engenharia de Software
+09/2010 - 12/2016
+Cursos importantes
+Universidade Federal do Amazonas
+Promobile Desenvolvimento para Android - Ufam/samsung, 6 Meses - 12/2014
+Universidade Estadual do Amazonas
+Ensino de Lógica e Linguagem de Programação?, 11 Meses - 12/2011
+Universidade Federal do Amazonas
+Mini Curso - Engenharia de Software, 8 Horas - 10/2011
+Universidade Estadual do Amazonas
+Introdução Ao Ambiente Integrado de Desenvolvimento (ide) Borland C++ Builder 6.0, 15 Horas - 12/2010
+Casa do Cidadão do Bairro da União
+Informática Básica, 60 Horas - 02/2007
+Experiências profissionais
+Analista programador
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.750,00 ( 02/2017 - Até hoje)
+
+Desenvolvimento de sistemas e aplicações para diversos setores comerciais, codificando programas mediante análise da documentação e dos requisitos levantados junto ao usuário ou equipe. Modificação de rotinas de sistemas a fim de corrigir falhas e atender alterações de sistemas e novas necessidades, realizar testes em ambiente de desenvolvimento e correção dos defeitos encontrados. Auxiliar a equipe de suporte técnico na resolução de problemas junto ao cliente. Corrigir problemas encontrados no banco de dados do cliente.
+Técnico de informática
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.110,00 ( 04/2015 - 01/2016)
+
+Prestar suporte ao usuário, instalando e realizando manutenção de software e hardware. Receber e transmitir dados fiscais. Treinamento de usuários. Prestar assistência técnica na instalação e utilização de equipamentos de informática, como impressoras comuns, impressora fiscais, instalação de leitores de código de barra etc. Realizar testes nos softwares desenvolvidos pela empresa para ambiente Windows e Linux.
+Pesquisador de Iniciação Cientifica
+Somente para Assinantes, Pesquisas
+Salário final: R$ 450,00 ( 08/2011 - 12/2014)
+
+Realizar pesquisas científicas de acordo com o plano de trabalho pré determinado pelo professor orientador do projeto. Reportar por meio de relatos semanais ao professor orientador resultados e o status da pesquisa. Escrever e publicar Artigos científicos. Apresentar resultados finais, por meio, de relatório final e apresentação oral para os membros da banca avaliadora.
+Idiomas
+Inglês - Avançado
+Habilidades e qualificações
+Eclipse Sistema Operacional Linux Sistema Operacional Windows Sql Mysql Linguagem Java Linguagem C Firebird Desenvolvimento em Delphi Sql Server Modelagem de Sistemas Usando Uml Linguagem Php Configuração de Aplicações Par Windows Banco de Dados Pacote Libreoffice Pacote Office Delphi X10 Tortoisesvn Git Protocolo Rest Modelo Cliente Servidor Scrum Metodologia Xp Noções de Desenvolvimento Android Android Studio

@@ -1,0 +1,43 @@
+ANALISTA DE DESENVOLVIMENTO SISTEMAS
+Dados Pessoais
+35 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de desenvolvimento sistemas
+Analista de BI (Inteligência de Mercado)
+Salário
+Mínimo aceitavel: R$ 10.000,00
+Pretendido: R$ 12.000,00
+Resumo do currículo
+Esperiência com as ferramentas Pacote Hadoop (Hive, Hdfs, zookeper, Scoop) Spark, Hbase, Shell, Sql, Java e Pyton. Formação superior completa em Sistemas de Informação.
+Escolaridade
+Faculdade Sumaré
+Computação/Informática - Superior completo - Sistemas de Informação
+06/2013 - 06/2015
+Universidade Presbiteriana Mackenzie
+Computação/Informática - Superior incompleto - Sistemas de Informaçao
+06/2002 - 06/2006
+Experiências profissionais
+Especialista Big Data
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 11.500,00 ( 06/2017 - Até hoje)
+
+Ocupação: Analista Big Data. Atuando em projeto dentro do cliente Telefônica (Projeto Ingrid). Projeto de Big Data com tecnologia Hadoop em ambiente Cloud Computer (Cluster de servidores Linux). Ferramentas Utilizadas - Pacote Hadoop (Hive, Hdfs, zookeper, Scoop) Spark, Hbase, Shell, Sql, Java e Pyton.
+Analista de sistemas
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 10.000,00 ( 02/2015 - 06/2017)
+
+Ocupação: Analista de Sistemas. Atuando como analista de sistemas no projeto SBA – sistema de batimento automático dentro do cliente Telefônica. Projeto de Big data com tecnologia Hadoop em ambiente Cloud Computer (Cluster de servidores Linux). Atuei tanto nas definicões funcionais como nas técnicas realizando os ajustes necessários para contemplação do sistema em produção. Atuo também no projeto de sustentação SPIC e NSPIC (sistema de pesquisa integrado de chamadas) que executa em cobol, front-end em java e banco em teradata / arquivo sequencial as aplicações executando em ambiente UNIX. Ferramentas Utilizadas - Pacote Hadoop (Hive, Hdfs, zookeper, Scoop, Pig), Shell, Sql, Java, Oracle, Teradata, Cobol Microfocus, Cobolbr.
+Analista de sistemas
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 7.200,00 ( 06/2014 - 02/2015)
+
+Ocupação: Analista de Sistemas. Atuando como analista de sistemas no projeto SBA – sistema de batimento automático dentro do cliente Telefônica. Projeto de Big data com tecnologia Hadoop em ambiente Cloud Computer (Cluster de servidores Linux). Atuei tanto nas definicões funcionais como nas técnicas realizando os ajustes necessários para contemplação do sistema em produção. Atuo também no projeto de sustentação SPIC e NSPIC (sistema de pesquisa integrado de chamadas) que executa em cobol, front-end em java e banco em teradata / arquivo sequencial as aplicações executando em ambiente UNIX. Ferramentas Utilizadas - Pacote Hadoop (Hive, Hdfs, zookeper, Scoop, Pig), Shell, Sql, Java, Oracle, Teradata, Cobol Microfocus, Cobolbr.
+Analista de sistemas
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 6.500,00 ( 09/2012 - 06/2014)
+
+Ocupação: Analista de Sistemas. Atuei como analista de sistemas no projeto Pagamentos Integrados. Projeto da nova arquitetura para o cliente Bradesco. Minhas principais atividades eram análise e desenvolvimento de sistemas para ambiente Mainframe (batch e online), geração e controle de especificações funcionais, modelagem de dados, geração de entregáveis entre outras atividades. Ferramentas utilizadas: Tso, Changman, Roscoe, Erwin. Banco de dados Db2. Linguagens Cobol e CICS
+Idiomas
+Inglês - Intermediário

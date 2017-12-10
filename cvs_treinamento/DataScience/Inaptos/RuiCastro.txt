@@ -1,0 +1,31 @@
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+37 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Gerente de projetos
+Salário
+Mínimo aceitavel: R$ 10.000,00
+Pretendido: R$ 12.000,00
+Resumo do currículo
+Trabalhei no Banco Bradesco por 8 anos, atuando como Analista de Banco de Dados SQL Server / Oracle, exercendo atividades como: modelagem de dados, implementação de banco de dados, apoio aos desenvolvedores, controle de qualidade de pacotes de fornecedores externos, participação em projetos, definição de estratégia de backup/restore, definição da arquitetura física de banco de dados, estratégia de alta disponibilidade, avaliação de novas tecnologias/produtos, além da administração de banco de dados em ambientes de desenvolvimento, homologação e produção, rodando sistemas de Internet Banking, retaguarda de agências, departamentais, etc. Participei, também, de processos de fusão de outras instituições financeiras, realizando a integração entre os sistemas de banco de dados. Prestei serviço na Microsoft Brasil por cinco meses, atuando num projeto de consolidação de diversas bases de dados heterogêneas para unificação de dados cadastrais da empresa, para implementação de um sistema web. Além disso, participei de processos de melhoria da qualidade dos dados, apoio à equipe de CRM-Siebel na criação scripts de banco de dados, tabelas, índices e rotinas de extração/transformação/importação de dados (ETL). Aceitei o desafio de participar da instalação da multinacional Level Up Interactive no Brasil, empresa associada à Tec Toy, atuando no ramo de Entretenimento, sendo a pioneira na utilização da tecnologia de acesso massivo de usuários em jogos on-line no país. Assumi o cargo de Coor
+Escolaridade
+FIAP
+Administração - Pós-graduação completa - Gestão de Projetos Pmi
+02/2009 - 03/2010
+UNIFIEO
+Computação/Informática - Superior completo - Ciência da Computação
+01/2000 - 12/2003
+Fundação Bradesco
+Computação/Informática - Ensino Médio Técnico - Processamento de Dados
+01/1996 - 12/1999
+FIAP
+Computação/Informática - Pós-graduação cursando - Big Data / Data Science
+04/2017 - 04/2018
+Idiomas
+Espanhol - Intermediário  Inglês - Avançado
+Habilidades e qualificações
+Internet Word Access Powerpoint Excel Big Data Data Engineer Engenheiro de Dados Kafka Flume Hadoop Scala Impala
+

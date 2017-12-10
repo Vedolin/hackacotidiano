@@ -1,0 +1,147 @@
+wermans de oliveira barros
+
+
+Enviar mensagem Enviar mensagem para wermans de oliveira barros  more_allyMais…
+Data lead/engineer skilled in capture, recording, interpreting and analyzing data in a fast-paced or batch
+environments. Advanced proficiency in all aspects of Data Warehouse architecture, Hadoop ecosystem, Lambda Architecture. An enthusiast of Artificial Intelligence and NLP, sometimes spending some hours playing with frameworks (sci-learning, Keras, api.ai) trying automate something thing. Experienced in preparing detailed documents and reports while managing complex internal and external data analysis responsibilities.
+Destaques
+ Leonardo Framil
+6 conexões em comum
+Você e wermans conhecem Leonardo Framil, Matheus Dantas e mais 4 pessoas
+ Ewave do Brasil
+wermans pode apresentar você a 7 pessoas na Ewave do Brasil
+wermans trabalhou na Ewave do Brasil
+ Seguindo Seguindo
+Atividades de wermans
+728 seguidores
+
+A Accenture foi reconhecida pela Forbes como uma das 10 empresas mais inovadoras do Brasil!! Parabéns a todo o time que tem a Inovação no DNA!! #proudtobeaccenture #weflytothenew #accenture https://lnkd.in/dCrGj_q
+wermans gostou
+
+Mainstreaming HPC Codes Will Propel The Next GPU Wave
+wermans gostou
+
+#legalhack #RJ time fantástico. Experiência sensacional! wermans de oliveira barros, Gabriela Badi Cintra do Prado, Juscilan Moreto, Matheus Dantas, Angelica Ravagnani
+wermans respondeu a um comentário
+
+Hackaton reúne mais de 100 advogados e desenvolvedores por 36 horas seguidas
+wermans gostou
+
+Anderson Costa, experto en inteligencia artificial de Accenture
+wermans gostou
+
+Entrei de gaiato como apoiador ao primeiro hackaton feito por um escritório de advocacia no Brasil. O Heitor Roberto Maia, sócio do Faria, Cendão & Maia Advogados, organizador do #LegalHack, e investidor da Upgradio, me convidou para participar do evento. Chegando lá, 80 pessoas sem internet em um evento que depende totalmente da internet. Resolvi o problema e a Upgradio ganhou a chance de ser uma apoiadora do evento. Eu ando com o banner no carro para eventualidades. Não perdi tempo e já o estendi para todo mundo ver. A sorte está ao lado de quem está preparado. E no evento acabei tendo a chance de fazer networking com pessoas importantes de grandes empresas. Todas com fit com o meu negócio. Go Upgradio!
+wermans gostou
+Experiência
+ Accenture
+Digital Business Integration Manager - Analytics | Big Data
+Nome da empresaAccenture
+Períodofev de 2017 – o momento  Duração do emprego11 meses
+LocalidadeSão Paulo, São Paulo
+Team leader - Big Data Projects
+
+#Cloudera #Spark #Hadoop #HDFS #Hbase #Flume #Kafka #Java #Springboot #ApacheCassandra #Python
+ Vert Integradora de TI
+Analytics - Big Data DevOps Architect
+Nome da empresaVert Integradora de TI
+Período2015 – 2016  Duração do emprego1 ano
+LocalidadeBrasil
+Pré sales, with Big Data and Data Integration solutions. 
+
+Hadoop
+Transfer databases to HDFS with Sqoop.
+Capture real time log datasets to hdfs with Kafka.
+Doing Unstructured data into structured data using batch process routines in Pig.
+Use Cloudera Hive Metastore to store metadata for Hive tables.
+Increase data access velocity with Impala and Spark SQL.
+Manage hive conections to Olap tools.
+Manage multiple clusters using Cloudera Manager.
+
+Solr
+Index solr datafiles stored on hdfs.
+Solr search query using rest API.
+
+Python 
+Build rest APIs with Python and Flask.
+Create MapReduce jobs.
+
+Talend
+Use Talend Open Studio to create ETL process in HDFS, Hive, Impala and Spark.
+ eWave do Brasil
+Data Integration Consultant
+Nome da empresaeWave do Brasil
+Períodonov de 2014 – 2015  Duração do emprego1 ano
+LocalidadeBrasil
+- Desing and Development the Data Warehouse architecture.
+- ETL jobs development in SSIS 2010/2012.
+ Data Modelling Consultoria Ltda.
+BI Consultant
+Nome da empresaData Modelling Consultoria Ltda.
+Períodoabr de 2013 – nov de 2014  Duração do emprego1 ano 8 meses
+Development Microstrategy
+Build the data warehouse architecture
+Text Analytics
+
+#IBM #Microstrategy
+ Qualicorp
+IT Technician
+Nome da empresaQualicorp
+Período2011 – abr de 2013  Duração do emprego2 anos
+LocalidadeBrasil
+Development data integration with Ms SQL Server tools.
+Batch processing.
+
+#SqlServer #SSIS #Totvs #ERP
+Formação acadêmica
+ IGTI
+IGTI
+Nome do diplomaMaster of Business Administration (MBA), Análise de Inteligência de Negócio
+Período (ou ano previsto para a graduação) 2014 – 2015
+ UDF Centro Universitário
+UDF Centro Universitário
+Nome do diplomaBachelor of Information Systems Área de estudoTecnologia em Informática/Software
+Período (ou ano previsto para a graduação) 2010 – 2013
+http://www.udf.edu.br/
+ IESB
+IESB
+Período (ou ano previsto para a graduação) 2008 – 2010
+
+
+Microsoft SQL Server
+Data Warehousing
+Oracle
+ETL Tools
+Microstrategy
+MS Integration Services
+MySQL
+Microsoft Reporting Service
+Analysis Services
+PostgreSQL
+Armazenagem de dados
+MicroStrategy
+OLAP
+Web Development
+SQL
+Crystal Reports
+Jasper Reports
+Java Enterprise Edition
+Eclipse
+ODBC
+ODI
+Inteligência empresarial
+HTML
+PostGIS
+SQLite
+JSP
+SSIS
+JavaScript
+ETL
+Big data
+Hive
+Hadoop
+Python
+Design thinking
+MVC Architecture
+Cloudera
+Apache Spark
+Machine Learning

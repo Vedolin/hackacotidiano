@@ -1,0 +1,28 @@
+Analista de dados Senior
+São Paulo, SP
+Experiência Profissional
+Analista de dados Senior
+Kroton Educacional - São Paulo, SP
+Julho de 2017 a Data Atual
+Desenvolvimento de modelos de Forecasts e Retenção em diretoria de Marketing.(CRM e BI) 
+Utilização de Big Data, Cloud, SAS, Python e R.
+Analista de dados Senior
+Serasa Experian - São Paulo, SP
+Janeiro de 2017 a Julho de 2017
+Projeto de consultoria externa efetuando construção de bases de dados para o modelo IFRS9 no Banco Santander em área de Risk MI (MIS) 
+Utilização de Unix,Oracle, SAS Miner e SAS Guide.
+Analista de dados Senior
+Amil - Barueri, SP
+Janeiro de 2016 a Janeiro de 2017
+Implementação de algorítmos e modelagem estatística no segmento odontológico e médico. 
+-Criação de modelos supervisionados e não supervisionados. 
+-Machine Learning  
+-Modelos de Forecast 
+-Behaviou Score 
+-Modelagem Anti-Fraude
+Formação Acadêmica
+Bacharel - Engenharia da Computação
+Universidade São Judas Tadeu São Paulo, SP
+Janeiro de 1996 a Dezembro de 2002
+Habilidades e Competências
+ETL (Mais de 10 anos), Modelagem (Mais de 10 anos), Inglês Fluente (Mais de 10 anos), Estatística (Mais de 10 anos), Econometria (Mais de 10 anos), SAS Guide (Mais de 10 anos), SAS Miner (Mais de 10 anos), Python Avançado (2 anos), R (2 anos), BIg Data (2 anos), Ciência de dados (7 anos), Oracle (Mais de 10 anos), SQL Avançado (Mais de 10 anos), Visual Basic Avançado (9 anos), CRM (7 anos), BI (Mais de 10 anos), DMB (6 anos)

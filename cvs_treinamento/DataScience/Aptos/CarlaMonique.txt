@@ -1,0 +1,64 @@
+PROFISSIONAL 
+Apareça também nessa busca
+Anuncie seu currículo
+RECRUTADOR 
+encontre novos talentos
+Cadastre-se
+E tenha acesso exclusivo 
+aos currículos na integra
+Nome: Apenas para empresas cadastradas
+ANALISTA DE BANCO DE DADOS
+Dados Pessoais
+52 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de banco de dados
+Salário
+Mínimo aceitavel: R$ 14.000,00
+Pretendido: R$ 18.000,00
+Resumo do currículo
+Formado em Ciências da Computação e atualmente cursando Física e mestrando em Astrofísica. Experiência como Cientista de dados e também em Infraestrutura de TI. Desenvolvi e gerenciei diversos projetos na área de infraestrutura de datacenters na América do Sul e Globais com resultados acima dos esperados. Desenvolvi e apresentei excelentes resultados em diversos projetos na área de análise de dados e previsão de demanda. Conhecimentos Técnicos: -	Business Intelligence, Big Data, Machine Learning, Deep Learning, IoT, Hadoop, Spark; -	Plataforma Windows e Linux; -	Microsoft: Windows 10, Server, Microsoft SCCM, Office 365, SharePoint; -	Programação: Python, R, C/C++, Assembler, VBscript, PowerShell, Java, Shell Script; -	Bancos de dados: Microsoft SQL Server, DB2, Oracle, MySql, Neo4J; -	Redes: Switches, Cabeada e Wireless, LAN e WAN; -	Virtualização com VMware, Hyper-V; -	Seis Sigma – Certificação Green Belt; -	Cloud – Azure, Amazon Web Services, Google, Artik Cloud.
+Escolaridade
+Universidade Paulista UNIP
+Computação/Informática - Superior completo
+03/1990 - 11/1996
+Universidade Federal de Itajubá - UNIFEI
+Astronomia - Mestrado incompleto - Astrofisica
+03/2014 - 11/2018
+Universidade de São Paulo - USP
+Física - Superior cursando
+03/2016 - 11/2021
+Cursos importantes
+Instituto de Matemática e Estatística - IME
+Curso de Programação em R, 90 Horas - 01/2017
+Experiências profissionais
+Data Scientist, Microsoft - Messaging Operations S
+Somente para Assinantes, Alimentos
+Salário final: R$ 16.000,00 ( 06/2016 - 06/2017)
+
+•	Modelagem e disponibilização de Dashboards dinâmicos da plataforma Power BI; •	Criação de algoritmos de Machine learning para controle de e-mails spam; •	Responsável pela migração da plataforma Exchange AnsiD para vNext na nuvem; •	Extração de mensagens para área jurídica internacional; •	Suporte à migração e operação de usuários Intune; •	Criação de scripts PowerShell para migrações de Exchange e Intune; •	Uso de Neo4J para mapeamento de relacionamento entre e-mails SPAM.
+Cientista de Dados
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 10.000,00 ( 06/2010 - Até hoje)
+
+•	Prova de Conceito de Machine Learning e IoT em Companhia de seguros: o	Objetivo: Redução do sinistro em 15%. o	Análise de risco do segurado de acordo com análise do comportamento, medido com dispositivo IoT instalado no veículo e envio de informações para a nuvem. •	Prova de Conceito de Análises Estatísticas, aplicação de Árvore de decisão e cálculo vetorial em Empresa de Logística: o	Análise de Manutenção e rota de frota: o	Objetivo: Economia de 12% em pagamento de impostos, gastos com combustível e redução de tempo entre paradas por falha em caminhões. •	Análise utilizando algoritmos de árvores de decisão e colônia de formigas na otimização de rotas de logística buscando melhor localização de armazéns centrais, menor desgaste dos caminhões, menor tempo de frota parada para manutenção e redução de pagamento de impostos. Uso da nuvem da AWS para coleta e extração de dados; •	Análises corretivas e preditivas na produção, venda, logística, departamento financeiro e outras áreas em qualquer ramo de atividade. Data mining, otimização, redução de custo, melhoria da performance, maximização dos lucros. •	Uso da Estatística e do Cálculo tradicional para melhores resultados. Técnicas matemáticas recentes como Monte Carlo, Teoria dos Grupos, Cálculo Vetorial com linguagens de programação R e Python. •	Implantação de algoritmos de Machine Learning para que os clientes possam gerar simulações estimativas e previsões próprias, utilizando nuvem da AWS.
+Arquiteto de Soluções especialista em Tecnologias
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 9.000,00 ( 06/2014 - 05/2016)
+
+•	Apresentações e hands on sobre toda a plataforma do Office 365, Word, Excel, PowerPoint, Skype for business, Sharepoint, Yammer, OneDrive e Power BI para os clientes e parceiros; •	Desenvolvimento de sites em SharePoint, workflows, gerenciamento eletrônico de documentos, listas, comunicação com bancos de dados, bibliotecas de arquivos e etc.; •	Arquitetura de Banco de Dados SQL para BI utilizando Transact SQL, ETL, Data Lake, DataWarehouse e modelagem analítica em R; •	Estudo de situações de negócios junto ao cliente com a apresentação de soluções utilizando Power BI, Machine Learning e modelos preditivos em Python e R; •	Utilização de Business Intelligence e machine learning para análises internas de situações de clientes e resultados;
+Information Systems Specialist
+Somente para Assinantes, Automobilística/ Autopeças
+Salário final: R$ 12.000,00 ( 05/2007 - 04/2012)
+
+•	Administração e manutenção da infraestrutura do ambiente Microsoft SCCM2007 no gerenciamento de 44.000 desktops e 500 servidores no mundo; •	Desenvolvimento da estrutura de banco de dados MSSQL global para assumir a mudança de versão do SMS para o SCCM. • Desenvolvimento de pacotes para distribuição global de softwares e aplicativos; •	Extração de relatórios gerenciais, transferência de banco MSSQL para Oracle para compor informações financeiras sobre o parque de software e hardware, utilizando SharePoint como front-end; • Criação de painel de controle na intranet SharePoint para instalação de softwares; •	Gerenciamento do projeto de homologação do Windows 7, Office 2010, MDT 2010 entre outros; Viagens internacionais: •	2007 – EUA - 1 mês para treinamento e apresentação no time e mais 1 semana no fim do ano para treinamento e migração de versão do Microsoft SMS 2003 para o Microsoft SCCM 2007; •	2008 – EUA - 1 semana para reunião com o time.
+Coordenador de Suporte Técnico
+Somente para Assinantes, Automobilística/ Autopeças
+Salário final: R$ 11.000,00 ( 03/2004 - 04/2007)
+
+•	Implantação de servidor Windows, rede e banco Oracle para sistema de RH da Tyco Brasil; •	Projeto Lean Seis Sigma para redução de horas dos programadores em manutenção do •	sistema ERP AMPICS (BPCS) para que estas horas fossem utilizadas em desenvolvimento de •	novos projetos. Planejado 25%, atingido 30% do objetivo financeiro); •	ETL em DB2 para MSSQL e MySQL; •	Projeto Lean Seis Sigma para redução de custos com telefonia fixa. Planejada redução de 10%, atingido em 25% do objetivo financeiro; •	Criação dos primeiros servidores virtuais com Vmware contendo Cognos, Balance Scorecard, MSSQL e Oracle para acesso de outros sites da América do Sul. • Coordenação do help desk e sistema integrado de chamados; •	Gerenciamento e manutenção de projetos globais vindos da matriz nos EUA: o	Implantação do Microsoft SMS 2003 na América do Sul; o	Active Directory (configuração do domínio “filho” para a América do Sul e migração de todos os computadores e equipamentos locais); o	Migração de sistema operacional, na América do Sul, para Windows XP e também do sistema operacional dos servidores para Windows 2003; •	Suporte à América do Sul na área de Infraestrutura e banco de dados; Viagens Internacionais: o	2004, 1 semana – EUA - Migração do SMS 2.0 para o SMS 2003; o	2005, 1 semana – EUA – Migração da plataforma de desenvolvimento de pacotes para WISE; o	2006, 2 semanas – EUA – 1 semana para treinamento e verificação geral do ambiente e 1 semana para evento Microsoft;
+Idiomas
+Espanhol - Avançado  Inglês - Fluente
+Habilidades e qualificações
+Análise de Dados Machine Learning Linguagem R Python Microsoft Sql Mysql Plataforma Windows Plataforma Linux Business Intelligence Internet das Coisas Office 365 Powershell Banco de Dados Db2 Infraestrutura de Redes Seis Sigma Computação em Nuvem Azure Amazon Web Services

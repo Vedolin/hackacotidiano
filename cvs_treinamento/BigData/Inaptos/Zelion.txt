@@ -1,0 +1,47 @@
+
+PROGRAMADOR
+Dados Pessoais
+26 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Salário
+Mínimo aceitavel: R$ 2.700,00
+Pretendido: R$ 4.000,00
+Resumo do currículo
+Concluí o curso de Tecnologia de Sistemas para Internet no Instituto Federal Catarinense - Campus Camboriú em 2013. Em 2014 trabalhei na WebZero na cidade de Ourinhos - SP como Front End utilizando HTML, CSS, biblioteca Bootstrap, JQuery, Grocery CRUD e CodeIgniter. Depois trabalhei na MalaPronta.com também como Front End, utilizando HTML, CSS, Symfony 1 e 2, e para versionamento utilizava o GIT. Em 2015 iniciei na empresa Magic Web Design onde fiquei pouco tempo fazendo alterações de front em sites já em produção. Em 2016 entrei para a empresa Sigma Dataserv para do desenvolvimento front end e que ainda atuo, trabalho com HTML, CSS, com os frameworks Bootstrap, Primefaces e JQuery, para ícones utilizamos Font Awesome. Para versionamento usamos SVN e CVS, e as linguagens e frameworks de back end utilizamos Java, PHP, JSF, Struts e Laravel.
+Escolaridade
+Instituto Federal Catarinense - Campus Camboriú
+Computação/Informática - Superior completo - Tecnologia de Sistemas para Internet
+03/2011 - 12/2013
+Experiências profissionais
+Desenvolvedor Front End
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.600,00 ( 03/2016 - Até hoje)
+
+Atuação com HTML, CSS, frameworks como Bootstrap, Primefaces e JQuery, para ícones utilizamos Font Awesome. Para versionamento SVN e CVS, e as linguagens e frameworks de back end utilizamos Java, PHP, JSF, Struts e Laravel.
+Desenvolvedor Front End
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.800,00 ( 02/2015 - 03/2015)
+
+Alterações de front end de sites em produção.
+Desenvolvedor
+Somente para Assinantes, Internet
+Salário final: R$ 1.500,00 ( 06/2014 - 11/2014)
+
+Atuação como Programador Front-End, utilizando, html, css, bootstrap, jQuery, symfony 1 e 2.
+Programador
+Somente para Assinantes, Internet
+Salário final: R$ 724,00 ( 03/2014 - 05/2014)
+
+Desenvolvimento de sites e lojas virtuais utilizando Codeigniter, Bootstrap, CSS, HTML e Grocery CRUD. Trabalhava mais com a parte de Front-end.
+Vendedor
+Somente para Assinantes, Comércio Varejista
+Salário final: R$ 850,00 ( 01/2011 - 03/2011)
+
+Vendas de materiais escolares, artigos para computadores e acessórios.
+Idiomas
+Espanhol - Técnico  Inglês - Técnico
+Habilidades e qualificações
+Access Word Powerpoint Trabalho em Equipe Excel Internet Comunicação Liderança

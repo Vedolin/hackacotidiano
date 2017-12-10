@@ -1,0 +1,39 @@
+ANALISTA DE DESENVOLVIMENTO SISTEMAS
+Dados Pessoais
+24 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de desenvolvimento sistemas
+Programador
+Pesquisador
+Salário
+Mínimo aceitavel: R$ 1.700,00
+Pretendido: R$ 2.000,00
+Resumo do currículo
+Cristão, nerd geek apaixonado por inovação e tecnologia, aluno do curso de Sistemas de Informação pela PUC Minas onde participo dos 3 pilares da universidade, ensino, pesquisa e extensão. Admirador de boa música, filmes, séries e livros, entusiasta em fotografia, que tenho como hobbie. Comecei a trabalhar aos 16 anos por escolha própria, acredito ter feito uma boa escolha, hoje não me imagino longe da vida acadêmica e profissional. Sou curioso, gosto de saber um pouco de tudo, de exatas a humanas com direito a passar por biológicas também, quanto mais sei, mais percebo que tenho muito a aprender, valorizo ambientes onde o aprendizado seja sempre incentivado e proporcionado.
+Escolaridade
+PUC Minas
+Computação/Informática - Superior cursando
+02/2013 - 12/2017
+Experiências profissionais
+Estagiário Back End
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.182,00 ( 05/2015 - 12/2016)
+
+Como Desenvolvedor Back-end, participo da implementação de uma plataforma baseada no conceito PaaS (Platform as a Service), que permite a rapidez no desenvolvimento de aplicativos, usando um sistema de gerenciamento unificado. No projeto utilizamos as tecnologias PostgreSQL e Node.js para o Backend; HTML, Bootstrap, CSS, AngularJS para o Frontend; Cordova para Mobile; e WebStorm como IDE de desenvolvimento. O projeto é gerido com a metodologia Scrum, assim participo do ciclo completo de desenvolvimento passando pelo trabalho em equipe e a gestão de requisitos, processos formais, tempo, configuração e qualidade, que são aplicados na empresa pela certificação MPS.BR.
+Estagiário
+Somente para Assinantes, Saúde/ Hospitalar
+Salário final: R$ 900,00 ( 02/2014 - 04/2015)
+
+Estágio junto ao time de I.T (Information Technology) da Fundação Fiat, nas seguintes atividades: Realizar batimentos contínuos para assegurar a consistência das bases de dados utilizadas na empresa. Cuidar da interface entre os sistemas. Realizar a gestão do budget do setor de I.T. Atendimento a chamados pelo Protheus (ferramenta TOTVS)
+Auxiliar administrativo
+Somente para Assinantes, Comércio - Outros
+Salário final: R$ 800,00 ( 12/2012 - 02/2014)
+
+Auxiliar administrativo junto ao contas a pagar. Trabalhando com toda a rotina de pagamento de 2 lojas e duas distribuidoras e ocasionalmente outras empresas parceiras pertencentes aos donos.
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Proativo Comunicador Analista Curioso Compromissado Educado
+

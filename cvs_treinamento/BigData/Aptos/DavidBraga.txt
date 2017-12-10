@@ -1,0 +1,74 @@
+David Braga
+Engenheiro de dados | Arquiteto Big Data Tenbu
+Summary
+Agregar com personalidade e obstinação.
+Experiência de 4 anos em projetos BIG DATA, no qual trabalhei em desenvolvimentos de diversas soluções e para variados segmentos, como telefonia, varejo e outros setores. Me especializei em soluções na plataforma HORTONWORKS, com Apache Hadoop framework. Nesse período consolidei diversos cases de sucesso, fui responsável por implementar diversas ingestões e geração de insights enriquecidos, moldando muitas soluções produtivas com uso de HIVE, HBASE, PIG, MAP REDUCE,PHOENIX e demais funcionalidades do hadoop.
+Expertise em processos de análises preditivas, implementando modelos de dados e processos para mineração das informações.
+Meus últimos trabalhos, foram dedicados a administração de cluster e implementação da segurança, compliance das melhores práticas de governança hadoop e integrações corporativas com grupos de usuários AD. Referência de sucesso, foi a instalação, administração, modelagem e aplicação de governança e kerberização, refletindo na entrega de um cluster produtivo, com arquitetura jumbo, para empresa líder de mercado varejista.
+Eu também, sou um grande crente que, por conta do alto dinamismo que vivemos, entender massas, otimizar serviços, extrair dados e abrangir fontes é a "onda" dos próximos tempos.
+Atualmente, estudando modelos estatísticos, aplicações machine learning, programação PYTHON e R. Inglês intemediário(cursando).
+Você pode entrar em contato comigo em david.braga28@gmail.com.
+Contato::: 11 98137 6572.
+Experience
+Engenheiro de dados at Tenbu
+dezembro de 2017 - Present
+Analista/Arquiteto Big Data at Remay
+março de 2014 - novembro de 2017 (3 anos 9 meses) Análise, modelagem e arquitetura de soluções BIG DATA;
+  Page 1
+Experiência em soluções para análise, qualificação e mineração de grandes volumes de dados; Complice e uso de melhores práticas, para administração e desenvolvimento de processos; Implementação de processos para ingestões e enriquecimentos de dados;
+Experiência com modelos cloud , AZURE, AWS e Google Cloud;
+Kerberização de cluster;
+Implementação de governança, segurança e integrações para controle de permissões de usuários entre cluster
+e os servidores corporativos;
+Administração, configurações e tunning de cluster HORTONWORKS e CLOUDERA;
+Business Analyst - Web Development at GPA - Grupo Pão de Açúcar
+março de 2013 - março de 2014 (1 ano 1 mês)
+Analyst and developer, responsible for the BI industry web systems.
+Architecture of new applications solutions, Maintenance and management in legacy.
+Systems Analyst - Microsoft MVC3 expert
+janeiro de 2012 - novembro de 2013 (1 ano 11 meses)
+Architecture solutions, project structuring for multinational, server architecture, programming model of
+restructuring used to meet specific needs of the system and demands
+Programmer
+junho de 2010 - janeiro de 2012 (1 ano 8 meses)
+Experience and advanced programming skills, infrastructure, financial and commercial segments of
+automation, SQL Server and every platform. NET
+Education
+Universidade Camilo Castelo Branco
+Bachelor of Technology - BTech, tecnologia, 2008 - 2011
+Activities and Societies: Group studies, projects and incubator of micro, SEBRAE
+  Page 2
+David Braga
+Engenheiro de dados | Arquiteto Big Data Tenbu
+Contact David on LinkedIn
+          Page 3
+
+
+Análise de dados 
+Rodrigo André Cardoso 
+Hadoop 
+ 
+Recomendada por 2 colegas de David na Remay
+MapReduce 
+Rodrigo André Cardoso 
+David 
+Java 
+Hive 
+Apache Pig 
+Business Intelligence 
+SQL 
+Google Analytics
+Inteligência empresarial 
+Microsoft SQL Server 
+Oracle 
+C# 
+C# 4.0
+jQuery
+JavaScript
+jQuery Mobile
+HTML 5
+CSS3 
+PHP 
+UML 
+Microsoft .NET
+Microsoft Windows 

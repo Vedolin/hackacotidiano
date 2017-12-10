@@ -1,0 +1,66 @@
+PROGRAMADOR
+Dados Pessoais
+40 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Analista de suporte técnico
+Supervisor de suporte
+Salário
+Mínimo aceitavel: R$ 2.000,00
+Resumo do currículo
+Experiência de 10 anos em linguagem Dataflex desenvolvendo ERP para concessionárias dando manutenção na parte de veículos, autopeça, comunicação com a fábrica e nota fiscal eletrônica. Experiência de 2 anos e meio na linguagem Java , desenvolvimento Web, UML, SQL, ADF, Jdeveloper, Database Oracle, Weblogic, Tomcat, Eclipse, Lucene, Ireport/JasperReports, PrimeFaces. Experiência em atividades de suporte a clientes via chat, e-mail e telefone dando assistência para utilização de serviços virtuais do site Terra. Profissional assídua, pontual e trabalha bem em equipe.
+Escolaridade
+UNIFIL
+Computação/Informática - Pós-graduação completa - Especialização em Engenharia de Software com Uml
+01/2004 - 12/2004
+UNIFIL
+Computação/Informática - Superior completo - Tecnologia em Processamento de Dados
+02/1997 - 12/1999
+Cursos importantes
+Prime Cursos
+Android Studio Basico, 40 Horas - 11/2017
+Caelum
+Jsf 2: Simplicidade e Produtividade Na Web, 40 - 02/2012
+Caelum
+Jpa 2: Introdução a Persistência de Dados com Jpa e Hibernate, 40 - 02/2012
+Caelum
+Desenvolvimento Java para Web, 40 - 02/2012
+Caelum
+Laboratório Java com Testes, Xml e Design Patterns, 20 - 02/2012
+Cadritech
+Treinamento Autodesk 3ds Max, 160 - 01/2008
+Experiências profissionais
+Auxiliar Financeiro de BackOffice
+Somente para Assinantes, Telemarketing/ CallCenter
+Salário final: R$ 1.200,00 ( 07/2016 - 10/2017)
+
+Correção de faturas, analise de isenção e contestação de débitos e tratamento de reclamações de clientes aos clientes do site Terra.
+Desenvolvedora de Sistemas C1
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.900,00 ( 12/2013 - 05/2015)
+
+Análise, desenvolvimento e suporte para sistema financeiro (Construtora Plaenge) em Java
+Programador Analista Nível Jr I
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 2.200,00 ( 04/2013 - 08/2013)
+
+Desenvolvimento e manutenção da plataforma de e-shop do grupo NovaPontoCom e Extra em Java.
+Programador Analista Nível Jr I
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.900,00 ( 03/2012 - 04/2013)
+
+Desenvolvimento de manutenção da plataforma de ecommerce do grupo Carrefour Brasil em Java.
+Analista programador
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.900,00 ( 08/2008 - 01/2012)
+
+Desenvolvimento de ERP para concessionárias de veículos na linguagem Dataflex. Atividades desenvolvidas: Análise, desenvolvimento, manutenção, documentação de ERP e suporte a usuário. Suporte em vários módulos do sistema, principalmente na parte de oficina e nota fiscal eletrônica
+Analista programador
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.900,00 ( 01/2000 - 12/2005)
+
+– Desenvolvimento de ERP para concessionárias de veículos na linguagem Dataflex. Atividades desenvolvidas: Análise, desenvolvimento, manutenção, documentação de ERP e suporte a usuário. Suporte em vários módulos do sistema, principalmente na parte de oficina e nota fiscal eletrônica
+Idiomas
+Inglês - Básico

@@ -1,0 +1,116 @@
+Bruno S. C. M. Vilar
+Cientista de dados da SEEK International AI & Analytics
+Resumo
+Analista de Software com experiência em Ciência da Informação (últimos 3,5 anos), Pesquisa (últimos 2,5 anos mais 6 anos durante Ph.D. e Mestrado e 2,5 anos como pesquisador de graduação) e Engenharia de Software (6,5 anos, incluindo atividades como estagiário durante o curso de graduação).
+Tenho experiência de trabalho com projetos envolvendo questões abstratas e metas desafiadoras para curto e longo prazo. Estou organizado e apaixonado por aprender. Isso impulsiona meus contínuos esforços para ganhar conhecimento e conhecimento.
+Experiência
+Cientista de dados e engenheiro de software da SEEK
+Outubro de 2016 - presente
+Trabalhando em projetos que exigem habilidades de Ciência de Dados e Engenharia de Software para criar ou melhorar produtos, atuando desde a concepção do modelo até a implantação de APIs preparadas para produção, incluindo testes A / B. Problemas típicos envolvem Recuperação de Informação, Aprendizado de Máquinas, Estatística e Engenharia de Software.
+Algumas tecnologias envolvidas: Python, R, Amazon AWS, Elasticsearch, Redis, MySQL e Message Queue.
+Analista de Software no Instituto de Pesquisas Eldorado
+Junho 2014 - setembro de 2016 (2 anos 4 meses)
+Trabalhou em projetos desafiadores envolvendo conjuntos de dados pequenos e grandes em diferentes formatos (não estruturados, semi-estruturados e estruturados). Meu papel em projetos corresponde ao Data Scientist e Pesquisador, com foco em
+extraindo informações e descobrindo padrões de dados para fornecer resultados significativos.
+Estágio de Ensino na Universidade Estadual de Campinas
+Agosto 2013 - dezembro de 2013 (5 meses)
+Assistente de ensino do curso MO536 - Bases de dados - Teoria e prática
+O curso foi separado em dois módulos:
+- Bases de dados tradicionais: modelagem (ER e UML), DBs relacionais e seus principais conceitos (consulta de optmização, recuperação, transações, etc.);
+- Sistemas de armazenamento alternativos: Data Warehouse, NOSQL, Web Semântica, Sistemas Distribuídos, etc.
+Estágio de Ensino na Universidade Estadual de Campinas
+  Agosto de 2011 - dezembro de 2011 (5 meses)
+Página 1
+Assistente de Ensino do curso MC102 - Algoritmos e Programação
+Condução de atividades práticas: propor e avaliar as atividades e os testes dos alunos. Idioma utilizado: C.
+Programador na CEULP / ULBRA
+Janeiro de 2006 a julho de 2007 (1 ano 7 meses)
+Gestão e desenvolvimento do projeto CEULP / ULBRA, incluindo os do site principal e
+sistemas internos utilizados pelo conselho de administração.
+Tecnologias: Microsoft .NET Framework 1.1 / 2.0, ASP.NET, C #, ASP, XHTML, XML, CSS e MS SQL Server 2000/2005.
+Analista de sistemas
+Janeiro de 2006 a julho de 2007 (1 ano 7 meses)
+Gerente de equipe e analista de software. A empresa foi fundada por três professores de graduação da CEULP / ULBRA que me convidaram para participar do conselho e desenvolver um projeto.
+Tecnologias: Java, J2EE, SVN, Oracle Application Server, Oracle Database, HTML, XML, JavaScript (jQuery) e CSS.
+Pesquisador estudante de graduação na CEULP / ULBRA
+Agosto de 2003 - dezembro de 2005 (2 anos e 5 meses) Realizou dois projetos com bolsa de estudos:
+- Desenvolvimento de um Sistema de Resolução e Apresentação de Prova de Etapas de Teoremas de Lógica Quantificatória e Equacional;
+- A linguagem OWL no Desenvolvimento de uma Ontologia para a Biblioteca Digital de Artigos, Documentos, Dissertações e Tese.
+Estagiário na CEULP / ULBRA
+Agosto de 2003 - junho de 2005 (1 ano 11 meses)
+Desenvolvimento de sites dinâmicos para atender às necessidades internas da CEULP / ULBRA e gerenciar o
+portal institucional. Um dos principais projetos em que participei foi AVALNET, focado na avaliação institucional realizada por milhares de estudantes da ULBRA, do Norte e Centro-Oeste do Brasil.
+Tecnologias: Microsoft .NET Framework 1.1 / 2.0, ASP.NET, C #, ASP, XHTML, XML, CSS e MS SQL Server 2000/2005.
+Assistente de Ensino na CEULP / ULBRA
+Julho de 2003 - junho de 2004 (1 ano)
+Auxiliar de Ensino do curso: Estruturas de Dados I e II, respectivamente, durante dois e um semestros.
+Página 2
+Idioma utilizado: Java
+Estagiário
+2002 - 2003 (2 anos)
+Documentação, teste e suporte de sites dinâmicos desenvolvidos pela empresa. Inicialmente, o trabalho foi
+realizado como voluntário. Depois juntou-se ao curso de graduação, fui incorporado como estagiário.
+Tecnologias: ASP, VBScript, HTML, JavaScript e CSS.
+Educação
+Universidade Estadual de Campinas
+Doutor em Filosofia (Ph.D.), Ciência da Computação, Ciência da Computação, 2009 - 2014
+Universidade Estadual de Campinas
+Mestrado, Ciência da Computação, Informática, 2007 - 2009
+Centro Universitário Luterano de Palmas
+Licenciatura, Sistemas de Informação, 2002 - 2006
+Honras e prêmios
+PEEC - Prêmio Eldorado Excellence para Contribuição, Terceiro lugar no Projeto Final de Mestrado / Mestrado e Consórcio de Doutorado (CTD-IE), Menção Honrosa no Congresso Anual de Tecnologia da Informação, Segundo lugar no Young Researcher Award
+
+
+Analytics 
+ 
+Big Data 
+ 
+
+Research 
+ 
+Bruno S. C. M. também tem a competência…
+Machine Learning 
+Python 
+R Programming Language 
+Data Mining 
+Ontology 
+Programming 
+Data Science 
+Java 
+Statistics 
+Data Analysis 
+Algorithms 
+Data Structures 
+Artificial Intelligence 
+GNU/Linux 
+Neo4j 
+Semantic Web 
+Graph Databases
+Apache Spark 
+PostgreSQL 
+JavaScript 
+.NET 
+ASP.NET 
+C# 
+Microsoft SQL Server 
+CSS 
+HTML 
+RDF 
+OWL 
+UML 
+SVN 
+Git 
+Software Engineering 
+XML 
+Subversion 
+Business Analytics 
+Software Development 
+SQL 
+LaTeX 
+SPARQL 
+SWRL 
+Amazon Web Services (AWS) 
+Solr
+Information Retrieval 
+Amazon EC2

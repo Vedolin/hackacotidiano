@@ -1,0 +1,48 @@
+Nome: Apenas para empresas cadastradas
+ENGENHEIRO DE COMPUTAÇÃO
+Dados Pessoais
+36 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Engenheiro de computação
+Salário
+Mínimo aceitavel: R$ 10.000,00
+Pretendido: R$ 10.001,00
+Resumo do currículo
+Experience in software development, Data Integration, ETL, Data Warehousing and BigData Experience with Amazon Cloud Computing AWS, S3, EMR, EC2, VPC Experience with Hadoop Ecosystem (Amazon EMR, Cloudera Hortonworks, Mesos), Yarn, HDFS, Zookeeper, Resource Manager / Ambari Server / Claudera Manager Experience with Data Ingestion (S3 and HDFS), using AWS CLI, Flume, Sqoop and Spark Experience with hadoop file formats TextFile, ORC, Parquet as well as compression using Snappy, Zlib, LZO, GZIP Experience in Hive, Tables, Partitions, Buckets, Compression, Columnar file formats and ACID on hive. Experience with Data Modeling, Relational and Dimensional (Star Schema / Snowflake), using the tools Oracle Data Modeler, Erwin and Enterprise Arquitect Experience with Data modeling in BigData environment, DataLake Experience with Hive QL and Engines such as MapReduce, Tez, Spark-sql, Presto, Impala Good knowledge with spark Streaming as well as working with objects like RDD, DataFrame, DataSets, DStream, Window, SqlContext using Spark, Scala, sbt, Python Good knowledge in PaaS, SaaS, IaaS Good knowledge in Object Orientation and Functional Language using Scala Good knowledge in DevOps
+Escolaridade
+UNIP
+Computação/Informática - Superior completo - Business Intelligence/bigdata
+01/2004 - 01/2008
+FIAP
+Computação/Informática - Pós-graduação completa - Business Intelligence
+01/2013 - 06/2015
+Cursos importantes
+CETAX
+Big Data Hadoop Developer - Pig / Hive /spark - Cetax, 32horas - 03/2015
+Experiências profissionais
+DATA ENGINEER
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.001,00 ( 05/2017 - Até hoje)
+
+Worked in a global Datalake project and Involved in a global time to define architecture Developed data Ingestion process using spark to migrate databases to hadoop ecossistem Developed ETL process to Load, transform and store a Large amount of Data Developed automatization processes using hive, beeline, shell script Worked with tools like Impala, Spark, Beeline, Spark Job Server, ElasticSearch, Kibana Worked in Mesos and Cloudera cluster
+DATA ENGINEER
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 10.001,00 ( 03/2016 - 05/2017)
+
+Good Experience working with Amazon AWS for setting up Hadoop cluster as well as S3, EC2,VPC Worked on analyzing Hadoop cluster using different big data analytic tools such as MapReduce, Tez, Spark-sql, Presto, Impala Worked on Hadoop Ecosystem (Amazon EMR and BigInsight), Yarn, HDFS, Zookeeper, Resource Manager / Ambari Server Experience with Data Ingestion (S3 and HDFS), using AWS CLI, Flume and Sqoop,Spark Responsible for loading files from various external sources like ORACLE, MySql Created Shell Scripts and HiveQL to automate the daily ingestion Involved in setup environment, like ODBC connections, JobSchedules, Security Police Used Sqoop to import data into HDFS and Hive from other data systems Experience with streaming using kafka, flume and Spark
+Data Warehouse and Business
+Somente para Assinantes, Financeiras
+Salário final: R$ 10.001,00 ( 11/2014 - 03/2016)
+
+Experience with Business requirements and technical specifications Data Modeling 3FN, Dimensional teachings and methodologies of Ralph Kimball in Enterprise Data WareHouse Module. Involved in Data quality/MDM Project Experience with ETL using PowerCenter
+Data Warehouse and Business Intelligence Consultan
+Somente para Assinantes, Transportes
+Salário final: R$ 10.001,00 ( 11/2014 - 03/2016)
+
+Experience with Business requirements and technical specifications Data Modeling 3FN, Dimensional teachings and methodologies of Ralph Kimball in Enterprise Data WareHouse Module. Involved in Data quality/MDM Project Experience with ETL using PowerCenter
+Idiomas
+Inglês - Fluente
+Habilidades e qualificações
+Big Data Etl Business Intelligence Data Quality

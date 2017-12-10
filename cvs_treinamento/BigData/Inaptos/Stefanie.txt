@@ -1,0 +1,42 @@
+
+PROGRAMADOR
+Dados Pessoais
+27 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Analista de desenvolvimento sistemas
+Analista de teste
+Salário
+Mínimo aceitavel: R$ 1.400,00
+Pretendido: R$ 1.500,00
+Resumo do currículo
+PHP/MySql, Symfony3, AngularJs, Doctrine2, Bootstrap, APIs REST, controle de versão Git.
+Escolaridade
+Puc Minas
+Computação/Informática - Superior completo
+01/2010 - 06/2015
+Experiências profissionais
+Programadora Back-end
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.456,00 ( 04/2017 - 07/2017)
+
+Desenvolvimento de sistema web. Ferramentas: PHP/MySql, Symfony3, AngularJs, Doctrine2, Bootstrap, APIs REST, controle de versão Git.
+Programador
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.400,00 ( 01/2017 - 04/2017)
+
+Desenvolvimento e manutenção de projetos Windows Form (C#) e aplicativos Híbridos (Cordova), manutenção de projetos Web (PHP), Moodle, controle de versão Git, scrum.
+Estagiário
+Somente para Assinantes, Bancário
+Salário final: R$ 1.200,00 ( 03/2014 - 06/2015)
+
+Cooperação na programação VBA Access, confecção de planilhas e conferência de dados.
+Estagiário
+Somente para Assinantes, Energia
+Salário final: R$ 1.000,00 ( 02/2013 - 11/2013)
+
+Segurança da Informação, atuando com monitoração de rotinas de prevenção a ataques externos, controle e proteção de informações trafegadas dentro da empresa.
+Idiomas
+Inglês - Intermediário

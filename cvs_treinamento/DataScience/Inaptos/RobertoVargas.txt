@@ -1,0 +1,59 @@
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+39 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Analista de banco de dados
+Analista de BI (Inteligência de Mercado)
+Salário
+Mínimo aceitavel: R$ 2.000,00
+Pretendido: R$ 3.500,00
+Resumo do currículo
+Administração das bases de dados Oracle, Sql Server, Mysql Instalação, configuração e administração das replicações (standby) das bases Oracle, Sql Server, Mysql Administração dos backups das bases Oracle, Sql Server, Mysql Performance e Tuning no ambiente Oracle, Sql Server, Mysql Análise e ajustes de query nos ambientes Oracle, Sql Server, Mysql Desenvolvimento Script Shell de processos de administração de banco de dados Bons conhecimentos no ambiente AWS Amazon nas estruturas Oracle, Mysql e Linux Migração, Upgrade e novas instalações de todas as versões do bancos de dados Oracle, Sql Server, Sybase, Mysql Instalação, configuração e administração do Oracle Dataguard nas bases Oracle Enterprise Instalação, configuração e administração do Oracle Real Application Cluster nos ambientes de alta disponibilidade Instalação, configuração e administração do OEM12c e OEM13c (Oracle Enterprise Manager), para monitoração centralizada das bases Oracle Administração do Oracle RMAN (Recovery Manager) Bons conhecimentos na estrutura Oracle Datawarehouse e Oracle BI Utilização das ferramentas Oracle : expdp / impdp, sql loader, external table, coleta de estatísticas, checkrac, geração de relatórios ADDM e AWR. Bons conhecimentos em infraestrutura, como distribuição de discos (RAID), administração do Oracle ASM, Criação de File System e Raw Devices.
+Escolaridade
+UNIARA - Universidade Araraquara
+Computação/Informática - Pós-graduação completa - Mba Administração Banco de Dados Oracle
+04/2013 - 10/2015
+Universidade Federal do Parana
+Computação/Informática - Superior completo - Bacharelado em Informática
+08/1993 - 12/1998
+Cursos importantes
+Softsell
+Administração Cluster Banco de Dados Oracle, 40hs - 07/2015
+Softsell
+Administração Oracle Cluster, 40 Horas - 07/2014
+Softsell
+Administração Oracle Rac, 40hs - 08/2013
+Softsell
+Administração Oracle Rman, 40hs - 10/2009
+SoftSell
+Administração Oracle Performance e Tuning, 40hs - 05/2007
+Ambiente Livre
+Pentaho Desenvolvimento Etl / Bi, 32hs - 07/2017
+Ambiente Libre
+Pentaho - Administração do Ambiente, 24hs - 09/2017
+Softsell
+Administração Mysql Server, 40hs - 12/2012
+Experiências profissionais
+Administrador de banco de dados
+Somente para Assinantes, Comunicação/ Imprensa
+Salário final: R$ 3.000,00 ( 03/2012 - Até hoje)
+
+Administração das bases de dados Oracle, Sql Server, Mysql Instalação, configuração e administração das replicações (standby) das bases Oracle, Sql Server, Mysql Administração dos backups das bases Oracle, Sql Server, Mysql Performance e Tuning no ambiente Oracle, Sql Server, Mysql Análise e ajustes de query nos ambientes Oracle, Sql Server, Mysql Desenvolvimento Script Shell de processos de administração de banco de dados Bons conhecimentos no ambiente AWS Amazon nas estruturas Oracle, Mysql e Linux Migração, Upgrade e novas instalações de todas as versões do bancos de dados Oracle, Sql Server, Mysql Instalação, configuração e administração do Oracle Dataguard nas bases Oracle Enterprise Instalação, configuração e administração do Oracle Real Application Cluster nos ambientes de alta disponibilidade Instalação, configuração e administração do OEM12c e OEM13c (Oracle Enterprise Manager), para monitoração centralizada das bases Oracle Administração do Oracle RMAN (Recovery Manager) Bons conhecimentos na estrutura Oracle Datawarehouse e Oracle BI Utilização das ferramentas Oracle : expdp / impdp, sql loader, external table, coleta de estatísticas, checkrac, geração de relatórios ADDM e AWR. Bons conhecimentos em infraestrutura, como distribuição de discos (RAID), administração do Oracle ASM, Criação de File System e Raw Devices.
+consultor dba
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 08/2009 - 02/2012)
+
+Desenvolvimento de programas PL/SQL e SQL para banco de dados Oracle Utilização das ferramentas Oracle : expdp / impdp, sql loader, external table, coleta de estatísticas, checkrac, geração de relatórios ADDM e AWR. Desenvolvimento Script Shell de processos de administração de banco de dados Conhecimentos em liguagem de programação delphi, e de forma mais pontual em java Bons conhecimentos em Análise de Sistemas, Scrum, e Administração de Projetos PMBOK Bons conhecimentos na instalação e administração dos ambientes com Oracle EBS, Synchro, FPW-LG, Mastersaf, Nexo, Softway, CRM Peoplesoft. Bons conhecimentos na estrutura Oracle Datawarehouse e Oracle BI Bons conhecimentos no ambiente AWS Amazon nas estruturas Oracle, Mysql e Linux Administração das bases de dados Oracle, Sql Server, Progress, Sybase e Mysql Instalação e administração das replicações (standby) das bases Oracle, Sql Server e Mysql Instalação, configuração e administração do Oracle Dataguard nas bases Oracle Enterprise Instalação e administração do Oracle RAC nos ambientes de alta disponibilidade Instalação, configuração e administração do OEM12c e OEM13c (Oracle Enterprise Manager), para monitoração centralizada das bases Oracle Administração do Oracle RMAN (Recovery Manager) Administração dos backups das bases Oracle, Sql Server, Progress, Sybase, Mysql Performance e Tuning no ambiente Oracle, Sql Server, Sybase e Mysql Análise e ajustes de query nos ambientes Oracle, Sql Server, Sybase e Mysql
+Administrador de banco de dados
+Somente para Assinantes, Bancário
+Salário final: R$ 3.000,00 ( 02/2006 - 07/2009)
+
+Administração das bases de dados Oracle, Sql Server Instalação, configuração e administração das replicações (standby) das bases Oracle, Sql Server Administração dos backups das bases Oracle, Sql Server Performance e Tuning no ambiente Oracle, Sql Server Análise e ajustes de query nos ambientes Oracle, Sql Server Desenvolvimento Script Shell de processos de administração de banco de dados Bons conhecimentos no ambiente AWS Amazon nas estruturas Oracle, Mysql e Linux Migração, Upgrade e novas instalações de todas as versões do bancos de dados Oracle, Sql Server Instalação, configuração e administração do Oracle Dataguard nas bases Oracle Enterprise Instalação, configuração e administração do Oracle Real Application Cluster nos ambientes de alta disponibilidade Instalação, configuração e administração do OEM12c e OEM13c (Oracle Enterprise Manager), para monitoração centralizada das bases Oracle Administração do Oracle RMAN (Recovery Manager) Bons conhecimentos na estrutura Oracle Datawarehouse e Oracle BI Utilização das ferramentas Oracle : expdp / impdp, sql loader, external table, coleta de estatísticas, checkrac, geração de relatórios ADDM e AWR. Bons conhecimentos em infraestrutura, como distribuição de discos (RAID), administração do Oracle ASM, Criação de File System e Raw Devices.
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Scrum: Metodologia Ágil para Gestão e Planejamento Jira Software de Rastreamento de Projetos e Probl Jira Agile Linux Debian Linux Red Hat Oracle Linux Postgresql Sql Server Azure Oracle Sql Developer Architect Modelagem Pentaho Etl Pdi Bons Conhecimentos Dw e Bi Oracle Bons Conhecimentos Amazon Aws Bons Conhecimentos Administração Linux Administração Banco de Dados Mysql Administração Banco de Dados Sql Server Administração Banco de Dados Oracle Desenvolvimento Oracle Pl/sql Analista de Projeto Analista de Sistemas
+

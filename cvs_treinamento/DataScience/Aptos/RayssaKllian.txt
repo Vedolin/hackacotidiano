@@ -1,0 +1,38 @@
+Rayssa Küllian
+Cientista de dados na Amazon Web Services
+Resumo
+Dez anos de sólida experiência profissional na realização de funções de suporte técnico; gerenciamento de qualidade, projeto, processo e serviços; arquitetura de software, desenvolvimento e manutenção; pesquisa, ciência dos dados, estatísticas, outros.
+Experiência considerável em desenvolvimento de software (Java, Python, R, C, VB), desenvolvimento web, estruturas, padrões de design, estruturas de dados, bancos de dados DB2, Oracle e MySQL, ecossistema Hadoop, arquitetura de sistemas e desempenho, desenvolvimento móvel, redes, Cloud Computing , técnicas e ferramentas de teste, outras.
+Atualmente pesquisando a detecção automática de implicaturas conversacionais de ironia textual no português brasileiro (pt-BR), sou especialista em Aprendizagem de Máquinas Aplicada ao Processamento de Linguagem Natural. Eu fui
+também já participou academicamente em projetos de pesquisa científica e tecnológica de Inteligência Artificial, Aprendizado de Máquinas, Mineração de Texto, Descoberta de Conhecimento em Bases de Dados Textual (não estruturados), Groupware, Modelagem Preditiva, Ontologia e desenvolvimento móvel relacionado a questões sociais (por exemplo, transporte público) e social redes. Tecnologias usadas: Lucene, Solr, Weka, Mahout, R, iPython, SciPy, Numpy, Matplotlib, NLTK, Theano, Hadoop (HDFS, MapReduce, desenvolvimento e técnicas de teste), Hive, Pig, Impala, Sqoop, Flume, Oozie, outros .
+Eu também tenho experiência em todas as atividades relacionadas ao gerenciamento de projetos, Business Process Management (mapeamento, análise, modelagem e melhoria), ITIL, COBIT, PMBok, Six Sigma, Balanced Scorecard.
+Experiência
+Professor em Tera_
+Novembro de 2017 - presente
+Acreditamos que Tera pode ser uma solução entre a falta de empregos e gênios na economia digital.
+O mundo mudou, mas a educação continua a ser a mesma.
+Tera desenvolve jornadas para pessoas inovadoras, criativas e sonhadoras que desejam fazer a diferença em um
+conectado, tecnológico e mundial.
+Precisamos reinventar. A tecnologia avança e transforma todos os mercados e indústrias, enquanto isso novo
+surgem profissões e outros começam a cessar. Quando a educação não acompanha esse movimento, o resultado é um fenômeno mundialmente conhecido como "desvantagem de habilidades", que é a diferença entre as habilidades mais importantes para o mercado de trabalho e as pessoas que possuem. Estamos enfrentando essa situação nas principais competências da era digital, impactando os empregos e a velocidade da inovação no mundo.
+  Página 1
+O bootcamp "Ciência dos Dados e Aprendizado de Máquinas para Negócios" tem como objetivo abranger os seguintes assuntos: "Data Science & Business Problems Foundation", "Programação e Desenvolvimento", "Análise de Dados", "Pesquisa, Descoberta, Recolha e Análise de Dados", " Estatística e Modelagem de Dados "," Aprendizado de Máquinas e Inteligência Artificial "," Negociação, Comunicação e Cultura de Dados "," Dados Grandes ", outros.
+Data Scientist - Advanced Analytics, AI & IoT no Amazon Web Services
+Abril de 2016 - presente
+Consultor de Ciência da Informação da equipe de Serviços Profissionais da AWS, permitindo aos nossos clientes fazer o melhor uso possível da Amazon Machine Learning, Lex, Polly, Rekognition, Spark, MLlib / Spark.ML, MXnet, DSSTNE e outros serviços de Inteligência Artificial, frameworks, tutoria e ofertas de oficina que melhor atendam às suas necessidades e requisitos.
+Verifique com o seu Gerente de Conta como podemos ajudá-lo! :)
+Pesquisadora de Pós-Graduação da Universidade de São Paulo
+Março de 2014 - presente
+Membro do Laboratório de Inteligência Artificial. do Instituto de Matemática e Estatística, foco em processamento de linguagem natural e pesquisa de aprendizado de máquina.
+Palestrante da Fala Criativa
+Janeiro de 2015 - julho de 2017 (2 anos 7 meses)
+Palestrantes, palestras e tutoria relacionados a grandes dados, ciência dos dados, inteligência artificial, aprendizado de máquinas,
+Processamento da linguagem natural, Intrapreneurship e Inovação desde 2012. Eventos anteriores: Simpósio
+- FIAP (novembro de 2012), Conalytics - Metanalytics (maio de 2014), youPix (julho de 2014), Empreendedorismo League of Uberlandia / MG (março de 2015), Sebrae Uberlandia / MG (março de 2015), Maker Hacklab - Universidade Federal de Itajubá / MG (Maio de 2015), debate de MBA - FIAP (junho de 2015), Mulheres: diversidade de escolha - Centro de Ruth Cardoso (maio de 2015), SF12USP - Startup Farm (junho de 2015), Semana do Sistema de Informação - Universidade de São Paulo (agosto de 2015), 5 Annual Cloud Brasil - Big Data Congress Brasil (setembro de 2015), SF13FUTURECOM - Startup Farm (outubro de 2015), KDMiLe + SBBD (outubro de 2015), Startup Journey - Universidade Federal de Itajubá / MG (outubro de 2015), Summit AWS São Paulo (junho 2016), SF16 (agosto de 2016), Women in Data Science, Stanford @FIAP (fevereiro de 2017).
+Por favor, envie um email para contato@falacriativa.com.br.
+Cientista de pesquisa principal, Inteligência Artificial em Boolabs
+Janeiro de 2016 - abril de 2016 (4 meses)
+Pesquisa de Inteligência Artificial (Aprendizagem de Máquinas e Processamento de Linguagem Natural). Também responsável por
+gerenciando a equipe, pessoas e técnicos em andamento.
+Chief Data Scientist e Big Data Instructor da Semantix Brasil
+Agosto 2013 - janeiro 2016 (2 anos 6 meses) As tecnologias e serviços que nós

@@ -1,0 +1,55 @@
+Ana Paula da Silva Segatelli
+MBA Big Data
+Summary
+Sólida formação profissional e acadêmica, participação em projetos de Big Data utilizando pyspark, hive, hadoop, Hbase, Redis.
+Projetos de plsql, VB6, Java, CrystalReports, levantamento de requisitos, documentação funcional, Scrum e Kanban.
+Utilização das ferramentas e metodologias: Eclipse, Netbeans, SQL Developer, Toad, Plsql Developer, Microsoft Visio, Microsoft Project, Microsoft SharedPoint, SAS, Source Safe, Tortoise SVN, Jira, Enterprise Architect, Balsamiq Mockup, InfoPath, DBDesigner, Jude, CrystalReports, SqlLoader, IReport, JSF, Hibernate, MyFaces, Pentaho, Oracle 8i, 9i, 10g e 11g, MySql, SQL Server 2008, Modelagem de Banco de Dados Relacional, Dimensional e NoSql, Tableau 9.3, IBM DataStage, IBM Data Architect, Windows e Linux (Fedora), Metodologia Inmon e Kimball.
+Experience
+Digital Business Integration Consultant at Accenture
+novembro de 2016 - Present
+Empresas atendidas: Original, Itaú e Santander
+ETL com PySpark, Hadoop, Hive, DataStage, Hbase, Redis.
+Analista DBM BI at MarketData
+agosto de 2014 - fevereiro de 2016 (1 ano 7 meses)
+Empresa atendida: Santander.
+• Levantamento de regras de negócio;
+• Criação, manutenção de objetos de banco e pl/sql (procedures, packages, triggers, índices, particionamento e
+subparticionamento de tabelas, views, pks, fks, cursores);
+• ETL de grandes volumes de dados;
+• Automatização das cargas através de bats e criação de loaders; • Execução de processos em SAS;
+• Criação de tabelas dinâmicas.
+• Criação de indicadores para relatórios.
+Analista funcional at Keyrus do Brasil
+fevereiro de 2012 - junho de 2014 (2 anos 5 meses) Empresas atendidas: Telefônica/Vivo e C&A.
+• Levantamento de requisitos;
+  Page 1
+• Desenvolvimento de especificação funcional e elaboração de layouts para .Net e Qlickview; • Acompanhamento das homologações de sistemas;
+• Elaboração de cronogramas e reuniões de status report;
+• Elaboração de POC;
+• Liderança de equipe, controle e distribuição de atividades na fábrica de software.
+Analista de sistemas pl/sql - java at Techne Engenharia de Sistemas
+outubro de 2010 - janeiro de 2012 (1 ano 4 meses)
+Empresa atendida: Tribunal de Justiça de Minas Gerais (TJMG)
+• Migração do sistema desenvolvido em forms para Java.
+• Análise para desenvolvimento e manutenção de objetos PL/sql: packages, procedures e functions e objetos
+de banco de dados, desenvolvimento de métodos em Java.
+• Documentação do sistema, desenvolvimento dos casos de testes e evidências.
+Programadora pl/sql e asp at Systemakers
+julho de 2010 - outubro de 2010 (4 meses)
+Empresa atendida: FFM
+• Desenvolvimento de objetos PL/sql: procedures e functions utilizando do Banco de dados Oracle e
+desenvolvimento de relatórios no Crystal Reports.
+Programadora pl/sql e vb6 at Sonda Procwork
+novembro de 2008 - julho de 2010 (1 ano 9 meses)
+Empresas atendidas: Petrobrás, Johnson e Johnson, Refrescos Guararapes, Thyssenkrup, Phillip Morris, Yoki. • Análise de documento funcional e desenvolvimento de objetos PL/sql: procedures, functions, triggers,
+packages, arquivos magnéticos.
+• Desenvolvimento e manutenção do ERP em Visual Basic 6
+Education
+FIAP
+Master in Business Administration em Big Data (Data Science), Tecnologia da Informação, 2016 - 2017
+Faculdades Integradas de Ourinhos
+Bacharel em Sistemas de Informação, Sistemas de informação, 2005 - 2009
+Centro Paula Souza - ETE - Prof. Pedro Leme Brisolla Sobrinho
+Tecnico em Processamento de Dados, Processamento de Dados, 1997 - 1999
+Honors and Awards
+Implantando Tecnologias Web no Controle de Estoque Farmacêutico Hospitalar Veterinário

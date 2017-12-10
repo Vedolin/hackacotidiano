@@ -1,0 +1,137 @@
+
+ANALISTA DE SISTEMAS
+Dados Pessoais
+66 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de sistemas
+Analista programador
+Analista de negócios
+Salário
+Mínimo aceitavel: R$ 6.500,00
+Pretendido: R$ 7.500,00
+Resumo do currículo
+Vasta experiência trabalhando em sistemas mainframe, principalmente na área bancária e também no segmento industrial e de varejo, atuando em projetos ‘off-shore’ pela IBM e Dell, utilizando UML, análise estruturada e orientada a objeto. Experiência em desenvolvimento e coordenação de projetos, inclusive programação, implementando e suportando aplicações administrativas, financeiras e bancárias, efetuando. levantamento de requerimentos, casos de uso e plano de testes. Amplo conhecimento de suporte a sistemas, principalmente offshore. Desenvolvimento de critério de excelência para pools de programação. Realização de trabalho proativo para melhorar sistemas e programas. Execução de trabalhos relativos ao ‘bug’ do milênio nos EUA, por 2 anos. Realização de 2 treinamentos, no total de 6 meses nos EUA. Formação em Administração de Empresas, Inglês fluente e espanhol intermediário. Conhecimento técnico: COBOL, PL/1, Easytreive Plus, Natural, Microfocus MFE, TSO, Roscoe, VSAM, DB2, Adabas, IMS/DB, IMS/DC, CICS, SCLM, CMVC, Build390, UML, Microsoft Project, Enterprise Architect, Erwin, computador Tandem (HP), EXCEL, Agile. Disponibilidade para mudança e viagens, inclusive internacionais.
+Escolaridade
+ESAN-Escola Superior de Administração de Negócios
+Administração - Superior completo
+01/1975 - 12/1979
+Cursos importantes
+Instituto Mauá de Tecnologia - São Paulo/SP
+Curso de Extensão em Sistemas de Informação, 10 Meses - 11/1988
+Experiências profissionais
+Analista Desenvolvedor Sr.
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 7.000,00 ( 12/2015 - 01/2017)
+
+Desenvolvimento, Manutenção e suporte à produção para o sistema BMIU (Billing da AT&T) Conversão de programas PL/I de várias versões, para a versão Enterprise
+Analista Desenvolvedor de Sistemas Sr.
+Somente para Assinantes, Bancário
+Salário final: R$ 8.000,00 ( 01/2011 - 11/2015)
+
+Desenvolvimento e manutenção de processos para o sistema GERI (Equity Management System). Fornecimento de dados e condições para o desenvolvimento de sistema em baixa plataforma, o que possibilitou a economia de mais US$ 1.500.000,00 por mês, só em armazenamento. Desenvolvimento e manutenção de programas COBOL CICS para o sistema Cosmos (Colombia). Comunicação direta com o time de 'business' em Nova York e Londres.
+Analista Programador Sr.
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 7.000,00 ( 01/2010 - 01/2011)
+
+Trabalhei como analista de sistemas, participando no desenvolvimento de implementações para o sistema FDS (Originations / ATS (Ability to Sell) / RTPA), utilizando COBOL e DB2.
+Analista Programador de SistemasSr.
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.800,00 ( 06/2004 - 01/2010)
+
+Análise, definição e programação de implementações dos sistemas CBS e TJ Teste de rotinas do sistema TJ Análise, definição e programação de implementações CFT/S Análise e desenvolvimento de projetos e implementaçãoes para o sistema DCRS Confecção de Stored Procedures COBOL / DB2 3 meses de treinamento em Franklin Lakes/NJ (2006) Definição e desenvolvimento de projeto para o Bradesco Gerenciamento de equipe de 8 desenvolvedores Movimentação de programas entre ambientes (promotes) Manutenção (criação, alteração e deleção) de bibliotecas Auditoria de versões de programas Suporte a ferramentas do sistema (SCLM, CMVC e Build390) 3 meses de treinamento em Lexington/KY (2004)
+Analista Programador de Sistemas
+Somente para Assinantes, Bancário
+Salário final: R$ 5.800,00 ( 07/2001 - 06/2004)
+
+Análise e desenvolvimento de projetos e implementações para sistemas (Crédito Imobiliário, Arrecadação de Tributos, Previdencia Privada entre outros) Coordenação de 16 programadores e 21 estagiarios em fábrica de software em Lages/SC Análise e desenvolvimento de projetos de implementação dos sistemas Credit Score, Carteiras, Crédito Imobiliario, Tributos, Recebíveis, SPB entre outros. Gerenciamento de equipe de 2 desenvolvedores
+Analista de Sistemas
+Somente para Assinantes, Bancário
+Salário final: R$ 5.800,00 ( 12/2000 - 07/2001)
+
+Análise e desenvolvimento de projeto de implementação no sistema Behaviour para a metodologia Altamira
+Analista de Sistemas
+Somente para Assinantes, Bancário
+Salário final: R$ 5.500,00 ( 08/2000 - 12/2000)
+
+Análise e desenvolvimento de projetos para os sistemas de Controle de Rejeição e Baixas, Envio de Dados de Leasing para Multiextrato e Agendamento de pagamentos de Títulos
+Analista de Sistemas
+Somente para Assinantes, Bancário
+Salário final: R$ 5.500,00 ( 03/2000 - 07/2000)
+
+Análise e desenvolvimento de implementações no sistema de Lucros e Perdas / Créditos em Liquidação
+Analyst Programmer
+Somente para Assinantes, Bancário
+Salário final: R$ 5.000,00 ( 06/1999 - 10/1999)
+
+Análise e proposta de mudança no subsistema de Segurança do sistema Email para redução de tempo e recursos de processamento Desenvolvimento das melhorias, implementação e testes Desenvolvimento de módulo para pesquisa da Log de Problemas
+Programador Analista
+Somente para Assinantes, Comércio - Outros
+Salário final: R$ 5.000,00 ( 04/1999 - 05/1999)
+
+Testes e documentação dos mesmos, para rotinas e programas alterados pelo grupo de trabalho para o ano 2000
+Analista Programador
+Somente para Assinantes, Comércio - Outros
+Salário final: R$ 5.000,00 ( 02/1998 - 03/1999)
+
+Análise e desenvolvimento de projeto para alterações relativas ao ano 2000 Documentação de todos os sistemas Desenvolvimento das implementações e testes de todos os programas em Easytrieve
+Analista Programador
+Somente para Assinantes, Bancário
+Salário final: R$ 4.800,00 ( 02/1998 - 03/1999)
+
+Pesquisa e documentação necessária para as implemmentações nos sistemas Empréstimo e BNH para o ano 2000 Suporte ao grupo, alteração e testes de programas e rotinas
+Analista Programador
+Somente para Assinantes, Bancário
+Salário final: R$ 4.800,00 ( 04/1997 - 07/1997)
+
+Levantamento e desenvolvimento de procedimentos para a conversão dos arquivos do sistema Credit Score de VSAM para ADABAS Desenvolvimento de módulo de comunicação ente plataformas baixa e alta
+Auditor de Programação / Analista de Sistemas
+Somente para Assinantes, Bancário
+Salário final: R$ 4.500,00 ( 04/1996 - 04/1997)
+
+Levantamento e desenvolvimento de procedimentos de subsistema para tratar Pacotes de Produtos para o sistema de Multivantagens Desenvolvimento de criterio de excelencia em programação para o pool de programação Desenvolvimento de aplicação em EXCEL para analisar e documentar as tarefas executadas
+Analista Programador
+Somente para Assinantes, Bancário
+Salário final: R$ 4.000,00 ( 03/1996 - 04/1996)
+
+Desenvolvimento de subsistema para checar a consistência de dados digitados referentes a Arrecadação de Impostos Estaduais
+Analista Programador
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 3.500,00 ( 11/1995 - 12/1996)
+
+Análise e desenvolvimento de sistema corporativo de Controle de Contratos
+Programador Analista
+Somente para Assinantes, Serviços
+Salário final: R$ 3.500,00 ( 05/1994 - 10/1995)
+
+Desenvolvimento de programas para o sistema de Controle de Contas e Serviços Desenvolvimento de sistema online para rastreamento de itens pendentes no sistema
+Analista de Sistemas Sr.
+Somente para Assinantes, Bancário
+Salário final: R$ 3.000,00 ( 08/1981 - 01/1994)
+
+Análise, definições e desenvolvimento de sistemas e programas para Contas Correntes, Financiamento, Crédito Pessoal, Prêmio de Seguro, Folha de Pagamento, Pagamentos a Fornecedores, Carteiras, Contas Interdepatamentais, DIRF, Débito / Crédito em Conta, Crédito Rural e Empréstimos
+Programador Pl.
+Somente para Assinantes, Papel e Derivados
+Salário final: R$ 3.000,00 ( 09/1979 - 04/1981)
+
+Programação e análise para os sistemas de Contas Correntes, Pagamentos e Ativo Fixo
+Programador Pl.
+Somente para Assinantes, Bancário
+Salário final: R$ 2.500,00 ( 12/1978 - 09/1979)
+
+Desenvolvimento e manutenção de aplicações para os sistemas de Balanço e Fundo 157
+Programador Pl.
+Somente para Assinantes, Bancário
+Salário final: R$ 2.500,00 ( 03/1975 - 12/1978)
+
+Desenvolvimento e manutenção de aplicações para os sistemas de Contas Correntes, Carteiras, Operações Especiais, Pagamentos, Bolsa de Valores, Custos, Análise de Contas Correntes e outros
+Programador Jr.
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.200,00 ( 08/1973 - 02/1975)
+
+Programação e implantação de aplicações para os sistemas de Contabilidade e Análise de Balanço
+Idiomas
+Espanhol - Intermediário  Inglês - Fluente
+Habilidades e qualificações
+Easytrieve Adabas Cobol Powerpoint Roscoe Access Excel Endevor Natural Word Tso Db2 Cics Pl/1 Uml Clarify Metodologia Ágil Ims/dc Ims/db Microsoft Project Erwin Fileaid Changeman Microfocus Mfe Sclm Enterprise Architect Jira

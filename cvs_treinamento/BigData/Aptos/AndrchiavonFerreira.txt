@@ -1,0 +1,109 @@
+André Schiavon Ferreira
+Consultor em Big Data | Analytics | Cloud | BI
+Summary
+Atráves das experiências de trabalho e estudos que tenho realizado ao longo de anos, me sinto apto a trabalhar com os tipos de de projetos abaixo:
+Big Data: Nas frentes de arquitetura/implementação de soluções com integração entre Hadoop/Ecosistema e ambientes tradicionais da empresa.
+Conhecimentos em Ingestão de dados, Processamento e Persistênca NoSQL (Hive, Scala/Spark, Kafka, Avro, Flume, Sqoop, Cassandra, Pig, Hortonworks HDP e Cloudera CDH)
+Data Science: Capacidade de realizar analytics avançado por meio de abordagem computacional com técnicas de Machine Learning (Regression, Decision Tree, Random Forest, K-Means e SVM) ou via Estatística tradicional (Paramétrica/Não-paramétrica, Análise descritiva, Testes de inferência (Z, T, x2, Anova e Tukey).
+Uso de linguagens R, SQL e outros recursos necessários para manipulação de dados.
+BI/BW: Arquitetura técnica de soluções (infra e aplicações), implementação de ambientes de ETL (Informatica PowerCenter) e Analítico (MicroStrategy) e desenvolvimento de relatórios.
+Formações principais:
+Pós-graduação em Estatística Aplicada (cursando)
+MBA em Big Data (Data Science)
+MBA em BI com ênfase em CPM
+Cursos em Machine Learning e outras tecnologias relacionadas a minha área de atuação. Graduado em Informática para Negócios.
+Experience
+Engenheiro de dados at Accenture
+março de 2017 - Present
+Responsável pelo planejamento de arquiteturas para projetos de Big Data e atividades de Data Science (Estatística/Machine Learning) nos segmentos de atuação da consultoria.
+Principais projetos:
+  > Google
+Page 1
+Capacitação em tecnologias GCP (Google Cloud Platform) para implementar projetos em clientes Google com foco em Machine/Deep Learning, iniciando com plataforma tecnologica em cloud até fase de construção da solução analítica.
+Tecnologias: Armazenamento (Cloud Storage, Big Query, BigTable, Cloud SQL), integração e Big Data (DataFlow, DataProc, DataPrep, Datalab e TensorFlow) e desenvolvimentos de modelos preditivos em python.
+> Zurich Seguros
+Responsável pelo planejamento de arquitetura para análise de dados e avaliação de modelos estatísticos para
+previsão e clusterização de dados de clientes. Tecnologias: R, Sqoop, HDFS, Hive e Qlik.
+> Banco Santander
+Definição de solução para projetos de Big Data utilizando arquitetura Lambda e desenvolvimento de etapa
+ingestão de dados próximo a tempo-real (NRT).
+Tecnologias envolvidas: DB2, CDC, MQ, Java, Cloudera Data Hub (HDFS, Hbase, Redis, Sqoop, Flume,
+Avro, Kafka, Pig, dentre outros sistemas proprietários)
+Consultor especialista at Walmart Brasil
+janeiro de 2015 - janeiro de 2017 (2 anos 1 mês)
+Responsável por projetos de arquitetura de integração de dados, administração de ambientes, definição de
+controles, QA, politicas de TI, processos, rotinas produtivas, realização de treinamentos e workshops.
+Trabalho com projetos com equipes da Índia, EUA e Brasil para construção de sistemas de sugestão de compras e outras integrações na empresa.
+Tecnologias envolvidas: PowerCenter, OS AIX, Oracle, SQL Server, Teradata, Informix e MQ Series.
+Consultor sênior at Santander Bank, N.A.
+agosto de 2015 - dezembro de 2015 (5 meses)
+Participação em projeto de DW, inicialmente para entrega de informações de Crédito e Risco para atender
+determinações legais de BC da Espanha.
+Facilitador de projetos de integração de dados com outros sistemas da empresa, QA de processos, orientações sobre Best Pratices de desenvolvimentos, tuning de ETLs, realização de workshop sobre otimização técnica de processos e demais atividades relacionadas.
+* Alocado por Accenture
+Consultor de projetos de BI at CSF - Carrefour Soluções Financeiras
+Page 2
+agosto de 2008 - janeiro de 2015 (6 anos 6 meses)
+Forte atuação com projetos de integração e analise de dados, responsável pela administração e melhoria dos
+ambientes de ETL, definição de controles, QA, politicas de TI, processos e realização de treinamentos e workshops.
+Tecnologias envolvidas: MicroStrategy, PowerCenter, HP-UX, Oracle e SQL Server.
+Outros clientes
+dezembro de 2006 - maio de 2009 (2 anos 6 meses)
+> Claro Telecomunicações (Projeto de modelos dimensionais DRE para a análise dos custos) > Rede Globo (Projeto para calcular a composição da audiência nos mercados a empresa)
+> Honda (Projeto de BI para analise de Vendas e Market Share usando Microsoft SSIS)
+> Microsoft Brasil (Desenvolvimento de relatórios analíticos usando Microsoft SSAS);
+> Exon Biotecnologia (Integração de bases de dados geneticas)
+> ICI - Imperial Chemical Industries (Projeto de DRE);
+> Banco Santander (Desenvolvimento de rotinas ETL);
+> Medley (Criação de relatórios analíticos de vendas da empresa);
+> Cia Cacique (Sustentação de ETLs)
+Education
+Faculdades Metropolitanas Unidas
+Pós graduação em Estatistica aplicada, Estatística Aplicada a Negócios, 400h, 2017 - 2018
+FIAP
+MBA Big Data (Data Science), Tecnologia da Informação e Negócios, 388h, 2014 - 2015
+FIAP
+MBA em BI com ênfase em CPM (Corporate Performance Management), Tecnologia da Informação e Negócios, 376h, 2010 - 2011
+FATEC - Faculdade de Tecnologia de Mauá
+Tecnólogo em Informática para Negócios, Tecnologia da Informação e Negócios, 2448h, 2005 - 2008
+Senac São Paulo
+Técnico em Marketing, Marketing, 822h, 2002 - 2003
+Senac São Paulo
+Técnico em Gestão Empresarial, Negócios e Economia, 828h, 2001 - 2002
+Honors and Awards
+Top 10 Startup One
+  Page 3
+André Schiavon Ferreira
+Consultor em Big Data | Analytics | Cloud | BI
+Contact André on LinkedIn
+          Page 4
+
+
+Machine Learning 
+Big data 
+R (linguagem de programação) 
+Business Intelligence 
+NoSQL 
+Empresas startups 
+Bitcoin and Blockchain 
+Banco de dados 
+Sistemas operacionais 
+ETL (Extração, transformação e carregamento) 
+Data Warehousing 
+Armazenagem de dados 
+Gestão de Negócios 
+Oracle 
+Inteligência empresarial 
+SQL 
+Bom relacionamento interpessoal 
+Microsoft SQL Server 
+Planejamento de projetos 
+MicroStrategy 
+Modelagem de dados 
+Determinação 
+IBM AIX 
+Unix 
+Linux 
+Operating Systems 
+Databases 
+R 

@@ -1,0 +1,44 @@
+
+PROGRAMADOR
+Dados Pessoais
+26 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Web developer
+Salário
+Mínimo aceitavel: R$ 3.000,00
+Resumo do currículo
+Possuo experiência em tecnologias de ponta no mercado como HTML5, CSS3, JS e diversas tecnologias que compõem o universo front-end como: frameworks SPA, NodeJS, task runners, versionamento de código, SEO e design responsivo.
+
+Atuo com desenvolvimento web desde 2013, onde iniciei efetivamente minha carreira como desenvolvedor front-end, trabalhando no desenvolvimento de diversos projetos com foco na experiência do usuário final, também participei do planejamento e criação de produtos B2B e B2C. Experiências anteriores como instrutor de informática me ajudaram a empreender minha carreira de forma a primar pelo relacionamento interpessoal e trabalhar em equipe para atingir o resultado ideal para cada projeto.
+
+Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pela FATEC Praia Grande, possuo a experiência acadêmica em linguagens back-end como: Java e outros. Conhecimentos práticos em SQL e C# me auxiliam a entender o fluxo de uma aplicação de ponta a ponta, como conhecimentos complementares possuo vivência em ambiente ágil e inglês avançado.
+
+Com um perfil adaptável e sempre em busca de me atualizar, tenho confiança em minha capacidade de alcançar os melhores resultados.
+Escolaridade
+FATEC Praia Grande
+Computação/Informática - Superior completo
+01/2012 - 12/2015
+Experiências profissionais
+Desenvolvedor front-end pleno
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.700,00 ( 12/2016 - Até hoje)
+
+- Desenvolvimento de aplicações SPA utilizando AngularJS, Handlebars, React; - Integração de interfaces com APIs RESTful; - Auxiliar o departamento de UX na otimização dos produtos internos em termos de usabilidade.
+Desenvolvedor front-end pleno
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.300,00 ( 04/2016 - 12/2016)
+
+Desenvolvimento da nova versão do produto principal da empresa, uma plataforma de reservas B2B, utilizando interfaces ricas feitas em Angular JS, Bootstrap e Jquery, consumindo uma API RESTful.
+Desenvolvedor front-end
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 04/2013 - 04/2016)
+
+Desenvolvimento e manutenção de websites e produtos da empresa.
+Idiomas
+Inglês - Avançado
+Habilidades e qualificações
+Inglês Bootstrap Jquery Angularjs Js Css Html Internet
+

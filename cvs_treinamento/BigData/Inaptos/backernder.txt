@@ -1,0 +1,31 @@
+
+PROGRAMADOR
+Dados Pessoais
+23 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Salário
+Mínimo aceitavel: R$ 1.199,00
+Pretendido: R$ 1.500,00
+Resumo do currículo
+Sou estagiário em Desenvolvimento de Software, trabalho com a linguagem Java, mas já tive contado com Ruby on Rails, JavaScript e Node.js, tenho também conhecimento em SQL, MySQL, Oracle PL/SQL e PostgreSQL, HTML5, CSS, Unix, Redes e Docker. Busco constantemente apreender novas tecnologias, além do aprendizado que obtenho através da faculdade, faço constantemente cursos para aprender sobre estas inovações. Trabalho desde os meus 15 anos e tive oportunidade de me desenvolver profissionalmente, e também pessoalmente. Sou uma pessoa extremamente comunicativa e determinada, sei quais são meus sonhos e minhas metas, e por isso, sei os caminhos que devo percorrer para alcança-los. Desejo uma oportunidade de me apresentar melhor pessoalmente, podendo assim, mostrar o quão promissor eu posso ser, além de ter certeza de que irei aprender e evoluir muito.
+Escolaridade
+Universidade Municipal de São Caetano do Sul
+Administração - Superior completo - Gestão Comercial
+08/2013 - 06/2015
+Anhembi Morumbi
+Computação/Informática - Superior cursando - Análise e Desenvolvimento de Sistemas
+01/2017 - 06/2019
+Experiências profissionais
+Desenvolvedor de Softwares - Back-end
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.200,00 ( 06/2017 - Até hoje)
+
+Desenvolver e Integrar Softwares, em sua maioria na linguagem Java e manipulação de banco de Dados PL/SQL (Oracle).
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Java Sql Mysql Postgresql Pl/sql Oracle
+

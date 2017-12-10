@@ -1,0 +1,62 @@
+Alan Paiva
+Big Data Analyst
+Summary
+Engenheiro de computação, inglês fluente, graduado em MBA em Big Data na universidade FIAP e
+Engenharia de Computação pela universidade UNISANTA. Atuação em gerenciamento de projetos na indústria automotiva, planificação de estratégia, planejamento/controle de infraestrutura, suporte aos processos de auditoria.
+Presentemente, desenvolvendo algoritmos para Ingestão de Dados em ambientes de larga escala utilizando a caixa de ferramentas dos cientistas de dados para suportar soluções analíticas em Big Data.
+Experience
+Big Data & Analytics at IBM
+dezembro de 2016 - Present
+Big Data Analyst at Semantix Brasil
+dezembro de 2015 - novembro de 2016 (1 ano)
+Big Data, Analytics, Enterprise Search, Machine Learning & Internet of things (IoT).
+Analista de Sistemas at Stefanini Consultoria
+janeiro de 2011 - julho de 2012 (1 ano 7 meses)
+Área: IT Sales, Service & Marketing South America (General Motors do Brasil).
+Principal realização: Líder do Projeto de migração da ferramenta GM Exchange.
+Principais atividades: Planificação de estratégia, treinamento de recursos para o projeto, coordenação de
+atividades para atingir metas diárias, contato direto com toda a rede matriz de
+concessionários, substituição e configuração do link de rede para migração da ferramenta GM
+Outras realizações: Participação da expansão do Centro de Distribuição de Peças GM realizando atividades
+como planejamento / controle de infraestrutura, suporte ao time de aplicações (interno e fornecedores) e suporte troca de servidores do armazém. Suporte no gerenciamento do projeto de Vendas Diretas, contato direto com fornecedor, treinamento a toda rede de concessionários.
+Estagiário at General Motors
+janeiro de 2010 - dezembro de 2010 (1 ano)
+Área: IT Sales, Service & Marketing South America.
+Principais realizações: Suporte à rede de concessionários na troca de dados diários com a GM. Atuação no projeto de troca de coletores (handhelds) no armazém de peças, suporte aos processos de
+auditoria GM e gerenciamento da Lista de Controle de Acesso de todas as aplicações (40 aplicações).
+  Analista de Sistemas
+Page 1
+julho de 2008 - dezembro de 2009 (1 ano 6 meses)
+Área: Tecnologia da Informação.
+Principais realizações: Desenvolver softwares para otimização do sistema logístico.
+Dimensionar a necessidade / capacidade de hardware da empresa baseado nas dificuldades em IT. Fornecer
+assistência em redes. Coordenar as atividades logísticas entre a empresa e o cliente.
+Education
+FIAP
+NoSQL - Cassandra (Hands-on), Banco de Dados, 2016 - 2016
+Activities and Societies: Shift, NoSQL, Cassandra
+FIAP
+Master of Business Administration (MBA), Big Data (Data Science), Big Data (Data Science), 2016 Activities and Societies: Startup One, Extensão Internacional, Entrepreneurship Program da Babson College,
+Master Class Digital Acceleration.
+Cloudera Training Partner
+Cloudera Administration for Apache Hadoop, Hadoop, Big Data, 2015 - 2015
+Johns Hopkins Bloomberg School of Public Health
+Linguagem R, Programação de Computadores, Programação de Computadores, 2015 - 2015
+Activities and Societies: Visão geral da linguagem R, tipos de dados e objetos no R, leitura e criação de dados,
+estruturas de controle, funções, regras de escopo, datas e horas, funções de loop, ferramentas de depuração,
+simulação, criação de perfil de código.
+Johns Hopkins Bloomberg School of Public Health
+As ferramentas do Cientista de Dados, Análise de Sistemas de Computação, Análise de Sistemas de Computação, 2015 - 2015
+Activities and Societies: Conceitos idealizados posterior os dados, restituindo em conhecimento acionável. Prática introdução as ferramentas utilizadas como controle de versão, markdown, git, GitHub, R, and RStudio.
+Johns Hopkins Bloomberg School of Public Health
+Exploratory Data Analysis, Análise de Sistemas de Computação, Análise de Sistemas de Computação, 2015 - 2015
+Johns Hopkins Bloomberg School of Public Health
+Obtenção e Limpeza de Dados, Análise de Sistemas de Computação, Análise de Sistemas de Computação, 2015 - 2015
+English Language School In Sydney (ELSIS) and Mary Ward Centre London.
+Ensino de Inglês como Segundo Idioma, Ensino de Inglês como Segundo Idioma, 2012 - 2014 Activities and Societies: Proficiência lingua estrangeira.
+Universidade Santa Cecília
+Engineer's degree, Engenharia de Computação, Engenharia de Computação, 2006 - 2010 Institut national des Sciences appliquées de Toulouse
+Microeletrônica, Microeletrônica, 2008 - 2008
+Activities and Societies: Núcleo de pesquisas em eletrônica (NPE), Programa Universitário da Altera (PUA),
+Grupo de Pesquisas de Lógica Paraconsistente Aplicada (GLPA), que investiga meios de aplicação da Lógica Paraconsistente em Inteligência Artificial e Robótica.
+

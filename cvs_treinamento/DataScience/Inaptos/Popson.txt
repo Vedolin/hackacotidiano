@@ -1,0 +1,60 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+40 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Salário
+Mínimo aceitavel: R$ 7.000,00
+Pretendido: R$ 9.000,00
+Resumo do currículo
+Sou formado a 10 anos em TI, mas estou atuando a quase 20 anos na minha carreira. Nesse período pude adquirir experiência nos diversos segmentos da TI. Atuei como analista de sistemas, gerenciei projetos, implementei infraestrutura e me especializei em banco de dados. Atuei também em processos de ETL envolvendo diversas fontes de dados externas e (OLAP). Utilizo recursos avançados com SqlCmd e Powershell para gerenciar melhor o SO e o banco de dados sem necessidade de interface gráfica. Passei por vários desafios que só me fortaleceram no entendimento que nos dias de hoje um profissional de TI tem que saber alem do que sua própria competência em um cargo específico, fazendo-se preciso compartilhar conhecimentos e ser um bom pesquisador. Busco sempre trabalhar com qualidade e com um bom relacionamento em equipe. Estou sempre aberto a novos conhecimentos e me considero um bom autodidata.
+Escolaridade
+Unisul
+Computação/Informática - Superior completo
+06/2002 - 06/2006
+Cursos importantes
+Microsoft - Certificação
+Mcitp - Microsoft Certified It Professional Database Administrator 2008, 120 - 01/2010
+Microsoft - Certificação
+Mcts - Microsoft Certified Technology Specialist Sql Server 2008, 120 - 01/2010
+Microsoft - Certificação
+Mcitp - Microsoft Certified It Professional Database Administrator 2005, 120 - 06/2009
+Microsoft - Certificação
+Mcts - Microsoft Certified Technology Specialist Sql Server 2005, 120 - 06/2009
+Microsoft - Certificação
+Mcdba - Microsoft Certified Database Administrator Sql Server 2000, 120 - 01/2008
+Módulo Education
+Aspectos Jurídicos em Ti e Princípios da Certificação Digital, 60 - 06/2007
+Experiências profissionais
+Administrador de banco de dados
+Somente para Assinantes, Governamental
+Salário final: R$ 7.550,00 ( 07/2014 - 06/2017)
+
+• Administração e implementação de banco de dados SQL Server 2012 • Rotinas de Backup e Restore (Plano de Disaster Recovery) • Implementação de Data Mirroring • Validação de modelo de dados • Tuning de banco de dados • Projeto para gerenciamento de documentos digitalizados • Pesquisa Textual em documentos digitalizados • Indexação de arquivos digitalizados • Utilização da Ferramenta Case “Told” para ETL entre diversas fontes de dados (Oracle, Sybase e MySql) • Criação de Jobs para migração de sistemas de Deputados e normalização do Legado • Utilização do SqlCmd para gerenciamento interno e de scripts • Utilização do Powershell para gerenciamento de ambiente • Administração do Windows 2012 server
+Administrador de banco de dados
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 8.000,00 ( 02/2013 - 06/2014)
+
+• Administração e implementação de banco de dados SQL Server 2008/2012 • Rotinas de Backup e Restore • Documentação de procedimentos SQL – procedures • Implementação de Log Shipping • Tuning de banco de dados • ETL • Modelagem de dados Dimensional • Gerenciamento de bancos de dados espaciais	• Aquisição de Infraestrutura para suportar novos projetos	• Cluster de servidores e alta disponibilidade (HA:High-Availability) inclusive de energia • Desenvolvimento de sistema para gerenciar projetos internos • Geoprocessamento para clientes (Concessionárias) • Geomarketing (Plano de distribuição para Walmart) • Integração do SQL com ArcGis para Geoprocessamento
+Gerente de projetos
+Somente para Assinantes, Setor Público
+Salário final: R$ 5.000,00 ( 07/2009 - 11/2012)
+
+• Projeto Piloto para utilização de metodologia de desenvolvimento de software (Ciclo completo de desenvolvimento) • Elaboração de artefatos para projeto de controle de repasse entre Estados e Municípios • Utilização de recursos de mapeamento espacial para Estados e Municípios • Calculo de ponto de função, análise de viabilidade documentação dos casos de uso identificados • Contratação de equipe de desenvolvimento dimensionando recursos de tempo e valor para entrega dos produtos. • Elaboração de cronogramas e definição de tecnologias utilizadas para o projeto execução • Integração entre informações geradas pelos sistemas do Banco do Brasil e Caixa Econômica Federal, para importação automática de dados possibilitando, gerenciar pagamentos efetuados entre Estados e Municípios. • Gerenciamento de equipe
+DBA
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.500,00 ( 02/2007 - 06/2009)
+
+• Administração e implementação de banco de dados SQL Server 2000/2005 • Administração e implementação de banco de dados MySQL • Mapeamento Espacial para o programa Luz para todos • Migração de bancos e sistemas • Definição de documentação em rotinas de Backup e Restore • Plano de Disaster Recovery • Construção de pesquisas textuais utilizando SharePoint • Rotinas de manutenção avançada para otimização e alta disponibilidade • Solução de substituição de replicação por Web Service • Migração de servidores separando servidores de banco de dados e aplicação • Construção de processo de ETL (SQL SERVER INTEGRATION SERVICES) • Mineração de dados (OLAP/Analysis Services) • Instalação e configuração do Reporting Service para elaboração de relatórios gerencias
+DBA/Analista de Sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 02/2003 - 01/2007)
+
+• Desenvolvimento do sistema de férias da Anatel (8112) • Administração e implementação de banco de dados SQL Server 2000. • Aplicação de cluster ativo x passivo. • Replicação de dados • Otimização de performance dos bancos de dados, criando rotinas de manutenção e correção. • Emprego de tecnologias novas, relacionadas a monitoramento e análise de desempenho de Banco de Dados e gerenciamento de infra-estrutura, gerando gráficos em tempo real dos servidores e serviços de banco de dados (Cacti) • Implementação de sistemas de alerta integrado com os servidores de banco de dados. (SQL Diagnostic Manager) • Migração de banco de dados (Msaccess – SQL Server 2000) e (SQL Server 7.0 – SQL Server 2000) • Reestruturação de sistemas/banco de dados • Modelagem de dados (Power Designer)
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Facilidade em Trabalhar em Equipe e Buscando Sempr Facilidade para Adquirir Novos Conhecimentos Buscar Melhores Resultados para a Empresa

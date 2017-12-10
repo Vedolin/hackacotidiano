@@ -1,0 +1,51 @@
+
+CONSULTOR DE BUSINESS INTELLIGENCE
+Dados Pessoais
+27 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Consultor de Business Intelligence
+Salário
+Mínimo aceitavel: R$ 6.000,00
+Pretendido: R$ 8.000,00
+Resumo do currículo
+Experiência de 7 anos com Analytics. Conhecimento em banco de dados, integração e análise de dados (ETL/BI), atuando há 1 ano e meio com Ciência de Dados (Hadoop, Spark, Sqoop, Solr, Flume e Machine Learning). Expertise em soluções IBM, Microsoft e Microstrategy para BI e Cloudera e Hortonworks para Big Data. Forte conhecimento em programação Python e Java para análise e processamento de dados.
+Escolaridade
+IGTI
+Computação/Informática - Pós-graduação cursando - Mba em Análise de Inteligência de Negócio
+01/2015 - 12/2016
+Centro Universitário do Distrito Federal
+Computação/Informática - Superior completo - Sistemas de Informação
+01/2011 - 12/2014
+Cursos importantes
+Universidade da Califórnia, San Diego no Coursera
+Machine Learning com Big Data, 20 Horas - 11/2016
+Universidade da Califórnia, San Diego no Cousera
+Hadoop Platform And Application Framework, 20 Horas - 10/2015
+Cetax
+Modelagem Dimensional, 60 Horas - 05/2012
+4LINUX
+Linux Sysadmin, 40 Horas - 05/2016
+Cetax
+Desenho e Projeto de Data Warehouse, 60 Horas - 05/2013
+Experiências profissionais
+Big Data DevOps Architect
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 8.000,00 ( 04/2016 - Até hoje)
+
+o	Projeto de Big Data (ingestão de dados para HDFS, Captura de Log em tempo real, rotinas para estruturação de dados não-estruturados com Python/Pig) o	Projeto de ETL o	Projeto de Machine Learning o	Desenvolvimento de POCs Big Data Cloudera o	Desenvolvimento Dashboards e painéis com Tableau e Splunk o	Administração Cluster Hadoop Cloudera
+Analista de Bi Sênior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.000,00 ( 06/2015 - 01/2016)
+
+o	Projeto de Business Intelligence o	Desenvolvimento OLAP Microstrategy o	ETL Microsoft Integration Services (SSIS) o	Levantamento de requisitos para projetos em BI o	Administração Cluster Hadoop Hortonworks
+Consultor de Business Intelligence
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 7.000,00 ( 10/2014 - 06/2015)
+
+o	Atuação como lider técnico ETL o	Levantamento de requisitos o	Desenvolvimento ETL MS SSIS o	Levantamento de requisitos com usuários chaves o	Reestruturação da arquitetura datawarehouse/ETL o	ETL Microsoft Integration Services (SSIS)
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Python Projeto Olap Data Warehouse Big Data Hadoop Spark Machine Learning Sqoop Sql Server Oracle Desenvolvimento Etl Projeto de Etl

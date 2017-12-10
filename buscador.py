@@ -52,7 +52,7 @@ for cv_url in lista:
     dados_curriculo = soup.findAll('span')
 
     html_text = str(dados_curriculo)
-    soup = BeautifulSoup(html_text, "lxml")
+    soup = BeautifulSoup(html_text, "lxml", from_encoding="latin-1")
     clean_html = ''.join(soup.findAll(text=True))
 
     open('./downloaded/' + topic + '/full/' + base_file_name + '.html', 'wb').write(resp.content)

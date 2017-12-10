@@ -1,0 +1,151 @@
+Arthur Damasio
+Big Data Consultant at Keyrus
+Summary
+• Experiência nas áreas de Data Science, Analytics e modelagem estatística em empresas do mercado financeiro e de telecomunicações;
+• Desenvolvimento de análises de dados complexas e modelos focados na solução de problemas, agregando valor e inteligência para a tomada de decisão estratégica;
+• Extração, modelagem e análise de grande volume de dados e elaboração de cenários para o desenvolvimento de novos produtos e redução de custos operacionais;
+• Excelentes resultados na interação com executivos e gestores e demais níveis organizacionais, tanto no levantamento e alinhamento de informações, quanto na apresentação dos resultados;
+• Elaboração de Dashboards interativos e habilidade na apresentação das análises ao executive board da empresa;
+• Análise de redes sociais por Machine Learning, utilizando modelos de classificação e regressão logística;
+• Conhecimento de mineração de dados (clustering e árvore de decisão) e das fundações quantitativas da gestão
+de riscos;
+• Domínio de ferramentas aplicáveis aos ambientes Big Data (Hadoop, Hive, Hbase, R, Python, No-Sql, SAS) e
+Estruturado (Oracle 11g, Sql Server 2014, Visual Studio, Tera Data);
+• Certificações Microsoft Certified Professional – License E900 6645 – MCP e Microsoft Technology Associate
+(Database Administration Fundamentals) License E900 6644 – MTA.
+Experience
+Big Data Consultant at Keyrus
+July 2017 - Present
+Integration – ABImbev , Jaguariúna/SP
+- Responsável pela frente de Hadoop, projeto com objetivo de substituir o processo As Is no SAP Hana e
+utilizar arquitetura e solução Big Data para diminuir tempo de processamento dos dados. Com resultado da implantação ponta a ponta do primeiro Release, diminuiu o tempo de processamento de 12 horas para 1 hora, usando boas práticas do HIVE e de toda arquitetura big data da Azure Microsoft.
+- Ferramentas e práticas aplicadas: Hadoop, Azure Microsoft, HDInsights, Hive, HDFS, Shell Script, Sqoop, Arquitetura Big Data, Automatização Crontab,Análise Funcional,
+Data Quality – Carrefour, São Paulo/SP
+- Coordenador da frente de machine learning. Desenvolvimento da arquitetura voltada para solução de
+classificação de novos produtos no e-commerce do cliente junto com seus atributos. Trazendo resultado de
+  Page 1
+uma área com 10 operadores realizando 200 classificações diárias de produtos, para mais de 5000 produtos
+com implatação da solução.
+-Ferramentas e práticas aplicadas: Python Sklearn, Hadoop, Cloudera, Hortonworks, Hive, PIG, HDFS, Spark
+MLlib, Spark SQL, Machine Learning de classificação (KNN, Naïve Bayes, Linear Regression, MLP e SVC), Teste de Acurácia, Processamento de linguagem natural (PLN),
+Telemetria – Porto Seguro, São Paulo/SP
+- Projeto de alto impacto estratégico do cliente, dados originados de app de celular, do qual gera dados de
+perfil de cada motorista e os dados de viagem. Desenvolvimento de jobs avançados em Hive utilizando
+componentes com Hive UDF e usando Sqoop com solução de ingestão e exportação de dados.
+- Ferramentas e práticas aplicadas: Shell Script, Sqoop, Hadoop, Cloudera, Hive UDF, Spark, SQL, Oracle,
+Exadata, Arquitetura Big Data, PoC, MVP
+Data Science Practitioner at Accenture Brasil
+October 2016 - June 2017 (9 months)
+Implantação do Núcleo de Inteligência em Transportes – Cliente Departamento Nacional de Infraestrutura de
+Transportes (DNIT)/Brasília DF (abr/17 - atual)
+- Unidade Padrão de Potencial Econômico: Processar dados de volume de tráfego, perfil do tráfego, zona
+urbana ou rural, atividade econômica, e características da via para mensurar o potencial de exploração de
+receitas na rodovia (ex.: pontos de parada, telecom, publicidade, unidades logísticas, acessos, entre outros) -Unidade Padrão de Severidade: Processar dados de volume de tráfego, volume de acidentes, severidade
+dos acidentes e características da via para identificar segmentos com alta probabilidade de ocorrência de
+acidentes graves.
+- Ferramentas e práticas aplicadas: Data Mining, Alteryx, Qlik Sense Geo Analytics, ArchGis, MVP, PoC,
+SQL, Arquitetura Big Data.
+Revenue Assurance/Garantia de receita – Cliente Telefônica (out/16 - mar/17)
+- Responsável pelo Centro Analítico de Receita, atuando na automatização de controles de receita com
+manipulação massiva de dados de Telecom e decomposição dos problemas analíticos de dados, resultando na
+recuperação de receitas e atingimento das metas da equipe em 2017.
+- Ferramentas e práticas aplicadas: Data Mining, Big Data, Data Discovery; PoC ; MVP; Qlik Sense
+plugado no Hive; Hadoop User Experience; Python; SQL (tanto para Oracle, Teradata e SQL Server); Hive (HiveQL); Machine Learning
+Technology Consulting Analyst at Accenture Brasil
+January 2015 - September 2016 (1 year 9 months)
+Rastreabilidade Capa SAS – Cliente Santander (Dez/2015-Set/2016) - Analista BI/BA:
+-Responsável pelo levantamento de especificações e entendimento das regras de negócio, mapeamento
+e desenho da Malha Batch e geração de documentação para implantação das Malhas em homologação e produção; contato com os diversos stakeholders do projeto para planejamento e alinhamento das ações de
+Page 2
+acordo com as prioridades definidas; substituição do sistema legado de arquivos de fechamento contábil e para Basiléia; reporte do status do projeto junto ao cliente. Tendo como resultado reconhecido pelo cliente, a redução de custo para o projeto, gerada pelo rápido entendimento e domínio de um processo complexo de Compliance do banco para implantação da malha em menos de 30 dias, tornando-se referência do assunto.
+-Ferramentas e práticas aplicadas: Shell Script; Qlik Sense; análise e criação de ETL usando SQL no Informatica Power Center; Análise e modificação das procedures no SAS Guide; softwares de Job Schedule no Control-M; documentação com MER.
+SAP Blueprint | Revisão de Arquitetura de Processos – Cliente Porto Seguro (Jul/2015-Dez/2015) - Funcional SAP/BA:
+-Mapeamento de processos de negócio e desenho de especificações funcionais de solução SAP; apoio ao cliente na execução de testes integrados e direcionamento à fábrica de desenvolvimento na correção de erros apontados nos testes. Tendo como resultado reconhecido pelo cliente na utilização do processamento paralelo de dados em massa e entendimento da estrutura do pacote no SAP (KCLA), o que trouxe uma redução de 80% no prazo estimado para a atividade.
+Mobile Banking Security – Cliente Bradesco (Jan/2015-Jun/2015) - Management Consulting/BA: Responsável pelo laboratório de análise de vulnerabilidade; criação de PoC para Security Intelligence,
+gerando insights para venda de projetos.
+Ferramentas e práticas aplicadas: análise com Linux Santoku de: Transmissão de Dados; Forense; Código
+Fonte; Autenticação; Criptografia Open SSL.
+Database Marketing Analyst at Citi
+January 2014 - December 2014 (1 year)
+• Data manipulation of prospected clients, Cards area.
+• Check and release customer bases of all Citi to Call Center operations.
+• Generate KPI's of customer bases worked in the Call Center for enrichment of future bases.
+• Monitoring of Customer Prospecting strategies for the area of Business Intelligence and Database
+Marketing.
+• Projects in Predictive Analysis, Correlation Analysis and Anomaly Analysis.
+• Create Billing indicator of service providers.
+• Follow up of data acquisition operations in the Call Center.
+Technologies:
+• Microsoft SQL Server 2008 R2
+– View, Queries and Procedures in T-SQL.
+• SQL Server Business Intelligence Development Studio
+– ETL: Extract, Transform and Load Data Warehouse with Integration Services Projects.
+– Analytics: Predictive Analysis, Correlation Analysis and Analysis of anomalies with Analysis Services
+Projects.
+Page 3
+– Model Star multidimensional database for Cube models. • SAS (Statistical Analysis System)
+– Creating queries in Access module.
+• Microsoft Office
+– Creation of VBA systems in Microsoft Access and Microsoft Excel with Data Warehouse connection. – Dashboards and Pivot.
+Analyst Reports Pl. at VOXLINE Contact Center
+October 2013 - January 2014 (4 months)
+Área: Gestão de Sistemas da Informação (GSI)
+• Desenvolvimento de Dashboards link com Oracle.
+• Criação e manutenção de relatórios de clientes (ACE Seguros, Vivo, Claro).
+• Fallow up dos dados junto à operação para apresentações dos indicadores gerenciais semanal.
+• Procedure em Oracle PL-SQL, Pentaho Business Analytics para Automatização de processos ETL.
+• Aqua Data Studio – Gerenciador Banco de Dados, Crystal Reports para Automatização de relatórios.
+Intern at HSBC Bank Brasil S.A.
+September 2008 - August 2010 (2 years)
+Setor Payment and Cash Management(PCM)
+•Projeção de automatização de processos, organização e manipulação de bases de dados em macros. •Desenvolvimento de projeto em VBA no Excel. Criando relatórios e análises para manter o
+acompanhamento de indicadores de serviços, com intuito de obter o controle da quantidade de serviços prestados por cada atendente, criando a mensuração e o gerenciamento do setor.
+Intern at Sao Paulo State Government
+June 2007 - December 2007 (7 months)
+Sistema Único de saúde (SUS)
+•Extração e transformação de dados de agendamento de tratamento hemodiálises. •Criação e Manutenção de projeto de macro em Excel.
+•Automatização de processos (VBA).
+Education
+Universidade Presbiteriana Mackenzie
+Master's Degree, Data Science - Big Data Analytics, 2014 - 2016
+Universidade Presbiteriana Mackenzie
+Master's degree, Business Administration (dropped-out), 2013 - 2014
+Universidade Presbiteriana Mackenzie
+Bachelor's Degree, Information Systems, 2006 - 2012 Activities and Societies: Mackenzie Volunteer
+  Page 4
+Arthur Damasio
+Big Data Consultant at Keyrus
+Contact Arthur on LinkedIn
+
+
+Big Data Analytics
+Analytics
+Digital Strategy
+Predictive Analytics
+R
+Python
+Hadoop
+Hive
+HBase
+Tableau
+Qlik Sense
+Linux
+Alteryx
+Social Media Monitoring & Analytics
+SAS
+Oracle
+Microsoft SQL Server
+PowerCenter
+Extract Transform and Load - ETL
+Banking
+Risk Scoring and Analytics
+Serviços bancários
+Telco Industry
+Inteligência empresarial
+Management Consulting
+Technology Consulting
+Functional Analysis
+VBA
+Security Vulnerability or Penetration Testing
+Vulnerability Management
+Mobile Banking

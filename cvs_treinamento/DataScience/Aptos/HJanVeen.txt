@@ -1,0 +1,70 @@
+HJ van Veen
+Cientista de dados em Nubank Brasil
+Resumo
+N / D
+Experiência
+Cientista de dados em Nubank Brasil
+abril de 2016 - presente
+Nubank Brasil é uma empresa de tecnologia financeira de rápido crescimento.
+Como modelista preditivo, trabalho em conjunto com outros cientistas de dados, engenheiros, especialistas em fraude, segurança, analistas, comerciantes, gerentes e representantes de atendimento ao cliente para pesquisar, inventar, otimizar e implementar soluções para problemas de ciência de dados desafiadores.
+
+setembro de 2017 - presente
+A Kaggle (recentemente adquirida pela Google Cloud AI) é a maior plataforma para ciência de dados competitiva. Para o seu blog "No Free Hunch" escrevo artigos técnicos, tutoriais, entrevistas, relatórios e guias.
+Escritor técnico
+2014 - 2017 (4 jaar)
+MLWave.com é o meu site pessoal sobre AI, pesquisa em máquinas e ciência da informação competitiva. Artigos
+da MLWave foram apresentados em:
+* o blog Kaggle.
+* KDnuggets.
+* Referências de documentos científicos.
+Consultor externo da Numerai
+januari 2016 - maart 2016 (3 maanden)
+O Numerai é um fundo de hedge que organiza torneios globais de AI para prever o mercado de ações. Eu consultei:
+* Nova mecânica do jogo.
+* Ciência dos dados competitivos.
+* Marketing, SEO e PR.
+* Web design e desenvolvimento web.
+* Construção da comunidade e crescimento de usuários.
+  Página 1
+* Conjuntos e agregação de modelos diversos.
+Pesquisa e Desenvolvimento em Zorgon
+februari 2012 - maart 2016 (4 jaar 2 maanden)
+A Zorgon fornece serviços de TI e consultoria para o setor de saúde holandês. Como pesquisador e desenvolvedor, eu era
+responsável por:
+* Prototipagem
+* Painel de dados
+* Pesquisa de mercado
+* Webdesign & development
+* Pesquisa e desenvolvimento de ciência de dados
+Blogger at Kaggle
+dezembro de 2014 - februari 2016 (1 jaar 3 maanden)
+Kaggle é a maior plataforma para competições de modelagem preditiva e ciência de dados. Para o seu blog "Não
+Free Hunch "Eu cooperei com seu gerente de conteúdo, para escrever blogs sobre:
+* Entrevistas com líderes de mercado. * Perfis dos principais concorrentes.
+* Comentários da competição.
+Honras e prêmios
+Open State Foundation - Open Source Data Apps for Business, Kaggle - Competitive Data Science Competitions, Google - Programa de Recompensa de Vulnerabilidade, DrivenData - Data Science for Good, CrowdANALYTIX - Crowdsourcing Analytics for Life Sciences, KDD Cup 2014 - Previsão de emoção em DonorsChoose.org, Numerai - Torneio AI Global para Prever o Mercado de Valores
+ Página 2
+HJ van Veen
+Cientista de dados em Nubank Brasil
+
+
+Data Mining
+
+Machine Learning
+
+Predictive Analytics
+
+HJ também tem a competência…
+Predictive Modeling
+Data Analysis
+Data Modeling
+Blogging
+SEO
+Web Development
+Web Design
+Web Marketing Strategy
+W3C Accessibility
+Customer Service
+Technology Evangelism
+Agile Methodologies

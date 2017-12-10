@@ -1,0 +1,38 @@
+Lucas Araujo
+Big Data Administrator
+Resumo
+Implementação e suporte do ambiente Hadoop Cloudera com conformidade PCI. Forte proficiência nas atividades de solução de problemas, tuning e administração em Kafka, Zookeeper, Yarn, HBase, Hive, Spark, Impala, MapReduce, MySQL, Oozie, HBase, Kudu e Sqoop. Gerencie e monitore a infraestrutura de plataforma e plataforma Hadoop.
+Administração do sistema, como gerenciamento de capacidade de armazenamento e ajuste de desempenho, habilidades de programação como Python e Bash para automatizar o provisionamento de nó de cluster e tarefas repetitivas.
+Experiência
+Administrador de dados grandes no Semantix
+outubro de 2017 - presente
+Consultor Bi em Keyrus
+junho de 2017 - setembro de 2017 (4 meses)
+Educação
+FATEC Ourinhos Faculdade de Tecnologia de Ourinhos
+Bacharel em Tecnologia (B.Tech.), Análise de Sistemas de Computação, 2013 - 2016
+Etec - Centro Paula Souza
+tecnico - programação, 2011 - 2013
+     Página 1
+Lucas Araujo
+Big Data Administrator
+Entre em contato com Lucas no LinkedIn
+
+Java
+ 
+Big data
+
+trabalho em equipe
+liderança
+JSF
+Java SE
+JDBC
+PostgreSQL
+PL/SQL
+motivaçao
+resiliencia
+bom relacionamento interpessoal
+dinamismo
+iniciativa
+versatilidade
+flexibilidade de postura ativa no dia a dia

@@ -1,0 +1,34 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+59 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Administrador de haras
+Salário
+Mínimo aceitavel: R$ 5.000,00
+Pretendido: R$ 6.000,00
+Resumo do currículo
+Minha formação sempre foi dirigida à administração de banco de dados de alta disponibilidade (24/7). Atuei como DBA de 1986 a 1996 na Telemig, com o sgbd ADABAS e Natural. De 1996 a 1998, atuei como consultor numa migração de sistemas de operação na Telebahia. De 1998 a 2015 me especializei no gerenciamento do sgbd Oracle com foco principal em melhoria de performance de aplicações sobretudo de atendimento a clientes e faturamento (VANTIVE, BSCS, PEOPLESOFT E CRM desenvolvido na própria empresa). No último semestre, trabalhei no Chile pela Ericsson como consultor do software de billing BSCS. Nos últimos meses também atuei como desenvolvedor de projetos ETL com a ferramenta POWERCENTER.
+Escolaridade
+UFMG
+Filosofia - Superior cursando - Antropologia
+01/2013 - 12/2016
+Cursos importantes
+UFMG
+Filosofia, 4 Anos - 02/2016
+FUNDEP (UFMG)
+Analise de Sistemas, 380 Horas - 12/1990
+Experiências profissionais
+Administrador de banco de dados
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 10.500,00 ( 03/1998 - 03/2015)
+
+Este trabalho foi o último como CLT porém trabalhei como consultor de performance e BSCS (Billing) na empresa WOM, em Santiago, Chile, no projeto de migração do sistema de faturamento e arrecadação de Buenos Aires para Santiago. Segundo semestre de 2015. Neste semestre, atuei como desenvolvedor de projetos ETL com a ferramenta POWERCENTER (Informatica) na empresa Sysmap Solutions em Belo Horizonte.
+Idiomas
+Espanhol - Básico  Inglês - Técnico
+Habilidades e qualificações
+Access Melhoria de Performance em Bancos de Dados Oracle Desenvolvimento de Aplicações de Replicação de Inf Reorganização de Tabelas com Grande Volume de Dado Suporte e Consultoria No Desenho e Modelagem de da Excel Word Powerpoint Windows
+

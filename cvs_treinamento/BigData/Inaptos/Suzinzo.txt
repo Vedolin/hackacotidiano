@@ -1,0 +1,51 @@
+
+ANALISTA PROGRAMADOR
+Dados Pessoais
+37 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista programador
+Salário
+Mínimo aceitavel: R$ 3.000,00
+Resumo do currículo
+Experiente na análise, documentação e desenvolvimento de sistemas Web, Mobile e Desktop com ASP.NET, C#, VB, PHP e Java, utilizando servidores Microsoft e Linux, bem como amplo conhecimento e domínio de bancos de dados (Oracle, SQL Server, MySQL e PostgreSQL).
+Escolaridade
+Universidade de Cruz Alta
+Computação/Informática - Superior completo
+06/1999 - 06/2004
+Experiências profissionais
+Analista Programador Back-End
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.600,00 ( 02/2017 - 08/2017)
+
+•	Análise e desenvolvimento de novos recursos para sistema legado; •	Resolução de incidentes e problemas de versões no sistema legado; •	Análise e documentação de novos padrões e recursos para versões futuras; •	Treinamento da equipe e do cliente.
+Programador Líder Técnico
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.200,00 ( 03/2016 - 02/2017)
+
+•	Atividades gerenciais de planejamento e controle necessárias à organização dos serviços de programação e teste; •	Coordenar as atividades dos técnicos da equipe de trabalho; •	Participar do planejamento e gestão dos projetos; •	Atividades técnicas e gerenciais necessárias à execução dos serviços de programação (.Net), manutenção corretiva e evolutiva e teste para verificação do funcionamento dos sistemas e portais, bem como o cumprimento dos requisitos, funcionalidades e comportamentos especificados.
+Analista Desenvolvedor de Sistemas Sr.
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.400,00 ( 10/2014 - 08/2015)
+
+•	Desenvolvimento de sistemas para a Intranet; •	Alteração e manutenção de sistemas internos; •	Migração de bancos de dados (MySQL parar Oracle e SQL Server para Oracle); •	Instalação e customização da ferramenta para registro e atendimento de chamados e requisições.
+Analista de Infraestrutura
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.800,00 ( 01/2012 - 08/2014)
+
+•	Instalação, análise de requisitos, análise de negócio, customização e migração de versões da ferramenta CA Service Desk; •	Instalação e customização da ferramenta CA Configuration Automation; •	Instalação e customização da ferramenta CA Process Automation; •	Instalação e customização da ferramenta SAP Business Objects; •	Instalação e customização da ferramenta CA Advantage Data Transformer; •	Análise e desenvolvimento de componentes para integração de sistemas, utilizando as linguagens de programação Java e Microsoft .Net; • Documentação de processos e procedimentos; •	Treinamento de ferramentas ministrados ao cliente e a equipe.
+Consultor técnico
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.900,00 ( 08/2010 - 01/2012)
+
+•	Análise e desenvolvimento de componentes para integração de sistemas; •	Implementação e customização da ferramenta CA Service Desk; •	Treinamento da ferramenta para equipes que irão utilizar o CA Service Desk; •	Migração de versão da ferramenta CA Service Desk.
+Analista de desenvolvimento sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 12/2004 - 08/2010)
+
+•	Análise e desenvolvimento de sistemas especialistas (desktop e web), utilizando as seguintes linguagens: Java, PHP e Microsoft .Net (Visual Basic e C#); •	Análise, estruturação e normalização de bancos de dados (Oracle, Microsoft SQL Server e PostgreSQL); • Implementação e customização da ferramenta CA Service Desk e CA Service Desk Knowledge Tools, juntamente com treinamentos de repasse da ferramenta; •	Implementação e customização da ferramenta CA Unicenter TNG; •	Implementação de produtos EMC (Storage e NAS); •	Criação de procedimentos para análise de performance de Storages; •	Elaboração de documentações de projetos (requisitos, definições, cronogramas, etc.).
+Idiomas
+Espanhol - Básico  Inglês - Intermediário
+Habilidades e qualificações
+Mysql Oracle Sql Server Sql Javascript Php Itil Scrum Html5 Css3 Bootstrap Jquery Ms Visual Studio Microsoft .net C#

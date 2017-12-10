@@ -1,0 +1,60 @@
+ANALISTA DE BANCO DE DADOS
+Dados Pessoais
+34 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de banco de dados
+Analista de sistemas
+Administrador de banco de dados
+Salário
+Mínimo aceitavel: R$ 7.500,00
+Pretendido: R$ 10.000,00
+Resumo do currículo
+Atuar na área de análise , modelagem de dados e desenvolvimento de sistemas com ênfase em banco de dados. Agora eu estou trabalhando com o engenheiro de banco de dados Oracle no cliente de varejo. Desenvolvimento de processos de ETL , mineração de dados , modelagem de dados , pacotes de administração de banco de dados e desenvolvimento , procedimentos, gatilhos e funções. Criação e manutenção de banco de dados . análise de arquitetura de dados .Windows Server 2003 e 2008, PL/SQL, Vantive. Shell Script, Relatório Ireport .Sistema operacional LINUX Debian (Gnome e KDE).Management studio sql Server. Conhecimentos em regras de negócio de telecom testes unitários e integrados de sistemas.
+Escolaridade
+Wpos - Pós graduação em banco de dados.
+Computação/Informática - Pós-graduação completa - Banco de Dados
+02/2012 - 08/2013
+Unipac – Universidade Presidente Antonio Carlos
+Computação/Informática - Superior completo - Sistemas de Informação
+02/2006 - 07/2009
+Cursos importantes
+Instituto Federal Goiano Campus Morrinhos – GO
+Certificado S2b (students To Bussiness – Microsoft ), 84 Horas - 05/2012
+Experiências profissionais
+consultor oracle
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 11.000,00 ( 08/2017 - Até hoje)
+
+Administração de bases de dados e desenvolvimento de packge , procedures, triggers, functions . Criação de processos de ETL , mineração de dados e modelagem de dados. Criação e manutenção de banco de dados . análise de arquitetura de dados . problemas de análise e banco de dados de depuração.
+consultor oracle
+Somente para Assinantes, Eletrônica/ Eletroeletrônica/ Eletrodomésticos
+Salário final: R$ 12.000,00 ( 11/2014 - 06/2017)
+
+Desenvimento de procedures, triggers, functions e package. Criação de processos de ETL , mineração de dados e modelagem de dados. Criação e manutenção de banco de dados . análise de arquitetura de dados . problemas de análise e banco de dados de depuração. Modelagem de dados. Tunning de processos.
+consultor oracle
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 8.500,00 ( 02/2014 - 10/2014)
+
+Administração de bases de dados e desenvolvimento de procedures, triggers, functions e package. Criação de processos de ETL , mineração de dados e modelagem de dados. Criação e manutenção de banco de dados . análise de arquitetura de dados . problemas de análise e banco de dados de depuração. projeto EAQ voltado para a área de telecomunicações.
+analista dbm
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 5.000,00 ( 01/2013 - 02/2014)
+
+Desenvolvimento de processos Data Mining, ETL, processos de backup, restore e criação de procedimentos de acordo com as necessidades do cliente. Manutenção e criação de dados, análise de dados utilizando PL / SQL, desenvolvimento de bases de dados para processos de exportação de dados. Criação de Jobs para automatização de processos manuais.
+analista de integração
+Somente para Assinantes, Saúde/ Hospitalar
+Salário final: R$ 4.000,00 ( 02/2011 - 11/2011)
+
+Desenvolvimento utilizando as linguagens pl/sql Oracle e management studio sql Server. Ibolt para integração de banco de dados .Testes unitários. Criação de procedures, triggers e functions. Administração de banco de dados.
+analista de sistemas
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 2.000,00 ( 01/2010 - 12/2011)
+
+Desenvolvimento em projetos utilizando as linguagens Vantive e PL/SQL Oracle para a CTBC Telecom, Criação de procedures, triggers e functions. Testes Unitários e Integrados.
+Idiomas
+Espanhol - Intermediário  Inglês - Avançado
+Habilidades e qualificações
+Relacionamento Interpessoal Foco em Resultadoe Adaptação Engajamento Comprometimento
+

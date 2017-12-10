@@ -1,0 +1,61 @@
+Luciano Viola
+Data Scientist @ Big Data Brasil
+Resumo
+Data Scientist no início do arranque do A.I no Brasil.
+Usamos a Aprendizagem de Máquinas para prever o comportamento humano e fornecer informações sobre os maiores players do Brasil nos setores de varejo, bens de consumo, educação e saúde.
+Experiência
+Cientista de dados da Big Data Brasil
+janeiro de 2017 - presente
+Mestre Estudante / Pesquisador da Universidade Estadual de Campinas
+janeiro de 2016 - fevereiro de 2017 (1 ano 2 meses)
+LSTM Recurrent Neural Netowrks aplicado à previsão de energia eólica.
+Estagiário no Portobello Grupo
+dezembro de 2012 - setembro de 2013 (10 meses)
+Estagiário de Engenharia Industrial na Soléflex Importação Distribuição e Logística Ltda
+janeiro de 2012 - dezembro de 2012 (1 ano)
+Pesquisador Júnior da Universidade Federal de Santa Catarina
+julho de 2010 - fevereiro de 2011 (8 meses)
+Iniciação científica no Laboratório de Sistemas de Apoio à Decisão (LabSAD)
+Agente de ingressos em Vail Resorts
+dezembro de 2007 - março de 2008 (4 meses)
+Durante minhas férias de verão no Brasil, tive a experiência de trabalhar para uma grande estância de esqui nos EUA.
+Educação
+Universidade Federal de Santa Catarina
+Licenciatura em Engenharia Industrial, 2007 - 2013
+Universidade Norueguesa de Ciência e Tecnologia (NTNU)
+Estudante de intercâmbio, engenharia industrial, 2011 - 2012
+
+Python 
+ 
+Inteligência Artificial Exibindo 20 recomendações para Inteligência Artificial 20
+ 
+
+Luciano também tem uma competência ...
+Aprendizagem de máquina 
+Econometria Exibindo 15 para a Econometria 15
+Análise de dados Exibição 28 para análise de dados 28
+Estatísticas 9 para as estatísticas 9
+Análise da Série de Tempo 
+Matemática Exibindo 4 recomendações para Matemática 4
+Linux 
+R 
+Git 
+LaTeX 
+Shell Scripting 
+Informática Exibindo 6 para a Ciência da Computação 6
+SQL 
+Redes Neurais Artificiais 
+Redes Neurais 
+Pesquisa 2 para a pesquisa 2
+Big Data Exibe 2 para o Big Data 2
+Unix 
+PostgreSQL 
+
+
+Ele é um cientista de dados extremamente talentoso, com capacidade para se envolver em todas as partes do pipeline de ciência dos dados: desde a criação de rastreadores web até a colocação de modelos de aprendizagem de máquinas em produção.
+
+Uma de suas maiores forças é a curiosidade intelectual dele. Guilherme gosta de entender o que acontece sob o capô. Ele, por exemplo, estudará a mecânica de Python ou TensorFlow para entender por que se comporta da maneira que faz. Isso o torna rápido ao encontrar soluções para problemas.
+
+Ele também está atualizado com os últimos avanços na aprendizagem profunda. Poucas pessoas de sua geração no Brasil combinam seus conhecimentos.
+
+Além das qualidades técnicas, Guilherme também tem uma perspicácia de negócios forte, tornando-o um profissional bem arredondado.

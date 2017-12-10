@@ -1,0 +1,55 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+34 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Analista de banco de dados
+Salário
+Mínimo aceitavel: R$ 6.000,00
+Pretendido: R$ 10.000,00
+Resumo do currículo
+Quinze anos de experiência na área de tecnologia da informação, sendo:
+
+?	DBA Oracle 11G e 12c o	Administração, Arquitetura e Desenvolvimento em Banco de Dados o	Modelagem lógica/física de Dados em modelos relacionais e multidimensionais o Levantamentos de requisitos para Modelos e processos o	Instalação, configuração, tunning, capacity planning, reorganização e migração de BD ?	Experiência em Oracle DataGuard, RMAN, Erwin, TKprof, AWR o	Conhecimentos em Metodologias ágeis, de modelagem de dados e UML o	Experiência com suporte a equipes de Desenvolvimento e em ambientes de Produção em missão crítica. o	Desenvolvimento em PLSQL o	Banco de Dados Oracle, MySql, ProstgreSql e Sybase o	Experiência em Sistemas Operacionais LINUX e Windows o	Testes integrados ?	Infraestrutura o	Instalação de servidores e análise diagnóstica (IBM, HP e Dell) o Gerenciamento de usuários, FTP o	Redes Linux o	Ferramentas de virtualização VmWare e Oracle Virtualbox ?	Análise e programação PL/SQL, utilizando Oracle 9i, 10, 11g e 12c o Excelência em programação e profundos conhecimentos em todas as estruturas de bancos de dados (trigger, procedures, Jobs, etc) o	Tuning de queries e processos ?	Análise e programação de sistemas: o	Um ano de experiência com programação Java (IDE Eclipse) o	Um ano com .net, sendo vb, asp e c# o	Sete anos de experiência com Visual Basic 6.0 o	Um ano de experiência com Visual Fox Pro 9.0 ?	Líder de equipe. o	Equipe de programação, definindo prazos, recursos e soluções
+Escolaridade
+Universidade Nove de Julho
+Computação/Informática - Superior completo
+07/2007 - 12/2009
+Cursos importantes
+kaSolution
+Oracle Administration 11g - 95002 e 95003, 10 Sábados - 04/2014
+KaSolution
+Microsoft Official Curriculum - .net Formação Mcp, 120h - 12/2009
+4Linux
+4801 - Administração Postgresql, 5 Dias - 10/2016
+4linux
+5172 - Alta Performance, 5 Dias - 10/2016
+Experiências profissionais
+Analista de dados Sênior
+Somente para Assinantes, Comércio Exterior (Importação/Exportação)
+Salário final: R$ 9.000,00 ( 07/2014 - 03/2015)
+
+? Migração de dados ? Desenvolvimento de estruturas para novos produtos ? Projetos para melhoria de processos existentes
+Analista Pl/Sql Sênior / DBA Oracle
+Somente para Assinantes, Logística/Armazéns
+Salário final: R$ 8.500,00 ( 11/2011 - 06/2014)
+
+? Migração e integração de dados de diversas plataformas entre países da América Latina ? Desenvolvimento de estruturas para novos projetos ? Projetos de melhoria de processos existentes ? Análise e desenvolvimento
+Analista Programador Visual Basic e PL/SQL Pleno
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 7.400,00 ( 09/2009 - 11/2011)
+
+? Programação Visual Basic 6.0 e Oracle 11G ? Manutenção em sistema de vendas e manutenção de clientes - Telecom
+DBA Oracle 11g e 12c
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 13.000,00 ( 04/2015 - 10/2016)
+
+?	Administração, Arquitetura e Desenvolvimento em Banco de Dados ?	Modelagem lógica/física de Dados em modelo relacional ?	Levantamentos de requisitos para Modelos e processos ?	Instalação, configuração, tunning, capacity planning, reorganização e migração de BD ?	Experiência em Oracle DataGuard, RMAN, Erwin ?	Tuning, melhoria de processos e definição de novas arquiteturas ?	Testes integrados e homologação ?	Relatórios gerenciais e pontuais ?	Putty, SCP, Tunnels, Vmware, OracleVM Virtualbox, Linux, Sql Developer ?	TKprof, AWR
+Idiomas
+Espanhol - Básico  Inglês - Intermediário
+Habilidades e qualificações
+Access Excel Word Powerpoint Pl/sql Tuning Liderança de Equipe Banco de Dados Trabalho em Equipe Dba Oracle 12c Dba Oracle 11g Internet Visual Basic Visual Foxpro Crystal Reports
+

@@ -1,0 +1,69 @@
+Carlos Relvas
+Cientista de dados em Nubank Brasil
+Resumo
+Data Scientist com ênfase em Métodos Estatísticos / Mineração de Dados / Aprendizado de Máquinas.
+Trabalho desde 2010 no Banco Itaú-Unibanco com foco em melhorias no processo de modelagem em modelos de crédito usando ferramentas de Estabilização, Mineração de Dados e Aprendizado de Máquinas.
+Desde 2013, lidero um grande projeto de dados usando a tecnologia hadoop e as técnicas de aprendizado de máquinas.
+Habilidades de programação - Hadoop, HDFS, Hive, MapReduce, Hadoop Streaming, R, SAS, Stata, Python, Tableau, Oracle R Connector para Hadoop.
+Habilidades de Aprendizado de Máquinas - Redes Neurais, Regressão Logística, Regressão Linear, Modelos de Mistura, Árvores de Decisão, Floresta Aleatória, Algoritmo Genético, GAM, SVM, K-means, Filtragem Colaborativa, Imputação, Métodos de Ensemble, Bagging, Boosting, Seleção de Funções.
+Experiência
+Cientista de dados em Nubank Brasil
+Julho de 2015 - presente
+Analista de Pesquisa e Desenvolvimento do Banco Itaú
+Janeiro de 2012 - julho de 2015 (3 anos 7 meses)
+Atividades principais:
+- Consultoria estatística para várias áreas do banco, com foco em melhorias no processo de modelagem em
+modelos de crédito usando ferramentas de Estabilização de Dados, Mineração e Aprendizagem de Máquinas.
+- Comparação entre algoritmos de aprendizado de máquina para distribuições de resposta multimodal.
+- Desde 2013, estou liderando um Projeto de Dados Grandes utilizando tecnologia Hadoop e técnicas de aprendizado de máquinas. - Desenvolvi algoritmos avançados Hadoop MapReduce usando R e hadoop streaming.
+- Um dos responsáveis ​​para criar um quadro de modelagem preditivo automático completo usando dados grandes
+ferramentas como Hadoop, Hive e R.
+Estágio - Pesquisa e Desenvolvimento no Banco Itaú
+Abril de 2010 - fevereiro de 2011 (11 meses)
+Principais atividades: manipulação de dados; Análise estatística; Desenvolvimento de modelos estatísticos; Construção de
+relatórios.
+  Página 1
+ Educação
+USP - Universidade de São Paulo
+Mestrado em Estatística, modelos parcialmente lineares simétricos com erros autoregressivos de primeira ordem, 2011-2013
+Universidade de São Paulo
+Bacharel em Estatística, Estatística, 2007 - 2010
+ Página 2
+Carlos Relvas
+Cientista de dados em Nubank Brasil
+Entre em contato com Carlos no LinkedIn
+
+
+SAS 
+
+Big data 
+
+Statistical Modeling 
+
+Carlos também tem a competência…
+Mineração de dados 
+R (linguagem de programação) 
+Modelagem estatística 
+Hadoop 
+Credit Risk 
+Hive 
+Big Data 
+Modelagem preditiva 
+Aprendizado de máquina 
+Estatística 
+R 
+Risco de crédito 
+Data Mining 
+Machine Learning 
+Predictive Modeling 
+Statistics 
+MapReduce 
+Python 
+Regressão logística 
+R&D 
+Basel II 
+Basileia II 
+Ciência de dados 
+SQL 
+Algoritmo 
+Oracle Advanced Analytics 

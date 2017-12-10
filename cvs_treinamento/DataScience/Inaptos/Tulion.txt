@@ -1,0 +1,68 @@
+ANALISTA DE DESENVOLVIMENTO SISTEMAS
+Dados Pessoais
+35 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de desenvolvimento sistemas
+Programador
+Analista programador
+Salário
+Mínimo aceitavel: R$ 3.000,00
+Pretendido: R$ 3.500,00
+Resumo do currículo
+Tenho quase oito anos de experiência em análise e desenvolvimento de sistemas para Mainframe e sou formada em Engenharia da Computação pelo Centro Universitário Fundação Santo André. Meus principais conhecimentos técnicos são: Arquitetura de Sistemas Mainframe, DB2, SQL, VSAM, Erwin, Changeman, TSO, ENDEVOR, QMF, análise de malhas Batch, análise/alteração/criação de transações CICS, GRBE, IMS, análise e desenvolvimento de programas em COBOL e PROCs/JCL e ferramentas do pacote MS-Office. Já atuei em projetos de diversas instituições bancárias, passando por todas as fases técnicas de um projeto, desde o entendimento da especificação funcional em reuniões com o cliente, análise de requisitos do sistema, detalhamento técnico de construção/alteração de programas, codificação, teste unitário e integrado, acompanhamento da implantação e solução de erros nos ambientes de homologação e produção. Reconhecida ao longo da carreira pelo comprometimento com os prazos, rápido aprendizado, capacidade técnica e qualidade das entregas. Minhas principais habilidades pessoais são: verdadeira paixão pela área de atuação, dinamismo, flexibilidade, multitarefas, autodidata, responsável, colaborativa, pró-ativa, aberta às mudanças, muita disposição para aprender e capacidade de refletir e atuar criticamente na solução de problemas.
+Escolaridade
+Centro Universitário Fundação Santo André
+Engenharia da Computação - Superior completo
+01/2005 - 12/2010
+Cursos importantes
+Qualifiq
+Programação Ims, 40 Hs - 11/2013
+Qualifiq
+Advanced Db2, 24hs - 05/2013
+KA Solution
+Access 2010 Básico, 16hs - 04/2013
+Qualifiq
+Advanced Cics Programming, 40hs - 04/2013
+Qualifiq
+Cobol Avançado, 40hs - 04/2013
+Ka Solution
+Excel 2010 Avançado, 24hs - 03/2013
+Curso Interno Accenture
+Sas Basic Programming, 80hs - 02/2013
+ILAC Canadá
+Intercâmbio Inglês, 180hs - 09/2011
+Qualifiq
+Advanced Jcl Utilities, 24hs - 05/2011
+Qualifiq
+Cics Programming, 32hs - 03/2010
+Qualifiq
+Ims/tm, 24hs - 01/2010
+Qualifiq
+Cobol Enterprise, 24hs - 01/2010
+Curso Interno Accenture
+Programação Cobol, 120hs - 03/2008
+Curso Interno Accenture
+Lógica de Programação, 40hs - 03/2008
+Experiências profissionais
+Programador Senior
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 4.595,00 ( 12/2008 - 01/2016)
+
+Programador Sênior – Mar/2010 à Jan/2016 (5 anos e 10 meses) - Desenvolver e implantar projetos batch e on-line; - Elaborar documentos técnicos; - Analisar requisitos de sistemas e regras de negócio; - Analisar o impacto das modificações necessárias para atender o escopo dos projetos; - Elaborar desenho técnico das alterações ou novos componentes para codificação pela fábrica de software; - Estimar esforço para desenvolvimento e alteração de componentes; - Manter bom relacionamento e atender com presteza as solicitações dos analistas funcionais; - Realizar testes no ambiente de homologação em conjunto com as equipes funcionais, participando de check-point diário; - Implantar projetos no ambiente de produção e dar suporte pós-implantação. - Apesar de já ter grande conhecimento, buscava melhoria contínua dos conhecimentos técnicos em Cobol, CICS, DB2, JCL e ferramentas TSO, Changeman, ERWIN, QMF, SPUFI e outras ferramentas específicas de cada cliente. Programador – Dez/2008 à Fev/2010 (1 ano e 3 meses) - Participação na equipe que ficava de plantão para acompanhar a implantação no ambiente de homologação e produção; - Analisar e corrigir incidentes no ambiente de produção (backlog); - E demais atividades descritas no cargo estagiária Cobol. Estagiária Cobol – Abr/2008 à Nov/2008 (7 meses) - Alterar e construir programas utilizando Cobol, CICS, DB2 e mapas BMS; - Executar testes unitários; - Utilizar as ferramentas TSO, QMF e Endeavor; - Participar em calls diários em inglês
+Estagiária TI
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 700,00 ( 06/2006 - 07/2007)
+
+- Desenvolver planilhas de controle para os departamentos da empresa; - Sugestão de melhoria na execução das tarefas utilizando recursos do Office; - Auxílio na análise de requisitos para desenvolver novo software da empresa; - Documentação das atividades do departamento de suporte.
+Auxiliar de Centro de Apoio
+Somente para Assinantes, Comércio Varejista
+Salário final: R$ 1.100,00 ( 07/1997 - 03/2005)
+
+Inicialmente ocupei cargos operacionais como auxiliar de estoque, repositor e separador, mas o cargo mais relevante que contribuiu para a minha experiência com TI foi de Auxiliar de Centro de Apoio, onde realizava as seguintes atividades: - Cadastrar e manter atualizados diversos controles operacionais em planilhas Excel, extraindo gráficos e relatórios mensais; - Manter em banco de dados Access o cadastro dos livros da biblioteca interna da empresa e era responsável pelo empréstimo e devolução dos livros; - Elaborar também cartazes, informativos e apresentações no Power Point.
+Idiomas
+Inglês - Avançado
+Habilidades e qualificações
+Cobol Spufi Qmf Tso Access Power Point Excel Word Changeman Arquivo Sequencial e Vsam Erwin Sql Db2 Jcl/procs Grbe Cics
+

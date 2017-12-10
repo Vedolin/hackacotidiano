@@ -1,0 +1,33 @@
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+51 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Gerente de suporte técnico
+Salário
+Mínimo aceitavel: R$ 10.000,00
+Pretendido: R$ 12.000,00
+Resumo do currículo
+- Profundos conhecimentos, larga experiência, em Bancos de Dados relacionais, a mais de 27 anos: PostgreSQL, Oracle, SQL Server, DB/2 e MySQL (com certificações). Realizei recentemente a organização, tuning, implantação de alta disponibilidade e migração das plataformas clusterizadas MS SQL Server, PostgreSQL e MySQL, no MEC e DATASUS, além de correção e melhoria em Stored Procedures, Functions, e modelos de carga e geração de dados formatados; - Profundos conhecimentos em sistemas operacionais a mais de 30 anos: Linux, Unix e MS Windows. Alteração de kernel para solucionar problemas de desempenho de largo uso de “system” pelo kernel, para os sistemas do DATASUS em plataforma Linux/PostgreSQL (SISREG, entre outros), além dos principais sistemas do MEC (SIMEC, FIES, entre outros). - Profundos conhecimentos de Infraestrutura de Redes, Aplicação e Segurança, a mais de 30 anos. Os projetos e planejamentos elaborados por mim sempre levam em conta no escopo a infraestrutura, redes, segurança, aplicação e banco de dados, mesmo que sejam exclusivamente de banco de dados. - Extremamente pró-ativo, sempre no intuito de empregar cada novo conhecimento na melhoria das plataformas administradas, além de detectar problemas de performance e alertar e contribuir para a solução dos mesmos junto às equipes de desenvolvimento, infraestrutura, segurança.
+Escolaridade
+UFU - Universidade Federal de Uberlândia
+Computação/Informática - Superior completo
+01/1988 - 01/1992
+Experiências profissionais
+Administrador de banco de dados
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 12.000,00 ( 05/2011 - 04/2016)
+
+Administrador de Banco de Dados das plataformas PostgreSQL, MySQL e SQL Server, todas em cluster de alta disponibilidade com mais de 3 nós. Solução da plataforma SISREG, e de todos os outros sistemas do DATASUS em nível nacional - para o funcionamento 24/7 em todo território brasileiro, no Ministério da Saúde. Monitoramento e solução de problemas inclusive em nível de Kernel Linux. Passagem de Know-How na utilização de bancos de dados relacionais, na tecnologia de alta disponibilidade, entre outros, para as equipes de desenvolvimento de sistemas. Migração e atualização de todas as plataformas.
+Administrador de banco de dados
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 9.000,00 ( 04/2015 - 07/2016)
+
+Administrador de Banco de Dados das plataformas de alta disponibilidade (24/7) em PostgreSQL, MySQL. Reconstrução dos nós dos clusters das plataformas de sistemas do MEC (Ministério da Educação), para funcionamento pleno dos sistemas FIES, SIMEC, entre outros. Monitoramento e solução de problemas inclusive em nível de Kernel Linux. Passagem de Know-How na utilização de bancos de dados relacionais, na tecnologia de alta disponibilidade, entre outros, para as equipes de desenvolvimento de sistemas. Migração e atualização de todas as plataformas.
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Aprendizado Passagem de Know-how Comunicação Suporte e Solução de Problemas Monitoramento de Plataformas Documentação Pro-atividade entre Outras
+

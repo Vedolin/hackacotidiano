@@ -1,0 +1,46 @@
+Bruno Chaves Sobral Teixeira
+Cientista de dados | Desenvolvedor python
+Summary
+Cientista de dados com interesse em machine learning e inteligência artificial
+Experience
+Cientista de dados at Via Consulting
+junho de 2017 - Present
+Cientista de dados na área de inovação criando novos produtos utilizando programação e aprendizado de máquinas.
+Atividades:
+- Classificadores de mensagens de redes sociais com Machine Learning e Python; - Desenvolvimento de sistema de conversação autônomo;
+- Criar serviço web utilizando arquitetura de microserviços;
+- Monitorar operações das aplicações.
+Pesquisador at IPIU - Instituto de Pesquisa e Inovação em Urbanismo
+janeiro de 2017 - maio de 2017 (5 meses)
+Análise e consolidação de dados utilizados em estudo de planejamento urbano
+Consultor sênior at Steer Davies Gleave
+outubro de 2014 - maio de 2016 (1 ano 8 meses)
+Consultor na área de transportes, trabalhou em projetos no Brasil e América Latina.
+Atividades:
+- Estudo de demanda para sistemas de transporte;
+- Realizar Due Diligence e auditoria em estudos de tráfego rodoviário;
+- Desenvolvimento de ferramenta que automatiza geração de resultados para sistema de transporte utilizando
+python.
+Consultor at GPO Sistran Engenharia
+maio de 2013 - setembro de 2014 (1 ano 5 meses)
+Análise de dados e aplicação de machine learning em projetos de transporte.
+Atividades:
+- Modelo de classificação utilizando regressão logística, árvores binárias e clusters;
+  Page 1
+- Modelo de previsão de séries temporais utilizando regressão multivariada e clusters; - Simulação de redes de transporte.
+Analista de Projetos at TTC Engenharia de Tráfego e Transportes
+janeiro de 2010 - abril de 2013 (3 anos 4 meses)
+Elaboração de projetos de previsão de demanda para transporte coletivo e concessões rodoviárias para
+empresas como CCR e EcoRodovias.
+Estagiário at TTC Engenharia de Tráfego e Transportes
+março de 2009 - dezembro de 2009 (10 meses)
+Responsável por auxiliar equipe nos projetos de previsão de demanda para transporte coletivo, tabulando
+dados em planilhas de excel e auxiliando na preparação de apresentações.
+Education
+Universidade Presbiteriana Mackenzie
+Engenheiro, Engenharia Civil, 2005 - 2009
+  Page 2
+Bruno Chaves Sobral Teixeira
+Cientista de dados | Desenvolvedor python
+Contact Bruno on LinkedIn
+          Page 3

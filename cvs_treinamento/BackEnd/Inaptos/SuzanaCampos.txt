@@ -1,0 +1,50 @@
+Nome: Apenas para empresas cadastradas
+ARQUITETO DE SISTEMAS
+Dados Pessoais
+33 anos, Masculino
+Por Porção de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Carga
+Arquiteto de sistemas
+Salário
+Mínimo aceitavel: R $ 17.000,00
+Pretendido: R $ 20.000,00
+Resumo do currículo
+- Mais de 15 anos de experiência em tecnologia da informação; com várias certificações; - Experiência com BigData; Haddop; MapReduce programação; Sqoop; Flume, Zookeeper, Spark, Kafka, Storm e outros - Extensivo conhecimento na definição, implementação e monitoramento de processos de desenvolvimento de software; - Experimente a modelagem de arquiteturas de software e também com projetos líderes de TI, controle e monitoramento de projetos de software, a fim de cumprir prazos, escopo e qualidade; - Extensa experiência em métodos de processamento de linguagem natural, inteligência artificial e inteligência de negócios; - Um dos fundadores da "Onefun": uma empresa inicial que possui um sistema de recomendação para sugestões de entretenimento personalizado. - conhecimento avançado em SOA: modelagem de dados e modelos canônicos, BPEL, ESB, Oracle Soa Suite (BPEL e BPM), Oracle WebLogic Portal, ODI, XML, XSD, XPath, WSDL, XSLT e JAXB; - Experiência extensiva em Software de Padrões de Design; Requisitos de pesquisa e modelagem UML; - Amplo conhecimento de servidores de banco de dados, ferramentas, idiomas e modelagem; - Gerenciamento de infraestrutura de TI - Linux / Windows - (Weblogic, IIS, Tomcat, Squid, Apache, Subversion, PHP, MySQL, PostgreSQL entre muitos outros);
+Escolaridade
+Universidade Federal do Rio Grande do Sul
+Computação / Informática - Doutorado incompleto
+04/2011 - 12/2018
+Universidade Federal do Rio Grande do Sul
+Computação / Informática - Mestrado completo
+03/2009 - 04/2011
+Escola de Educação da Universidade Johns Hopkins
+Computação / Informática - Pós-graduação completa - Ciência de Dados
+04/2015 - 20/0316
+Universidade de Illinois em Urbana-Champaign
+Computação / Informática - Pós-graduação incompleta - Data Mining
+10/2015 - 10/2017
+Faculdade Ruy Barbosa
+Computação / Informática - Superior completo - Bacharel em Ciência da Computação
+01/2002 - 06/2007
+Experiências profissionais
+Cientista sênior de dados
+Somente para Assinantes, Consultoria / Auditoria
+Salário final: R $ 25.200,00 (02/2016 - Até hoje)
+
+Trabalhando em um projeto Big Data para um grande banco: * Pesquisa e desenvolvimento de modelos de dados complexos, algoritmos e técnicas para o sistema de detecção de fraude para evitar fraudes antes de acontecer (detectando possíveis compromissos o mais rápido possível - POCs) * Trabalhar junto de arquitetos laterais / equipe dev para descobrir maneiras de implementar modelos sofisticados de analise de mineração de dados * Reconhecer novas maneiras de obter informações de grandes conjuntos de dados. * Ajude a definir a arquitetura de dados da empresa para melhor capacitar as análises * Defina estratégias analíticas para atender às demandas do negócio. * Colaborando com outros cientistas de dados para criar algoritmos de aprendizagem de máquinas em software e realizar experimentos. Tecnologias: Hadoop; Faísca; Scala; Python; R e vários outros.
+Arquiteto Senior Soa
+Somente para Assinantes, Consultoria / Auditoria
+Salário final: R $ 20.000,00 (20/0614 - 20/02/16)
+
+- Definição e implementação de soluções de produtos para vários projetos de empresas; Tecnologias: Weblogic, SOA, BPEL, ADF, BPM, ODI, Oracle Soa Suite, Oracle Service Bus e Oracle Database (PL SQL).
+Arquiteto Senior de Software
+Somente para Assinantes, Consultoria / Auditoria
+Salário final: R $ 20.000,00 (20/04/2020/2014)
+
+SEPLAG - Departamento de Planejamento e Gestão do Estado de Sergipe: - Definição e implementação de soluções de produtos para um projeto de governo estadual que visa integrar todas as áreas do governo; - Liderança de equipe e definição de padrões de projetos e software com liderança estadual de TI; - Análise e criação de soluções para cerca de 40 processos governamentais que buscam reduzir a burocracia de serviços para cidadãos.
+Arquiteto Senior de Software
+Somente para Assinantes, Consultoria / Auditoria
+Salário final: R $ 18.000,00 (05/2013 - 20/04/2014)
+
+- Soluções de modelagem e pré-venda de arquitetura (Estimativa, cronograma e preços para todas as fases de desenvolvimento) para vários projetos envolvendo todas as áreas de TI da Claro Telecom (Vendas, Portais, Pós-pagos, Pré-pagos, integração, etc.) - Controle e monitoramento de projetos de software para cumprir prazos, alcance e qualidade; - Realização de treinamento interno; - Gestão de risco, comunicação, aquisição, definição e subsídios de estudo necessários para a implementação do projeto; - Elicitação de requisitos de projeto de projeto, definição de metas e objetivos; - Implementação de novas ferramentas e metodologias para auxiliar no planejamento e monitoramento de projetos em equipe. - Especificação de soluções de software a serem desenvolvidas por fábricas de software externo - Especificação de soluções para atender a análise e correção de problemas no ambiente de produção.

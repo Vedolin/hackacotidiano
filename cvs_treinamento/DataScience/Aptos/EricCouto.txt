@@ -1,0 +1,59 @@
+Eric Couto
+Data Scientist @ TFG Co
+Summary
+Motivado por desafios e focado em resultados, tenho como principais características: - Facilidade de aprendizado e rápido desenvolvimento (autodidata)
+- Perfil Analítico
+- Meticulosidade
+- Paixão por conhecimento e suas formas de obtenção e formalização a partir de dados (Machine Learning, Estatística, etc)
+Blog: ericcouto.wordpress.com/
+Kaggle: https://www.kaggle.com/ericcouto HackerRank: hackerrank.com/Eric_Couto
+Experience
+Data Scientist at TFG Co
+dezembro de 2016 - Present
+Data Scientist at Big Data Brasil
+maio de 2014 - dezembro de 2016 (2 anos 8 meses)
+Solução de problemas de negócio e identificação de oportunidades para grandes empresas, utilizando ciência
+e tecnologia.
+Especialista em Data Mining at B2W Digital
+março de 2014 - maio de 2014 (3 meses)
+Analytics para suporte à decisão e identificação de actionable insights.
+Analista de Data Mining at B2W Digital
+maio de 2011 - fevereiro de 2014 (2 anos 10 meses) CRM / Inteligência Competitiva
+Analytics para suporte à decisão e identificação de actionable insights:
+• Extração e validação dos dados
+• Tratamento e Transformação dos dados
+• Planejamento, especificação, definição e validação de variáveis e regras de negócio a partir de análises • Criação de modelos estatísticos e aplicação de técnicas de data mining.
+  Page 1
+Bolsista Iniciação Científica at COPPE / UFRJ
+agosto de 2007 - março de 2010 (2 anos 8 meses)
+• Pesquisa em IA: Machine Learning / Data Mining.
+• Desenvolvimento em Prolog (Linux).
+• Em 2008, escolhido como o melhor trabalho da sessão, ficando entre os 12 melhores trabalhos de toda a
+Jornada de Iniciação Científica do Centro de Tecnologia da UFRJ.
+• Artigo aceito e apresentado no "II Workshop on Computational Intelligence" (WCI 2008): "Busca
+
+Massachusetts Institute of Technology
+Atividades e grupos: Programming in R
+MOOC oferecido na plataforma Coursera por Roger D. Peng, Professor Associado de Bioestatística - Johns Hopkins Bloomberg School of Public Health (4 semanas - 02/jan ~ 30/jan)
+
+Atividades e grupos: Linear Regression, Logistic Regression, Trees, Random Forest, Text Mining, Clustering, Data Visualization, Linear Optimization
+MOOC oferecido na plataforma edx por Dimitris Bertsimas, Professor de Pesquisa Operacional e Allison O'Hair, Professora de Pesquisa Operacional e Estatística no MIT Sloan School of Management (11 semanas - 04/mar ~ 19/mai) 
+
+Data Mining
+
+Data Analysis
+
+Python
+
+Eric também tem a competência…
+Machine Learning
+SAS
+SQL
+Creative Problem Solving
+Business Intelligence
+Business Analysis
+Computer Science
+Linux
+Microsoft Excel
+Prolog
+Drums

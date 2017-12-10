@@ -1,0 +1,35 @@
+Robson Brandão
+Cientista de dados na Universidade de São Paulo
+Resumo
+Meu nome é Robson Brandão, Data Scientist, especialista técnico e treinador em tecnologias Microsoft.
+Eu sou um profissional que busca conhecimento exponencial, impulsionado por incertezas e atualize minhas crenças de acordo com novas evidências, aumentando a probabilidade de transformar dados em inteligência de negócios.
+Eu comecei minha carreira de TI graduando-se como Técnico de Processamento de Dados. Pouco depois, obtive um diploma em Sistemas de Informação, bem como um pós-graduação em Business Intelligence.
+Entrei na Universidade de São Paulo em 2001, onde trabalhei como analista de suporte técnico. Eu era responsável por implantar o Active Directory na Reitoria e posteriormente atuava como um administrador de banco de dados executando tarefas de rotina de um DBA e implementando o projeto de replicação de dados entre bancos de dados Sybase (UNIX) e SQL Server (Windows Server).
+Atualmente, na Universidade de São Paulo, atuo como Cientista de Dados no projeto CRAI, desenvolvendo estudos acadêmicos com técnicas de Dados Grandes, Mineração de Dados, Mineração de Texto e Aprendizado de Máquinas. Este projeto envolve a Faculdade de Odontologia (FO), Escola Politécnica (POLI) e Faculdade de Arquitetura (FAU) e tem como objetivo buscar inovação na área de pesquisa acadêmica.
+Trabalho voluntariamente em um projeto no FOUSP com o uso de impressoras 3D.
+Certificado desde 2003, trabalhei como Instrutor Certificado Microsoft (MCT) por 11 anos em vários centros de treinamento em São Paulo com mais de 4.000 profissionais treinados.
+Entre 2004 e 2007, recebi o prêmio profissional mais valioso no banco de dados do SQL Server e fiz vários eventos on-line e presenciais. Em 2016, fui reintegrado ao programa como MVP Reconnect.
+Eu acredito que eu poderia ser um bem como treinador de impacto para sua empresa. Estou ansioso para me conectar com você, pois eu gostaria de elaborar sobre como eu posso ajudar seu negócio a alcançar todos os seus objetivos ao qualificar seus funcionários.
+Experiência
+Cientista de dados na Universidade de São Paulo
+  Maio de 2001 - presente
+Página 1
+Comecei na Universidade de São Paulo como analista de suporte técnico. Fui responsável pela implantação do Active Directory na Reitoria em 2003. Após este projeto, atuei como administrador de banco de dados realizando como tarefas rotineiras de um DBA e implantando o projeto de replicação de dados entre como bases Sybase (UNIX) e SQL Server (Windows Servidor).
+Atualmente, trabalho na Universidade de São Paulo como Cientista de Dados sem projeto CRAI, desenvolvendo estudos acadêmicos com técnicas de Big Data, Data Mining, Text Mining e Machine Learning. Esse projeto envolve uma Faculdade de Odontologia (FO), Escola Politécnica (POLI) e Faculdade de Arquitetura (FAU) e tem como objetivo a busca por inovação na área de pesquisas acadêmicas.
+Trabalho com Linguagem R, IBM SPSS, Dell Statistica, Mintab e Linguagem Python.
+Trabalho com o laboratório de protótipos da Faculdade de Odontologia com uso de impressoras 3D.
+Microsoft Trainer no BFBiz | Negócios para empresas
+Fevereiro de 2006 - presente
+Cerca de 4000 profissionais de tecnologia de banco de dados treinados e capacitados a Administrar, desenvolver e planejar o ambiente.
+Microsoft Trainer na Ka Solution
+Agosto de 2009 - presente
+Aproximadamente 1000 profissionais de banco de dados treinados a exercer como tarefas do dia-a-dia de um DBA e de um profissional de BI.
+Aprendiz técnico
+Maio de 1991 - Maio de 1994 (3 anos 1 mês)
+Educação
+Universidade Anhembi Morumbi
+Especialista em Inteligência de Negócios, Inteligência de Negócios, 2015 - 2016
+Universidade Braz Cubas
+Tecnólogo em Sistemas de Informação, 2004 - 2006
+Honras e prêmios
+Microsoft MVP - Most Valuable Professional, MVP Reconnect

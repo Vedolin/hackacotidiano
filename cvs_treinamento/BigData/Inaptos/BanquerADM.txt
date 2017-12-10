@@ -1,0 +1,35 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+53 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Analista de sistemas
+Coordenador de projetos de sistemas
+Salário
+Mínimo aceitavel: R$ 10.000,00
+Pretendido: R$ 15.000,00
+Resumo do currículo
+•	25 anos de experiência profissional em Tecnologia da Informação, iniciado em 1989 no Ministério do Exército, e tendo passado como prestador de serviços por diversas e importantes instituições, dentre elas: SABESP, Bank Boston, Banco de Tokio, Santander, Bradesco, Caixa Econômica Federal. •	2,5 anos de experiência Gerencial como Coordenador junto à equipe de desenvolvimento de sistemas e projetos de banco de dados. •	Montagem de proposta comercial para novos projetos e demandas para clientes. •	Forte atuação em arquitetura de sistemas na modelagem conceitual, lógica e, principalmente, modelagem física de banco de dados relacionais e multidimensionais com implementação realizada em diversos SGDB, tais como: DB2, ORACLE, SYBASE-IQ (DataMart) e SQL_SERVER. • Experiente no desenvolvimento e soluções em sistemas financeiros tais como: meios de pagamento, Ativos Financeiros, cobrança e Faturamento atendendo instituições financeiras públicas e privadas; Caixa Econômica Federal, Bradesco, Santander, Banco Safra, Banco de Boston e Banespa. Atuei como analista de sistemas em outras empresas como Editora Abril, Grupo Unidos, Banco de Tokyo-Mitsubishi, Banco Mercantil/FINASA e SABESP. •	Facilidade de relacionamento junto ao cliente e no trato com o público interno. •	Sou caracterizado pelo bom senso na tomada de decisão e, na especificação e Execução das tarefas. •	A Honestidade, lealdade, sinceridade e capacidade de raciocínio sempre foram valores destacados por todas as empresas.
+Escolaridade
+Progress
+Computação/Informática - Superior completo - Banco de Dados
+03/2001 - 06/2001
+Experiências profissionais
+Administrador de Dados - DBA Oracle
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 8.250,00 ( 01/2014 - Até hoje)
+
+•	Projetar e manter a base de dados ORACLE 11g resultante da conversão e migração do processamento do sistema de cartão de crédito e meios de pagamento do ITAÚ (Vision+) para ORBITALL. •	Utilização das ferramentas IBM – InfoSphere Data Architect, PowerDesigner, Er-Win, Oracle SQL_Developer, PLSQL_Developer, Oracle Enterprise Manager, Microfocus EOSQL (Gerador de GCLGEN).. •	Atuação no apoio à área de FIELD SERVICE no processo de migração do primeiro cliente para o novo sistema (meio de pagamento: Voucher).
+Analista Especialista em Sistemas – DBA/AD.
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 13.450,00 ( 02/2011 - 01/2014)
+
+•	Coordenar os Administradores de Banco de Dados e Administradores de Dados no projeto e desenvolvimento do Banco de Dados (SYBASE-IQ, ORACLE 9i e DB2). •	Executar a modelagem e sua aplicação nas estruturas de Banco de Dados (relacional e Multidimensional) para suportar os módulos do sistema de Cartão de Crédito para a Caixa Econômica Federal e o DataMart da gestão do sistema (Business Intelligence). •	Utilização da ferramenta PowerDesigner para modelagem, projeto e validação e administração de dados nas diversas instâncias de sua aplicação (exceto produção – sob controle exclusivo da Caixa). •	Como DBA DB2 apoiou às áreas de desenvolvimento de software e de Operação/Produção/Esquedulagem, em regime 24x7, na fase de implantação do software nos diversos ambientes (deste Teste até homologação), nas instalações do cliente (CAIXA-BSB) e da INDRA. •	Utilização da ferramenta MS-Project no gerenciamento das atividades inerentes à Infraestrutura/Banco de Dados do projeto.
+Idiomas
+Espanhol - Avançado  Inglês - Técnico
+Habilidades e qualificações
+Ativos Financeiros Cartão de Crédito Empréstimos Cobrança Meios de Pagamento Eletrônico Analista/programador Cobol Db2 Oracle
+

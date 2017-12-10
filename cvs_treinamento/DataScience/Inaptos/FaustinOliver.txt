@@ -1,0 +1,34 @@
+
+Dados Pessoais
+31 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Salário
+Mínimo aceitavel: R$ 3.000,00
+Pretendido: R$ 5.000,00
+Resumo do currículo
+A primeira empresa onde eu trabalhei, foi designado como desenvolvedor de front-end que naquela época já tinha muito conhecimento em programação HTML, CSS e javascript nativo. Depois de muito tempo de atuando como desenvolvedor de front-end, me deram uma oportunidade de atuar também como desenvolvedor de back-end. Onde eu comecei dominar e familiarizar com linguagem de programação PHP e framework code inigniter que possibilita a montagem do projeto na estrutura MVC. Me envolvi muita na criação das regras de negócios para realizar validação das transação de dados, evitando assim os dados inconsistente, sobrecarga em banco de dados até mesmo sql injection. Já trabalhei também na criação da aplicação desktop com utilização da linguagem Java para realizar envio dados serial, permitindo comunicar com impressora térmica, balança do supermercado, leitor de código de barra, etc. Realizei também inúmeros contribuições com criações de painéis administrativas, onde poderão realizar planejamento mais precisa sem tomar as medidas precipitadas.
+Escolaridade
+Unicesumar
+Computação/Informática - Superior completo - Programador Java
+01/2008 - 11/2011
+Cursos importantes
+Unicesumar
+Sistema de Informação, 4 - 11/2011
+Experiências profissionais
+Programador Junior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.200,00 ( 01/2012 - 01/2014)
+
+Análise de bug do sistema financeira da empresa. Correções dos bugs do sistema chamado automasystem. (Ref:.http://www.automasystem.com.br ) Construções dos relatórios para auxiliar na decisões de negócio da empresa Arqueglass Criação do catalogo virtual de roupas femininas para plataforma IOS. Construção do sistema administrativa para gerenciar as imagens do making off para cada estação e disponibilizar as atualização das imagens via webserver para catalogo virtual.
+Programador pleno
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 02/2014 - Até hoje)
+
+Criações das consultas para BI (Business Intelligence). Criações dos painéis gerenciais do sistema PCE de acordo com solicitação do cliente. Alterações dos regras de negócios do sistema PCE. Criação do sistema PDV (Ponto de Venda) com emissão da nota fiscal de consumidor. Criação do módulo do PDV para possibilitar funcionamento da impressora térmica realizando construção do leiaute do cupom de acordo com norma do governo e impressão do cupom fiscal. Criação do sistema PDVADM (Ponto de venda administrativa), onde poderá realizar os fechamentos das caixa, verificar os status as notas se não estão em contingencias ou rejeitados, realizar configurações dos parâmetros, realizar cadastro de produto, etc.
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Java Python Ferramenta Maker Postgresql Mysql Oracle C Html Css Javascript

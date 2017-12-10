@@ -1,0 +1,97 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+33 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Analista de banco de dados
+Salário
+Mínimo aceitavel: R$ 4.000,00
+Pretendido: R$ 5.000,00
+Resumo do currículo
+Administrador de banco de dados ORACLE e MS-SQL, sendo responsável pela gestão do ambiente e infraestrutura de bancos de dados de diversos clientes. Atuo em uma ampla variedade de ambientes com diversas versões de sistemas operacionais e de bancos de dados. 
+
+Profissional certificado Oracle na versão 11g;
+
+- Destaco algumas de minhas atribuições:
+
+Administração de banco de dados Oracle e MS-SQL, em ambientes de alta disponibilidade e de grande criticidade ao negócio do cliente. Instalação de bancos de dados em sistemas operacionais como Linux Red Hat, AIX, Solaris e Windows;
+
+Administração de VLDB (Very Large Database) implementando rotinas de monitoração, backup e restore; 
+
+Realização de refresh (cópias) de banco de dados por técnicas de servidor (RMAN) e de sistema operacional;
+
+Experiência em instalação de bancos de dados Oracle e MS-SQL, backup, restore e recover;
+
+Experiência em ambientes com ITIL, em especial nas disciplinas incidentes, problemas, configuração e mudanças;
+
+Planejar, executar e auditar mudanças de Infra-estrutura;
+
+Gestão de Patch e Update;
+
+Refresh de bases de dados;
+
+Implantação de Base de dados;
+
+Analise de problemas, causa raiz e solução definitiva;
+
+Gestão de segurança;
+
+- Tecnologias:
+
+Banco de dados Oracle 10g, 11g e 12c; Banco de dados MS-SQL 2000 ao 2016; Plataformas, Linux, AIX, Solaris e Windows; Ambientes Virtuais e Físicos; Alta Disponibilidade - Oracle RAC, DataGuard / SQL Server Mirror, AlwaysOn e LogShipping; Disaster Recovery;
+Escolaridade
+FGV - Fundação Getúlio Vargas
+Computação/Informática - Pós-graduação completa - Mba - Gestão Estratégica da Tecnologia da Informaç
+09/2014 - 02/2016
+Uniban - Universidade Bandeirante de São Paulo
+Computação/Informática - Superior completo - Análise de Sistemas
+02/2004 - 12/2008
+Cursos importantes
+Ka Solution
+Oracle Database 11g: Workshop de Administração Ii Release 2, 40 Horas - 06/2017
+Ka Solution
+Writing Queries Using Ms Sql Server 2008 Transact-sql, 80 Hrs - 11/2011
+Ka Solution
+Maintaining a Microsoft Sql Server 2008 Database, 80 Hrs - 11/2011
+Ka Solution
+Implementing a Microsoft Sql Server 2008 Database, 80 Hrs - 12/2011
+Ka Solution
+Implementing And Maintaining Microsoft Sql Server2008 Analysis Services, 80 Hrs - 02/2013
+Ka Solution
+Implementing And Maintaining Microsoft Sql Server 2008 Integration Services, 80 Hrs - 02/2013
+Ka Solution
+Implementing And Maintaining Microsoft Sql Server 2008 Reporting Services, 80 Hrs - 03/2013
+Impacta Tecnologia
+Sql Server 2005 – Programação e Administração - Impacta Tecnologia, 160 Hrs - 05/2008
+4 Linux
+Php Programmer - 4 Linux, 80 Hrs - 09/2010
+Impacta Tecnologia
+Lógica de Programação / Java Programmer, 80 Hrs - 08/2008
+Experiências profissionais
+DBA ORACLE - SQL SERVER
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.500,00 ( 11/2016 - Até hoje)
+
+Instalação de bancos de dados ORACLE em ASM ou em filesystem; Administração de VLDB (Very Large Database) implementando rotinas de monitoração, backup e restore; Realização de refresh (cópias) de bancos de dados por técnicas de servidor (RMAN) e de sistema operacional; Geração de relatórios de acompanhamento e melhorias dos bancos de dados utilizando AWR e Statspack; Administração de bancos de dados Oracle em RAC, Dataguard em Filesystems e ASM em sistemas operacionais AIX, Linux Red Hat e Windows Server 2008 ao 2016; Administração de bancos de dados MS-SQL em Mirror Server, AlwaysOn e Log Shipping em sistemas operacionais Windows Server 2000 ao 2016; Experiência em migrações de bancos de dados entre servidores;
+Data Base Administrator
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.800,00 ( 06/2013 - 11/2016)
+
+Atuação na coordenação de projetos de implantação e integração de sistemas levantando requisitos e necessidades; (sistemas laboratoriais) Desenvolvimento de relatórios gerencias / indicadores financeiros e de produtividade; Administração e suporte em banco de dados Microsoft SQL Server 2000/2005/2008; Otimização de consultas t-sql / Tunning de Querys; Desenvolvimento de consultas t-sql; (relatórios gerenciais) Planejamento de Backup/Restore / Disaster Recovery; Elaboração de estruturas de contingência; Implantação e migração de servidores MS-SQL; Upgrade de versões MS-SQL; Migração de servidores (hardware e versões do SQL Server); Replicação transacional e merge nas versões 2000, 2005 e 2008 do SQL Server; Implantação e Manutenção de Replicação;
+Analista de Infraestrutura
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 07/2011 - 03/2013)
+
+Atuação na prestação de suporte técnico à infraestrutura de servidores nas plataformas Windows e Linux com o objetivo de migração de CPD. Administração e migração de bases de dados na plataforma Microsoft (SQL Server 2000, 2005 e 2008). Instalação de cluster de servidores SQL Server. Monitoração de servidores pelas plataformas Opmon, Nagios e Cacti.
+Analista de Infraestrutura / Data Base Marketing
+Somente para Assinantes, Educação/ Treinamento/ Idiomas
+Salário final: R$ 2.800,00 ( 05/2006 - 05/2011)
+
+Atuação na prestação de suporte técnico local e remoto, sendo responsável pelo desenvolvimento de projetos de cabeamento estruturado, redes wireless, projetos para infraestrutura de web sites e banco de dados SQL Server e MySql . Experiência na elaboração de documentos para a Política Interna de Segurança de Informação, bem como da documentação necessária para análise de infraestrutura, servidores e softwares. Responsável pelo desenvolvimento e administração de servidores de banco de dados, como Mysql, Sqlserver 2000, 2005 e 2008, assim como pelos servidores de DNS, FTP, arquivos, impressão,controle de versões (Subversion) e LDAP. Experiência na segmentação de bases para envio diário de newsletters (DBM). Realização de auditorias internas de segurança da informação. (Web Sites) Administração da infraestrutura (servidores) de sites do Banco Santander Brasil como Santander Universidades e Santander Empreendedor.
+Idiomas
+Espanhol - Técnico  Inglês - Intermediário
+Habilidades e qualificações
+Levantamento de Requisitos Duplicate Database Oracle Rac Solaris Linux Red Hat Aix Planejamento Gestão de Projetos Sql Server Oracle Powerpoint Internet Word Excel Trabalho em Equipe Comunicação Suporte À Usuários Access

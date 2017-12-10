@@ -1,0 +1,54 @@
+PROGRAMADOR
+Dados Pessoais
+34 anos, Masculino
+
+Objetivos Profissionais
+Cargo
+Programador
+Analista programador
+Salário
+Mínimo aceitavel: R$ 5.000,00
+Pretendido: R$ 7.000,00
+Resumo do currículo
+Adquiri experiência ao longo de mais de dez anos, no qual exerci várias atividades no ramo da tecnologia da informação, prestando serviços a terceiros. Iniciei minhas atividades de forma autodidata, tendo evoluído para a formação acadêmica em análise e desenvolvimento de sistemas além de cursos nas áreas técnicas de eletrônica e servidores. Realizei várias consultorias no ramo de desenvolvimento de software de automação comercial e mais recentemente realizei alguns projetos envolvendo eletrônica como terminais de consulta de preço e de monitoramento de data center. Tenho uma boa experiência em desenvolvimento de softwares onde já realizei trabalhos utilizando as seguintes linguagens de programação: Object Pascal (Delphi e Lazarus), C (Desenvolvimento para dispositivos embarcados), C# (.Net com MVC), PHP (Zend Framework), Javascript (ReactJs, Ecma Script 6), Java ( Desenvolvimento Android). Tenho conhecimento em bancos de dados onde já trabalhei desde bancos de dados flats (Paradox, Dbf, Xml ) a banco de dados relacionais ( mysql, firebird, sql server, postgresql , access). Tenho conhecimentos em sistemas operacionais linux baseados em Debian e Windows. Enquanto trabalhava como autônomo cheguei a realizar serviços de manutenção em hardware. Mais recentemente realizei serviço como gestor de TI em uma empresa do ramo varejista/atacadista de super mercados.
+Escolaridade
+FIC
+Computação/Informática - Superior completo - Analise e Desenvolvimento de Sistemas
+06/2009 - 12/2011
+Cursos importantes
+CEPEP
+Eletrônica Avançada, 96 Horas - 01/2015
+CEPEP
+Eletrônica Básica, 96 Horas - 06/2014
+F13 Tecnologia
+Servidores Linux Na Prática, 60 Horas - 01/2014
+Experiências profissionais
+Gerente de TI
+Somente para Assinantes, Supermercado/ Hipermercado
+Salário final: R$ 6.000,00 ( 01/2012 - Até hoje)
+
+Organizar estrutura de computadores, e rede na organização. Implantação e manutenção de servidor de banco de dados (Sql Server), rede (Ubuntu-Server, Iptables, Proxy, Apache... ). Manutenção e estruturação da rede de computadores, com interligação entre as filiais, por rede sem fio. Implantação de HelpDesk, para organizar as demandas de manutenção e suporte interno e acompanhamento, e encaminhamento de demandas para fornecedores externos. Implantação e desenvolvimento de alguns softwares de controles internos ( Conferência cega, Terminais de consulta, Emissores de etiquetas, Inventário e BI ). Trabalhava com as seguintes tecnologias: Desenvolvimento nas linguagens Object Pascal (Delphi e Lazarus), PHP, .Net com C# (MVC), Javascript. Configuração e manutenção em servidores Linux (Ubuntu/Debian) e Windows Server . Manutenção de equipamentos de informática em geral.
+Professor de informática
+Somente para Assinantes, Educação/ Treinamento/ Idiomas
+Salário final: R$ 1,00 ( 11/2012 - 02/2013)
+
+Realizei um trabalho voluntário como professor de lógica de programação.
+Analista programador (Delphi)
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.000,00 ( 06/2010 - 07/2011)
+
+Participei da equipe de desenvolvimento responsável pela manutenções do software desenvolvido e comercializado pela empresa. Trabalhava com desenvolvimento na linguagem de programação Object Pascal ( Delphi ) e bancos de dados relacionais ( Firebird e Sql Server).
+Analista programador (Delphi)
+Somente para Assinantes, Gráfica/ Editoras
+Salário final: R$ 2.000,00 ( 06/2009 - 05/2010)
+
+Realizava manutenção e desenvolvimento dos sistemas de produção e impressão de carteiras estudantis/cartões personalizados pela empresa, utilizando as linguagens de programação Object Pascal (Delphi), PHP e bancos de dados relacionais (Firebird e Sql Server).
+Desenvolvimento, locação e suporte
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 2.000,00 ( 01/2004 - 06/2009)
+
+Autônomo – Programação em Delphi com Banco de Dados SQL Server e Manutenção de Hardware: Nome do Programa Comercial (autoria e locação) – Finalidade: Controle de Estoque, Emissão de Cupom Fiscal, Controle de Contas a Pagar, Controle de Contas a Receber, Controle Patrimonial, Controle de Cartões, Controle de Cheques, Fluxo de Caixa etc...
+Idiomas
+Inglês - Básico
+Habilidades e qualificações
+Programador Delphi Programador Php Analista de Sistemas Sql Server Firebird Postgresql Programador Javascript Reactjs Zend Framework 2 Desenvolvimento de Dispositivos Embarcados Sistema Operacionais Linux Windows Programador C para Dispositivos Embarcados Arduino Php Html Javascript Micro Controladores

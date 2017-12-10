@@ -1,0 +1,30 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+58 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Salário
+Mínimo aceitavel: R$ 8.000,00
+Pretendido: R$ 12.000,00
+Resumo do currículo
+Profissional com 30 anos de experiência no ambiente mainframe em empresa multinacional americana com clientes no Brasil e EUA. Principais clientes no Brasil: GM do Brasil, CETELEM, TELEFONICA, BRADESCO e CIELO e nos EUA: GMC, BSC-Blue Shield of California e BCBS-Blue Cross Blue Shield Massachusetts. Atuando desde 2003 como DBA de DB2 e de IMS na plataforma z/OS, participei de diversos projetos para a criação ou duplicação das bases de dados e na manutenção das bases já existentes. Entre as principais realizações como DBA, destacam-se: •	Suporte às equipes de desenvolvimento para elucidação de dúvidas e orientação para melhoria ou construção de SQL conforme as melhores práticas no acesso aos dados das tabelas. •	Implementação do modelo fisico das bases de dados segundo o modelo lógico sugerido ou na geração do modelo lógico a partir do model físico com o uso da ferramenta Erwin. •	Desenvolvimento para a criação de ferramentas para monitoração de transações/programas de maior custo afim de sugerir melhoria de performance dos planos/packages •	Desenvolvimento de ferramenta de Health Check para monitoração das áreas de storage, extents ou detectar a necessidade de reorganização de table spaces e/ou index spaces afim de planejar as janelas de manutenção das bases de dados. • Planejamento e execução para migração de dados entre bases de ambientes distintos (Teste, Desenvolvimento, Produção) • Desenvolvimento do plano para a Recuperação das bases de dados (disaster recovery).
+Escolaridade
+Universidade Presbiteriana Mackenzie
+Computação/Informática - Superior completo - Desenvolvimento e Análise de Sistemas
+06/1982 - 12/1985
+Cursos importantes
+EXIN
+Itil Foundation, 40 Horas - 07/2007
+Experiências profissionais
+DBA
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 14.700,00 ( 04/1987 - 06/2017)
+
+Com 14 anos de experiência atuando como DBA de DB2 e de IMS para z/OS nas atividades de: •	Criação de storage groups para bases de dados DB2 (tablespaces/indexspaces/storage groups/buffer pools) para DB2 e dos datasets OSAM/VSAM para bases de dados IMS. • Criação de tools com o uso de SQLs, CLIST, REXX ou linguagem de programação CA-Easytrieve para a monitoração das áreas de storage usadas pelo DB2 ou IMS. •	Análise de performance das transações/programas e otimização de SQLs através de queries pelo SPUFI ou por meio de ferramentas de monitoração CA-Insight e Detector. •	Otimização do acesso às tabelas através de análise de planos/packages com o uso de queries pelo SPUFI e/ou de ferramentas de análise (Plan Analyzer) •	Implementação e manutenção das regras de permissão (GRANT/REVOKE) aos dados das tabelas de acordo com as políticas de segurança •	Implementação e manutenção dos JCLs para Image Copy, Reorganização, RUNSTATS, LOAD/UNLOAD, CHECK DATA, DSN1COPY entre outros através de utilitários da IBM, CA e BMC • Desenvolvimento do plano de recuperação das bases de dados (Disaster Recovery) atuando nos testes para execução e validação do plano. •	Análise e preparação de JCLs para recuperação (RECOVER) das bases de dados IMS através dos relatórios do RECON e/ou do plano de recuperação (backup disponíveis) •	PSBGEN/DBDGEN/ACBGEN para bases de dados IMS
+Idiomas
+Espanhol - Básico  Inglês - Avançado
+Habilidades e qualificações
+Sgbd Db2 e Ims para Z/os; Jcl; Tso; Vsam; Cobol; e

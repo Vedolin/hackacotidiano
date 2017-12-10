@@ -1,0 +1,91 @@
+Laís Fernandes
+Consultor Business Intelligence
+Summary
+Consultor Business Intelligence, com 5 anos de experiência em OBIEE e certificação Oracle. Conhecimento em SQL e modelagem dimensional.
+Participação em mais de 10 projetos, atuando como funcional e técnico, na elaboração de documentos de
+análises, reuniões de levantamentos de requisitos, criação de análises, painéis, agentes, BSC e KPIs. Projetos em empresas de diversos setores: agropecuária, transportes terrestres, aviação, bebidas, marketing,
+eventos, certificação digital, entre outros.
+Experience
+Consultor Business Intelligence at MatMax Soluções Inteligentes
+September 2016 - Present
+Analista Funcional Business Intelligence (BI) at ST IT Consulting
+May 2016 - September 2016 (5 months)
+Consultor Business Intelligence at CIS Corporate
+October 2013 - May 2016 (2 years 8 months)
+Reed Alcântara
+Análise funcional, criação de repositório de dados para alimentação do OBIEE;
+Criação de análises e dashboards para área de Marketing de Eventos, inscrição e participação nos eventos,
+utilizando a ferramenta Oracle Business Intelligence Enterprise Edition 11g (versão 11.1.1.9). Documentação final e manual para utilização de key-users.
+Ministração de treinamento de Key-users para utilização da ferramenta e treinamento técnico para
+manutenção de análises.
+Grupo NSÓ
+Criação do repositório de dados para utilização da ferramenta de front-end.
+Criação de KPIs Financeiros, de clientes, de processos internos e aprendizagem e crescimento. Criação de
+painéis com análises dos indicadores de desempenho da empresa, comparativo com suas metas anuais e
+mensais.
+Elaboração e criação do Balanced Scorecard, Mapa Estratégico, Árvore Estratégica e Diagramas de Causa e
+Efeito.
+Documentação de todo o processo de criação e segurança. Aplicação de segurança personalizada.
+Aplicação de treinamento para usuários finais e ad-hoc.
+  Page 1
+Utilizando a ferramenta Oracle Business Intelligence Enterprise Edition 11g (versão 11.1.1.9).
+Sodexo (Porto Alegre)
+Participação no GoLive do projeto, criação de documentos de entrega, finalização de ajustes nas análises e
+painéis, treinamento de usuários finais.
+Sodexo (São Paulo)
+Criação de uma análise específica em Oracle Business Intelligence Enterprise Edition (OBIEE 11g)
+utilizando conexão com Essbase;
+Adecoagro
+Criação de repositório de dados, análises e dashboars, utilizando OBIEE 11g e Essbase como fonte de dados.
+Pernod Ricard
+Criação de análises e dashboards, manutenção de repositório de dados, criação de mapas utilizando OBIEE
+11g.
+SBT
+Análise técnica e funcional de negócio. Elaboração de documentos de requisitos, indicadores, métricas e
+dimensões.
+Construção de repositório de dados, KPIs, análises e dashboards.
+Consultor OBIEE at Ninecon Consultores Associados Ltda
+January 2012 - September 2013 (1 year 9 months)
+Consultoria Oracle em empresa parceira, realizando projetos de Business Intelligence, desde análise,
+concepção de indicadores, integração de dados usando ODI, criação de análises e dashboards utilizando OBIEE.
+NETPARK
+Análise de negócio, levantamento de requisitos, desenvolvimento de aplicações de BI – Oracle Business
+Intelligence Enterprise Edition (OBIEE).
+OXITENO
+Especificação técnica e funcional, desenvolvimento de aplicações de BI – Oracle Business Intelligence
+Enterprise Edition (OBIEE).
+COOXUPÉ
+Análise de negócios, especificação técnica e funcional, desenvolvimento de ETL para carga de dados –
+Oracle Data Integrator (ODI).
+Page 2
+WTORRE SA
+Especificação funcional e desenvolvimento de aplicações de BI – Oracle Business Intelligence Enterprise
+Edition (OBIEE).
+GOL
+Análise e documento de requisitos.
+Agente de Atendimento
+November 2009 - December 2011 (2 years 2 months)
+Execução de diversas tarefas bancárias, entre elas:
+- Compensação de cheques;
+- Abertura de contas correntes físicas, jurídicas, poupanças, contas salário; - Simulação e contratação de empréstimos, financiamentos e crédito rural; - Serviços de caixa bancário.
+Encarregada de Setor - Terceirizada at Caixa Econômica Federal
+May 2008 - April 2009 (1 year)
+Execução de diversas tarefas bancárias por empresa terceirizada, entre elas: - Retaguarda bancária
+- Desconto de cheques
+- Depósitos bancários
+- Pagamento de contas
+Education
+Centro Universitário da Fundação Educacional Guaxupé
+Graduação, Ciência da Computação, 2008 - 2011
+Universidade Anhembi Morumbi
+Especialização, Gestão de Projetos e Portfólios (PPM), 2015 - 2016
+ETEC Francisco Garcia
+Técnico, Informática, 2006 - 2007
+Activities and Societies: instalação, manutenção, programação de computadores
+Honors and Awards
+Certificação Oracle Business Intelligence 11g
+  Page 3
+Laís Fernandes
+Consultor Business Intelligence
+Contact Laís on LinkedIn
+          Page 4

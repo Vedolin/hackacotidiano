@@ -1,0 +1,105 @@
+
+ANALISTA DE SISTEMAS
+Dados Pessoais
+52 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de sistemas
+Analista de desenvolvimento sistemas
+Programador
+Salário
+Mínimo aceitavel: R$ 4.000,00
+Pretendido: R$ 5.000,00
+Resumo do currículo
+Apresentação:
+
+Analista de Sistemas. Graduado em Tecnólogo em Processamento de Dados pelo Centro Universitário da Cidade. Grande experiência em análise e desenvolvimento de sistemas nas plataformas Mainframe, Client/Server e WEB (.NET). Conhecimentos avançados na área de seguros em geral e capitalização. Disponibilidade para viagens. 
+
+Resumo de Qualificações
+
+Carreira desenvolvida na área de Tecnologia da Informação, com ampla experiência em levantamento de requisitos, desenvolvimento de projetos, homologação, implantação e manutenção de sistemas. Experiência na coordenação de equipes de desenvolvimento e implementação de melhorias desenvolvendo trajetória em empresas conceituadas de grande porte.
+
+Experiência na metodologia ágil SCRUM, envolvendo o controle de demandas, definição do cronograma, análise da viabilidade, negociação de prazos e escopo, assegurando o cumprimento dos prazos, custos e qualidade requerida pela organização. 
+
+Forte atuação na construção de parcerias internas e na interface entre a área de Negócios e TI, otimizando a comunicação, atendimento às necessidades e garantindo a satisfação nos projetos realizados. 
+
+Desenvolvimento de equipes, atuando em rotinas de contratação e treinamento junto à gerência e a área de RH, formando profissionais de alta performance e alinhados aos objetivos da empresa.
+Escolaridade
+Centro Universitário da Cidade
+Computação/Informática - Superior completo - Tecnólogo em Processamento de Dados
+01/1997 - 12/1999
+Cursos importantes
+Fundação Getúlio Vargas
+Curso de Gestão e Liderança, 16 Horas - 09/2014
+Coti Informática
+Curso de Especialização em Web Developer C# (framework 4.0), 4 Meses - 06/2012
+Coti Informática
+Curso de Especialização em Uml, 2 Meses - 12/2012
+Cultura Inglesa
+Curso de Inglês, 2 Anos - 07/2003
+Experiências profissionais
+Analista Desenvolvedor Sênior C#
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.500,00 ( 11/2015 - 04/2016)
+
+-	Análise e desenvolvimento de sistemas -	Levantamento de requisitos / negócio -	Elaboração de documentação relativa à solução / desenvolvimento a ser realizado, Plano de Testes, Evidências de Testes. -	Reunião sistemática com no cliente (TV Globo) para levantamento de escopo, requisitos, e resoluções de problemas. -	Tecnologias utilizadas: Visual Studio 2012/2013, Windows Service, Windows Forms, C#, e MS Office 2013. -	Banco de Dados Oracle: 11G – PL-SQL – Script, Procedures, View’s e Triggers.
+Analista de Sistemas Sênior IV (Coordenador)
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.650,00 ( 05/2014 - 04/2015)
+
+-	Análise e desenvolvimento de sistemas (seguros). -	Coordenar equipe de analistas e programadores, fazer análise, distribuir e controlar projetos e suas tarefas nas diversas fases de desenvolvimento e manutenção, através de reuniões de acompanhamento com os membros da equipe. -	Elaboração de solicitação de manutenção / construção de programas (Especificação Técnica). -	Certificar-se do cumprimento de prazos para que os objetivos de cada demanda sejam alcançados, de acordo com as metas de qualidade determinados pela empresa e pelo cliente (BB Mapfre). Reunião com o cliente para resolução de problemas e buscas de soluções. -	Tecnologias utilizadas: Visual Basic 6.0 e .Net (VB Net e C#) 2005, 2008, 2010, 2012 e 2013, Windows Forms e Web Forms, CSS, JavaScript, Crystal Reports 8.0, Report Viewer, MS Enterprise Library, MS Project 2010, Control M, Web Services e MS Office 2013. - Banco de Dados SQL Server 2005/2008/2012 – Script, procedures, view e triggers (T-SQL).
+Analista de Sistemas Sênior (Project Owner)
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.500,00 ( 06/2012 - 04/2014)
+
+-	Através de demandas enviadas pela área de TI do cliente (ICATÚ Seguros), fazer levantamento de requisitos, analisar a melhor solução, e preparar a proposta Técnica/Funcional. Utilização da metodologia SCRUM. -	Sistema de Capitalização (Syscap, Aderente e Telemarketing). Atualização no sistema de Telemarketing nos módulos de Call Center (Atendimento Manual e Automático). -	Descrever para os programadores as atividades a serem feitas (Especificação Técnica), elaborar os planos de testes unitários e de sistema, testar a solução implementada, e entregar para área de TI do cliente o pacote com as implementações prontas. -	Tecnologias utilizadas: UML, MS Visual Basic 6.0, Crystal Reports 9, Report Viewer, .NET 2010 (C# e VB .NET), Windows Forms e Web Forms, MVC 4, Razor, CSS, Javascript, Ajax, JQuery, Entity Framework, Web Services, e Sharepoint 2010 (básico) -	Banco de Dados: ORACLE 9.0 e SQL Server 2005/2008/2012 – Script, procedures, view e triggers (T-SQL).
+Analista de Sistemas Sênior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.000,00 ( 02/2005 - 06/2012)
+
+-	Análise, Desenvolvimento, manutenção, homologação, e implantação de sistemas de Sinistros RE (Bradesco Seguros). Elaboração de solicitação de manutenção / construção de programas (Especificação Técnica). Modelagem de Dados. -	Construção e manutenção de Stored Procedures (Transact SQL) e DTS (Data Transformation Service), elaboração de Plano de Testes para a área de programação. Documentação de projetos. Análise Lógica e Física. - Tecnologias utilizadas: MS Visual Basic 6.0, Crystal Reports 7.0, Microsoft Project, Erwin 3.5, Schemer, MS Visio 2000. -	Banco de Dados SQL Server 2000/2008 – Script, procedures, view e triggers (T-SQL).
+Analista Programador Sênior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 10/2003 - 02/2005)
+
+-	Análise, Desenvolvimento, homologação, e manutenção de sistemas em geral (Projeto Telefônica - Mainframe; Projeto interno da IBM - Visual Basic; Projeto Massificados da Sul América Seguros - Mainframe e Visual Basic). -	Levantamento de informações e busca de soluções junto ao cliente. -	Tecnologias utilizadas: IBM COBOL VS II, CICS, ROSCOE, TSO, EASY TRIEVE PLUS, DB2, SQL, JCL, MS Windows 98/2000/XP, MS Visual Basic 6.0, MS Access 97, Crystal Reports 6.0, Microsoft Project, Flow Chart 7, Oracle, MS Visio 2000.
+Analista de Sistemas Pleno
+Somente para Assinantes, Financeiras
+Salário final: R$ 2.500,00 ( 10/2002 - 09/2003)
+
+-	Análise, Desenvolvimento, homologação, e manutenção em sistemas de Cobrança ao Lojista e Sistema de Inteligência de Crédito. -	Levantamento de informações e busca de soluções junto ao cliente, desenvolvimento e implementação de sistemas. Programação estruturada. ? Tecnologias utilizadas: IBM COBOL VS II, CICS, ROSCOE, EASY TRIEVE PLUS, DB2, SQL, JCL, IMS DB/DC, MQ Series, MS Windows 98/2000, MS Visual Basic 6.0, MS Access 97, Crystal Reports 6.0, Microsoft Project, Flow Chart 7.
+Analista de Sistemas Júnior
+Somente para Assinantes, Seguros/ Previdência Privada
+Salário final: R$ 2.000,00 ( 01/2000 - 09/2002)
+
+- Analisar e desenvolver e dar manutenção em sistemas (Sistema de Emissão de Apólice do ramo Automóveis). - Levantamento de informações e busca de soluções junto ao cliente, desenvolvimento e implementação de sistemas. - Elaboração de solicitação de manutenção / construção de programas (Especificação Técnica). - Tecnologias utilizadas: IBM COBOL VS II, CICS, EASY TRIEVE PLUS, DB2, SQL, JCL, ROSCOE, ENDEVOR, Micro Focus COBOL, MS Windows 98/NT, Visual Basic 6.0, Oracle, Crystal Reports 6.0, Microsoft Project, Microsoft Visio.
+Programador Sênior
+Somente para Assinantes, Seguros/ Previdência Privada
+Salário final: R$ 1.700,00 ( 08/1998 - 12/2000)
+
+- Desenvolver e dar manutenção em sistemas em de seguros em seus diversos ramos. - Levantamento de informações e busca de soluções junto ao cliente, desenvolvimento e implementação de sistemas. - Elaboração de solicitação de manutenção / construção de programas (Especificação Técnica). - Tecnologias utilizadas: IBM COBOL VS II, CICS, EASY TRIEVE PLUS, DB2, SQL, JCL, ROSCOE, ENDEVOR, Micro Focus COBOL, MS Windows 98/NT, Visual Basic 6.0, Oracle, Crystal Reports 6.0, Microsoft Project, Microsoft Visio.
+Programador Pleno
+Somente para Assinantes, Seguros/ Previdência Privada
+Salário final: R$ 1.500,00 ( 09/1994 - 07/1998)
+
+- Desenvolver e dar manutenção em sistemas em de seguros em seus diversos ramos. - Levantamento de informações e busca de soluções junto ao cliente, desenvolvimento e implementação de sistemas. - Elaboração de solicitação de manutenção / construção de programas (Especificação Técnica). - Tecnologias utilizadas: IBM COBOL VS II, CICS, EASY TRIEVE PLUS, DB2, SQL, JCL, ROSCOE, ENDEVOR, Micro Focus COBOL, MS Windows 98/NT, Visual Basic 6.0, Oracle, Crystal Reports 6.0, Microsoft Project, Microsoft Visio.
+Programador Júnior
+Somente para Assinantes, Seguros/ Previdência Privada
+Salário final: R$ 1.200,00 ( 06/1993 - 08/1994)
+
+- Desenvolver e dar manutenção em sistemas em de seguros em seus diversos ramos. - Levantamento de informações e busca de soluções junto ao cliente, desenvolvimento e implementação de sistemas. - Elaboração de solicitação de manutenção / construção de programas (Especificação Técnica). - Tecnologias utilizadas: IBM COBOL VS II, CICS, EASY TRIEVE PLUS, DB2, SQL, JCL, ROSCOE, ENDEVOR, Micro Focus COBOL, MS Windows 98/NT, Visual Basic 6.0, Oracle, Crystal Reports 6.0, Microsoft Project, Microsoft Visio.
+Programador
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 980,00 ( 05/1992 - 11/1992)
+
+- Desenvolver e dar manutenção em sistemas de Folha de Pagamento, utilizando Micro Focus Cobol 4 e VSAM.
+Programador Trainee II
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 500,00 ( 08/1991 - 03/1992)
+
+- Desenvolver e dar manutenção em sistemas de Folha de Pagamento, utilizando IBM Cobol e VSAM.
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Windows Internet Redes Visual Studio .net Visual Basic .net C# Web Form Windows Form Mvc 5 Html 5 Css 3 Bootstrap Jquery Ajax Web Service Web Api/ Rest Sql Server / T-sql Oracle / Pl-sql Scrum Tdd / Ddd Orientação a Objetos Ms Team Foundation Server Git Hub Ms Entity Framework Json Word Powerpoint Excel Access Liderança Dinâmico Profissionalismo

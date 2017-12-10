@@ -1,0 +1,109 @@
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+44 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Gerente de projetos
+Analista de TI
+Salário
+Mínimo aceitavel: R$ 6.000,00
+Pretendido: R$ 8.000,00
+Resumo do currículo
+Prezados Srs., Apresento carreira desenvolvida na área de Suporte a Banco de Dados / TI, com experiência de 17 anos, atuando como DBA Oracle e implantação de projetos para banco de dados, migrações de versão, Conclui MBA em Gerenciamento de Projetos pela FGV, possuo graduação em Ciência da Computação e realizei diversos cursos de aprimoramento profissional na área de banco de Dados Oracle e Projetos. Tenho disponibilidade para viagens e vivênvia em ambientes críticos de fábrica 24x7 e atendimento remoto. Minha última experiência foi na área financeira na equipe de Infraestrutura no Banco Volkswagen Financial Services antes disso na Oracle do Brasil para projeto de transferência de atendimento para Romênia e na siderúrgica Usiminas , como Analista de Suporte a Banco de Dados onde gerenciei projetos de TI para Banco de Dados Oracle e SqlServer em Datacenter coorporativo . -Competência de negociação, promover mudanças, pesquisa de novas ferramentas ,cumprir metas e prazos. - Experiência no gerenciamento de projetos de banco de dados, envolvendo o desenvolvimento de escopo, recursos, riscos, prazos, custos e qualidade, otimização de processos e ganho de produtividade. Atualmente atuo em projeto de Tecnologia Educativa na empresa Smart Vorax que está encubada na Fundação Parque Técnologico de Santos.
+Escolaridade
+Fundação Getúlio Vargas
+Computação/Informática - Pós-graduação completa - Mba em Gerência de Projetos
+08/2008 - 03/2010
+Cursos importantes
+FIAP
+Ecossistema de Internet das Coisas: Tecnologias e Principais Desafios, 8 Horas - 02/2015
+En-Sof - Oracle University
+Oracle 12c - New Features For Administrators, 40 Horas - 08/2014
+Infoshot (Microsoft Partner)
+10777 – Implementing a Data Warehouse With Microsoft Sqlserver 2012, 40 Horas - 01/2013
+BfBiz (Microsoft Partner)
+6231b – Maintainig a Microsoft Sql Server 2008 R2 Database, 40 Horas - 10/2012
+Global English Coorporation
+Business English Course, 1 Ano - 10/2011
+En-Sof - Oracle University
+Oracle Database 10g: Performance Tuning, 24 Horas - 10/2010
+En-Sof - Oracle University
+Oracle Database 10g: Sql Tuning Workshop, 18 Horas - 10/2008
+En-Sof - Oracle University
+Oracle Database 10g: New Features For Administrators, 30 Horas - 11/2007
+HP
+H4322x – Posix Shell Programming, 32 Horas - 04/2007
+HP
+H3065x – Hp Ux System And Network – Administration Ii, 32 Horas - 04/2007
+HP
+H3064x – Hp Ux System And Network – Administration I, 40 Horas - 03/2007
+HP
+51434x – Fundamentals Of Unix System, 40 Horas - 03/2007
+En-Sof - Oracle University
+Oracle Database 11g: New Features For Administrators, 32 Horas - 07/2012
+En-sof - Oracle University
+Oracle 9i Database Performance Tuning, 30 Horas - 09/2005
+En-sof- Oracle University
+Oracle 9i Database Administration Ii, 30 Horas - 10/2004
+En-sof- Oracle University
+Oracle 9i Database Administration I, 30 Horas - 07/2004
+En-sof- Oracle University
+Oracle 9ias: Advanced Administration For J2ee And Web Cache, 12 Horas - 02/2004
+En-sof : Oracle University
+Oracle 9i Database : New Features For Administrators, 30 Horas - 05/2004
+En-sof : Oracle University
+Oracle 9ias: Basic Administration, 30 Horas - 11/2003
+Oracle Coorporation
+Managing Oracle On Windows, 18 Horas - 10/2003
+A & C Training
+Gerenciamento de Projetos, 24 Horas - 06/2001
+CA Education
+Ca Clarity Ppm V12 – Configuration & Integration, 40 Horas - 09/2010
+CA Education
+Ca Clarity Ppm V12 - Estudio Configuration 200, 40 Horas - 10/2010
+Ewave in Company
+Websphere Message Broker V7, 40 Horas - 08/2012
+Ewave in Company
+Adm. Websphere Application Server V7, 40 Horas - 08/2012
+Oracle Corporation
+Oracle 8i Enterprise: Dba Parte1b - Backup e Recovery, 24 Horas - 08/2000
+Oracle Corporation
+Oracle 8i Enterprise: Dba Parte 2 - Otimização de Performance, 30 Horas - 05/2000
+Oracle Corporation
+Oracle 8i Enterprise: Dba Parte1a - Administração e Arquitetura, 30 Horas - 04/2000
+Instituto de Matemática e Estatística – USP
+Difusão Programação Distribuída com Java - Curso de Férias, 30 Horas - 10/2005
+Instituto de Matemática e Estatística – USP
+Difusão Introdução a Linguagem Java - Curso de Férias, 30 Horas - 11/2005
+Experiências profissionais
+DBA
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 8.000,00 ( 05/2015 - 03/2017)
+
+Trabalho como DBA Oracle no cliente Banco Volkswagem Financial Services.
+Eng. System ACS em Platinum Service - Consultora P
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 11.000,00 ( 09/2014 - 12/2014)
+
+Eng. System ACS em Platinum Service para Exadata, Exalogic e Super Cluster . Equipe Oracle America Latina. Obs.: Execução de atividades para viabilizar transferência do atendimento Brasil para equipe da Romênia. Cadastro das informações dos clientes nos sistemas internos da Oracle Corporation e Instalação da ferramenta Platinum for Exadata, Exalogic via remota nos clientes oracle. Trabalho pontual como PJ.
+Consultoria em Banco de Dados
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 9.000,00 ( 07/2014 - 08/2014)
+
+Cobertura de férias de funcionário SondaProcwork em empresa Siderúrgica Usiminas. Trabalho pontual como DBA Oracle na área de Técnologia e Suporte em cliente de grande porte. Contrato temporário como PJ.
+Analista de Tecnologia e Suporte - DBA
+Somente para Assinantes, Industrial
+Salário final: R$ 9.000,00 ( 05/2009 - 02/2014)
+
+Função: DBA Oracle e Sql Server. *Profissional com ampla experiência em empresas nacionais de grande porte, com importante vivência na área de Técnologia e Suporte, envolvendo banco de dados Oracle em ambiente de produção 24x7; *Liderança dinâmica e participativa com versões 7, 8i, 9i, 10g e 11g da Oracle, Rotinas de Backup de Alta e Baixa Disponibilidade para Banco de Dados, Banco de Dados para Web e Dataware House; *Consolidação de ambientes oracle visando redução de custo com licenças e agilidade na administração; *Responsável pela criação e implementação de Auditoria, criação e implementação de Projetos de Gerenciamento de Recuperação de Desastres para Banco de Dados e SO; *Marcante atuação e contribuição na instalação, configuração e administração do Grid Control 11g, Oracle Streams. - configuração e utilização; *Especificação de recursos necessários para a geração de dados e documentos, prospecção e implantação de novos processos tecnológicos, incluindo máquinas, equipamentos e ferramentas. *Competência na formação, gerenciamento, coordenação e supervisão de equipes, apoiando treinamento e desenvolvimento de pessoas. **Respondia diretamente para Gerencia Geral de Tecnologia e Suporte Coorporativa.
+Analista de suporte técnico - DBA
+Somente para Assinantes, Industrial
+Salário final: R$ 6.500,00 ( 02/2000 - 04/2009)
+
+Função: DBA Oracle *Expertise em projeto, configuração, instalação e manutenção de Banco de Dados, assim como levantamento do Modelo de dados; *Larga vivência em Projeto Lógico e Projeto Físico, criação de Store Procedures, Functions, Triggers entre outros objetos; *Habilidades em Engenharia Reversa de Banco de Dados, Banco de Dados e Sistemas OLTP e OLAP, Banco de Dados em Cluster (RAC, Cluster Machines), Distribuídos e Replicados (Síncrona e Assincrona); *Experiência em Banco de Dados Parallel Server e Multi Thread Server, Oracle Aplication Server; *Experiência na utilização da ferramenta ARCserve IT - CA – jobs para backup e restore de bases oracle de produção e outros arquivos; *Consolidação de ambientes oracle visando redução de custo com licenças e agilidade na administração; *Responsável pela criação e implementação de Auditoria, criação e implementação de Projetos de Gerenciamento de Recuperação de Desastres para Banco de Dados e SO; * Apoio ao treinamento e desenvolvimento de pessoas. **Respondia diretamente para Gerencia de Tecnologia e Suporte de Cubatão.
+Idiomas
+Espanhol - Básico  Inglês - Intermediário
+Habilidades e qualificações
+Access Excel Powerpoint Internet Word Gerente de Projeto de Ti Dba Sql Server Dba Oracle

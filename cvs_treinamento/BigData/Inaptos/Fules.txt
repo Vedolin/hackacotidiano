@@ -1,0 +1,38 @@
+PROGRAMADOR
+Dados Pessoais
+20 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Analista de desenvolvimento sistemas
+Salário
+Mínimo aceitavel: R$ 350,00
+Resumo do currículo
+Brasileiro, solteiro, 20 anos.
+
+Ensino médio. Santa Catarina, conclusão em 2014. Ensino superior em Ciência da Computação. Feevale, cursando 5 semestre.
+
+CRInet Informática e Assessoria Cargo: Desenvolvedor Web. Principais atividades: Desenvolvimento de aplicações PHP, Desenvolvimento Front End e Back End, Análise e implementação de projetos. Responsável pela plataforma de gestão e liberação dos clientes. Reponsável pela criação e implementação Web Service REST (sincronização de produtos e pedidos). Desenvolvimento de aplicativos (monitoramente e gestão de clientes).
+
+QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS
+
+Inglês – Basico (Yazzigi, 1 ano, conclusão em 2013). Curso Técnico em TI(Braniewo, 3 anos, conclusão em 2014). Curso Complementar em Desenvolvimento Aplicações Hibridas(Ionic, 5 meses, conclusão em 2015). Curso PHP Senior Orientado a objetos (DevMedia, 3 meses, conclusão 2014). Curso PHP Laravel 5, MVC (Udemy, 2 meses, conclusão 2016). Seminário SGBD MySQL, PostgreSQL (Feevale, 72h, conclusão 2015).
+
+INFORMAÇÕES ADICIONAIS
+
+Licensa de desenvolvedor Apple IOS. Licensa de desenvolvedor Google Android.
+Escolaridade
+Feevale
+Engenharia da Computação - Pós-graduação cursando
+02/2014 - 06/2018
+Experiências profissionais
+Programador
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 450,00 ( 10/2015 - 10/2016)
+
+Desenvolvedor web (Front End e Back end)
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Back End Desenvolvedor Php Desenvolvedor Javascript Desenvolvedor Less

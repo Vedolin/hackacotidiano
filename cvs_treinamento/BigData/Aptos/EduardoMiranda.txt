@@ -1,0 +1,52 @@
+Eduardo Miranda
+Big Data Consultant and Architect | Instrutor Hadoop
+Resumo
+Tenho fortes habilidades de documentação e comunicação em inglês, com capacidade para manter contato efetivo e profissional com indivíduos em todos os níveis. Eu me considero ter uma excelente mente criativa, ser um profissional orientado a resultados, extremamente versátil e um aprendiz rápido. Eu sou uma pessoa comprometida e um trabalhador duro sempre motivado e entusiasmado com o aprendizado de novas tecnologias.
+Estou confortável em um ambiente ágil e orientado e tenho motivação para trabalhar de forma direta, estruturada e produtiva em uma equipe multidisciplinar. Forte conhecimento e experiência fundamentais com uma variedade de grandes componentes de dados como HDFS, MapReduce, HBase, Oozie, Pig, Hive, Zookeeper, Sqoop e Flume.
+Experiência
+Organizador de eventos na Big Data Week
+2015 - Presente
+Coordenador de projeto de dados grandes na Semantix
+Março de 2017 - presente
+Instrutor de Fundamentos de Grandes Dados com o curso Apache Hadoop em Never Stop Learning
+Maio de 2016 - presente
+Conteúdos de formação:
+Visão geral dos bancos de dados NoSQL, histórico de grandes dados, arquitetura e componentes Hadoop, aplicativos Hadoop,
+Distribuições Hadoop (Cloudera, Hortonworks e MapR).
+Fundamentos e arquitetura do sistema de arquivos distribuídos Hadoop (HDFS), manipulação de dados no HDFS.
+Revisão MapReduce1, visão geral MapReduce2 e fluxo de trabalho, MapReduce no cluster, Configurando o Eclipse para MapReduce, escrevendo o programa de contagem de palavras da amostra.
+Introdução ao Pig, Pig Latin, estruturas de dados apoiadas por Pig, acesso a dados, operadores relacionais de porco, funções de avaliação de porco, funções de matemática e string.
+Introdução aos casos de invasão de colmeia, Hive Metastore e Hive QW, acesso a tabelas externas, manipulação de dados e consultas.
+  Página 1
+Introdução ao HBase (banco de dados orientado a coluna distribuído no topo do HDFS), visão geral e casos de uso do HBase, conceitos fundamentais da HBase, como modelo de dados e arquitetura HBase, o uso da API do Cliente para executar operações de dados no HBase.
+Características dos processos de importação e exportação do Sqoop, Sqoop, importação de dados de RDBMS para HDFS, Hive e HBase, exportar dados de HDFS para RDBMS.
+Como criar aplicativos com Spark, compreensão de conjuntos de dados distribuídos resilientes (RDD) e DataFrames.
+Resumo dos projetos relacionados com Hadoop: Hue, Mahout, Oozie, Flume, Tez, Avro, Cassandra.
+Arquiteto de dados grandes em Datastorm
+Março 2015 - março 2017 (2 anos 1 mês)
+Datastorm é uma empresa de tecnologia especializada em soluções Big Data Analytics. No Datastorm eu tenho que
+fornecer ciência de dados e grandes serviços de consultoria de dados para clientes em uma ampla gama de serviços avançados baseados em análise. Revise as variações do projeto contra entregas e possíveis mudanças; implementar mudanças no nível do projeto conforme necessário; negocie as mudanças necessárias sem se comprometer com o impossível e envie um diálogo direto com o cliente para alcançar o acordo sobre os resultados do projeto.
+Professor da PUC Minas
+Setembro de 2016 - dezembro de 2016 (4 meses)
+Professor de cursos de pós-graduação em Ciência dos Dados e Dados Comunitários na Pontifícia Universidade Católica de Minas
+Gerais, atualmente ensinando: Data Science e Big Data aplicados aos negócios.
+Professor assistente da PUC Minas
+Fevereiro de 2015 - junho de 2015 (5 meses)
+Professor Assistente de Sistemas de Informação no Instituto de Ciências Exatas e Informática (ICEI) do
+Pontifícia Universidade Católica de Minas Gerais, Brasil (PUC Minas) ensino:
+Programação modular de laboratório de programação orientada a objetos
+Qualidade do software
+Coordenador de Projeto de TI da Inttelix Brasil Tecnologia e Sistemas Ltda
+Maio de 2014 - março de 2015 (11 meses)
+A Inttelix é uma organização que se concentra em sistemas de reconhecimento facial e tecnologias biométricas. Na Inttelix Brasil
+Gerenciei uma equipe de quatro pessoas que foi responsável pela execução técnica dos projetos brasileiros. Eu era responsável pelo contato pessoal com clientes para traduzir requisitos de alto nível em soluções simples, eficientes, escaláveis ​​e replicáveis ​​independentes da plataforma.
+Página 2
+Senior System Analyst na Inttelix Brasil Tecnologia e Sistemas Ltda
+Outubro 2013 - maio de 2014 (8 meses)
+Naquela época eu era responsável pela coleta de requisitos, projeto de banco de dados, desenvolvimento de aplicativos, suporte
+e para preparar relatórios técnicos. Nesta posição, trabalho em estreita colaboração com a equipe de desenvolvimento na Índia para identificar e resolver defeitos, melhorar e aprimorar a funcionalidade, confiabilidade, desempenho e escalabilidade do sistema.
+Programa de estágio de ensino na Universidade Estadual de Campinas
+Fevereiro 2013 - julho 2013 (6 meses)
+O programa de estágio é um programa institucional que permite que os estudantes de pós-graduação melhorem
+suas habilidades didáticas para futuras atividades de ensino. Durante este curso, ajudei o professor no desenvolvimento de atividades e materiais didáticos. O objetivo principal do curso era proporcionar um ambiente atraente no qual os alunos pudessem aprender alguns conceitos fundamentais de sistemas distribuídos.
+Desenvolvedor de Software (Freelancer) no MasterLink Logistics

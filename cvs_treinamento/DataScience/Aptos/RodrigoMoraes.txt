@@ -1,0 +1,100 @@
+Rodrigo Moraes
+Data Scientist. Data Mining spacialist, Machine Learning and Educational data.
+Summary
+Olá! Sou um cientista de dados especializado em Mineração de Dados (Data Mining) e Aprendizado de Máquina (Machine Learning). Possuo grande experiência na extração de conhecimento de Dados Educacionais e Opiniões Textuais (Sentiment Analysis). Minha dedicação maior sempre foi na pesquisa e desenvolvimento de técnicas de modelagem de dados (Pré-processamento), possibilitando a extração das informações mais relevantes para o negócio/usuário final.
+Experience
+Professor de curso de Extenção at Universidade do Vale do Rio dos Sinos
+setembro de 2016 - Present
+Professor do curso de extenção de Big Data com ênfase em Data Mining (16h).
+Data Scientist at Associação Antônio Vieira - ASAV
+julho de 2016 - Present
+Análise de dados; Análise exploratória; BI;
+ETL;
+QlikView;
+Power BI;
+SQL;
+SQL Server Data Tools;
+Tutor at Unisinos
+fevereiro de 2016 - Present
+Banco de Dados I Programação I Laboratório I
+Data Scientist at GVDASA
+fevereiro de 2014 - julho de 2016 (2 anos 6 meses) Modelos preditivos;
+Classificação;
+Cluster;
+  Análise de dados;
+Page 1
+Análise exploratória; R;
+SQL;
+WEKA;
+Data Mining Consultant at GVDASA
+janeiro de 2012 - janeiro de 2014 (2 anos 1 mês) Desenvolvimento de novos produtos.
+Bolsista de Mestrado at Unisinos
+março de 2011 - fevereiro de 2013 (2 anos)
+Research areas: Inteligência Artificial, Data Mining, Text Mining, Sentiment Analysis, Opinion Mining.
+Gerente de projetos at Tech Morphing
+janeiro de 2011 - dezembro de 2011 (1 ano)
+Colaborador
+setembro de 2009 - junho de 2011 (1 ano 10 meses)
+Neste laboratório são desenvolvidos diversos projetos em paralelo, com o objetivo do estudo e
+desenvolvimento de técnicas de recomendação, otimização, previsão e mineração de dados.
+Principais projetos em que atuei:
+EJOR: desenvolvimento de solução computacional utilizando programação dinâmica para otimização de preço e qualidade de bens duráveis.
+Web Morphing Suruga Bank: análise do funcionamento do sistema de recomendação de layouts do site do Banco Suruga.
+Web Morphing Cnet.com: implementação de algortimo para a recomendação de adwares.
+Análise de reviews: desenvolvimento de uma solução computacional para coleta e análise de reviews de video games objetivando detectar necessidades e características dos jogos.
+Bolsista de IC at UNISINOS
+janeiro de 2010 - dezembro de 2010 (1 ano)
+Bolsa de iniciação científica na área de Inteligência Artificial. Projeto: Análise de Opiniões na Web.
+Education
+Universidade do Vale do Rio dos Sinos
+ Page 2
+Master Student, Computer Science, Artificial Intelligence, Data Mining, Sentiment Analysis, Opinion Mining, 2011 - 2013
+Universidade do Vale do Rio dos Sinos
+Graduated, Computer Science, Artificial Intelligence, Data Mining, Sentiment Analysis, Opinion Mining, 2007 - 2010
+Activities and Societies: Grupo de estudo Mosos-m (Marketing), WebMorphing
+ Page 3
+Rodrigo Moraes
+Data Scientist. Data Mining specilist, Machine Learning and Educational data.
+Contact Rodrigo on LinkedIn
+
+
+Data Mining
+
+Mineração de dados
+
+Data science
+Cleverson Ledur 
+Sentiment Analysis
+Artificial Intelligence
+Data Classification
+Data Analysis
+Matlab
+Weka
+Análise de dados
+C#
+Text Classification
+Classification
+LaTeX
+OOP
+Ciência dos dados
+Inteligência artificial
+Java
+R (linguagem de programação)
+Microsoft Excel
+SQL
+OOP (Conceitos de orientação a objetos)
+Educational Data Mining
+Programação de computadores
+Aprendizado de máquina
+Dados Educacionais
+Ciência de dados
+QlikView
+Modelagem de dados
+Modelagem matemática
+Processamento de linguagem natural
+Microsoft Power BI
+Power BI
+Microsoft SQL Server
+SSIS
+Data Warehouse
+Programming

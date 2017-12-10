@@ -1,0 +1,39 @@
+Carolina Zambelli Kamada
+Data Scientist em MarketData
+Resumo
+N / D
+Experiência
+Data Scientist em MarketData
+fevereiro de 2017 - Presente
+Cientista de Dados da Semantix Brasil
+setembro de 2016 - dezembro de 2016 (4 meses)
+Adicione valor aos dados e informações da empresa e gere insights através de modelos matemáticos, ferramentas BigData
+Aplicação e Aprendizado de Máquinas. Projetos em Saúde Médica e Agência Pública
+Data Scientist Intern at Semantix Brasil
+maio de 2016 - setembro de 2016 (5 meses)
+Colaborar em um projeto da Web de rastreamento
+O Projeto inclui o desenvolvimento de scripts Clojure para extrair informações de notícias (RSS) e indexá-las em Solr
+Estagiário de Segurança da Informação no TIM Brasil
+setembro de 2015 - maio de 2016 (9 meses)
+Rotinas Operacionais:
+-Denial Service Monitoring
+-ACS (autenticaation), BlueCoat (proxy), Antispam / Antivirus-Trend, SourceFire (IDS / IPS) - Equipe de Resposta ao Incidente
+Pesquisador acadêmico da Universidade Federal do ABC - UFABC
+agosto de 2013 - agosto de 2015 (2 anos 1 mês)
+Projeto pós criptografia quântica - Desenvolvimento de esquema criptográfico baseado no algoritmo GGh,
+resistente aos ataques quânticos. Projeto Vencedor em "VII Simpósio de Iniciação Científica do ABC"
+Educação
+Universidade Federal do ABC
+Engenharia da Informação, Sistemas Inteligentes, Teoria da Informação, 2014 - 2017
+Universidade Federal do ABC
+Bacharel em Matemática, Álgebra, Geometria, Teoria dos Gráficos, Criptografia, 2010 - 2014
+Cloudera
+   Analista de informações
+Página 1
+FIAP
+Big Data com Ecossistemas Hadoop e Spark
+Honras e prêmios
+Reticulados Hiperbólicos e Funções de Mão Única, Terceiro Lugar no Hackathon da WebMotors
+ Página 2
+Carolina Zambelli Kamada
+Data Scientist em MarketData

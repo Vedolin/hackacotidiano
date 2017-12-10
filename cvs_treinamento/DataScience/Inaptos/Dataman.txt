@@ -1,0 +1,57 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+35 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Analista de banco de dados
+Salário
+Mínimo aceitavel: R$ 5.000,00
+Pretendido: R$ 6.900,00
+Resumo do currículo
+Profissional certificado MCTS com 7 anos de experiência em gestão (DBA) de Bancos de dados MS-SQL Server, MySQL Oracle.
+
+Domínio nas Tecnologias: MS-SQL Server 2008 a 2014.
+Escolaridade
+IGTI - Instituto de gestão de tecnologia da inform
+Computação/Informática - Pós-graduação completa - Cientista de Dados (big Data)
+01/2016 - 06/2017
+CEFET - MG
+Computação/Informática - Pós-graduação completa - Análise de Banco de Dados
+02/2011 - 06/2013
+Faculdade Inforium Técnologia
+Computação/Informática - Superior completo - Administração de Banco de Dados
+02/2007 - 12/2010
+Experiências profissionais
+Administrador de banco de dados
+Somente para Assinantes, Telemarketing/ CallCenter
+Salário final: R$ 5.300,00 ( 08/2015 - Até hoje)
+
+-Administração de servidores em Cluster SQL Server -Optimização de desempenho de bases de dados. -Implantação de novos serviços de gerenciamento e monitoramento de servidores. -Implantação de replicação de dados e plano de disaster recovery. -Levantamento de requisitos de hardware e software para upgrade de servidores. -Gerenciamento de Paths de segurança. -Criação e implantação de software de monitoramento com base no PowerShell e Report Service para gerenciamento de servidores pro ativamente e manter histórico de consumo de (CPU), memória, disco, status do servidor, validação de rotinas de backup e reindex sem custo adicional para à empresa. -Criação de espelhamento de banco de dados e logshipping para contingência de bases de alta criticidade em servidores dentro de rede WAN. -Automatização de serviços de banco de dados através de Integration Servise. -Análise de dados e relatórios em Power BI e Report Service.
+Administrador de banco de dados
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 4.200,00 ( 02/2014 - 08/2015)
+
+-Responsável pela administração de bancos de dados dos hospitais e UPAS do Estado do Rio de Janeiro alocado na SES - Secretaria de Saúde - RJ. -Avaliação e optimização de scripts T-SQL. -Criação de triggers, views, procedures, consultas (querys). -Desenvolvimento de projetos de modelagem DER. -Restauração, migração e integração de dados. -Importação e extração de dados. -Implantação de ambiente de testes. -Migração de bases de dados para nuvem da Microsoft (Azure). -Atualização de schemas e dados para garantia de execução em ambiente de nuvem. Projetos desenvolvidos: • Avaliação e migração de bases de dados para nuvem da Microsoft (Azure). • Atualização de schemas e dados para garantia de execução em ambiente de nuvem. Principais realizações: • Criação de planos de backup, possibilitando recuperação de dados em 2 minutos e aumentando a segurança. • Criação de planos de disponibilidade com melhora de 90% de desempenho da aplicação de gestão de consultas e relatórios. • Desenvolvimento de replicação de dados (logshipping) que permitiu o sistema fazer relatórios de BI sem afetar o ambiente de produção. • Desenvolvimento de sistema de monitoramento de discos e desempenho em tempo real para mais de 40 servidores de banco de dados simultâneos ajudando a evitar ou identificar problemas pró ativamente. • Implementação de padrões de nomenclaturas para Instâncias, bancos de dados, logins/usuários. • Gestão de solicitações de serviços à equipe de DBAs.
+Analista de banco de dados
+Somente para Assinantes, Industrial
+Salário final: R$ 2.600,00 ( 09/2012 - 08/2013)
+
+Participação de especificações de levantamento de requisitos de sistemas. Modelagem de dados (DER). Normalização de dados. Avaliação de procedures, triggers, funções e implementação de Jobs de banco de dados. Importação/exportação de banco de dos Oracle e Microsoft SQL-server. Analise de desempenho, processos, coleta de estatísticas e tunning. /Implantação de instrutura de dados Oracle em conformidade com a estrutura OUI (Oracle Universal Instaler). Gerenciamento de segurança de servidores de banco de dados Oracle 10g e SQL Server. Reestruturação de planos de backup. Instalação de servidores de banco de dados Oracle e Microsoft SQL server. Principais realizações: • Criação de catálogo de backup (RMAN) possibilitando backups Hot fazendo com que o tempo gasto para o backup seja menor que 1 minuto e a o ganho na velocidade de restauração de um banco dados seja em até 70%, além da preservação da segurança da informação. • Controle e monitoramento de performance do banco de dados Oracle, diminuindo o tempo gasto para verificação de desempenho do servidor em 80%. Relatórios com (statspack). • Integração de software de CRM Microsoft ao Oracle database. • Upgrade de banco de dados SQL-Server 2005 para 2008 R2. Projetos desenvolvidos: Criação de modelo de dados para novo software de gestão de no-breaks de grande porte. Gestão da segurança da informação do projeto. Criação de padrões de nomenclatura de dados para equipe de projeto. Palestra de segurança de informação
+Analista
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 2.400,00 ( 04/2012 - 08/2012)
+
+Gerenciamento de servidores de controle de acesso de usuários, arquivos, banco de dados e aplicação sendo responsável pelo controle de acesso aos arquivos e aos sistemas internos. Levantamento de estatísticas para elaboração de relatórios de análise de informações para melhor tomada de decisão de aquisição e implementação de novos softwares e hardwares para a organização. Elaboração e implementação de projetos de integração de dados de diversos seguimentos (SQL Server, DBF, Excel, MySQL, Oracle e Access). Desenvolvimento de procedures, triggers e functions em linguagem T-SQL. Atuei na coordenação de equipe suporte técnico de informática visando suporte a sistemas, aplicativos, redes da (FUNASA) Fundação Nacional De Saúde. Realização de backup, formatação de equipamentos, instalação de sistemas operacionais e de softwares e montagem de microcomputadores e redes. Acompanhamento de licitações; Responsável entre a comunicação das organizações FUNASA e Inova Tecnologia. Consultoria ALE Combustível como DBM (Database Marketing) atuando na implementação de projeto de integração de dados para execução de relatórios gerenciais e facilidade de acesso às informações de campanhas realizadas pelo departamento de marketing.
+Analista de desenvolvimento de produtos
+Somente para Assinantes, Comércio - Outros
+Salário final: R$ 2.000,00 ( 09/2011 - 01/2012)
+
+Experiência como DBA, responsável pela documentação de estrutura de banco de dados, (DER); Atuei na implementação de politicas de backup, tarefas agendadas, alertas, Jobs, carga e extração de dados e controle de acesso ao banco de dados, estrutura de índices; Planejamento de análise de desempenho, preservação de integridade de dados e escabilidade; Programação em T-SQL; Responsável pela análise de modelagem transacional e dimensional; Atuei como suporte a equipe de desenvolvimento e infraestrutura; Experiência de instâncias com disponibilidade de 24x7 (E-Commerce); Experiência em administração de sites de relatórios de dados (Report Services);
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Big Data Hadoop R Python Workbench Vision Integration Service Report Service Power Shell Linux Windows Mysql Oracle Sql Server
+

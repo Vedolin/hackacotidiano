@@ -1,0 +1,100 @@
+Arquiteto de Dados / Desenvolvedor Hadoop
+Arquiteto / Engenheiro de Dados - BigData / Hadoop - Hortonworks Certified
+
+São Paulo, SP
+Hortonworks Certified Developer and Instructor.
+Arquiteto de dados que trabalha com DW, BI e Big Data desde 1999.
+Eu comecei como programador pl / sql, modelador de dados, etl e bi developer.
+Os últimos 10 anos como Líder de Projeto e Arquiteto, trabalhando com Oracle, SqlServer e Hadoop (últimos 2 anos).
+Agora trabalhando com Hive, Pig, Spark (Python / Scala), alguns projetos de ciência de dados no cliente como mercado financeiro / banco, saúde, seguro
+Desde 2007 trabalhando como instrutor para modelagem de dados, ETL e Oracle Tools
+Experiência Profissional
+Arquiteto de Dados / Desenvolvedor Hadoop
+Cetax Consultoria - São Paulo, SP
+Dezembro de 2000 a Data Atual
+Como arquiteto meus papéis são:
+- Projete melhor solução para BI e Big Data Systems
+- Trabalhar com integração, ETL, Qualidade de Dados
+- Dados do Modelo (Modelo Dimensional ou Relacional)
+- Interagir com usuários empresariais e equipe técnica
+- Interagir com o Project Manager
+- Apresentar as soluções para C-Level
+- Usando ferramentas como Pig, Hive, Spark (Python / Scala)
+- Ferramentas ETL como Talend, PDI, PowerCenter, SSIS e ODI
+- Ferramentas de BI como Tibco Spotfire, Oracle BIEE, PowerBI
+Oracle Data Integrator (ODI)
+Cetax Consultoria - São Paulo, SP
+Outubro de 2005 a Dezembro de 2009
+Cetax Consulting São Paulo
+ 
+Na Cetax, trabalhando como consultor principal do OWB (Oracle Warehouse Builder), ajuda seus clientes a desenvolver e resolver problemas em seus ambientes DW.
+Ensinando OWB para clientes e outras empresas, que desejam aprender mais sobre esta ferramenta ETL
+Especialista em DW
+Cetax Consultoria - São Paulo, SP
+Novembro de 2006 a Abril de 2009
+São Paulo
+ 
+Trabalhando em um projeto usando uma Plataforma Global ETL baseada no Informatica PowerCenter. Meus principais papéis são:
+- Projete o novo banco de dados
+- Design do ETL Enviroment
+Especialista em DW
+Cetax Consultoria - São Paulo, SP
+Dezembro de 2005 a Novembro de 2006
+São Paulo
+Bancário
+Desenvolvedor Oracle DW
+Cetax Consultoria
+Dezembro de 2000 a Dezembro de 2005
+usando ferramentas Business Object, minhas principais funções são: entender os requisitos do usuário e transformar isso em funções no ODS. Temos funcionários da Business Objects responsáveis ​​pela implementação técnica.
+ 
+Desenvolvedor Oracle DW
+Dezembro de 2000 - dezembro de 2005
+Commit Consulting São Paulo
+Serviços de consultoria de gestão
+ 
+Atuando como analista de inteligência de negócios, tenho trabalhado com ferramentas Oracle (Oracle Discoverer, Oracle Warehouse Builder, Oracle Designer, PL / SQL).
+Trabalhei em Definição de Requisitos de Negócios, Modelagem de Dados, construção de ETL e Query. Os projetos foram feitos para diferentes tipos de Indústrias, como Instituição Financeira (Deutsche Bank e Banco Panamericano), Marketing (Phillips Components), Orçamento / Custo (Abril Publishing), RH (Odebrecht Construction), Contabilidade (Odebrecht Construction).
+Analista de sistemas
+Sistemas ADP - São Paulo, SP
+Março de 2000 a Novembro de 2000
+São Paulo
+Software de computador
+ 
+De volta ao ADP, trabalhando como consultor do sistema à procura de novas oportunidades e projetos para o ADP. A principal tarefa foi personalizar o sistema ERP, trabalhando com relatórios de compras, financeiros e gerenciais
+Analista de sistemas
+Sistemas ADP - São Paulo, SP
+Fevereiro de 1999 a Março de 2000
+São Paulo
+Restaurante / Serviços de alimentação
+ 
+Na Coca Cola - Sorocaba, trabalhou em processos de logística e relatórios gerenciais, sistema de construção que foi utilizado por toda a empresa.
+Analista de sistemas
+Sistemas ADP - São Paulo, SP
+Maio de 1996 a Fevereiro de 1999
+São Paulo
+Software de computador
+ 
+Iniciou como Estagiário, trabalhando em todas as fases de desenvolvimento de software, usando Borland Delphi, Pascal, Oracle DB e CA-Clipper. Trabalhava com vários tipos de indústrias, como serviços, fabricação, finanças e outros.
+Formação Acadêmica
+MBA - Tecnologia
+FGV São Paulo
+BA - Ciência da Computação
+FATEC - Faculdade
+Habilidades e Competências
+Hadoop (3 anos), Hive (2 anos), Pig (2 anos), ETL (Mais de 10 anos), modelagem dimensional (Mais de 10 anos), Business Intelligence (Mais de 10 anos), Data Warehousing (Mais de 10 anos), Power Center (Mais de 10 anos), Oracle SQL (Mais de 10 anos), Oracle Data Integrator (5 anos), Tibco SpotFire (3 anos), Spark (1 ano), Instrutor (Mais de 10 anos), Data Science (1 ano), Scala (Menos de 1 ano), Python (1 ano), Talend ETL, Hortonworks
+Links
+https://www.linkedin.com/in/mgarciacetax/
+Certificações / Licenças
+Desenvolvedor HDP - Hortonworks
+Janeiro de 2019
+Informações Adicionais
+HABILIDADES
+Expert Oracle (PL / SQL)
+Oracle Discoverer Expert
+ORACLE WAREHOUSE BUILDER Expert
+Especialista em Modelagem de Dados Dimensionais
+Intermediário do mercado financeiro
+Informatica PowerCenter Beginner
+ErWin Designer Intermediate
+Hadoop
+Oracle Data Integrator (ODI)

@@ -1,0 +1,76 @@
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+29 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Salário
+Mínimo aceitavel: R$ 3.500,00
+Pretendido: R$ 6.000,00
+Resumo do currículo
+Atuando como DBA por dois anos, tecnóloga em Análise e Desenvolvimento de Sistemas, especializada em Administração de Banco de Dados. Experiência em ambientes críticos de produção (sistema de controle de venda de produtos e serviços). Administração e manutenção de servidores e bancos de dados em ambientes de produção e homologação para sistemas utilizados pelo INEA (Instituto Estadual do Ambiente). Em constante estudo sobre plataformas para gerenciamento e manutenção de bancos de dados (OLTP, OLAP e NoSQL) e linguagens de programação (atualmente, linguagem R) através de cursos, palestras e simpósios; ferramentas para análise e integração de dados (SSAS e SSIS), com o objetivo de fornecer suporte tanto para a área de banco de dados quanto para a área de Business Intelligence e Estatística, auxiliando na leitura de dados e geração de relatórios.
+Escolaridade
+Universidade Estácio de Sá
+Computação/Informática - Pós-graduação cursando - Administração de Banco de Dados
+04/2014 - 04/2016
+UNIABEU - Abeu Centro Universitário
+Computação/Informática - Superior completo - Tecnologia em Análise e Desenvolvimento de Sistema
+09/2009 - 07/2012
+Cursos importantes
+Mastercap 2000
+Montagem e Manutenção de Hardware, 8 Meses - 10/2006
+Microrio
+Design Gráfico (corel Draw e Photoshop), 3 Meses - 06/2009
+Microrio
+Web Design (fireworks, Flash e Dreamweaver), 3 Meses - 06/2009
+Microrio
+Redes de Computadores, 3 Meses - 03/2009
+Udemy
+Tableau Server Essentials: Skills For Server Administrators, 1 Mês - 09/2017
+Livre
+R Markdown, 1 Mês - 10/2017
+Udemy
+R Basics – R Programming Language Introduction, 1 Mês - 09/2017
+Livre
+Programação em R, 1 Mês - 10/2017
+Udemy
+Microsoft Excel, 1 Mês - 09/2017
+Livre
+Machine Learning, 1 Mês - 10/2017
+Udemy
+Introdução Ao R com Rstudio, 1 Mês - 11/2017
+Udemy
+Formação Cientista de Dados, 3 Meses - 11/2017
+Livre
+Estatística e Probabilidade, 1 Mês - 10/2017
+Udemy
+Dominando Banco de Dados com Mysql, 1 Mês - 09/2017
+Udemy
+Business Intelligence Sql – Etl Integration Services 2016, 1 Mês - 11/2017
+Udemy
+Business Intelligence – Sql Server e Analysis Services 2016, 1 Mês - 11/2017
+Livre
+Análise Exploratória de Dados, 1 Mês - 10/2017
+Mastercap 2000
+Informática (pacote Office 2007 / 2010), 3 Meses - 06/2007
+Experiências profissionais
+DBA SQL Server Pleno
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.116,00 ( 06/2016 - Até hoje)
+
+Administração e manutenção de servidores SQL Server (versão 2005 e 2008) e seus bancos de dados (produção e homologação); manutenção de índices e estatísticas (criação de Jobs para reconstrução ou reorganização de índices, de acordo com a necessidade); backups (completo, diferencial e log) e rotina de limpeza de arquivos antigos; teste de integridade de backups (restaurações agendadas para teste dos arquivos de backup que estão sendo gerados); troubleshooting; administração de usuários e permissões de usuários; teste de versão do SQL Server para migração (instalação e configuração do servidor e restauração dos bancos de produção para serem testados em ambientes de homologação – versões 2012 e 2014); criação e manutenção de relatórios em Report Builder e validação de documentação (informações exigidas) para geração de relatórios a partir dos bancos já existentes; criação de bancos de dados para novos projetos (englobando toda a documentação necessária – modelagem, diagramas e scripts para criação e alteração de tabelas, views, procedures, índices, carga de dados).
+DBA SQL Server Junior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 2.100,00 ( 10/2014 - 06/2016)
+
+Manutenção de informações nas tabelas de bancos de dados de produção e homologação (validação da inclusão de informações em tabelas referentes à venda de produtos e serviços, de acordo com a emissão de notas em impressoras fiscais); criação e manutenção de objetos (tabelas, procedures, views, scripts de carga); backups (completo, diferencial e log) e restauração de bancos de dados para ambientes de homologação; troubleshooting em situações referentes às tabelas de venda.
+Assistente de Suporte de T.I.
+Somente para Assinantes, Comércio Atacadista
+Salário final: R$ 1.143,00 ( 04/2013 - 10/2014)
+
+Suporte à equipe interna (usuários do sistema desktop (ERP) da empresa) e externa (equipes de vendedores usuários do sistema aplicativo (Android) da empresa). Suporte à hardware (suporte a desktops, notebooks, netbooks, MacBooks, impressoras de pequeno e médio porte e suprimentos). Suporte à software (instalação e manutenção de programas e aplicativos nos dispositivos disponíveis para os usuários – desktops, notebooks, netbooks, MacBooks, tablets, smartphones e palmtops). Suporte à rede (configuração de máquinas, impressoras e outros equipamentos na rede cabeada e sem fio da empresa; passagem de cabos; instalação e configuração de equipamentos – roteadores, switches, antenas wifi) e comunicação e configuração de rádios coletores. Controle e distribuição de chips e celulares para a utilização das equipes (interna e externa); controle de planos telefônicos para os chips de celulares; controle de solicitação de serviço e manutenção para a rede da empresa.
+Idiomas
+Espanhol - Básico  Inglês - Avançado
+Habilidades e qualificações
+Modelagem de Bancos de Dados Sql Server Reporting Services Sql Server Analysis Services Sql Server Integration Services Python R Postgresql Mysql Sql Server T-sql Pacote Office 2010

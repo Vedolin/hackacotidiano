@@ -1,0 +1,64 @@
+
+CHEFE OU SUPERVISOR DE PESQUISA DE MERCADO
+Dados Pessoais
+30 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Chefe ou supervisor de pesquisa de mercado
+Coordenador de BI/ Inteligência de Mercado
+Salário
+Mínimo aceitavel: R$ 4.500,00
+Pretendido: R$ 5.500,00
+Resumo do currículo
+Bacharel em Marketing pela Universidade de São Paulo e bacharel no curso de Administração de Empresas pela Fundação Escola de Comércio Álvares Penteado (FECAP - 2011), Iniciei minha carreira em institutos de Pesquisa de Mercado, majoritariamente na área de pesquisa quantitativa, nos quais participava de todas as etapas do processo da pesquisa - visitas iniciais ou periódicas a clientes ou clientes potenciais, definição de cronogramas e escopo da pesquisa, elaboração de questionários, análise estatística de dados, elaboração de relatórios e/ou apresentações e divulgação de tais resultados aos clientes. A última empresa na qual trabalhei foi a Telefonica | Vivo (set/2015), na área de Pesquisa de Satisfação de clientes, na qual desenvolvia projetos de pesquisas de satisfação com clientes para diversos segmentos de produtos e serviços oferecidos pela Vivo e pela concorrência. Tais projetos comtemplavam as seguintes etapas: elaboração do briefing inicial, elaboração de questionários, plano amostral, extração de bases de dados em SQL, elaboração de mailings, acompanhamento de campo de pesquisa junto a institutos de pesquisas fornecedores, validação de dados, processamento de informações (utilizando o software SPSS) e, por fim, apresentação gerencial dos resultados. Também elaborava modelos e análises estatísticas relacionados a dados provenientes de pesquisas, dados internos e/ou dados externos.
+Escolaridade
+Fundação Escola de Comércio Álvares Penteado
+Administração - Superior completo
+08/2007 - 12/2011
+Universidade de São Paulo
+Marketing - Superior completo
+02/2009 - 12/2016
+Cursos importantes
+Impacta
+Excel - Contruindo Dashboards, 22 Horas - 01/2017
+Impacta
+Excel - Módulos I e Ii, 36 Horas - 01/2014
+Impacta
+Vba Excel - Módulos I e Ii, 36 - 02/2014
+Impacta
+Power Point, 12 - 10/2013
+Impacta
+Sql - Módulos I e Ii, 36 - 02/2014
+IBM SPSS
+Estatística Avançada com O Uso do Spss, 36 - 01/2012
+Experiências profissionais
+Analista de Qualidade Sr.
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 5.030,00 ( 02/2014 - 09/2015)
+
+Responsável por conduzir projetos de pesquisas de mercado/inteligência de mercado e satisfação de clientes para diversos segmentos de produtos e serviços oferecidos pela Vivo (Vivo TV e Internet Fibra, Vivo HD TV, por exemplo) e pela concorrência. No caso de projetos de pesquisa de mercado, era responsável por todas as etapas da pesquisa: elaboração do briefing inicial, elaboração de questionários, plano amostral, extração de bases de dados (em SQL), elaboração de mailings (em SQL/Access), acompanhamento de campo de pesquisa junto a institutos de pesquisas fornecedores, validação de dados e análise, processamento de dados (utilizando o software SPSS) e apresentação gerencial dos resultados por meio de dashboards e indicadores/KPIs. Também havia outras entregas da área, relacionadas a modelos estatísticos e diagnósticos utilizando dados provenientes das pesquisas realizadas pela área, dados internos (bases de chamadas, bases de reclamações etc.) ou dados da concorrência, visando identificar falhas e propor melhorias nos processos. Tais modelos e análises estatísticas incluíam modelos de segmentação de clientes (análise de cluster e árvore de decisão) e modelos preditivos (regressão logística e linear), principalmente, como por exemplo: modelos de propensão a Churn (desligamento de um cliente da base), propensão de reclamação em órgãos externos (Anatel e Procon). Por fim, atividades relacionadas a inteligência de mercado.
+Gerente Assistente de Projetos
+Somente para Assinantes, Pesquisas
+Salário final: R$ 3.500,00 ( 09/2012 - 09/2013)
+
+Responsável pelas análises quantitativas com o uso do software SPSS - elaboração de syntax, tratamento de dados, análises diversas, recodificações e manutenção do banco de dados. Além disso, controlava a qualidade das atividades dos analistas, bem como o cronograma de trabalho da equipe no Brasil e em Portugal. No Brasil, era um dos responsáveis pelo gerenciamento de clientes (elaboração de apresentações de relatórios com resultados consolidados da pesquisa contratada, visitas iniciais e periódicas para tratar de assuntos diversos e atendimento de demandas pontuais), além de prospecção de novos negócios.
+Analista de pesquisa de mercado
+Somente para Assinantes, Pesquisas
+Salário final: R$ 2.500,00 ( 07/2012 - 09/2012)
+
+Em tal empresa, cada analista era responsável por um ou mais projetos e, juntamente com os coordenadores e gerente, participava de todas as etapas da pesquisa, desde a elaboração do briefing, questionários às análises estatísticas de dados (com o uso do SPSS) e elaboração de apresentações finais dos resultados.
+Aluno Monitor
+Somente para Assinantes, Educação/ Treinamento/ Idiomas
+Salário final: R$ 400,00 ( 02/2009 - 12/2013)
+
+Estatística, Análise Multivariada, Pesquisa de Marketing e aluno de projeto de iniciação científica na área de estatística. Durante tal período, auxiliava a docente responsável pela disciplina a corrigir atividades, preparar listas de exercícios e lecionar aulas e plantões de dúvidas aos alunos tanto para o entendimento teórico da disciplina quanto para o manuseio de softwares estatísticos, além de participação ativa em atividades de pesquisa e congressos.
+Consultor II
+Somente para Assinantes, Consultoria/ Auditoria
+Salário final: R$ 4.500,00 ( 11/2015 - 05/2016)
+
+Trabalhei em uma diretoria que presta consultoria de análise de risco de dados. Minhas atividades eram de auxílio às atividades gerais aos projetos em andamento e líder no desenvolvimento de projetos voltados à área de modelagem estatística, inteligência de dados/mercado e análise estatística de dados (segmentação de clientes por clusterização, modelos preditivos, árvores de decisão, regressões etc.) utilizando softwares estatísticos (SPSS e R, por exemplo) e, por fim, elaboração de relatórios, KPIs e dashboards (em Qlik Sense/QlikView/Excel e Power Point), visando sugerir melhorias na estratégia dos clientes. Os principais clientes eram dos setores financeiro e telecom.
+Idiomas
+Alemão - Básico  Espanhol - Fluente  Inglês - Fluente
+Habilidades e qualificações
+Powerpoint Excel Access Sql Spss Análise Estatística de Dados Análise de Dados Pesquisa de Mercado Internet Word Análise de Projetos Project

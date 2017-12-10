@@ -1,0 +1,43 @@
+
+ANALISTA DE TI
+Dados Pessoais
+29 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de TI
+Técnico de rede de dados
+Analista de suporte técnico
+Salário
+Mínimo aceitavel: R$ 1.000,00
+Pretendido: R$ 1.500,00
+Resumo do currículo
+Profissional proativo e comunicativo, com sólida atuação na área de Tecnologia da Informação, planejando, avaliando e executando atendimentos e suporte a usuários, infraestrutura de redes corporativas e residenciais, servidores, desenvolvimento de SLA e aplicação de padrões ITIL. Atuante na criação de documentação técnica, liderança de equipe, implantação de novos projetos e aprimoramento de projetos em execução. 
+
+Algumas certificações: 
+
+-Analista de Suporte Técnico - SENAI/SC. -Itil Foundation (Information Technology Infrastructure Library) – TI Exames. -Security Server, Fundamentos em Cloud e Fundamentos de SysAdmin - 4 Linux. -Roteamento e Switching - CCNA Academy. -Windows 7 MCP Certificate.
+Escolaridade
+UNIP
+Computação/Informática - Superior cursando - Redes de Computadores
+01/2015 - 12/2017
+Experiências profissionais
+Analista de suporte técnico
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.600,00 ( 09/2013 - 09/2016)
+
+Suporte técnico a clientes corporativos a serviço da Petrobras, com ênfase em plataformas Lotus Notes, SAP, Windows, pacote Office, JAVA, SAP-GUI e plataformas de desenvolvimento proprietário Petrobras. Gestão de estoques e de chamados através da ferramenta Mentor-ARS.
+Analista de suporte técnico
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.300,00 ( 06/2011 - 08/2013)
+
+Suporte técnico para clientes residenciais e corporativos, garantindo a alta disponibilidade e performance dos servidores corporativos e links de Internet via fibra. Verificação de logs, identificação e correção de falhas, gerenciamento de SLA, configuração de bases cPanel, gerenciamento de chamados e monitoramento de falhas via Nagios, Dude e Cacti. Apoio comercial na área de vendas de planos de internet e soluções em servidores corporativos. Gestão de metas de aproveitamento, relacionamento com cliente, pós venda e testes de desempenho do produto vendido pela empresa.
+Lider Técnico
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.750,00 ( 01/2017 - Até hoje)
+
+Líder técnico das equipes Baixada Santista e Cubatão, com ênfase em gestão de indicadores, metas, formação e desenvolvimento de equipe de alta performance. Gestão de processos operacionais da TI, orientação e supervisão das atividades de equipe de suporte multidisciplinar. Gerência de ativos do parque tecnológico, insumos e horas extras.
+Idiomas
+Inglês - Básico
+Habilidades e qualificações
+Plataformas Linux/unix Nagios Dude Clientes de Email Pacotes Office e Broffice Itil Cisco Ccna Lógica de Programação Sistemas Operacionais

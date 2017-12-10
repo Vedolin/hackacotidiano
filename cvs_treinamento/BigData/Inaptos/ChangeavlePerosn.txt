@@ -1,0 +1,71 @@
+
+ANALISTA PROGRAMADOR
+Dados Pessoais
+34 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista programador
+Analista de desenvolvimento sistemas
+Analista de suporte técnico
+Salário
+Mínimo aceitavel: R$ 1.500,00
+Pretendido: R$ 2.500,00
+Resumo do currículo
+Formado em Analise e Desenvolvimento de Sistemas pela faculdade Anhanguera, possuo mais de oito anos de experiência na área de suporte. Desde 2015 venho me dedicando a estudos em programação na plataforma .NET, plataforma essa qual desenvolvo alguns projetos para ganhar experiência e habilidades em desenvolvimento para migrar do suporte para desenvolvimento de software. No ano de 2016 resolvi pegar mais pesado nos estudos e venho fazendo vários cursos sobre .NET. O projeto mais recente o qual estou desenvolvendo em .NET está neste link https://github.com/JulianoFerreiraSilva. Entrei no mercado de trabalho por volta dos quinze anos de idade em uma gráfica a qual trabalhei por quase cinco anos exercendo os cargos de acabamentista e passando a ajudante de impressor. Após esse período trabalhei durante um ano em um centro de distribuição da Coca Cola FEMSA, onde exercia o cargo de ajudante operacional. Logo após entrei em um mercado como repositor, passando para auxiliar administrativo após um ano e alguns meses, até chegar no cargo de analista de suporte. Trabalhei neste mercado um período de quatro anos e nove meses dos quais dediquei dois anos e meio cuidando de toda infraestrutura de TI do estabelecimento. Após me desligar deste mercado venho trabalhando como prestador de serviços para algumas empresas como analista de suporte. No aguardo de um possível contato, coloco-me a inteira disposição para uma entrevista onde poderei prestar maiores esclarecimentos.
+Escolaridade
+Faculdade Anhanguera Campinas
+Computação/Informática - Superior completo - Tecnologia em Analise e Desenvolvimento de Sistema
+06/2012 - 05/2016
+Cursos importantes
+Alura Treinamentos
+Javascript, 20 Horas - 01/2017
+Alura Treinamentos
+Scrum: Agilidade em Seu Projeto, 10 Horas - 01/2017
+Alura Treinamentos
+Linq: Crie Queries em C# Parte 2, 8 Horas - 01/2017
+Alura Treinamentos
+Linq: Crie Queries em C# Parte 1, 11 Horas - 01/2017
+Alura Treinamentos
+Entity Framework, 4 Horas - 10/2016
+Alura Treinamentos
+Html 5 e Css 3 Parte 1, 32 Horas - 10/2016
+Alura Treinamentos
+Testes Tdd com C#, 12 Horas - 04/2016
+Alura Treinamentos
+Asp .net Mvc 5, 20 Horas - 04/2016
+Alura Treinamentos
+Sql Server Ii, 10 Horas - 03/2016
+Alura Treinamentos
+Sql Server I, 9 Horas - 03/2016
+Alura Treinamentos
+C# Iii: Topicos Avançados, 12 Horas - 02/2016
+Alura Treinamentos
+C# Ii: Orientação a Objetos, 12 Horas - 01/2016
+Tecnoponta Treinamentos
+C# Basico, 28horas - 11/2010
+Experiências profissionais
+Prestador de Serviços - Analista de Suporte
+Somente para Assinantes, Recursos Humanos/ Recrutamento e seleção
+Salário final: R$ 1.200,00 ( 01/2016 - Até hoje)
+
+Responsável pela infra estrutura de TI prestando suporte técnico presencial ou remoto. Criação das contas de correio eletrônico(e-mail) junto ao servidor de domínio e configuração dos mesmos no cliente de emails outlook. Vivência com suporte em hardware, troca de peças, montagem de computadores, configuração de roteadores e repetidores de sinal, modem e internet. Experiência em manutenção corretiva, preventiva, instalação e configuração de software, hardware e periféricos.
+Analista de suporte técnico
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.000,00 ( 08/2013 - Até hoje)
+
+Responsável por formatar e reinstalar Sistemas Operacionais, suporte e instalação de hardware e configuração da rede de computadores. Instalação e configuração de software e impressoras, manutenção corretiva e preventiva. Experiência em manutenção corretiva, preventiva, instalação e configuração de software, hardware e periféricos.
+Analista de suporte técnico
+Somente para Assinantes, Alimentos
+Salário final: R$ 1.014,00 ( 08/2006 - 05/2011)
+
+Responsável pelo suporte técnico da infra estrutura de TI, prestava suporte para correção e prevenção de possíveis problemas em hardware, software, rede de computadores, além de efetuar backup no banco de dados PostgreSQL. Vivência com suporte técnico em sistema frente de caixa e retaguarda, presencial ou remoto, manutenção corretiva e preventiva, cotação de peças e computadores, instalação de leitores de código de barra e balança de caixa, configuração do teclado de caixa, instalação de placas quando necessário, instalação de impressoras, formatação e instalação de Sistemas Operacionais e outros programas.
+Ajudante Operacional
+Somente para Assinantes, Logística/Armazéns
+Salário final: R$ 550,00 ( 12/2004 - 12/2005)
+
+Responsável por arrumar o estoque, reembalamento de produtos, relatório de produtos reembalado, verificação de vencimentos junto a conferencia, montagem de cargas para a entrega de mercadoria. Vivência em rotinas de estoque.
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Adaptabilidade Sql Server Visual Studio Word Access Powerpoint Internet Excel Comunicação Trabalho em Equipe Produtividade

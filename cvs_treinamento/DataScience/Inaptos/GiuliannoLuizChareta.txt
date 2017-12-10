@@ -1,0 +1,85 @@
+Giulianno Luiz Chareta
+Business Intelligence at Lopes Consultoria de Imóveis
+Summary
+Na área de Business Intelligence tenho 17 anos de experiência, trabalhando como desenvolvedor, analista e arquiteto de soluções, realizei alguns trabalhos como administrador de banco de dados.
+Interesse especial na construção de bancos de dados relacionais e multidimensionais utilizando MS SQL Server para projetos de BI.
+Sempre trabalhei com BI e me identifiquei muito com esta área.
+Tenho interesse em continuar atuando neste segmento de TI, bem como conhecer novas tecnologias e métodos de trabalho
+Especializações: Analista de Business Intelligence, Microsoft SQL SERVER 2005, 2008, 2008R2, 2012, 2014, Integration Services, Reporting Services, Analysis Services, Transaction SQL, Criação de Modelos de DW, DM e Administrador de Dados
+Experience
+Business Intelligence at LPS Brasil Consultoria de Imóveis S/A
+dezembro de 2015 - Present
+Owner
+junho de 2012 - abril de 2016 (3 anos 11 meses)
+Atuando com Moda feminina e grandes marcas, iniciamos neste segmento com a visão de ter um atendimento
+diferenciado, buscando inovações tanto em artigos quanto em formas de atendimentos para a plena e total satisfação do Cliente. Estamos crescendo e sempre aprimorando nossos valores e visões.
+Business Intelligence Architect at K2 Partnering Solutions
+agosto de 2015 - dezembro de 2015 (5 meses)
+Atuando no Cliente Sonda IT, sou responsável pela criação do Data Warehouse da empresa para análises
+das oportunidades CRM, Faturamento e análise de projetos, também criei e desenvolvi todo o processo de carga dos dados, extraindo as informações de uma base de dados SQL Server, também auxiliei no processo de construção de relatórios utilizando as ferramentas Microsoft (SSIS e SSRS). Participei também de um suporte no Cliente da Sonda para melhoria de performance nas queries utilizadas pelo Business Objects.
+  Senior Business Intelligence Analyst at W IT Solutions
+Page 1
+março de 2013 - julho de 2015 (2 anos 5 meses)
+Trabalhei no Cliente M.Cassab sendo responsável pela área de BI da empresa, tendo como responsabilidade
+gerenciar o ambiente de BI, desde o processo de carga, bancos de dados e Portal Corporativo, atuando efetivamente junto aos executivos da empresa, auxiliando-os nos processos de decisões disponibilizando relatórios tanto no SQL Server Reporting Services, quanto no Portal Corporativo (Sharepoint), Tinha por responsabilidade também apresentar constante evolução nos processos da empresa, aplicando melhorias nos processos de extração de dados, banco e front end (relatórios), ministrei também alguns treinamentos com relação aos relatórios e utilização do BI. Na consultoria era responsável em prover máquinas virtuais para prospecção de clientes.
+Senior Business Intelligence Analyst at Niteo Informática
+abril de 2012 - março de 2013 (1 ano)
+Participação na Implantação de BI nos clientes da empresa
+Itau SA- Trabalhei em parceria com a Microsoft no Banco Itaú migrando os projetos de BI, de SSIS, SSRS e SSAS nas versões 2000, 2005 e 2008R2 para o SQL 2012, migrando cerca de 900 relatórios aproximadamente, 200 cubos e cerca de 2000 Etls.
+Hypermarcas - Desenvolvimento de relatórios gerenciais no SSRS 2008R2, Excel. Reestruturação do processo de carga, implantação de controles e Logs nas cargas. Revisão Cubos, Dimensões, Métricas.
+BrasilPrev - Levantamento e construção de Cubos
+AON - Desenvolvimento de novos relatórios bem como a construção de novos indicadores no SQL Server 2008R2
+Odebrecht - Criação de relatórios desenvolvidos em Excel com acesso aos Cubos, desenvolvimento de Cubos, Métricas, Dimensões, Indicadores e Perfis de acesso.
+Arcelormittal - Criação de novos cubos para melhora de desempenho dos relatórios, e desenvolvimento de novos relatórios no Excel.
+Senior Business Intelligence Consultant - Freelancer at Squadra Tecnologia
+julho de 2012 - julho de 2012 (1 mês)
+Realizei um trabalho de extração de dados para o Departamento Nacional de Produção de Minério (DNPM),
+utilizando a ferramenta Integration Services para extração das informações de desempenho e análise das minas. Implantei uma metodologia de desenvolvimento de ETL, criando um manual com os componentes do SSIS.
+Senior Business Intelligence Analyst at NEXON CONSULTORIA EMPRESARIAL
+março de 2010 - dezembro de 2011 (1 ano 10 meses)
+Trabalhei no Itau BBA como Analista de Business Intelligence e Arquiteto, atuei também como líder de
+desenvolvimento de ETL, criando e orientando os demais colaboradores com as ferramentas SSIS para extração de dados, SSAS, SSRS 2008, participando do levantamento junto das origens, definindo junto
+Page 2
+com outro analista a arquitetura dos modelos de dados Stage e Data Warehouse utilizando a ferramenta Power Designer e seguindo a metodologia RUP, especifiquei as Regras de Negócios, tratamento dos dados, definição de domínios entre outras regras que se faziam necessários, participei ativamente do processo
+de melhoria tanto das extrações como execução de procedures, analisando o modelo físico e propondo melhorias.
+Business Intelligence Analyst at Evoluti
+agosto de 2009 - fevereiro de 2010 (7 meses)
+Trabalhei como Analista de Business Intelligence, participando do levantamento de necessidades junto
+ao cliente propondo a criação de Data Marts e Data Warehouse, especificando as funcionalidades dos relatórios bem como suas finalidades (regras de negócios), coordenando, monitorando e gerenciando
+o desenvolvimento do front-end, construíndo modelos Multidimensionais utilizando ferramentas de modelagem Erwin, utilizando o SQL Server 2008 Integration Services para extração dos dados, construindo cubos, dimensões, métricas e minings através do Analysis Services, criando relatórios no Reporting Services dando manutenção de melhoria de desempenho na extração dos dados e queries dos Relatórios. Trabalhei também como Administrador de Dados construíndo e alterando modelos lógicos e físicos para o sistema Relacional da PMESP e novas implantações, obedecendo às normas de nomenclatura do cliente.
+Business Intelligence Analyst at OPUS Software
+fevereiro de 2007 - agosto de 2009 (2 anos 7 meses)
+Trabalhei como Analista e Arquiteto no Banco ITAÚ, utilizando o SQL Server 2005 Integration Services,
+aplicando os novos recursos da ferramenta para a construção das camadas de DW e DM, trabalhei também desenvolvendo relatórios e cubos com as ferramentas Microsoft Reporting Services, Analysis Services.
+No projeto uma das minhas atribuições foi prover soluções para requisistos identificados pelo usuário, trabalhando desde a sua elaboração até a implantação da solução. Em parceria com a Microsoft, trabalhei em uma requisição de melhoria de desempenho para pacotes SSIS de extração de dados em Oracle para SQL. Obtivemos um excelente, criando um componente customizado reduzindo o tempo de processamento de 1 hora para 3 minutos. Também revisei alguns processos para melhora de desempenho como estruturação das queries de extração e análise nas tabelas de origens da informação viabilizando a criação de índices e campos desnormalizados na área Stage para melhora no retorno dos dados. Dentro da consultoria desenvolvi uma aplicação para criação de cubos para disponibilização de arquivos (.cub) para visualização dos dados em Excel.
+Business Intelligence Analyst at Credigy
+dezembro de 2004 - fevereiro de 2007 (2 anos 3 meses)
+Trabalhei como Analista de Sistemas, definindo, especificando e criando relatórios para os executivos da
+empresa com a utilização de SQL 2000 e 2005 usando como front end o Excel (Pivot Table) e Reporting Services, para fornecer toda a informação que os executivos precisavam, com rapidez e integridade, participando ativamente de projetos para criações de Datamarts, indo até o usuário para fazer o levantamento de necessidades propondo soluções de implantação rápida e fácil manutenção. Trabalhei também como
+Page 3
+Quality Assurance da empresa, sendo de minha responsabilidade validar os scripts dos demais analistas, analisando desempenho de execução e validando os dados contra o sistema transacional.
+Business Intelligence Consultant - Freelancer at Johnson & Johnson
+março de 2006 - março de 2006 (1 mês)
+Migração de 06 relatórios, do ERP, para o novo Front-End (Reporting Services) para melhor controle
+de acesso, criando os novos cubos do DataMart, para buscar as informações do mesmo, ao invés do transacional, melhorando assim o desempenho, para captura dos dados. Criando os MDXs necessários.
+Development Coordinator at Execplan
+abril de 2002 - outubro de 2004 (2 anos 7 meses)
+Trabalhei na área de desenvolvimento de software de B.I. onde trabalhando como coordenador de uma equipe
+para o desenvolvimento de um software especifico de Business Intelligence utilizando a ferramenta Visual Basic 6.0, SQL Server 2000 e MTS. Coordenava uma equipe de 06 pessoas, sendo responsável em prestar suporte quanto às dúvidas de negócio, bem como as dúvidas técnicas. Era responsável em acompanhar o desenvolvimento das atividades e garantir a qualidade e o prazo dos entregáveis.
+Consultant and Developer at EXECPLAN
+maio de 2000 - abril de 2002 (2 anos)
+Trabalhando com desenvolvimento de um software especifico de Business Intelligence (Fast BI e Master
+Intelligence) utilizando a ferramenta Visual Basic 6.0, SQL Server 2000 e MTS, contribuindo também
+na criação de componentes reutilizáveis como OCXs, DLLs, CLASS e MÓDULOS, possibilitando uma manutenção mais fácil e rápida do software, criação de aplicações em mais de uma camada, tornando mais seguro e de fácil controle de acesso aos componentes, criação de bancos de dados de forma estruturada, garantindo a integridade dos dados, instalação, configuração do SQL Server 2000 de maneira possibilitar a criação de Packages e Jobs de carga de dados automáticas
+Education
+Uninove - Universidade Nove de Julho
+Bacharel, Ciências da Computação, Ciências da Computação, 2000 - 2003 Activities and Societies: Futebol
+Etec Prof. Horácio Augusto da Silveira
+Técnico, Processamento de Dados, Processamento de Dados, 1998 - 1999 Activities and Societies: Futebol
+Honors and Awards
+Prêmio Best Independent Software Vendor Solution - 2001, Prêmio Best B.I. Partner Of The Year - Microsoft - 2004, Prêmio Best Partner Of The Year - Microsoft - 2004
+  Page 4
+Giulianno Luiz Chareta
+Business Intelligence at Lopes Consultoria de Imóveis
+Contact Giulianno Luiz on LinkedIn
+          Page 5

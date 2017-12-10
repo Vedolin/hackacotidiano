@@ -1,0 +1,67 @@
+
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+39 anos, Feminino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Salário
+Mínimo aceitavel: R$ 8.000,00
+Pretendido: R$ 11.000,00
+Resumo do currículo
+Sou uma profissional muito responsável, dinamica e pro-ativa. Atuo na área de Banco de Dados desde 2001, formada em Engenharia da Computação pela PUC-Rio, com Pós-Graduação em BI (Business Intelligence) também pela PUC-Rio e com certificações em SQL Server 2000, 2005 e 2012 e ITIL (em adamento). Possuo experiência de 12 anos atuando como DBA SQL Server sênior e na Gerencia da área de Banco de Dados (gerenciamento de equipe, de contrato, de serviço e controle de orçamento) em ambientes complexos Oracle/SQL Server, 24x7, de missão critica. Estou a procura de uma oportunidade onde minhas experiencias, meus conhecimentos e meu perfil possam agregar valor ao resultado de empresa.
+Escolaridade
+PUC-Rio
+Engenharia da Computação - Pós-graduação completa - Bi Master
+03/2007 - 08/2008
+PUC-Rio
+Engenharia da Computação - Superior completo
+03/1999 - 08/2004
+Cursos importantes
+Tech For Life
+Itil® Foundation, 24 Horas - 10/2015
+M2M
+Mercado Financeiro, 120h - 09/2013
+Extend
+•	oracle Database 11g R2: Administration Workshop I e Ii, Rac, 30 H - 05/2013
+Experiências profissionais
+Gerente de Banco de Dados (HandsON)
+Somente para Assinantes, Bancário
+Salário final: R$ 16.800,00 ( 04/2010 - 01/2016)
+
+•	Gerenciamento da Área de Banco de Dados global da empresa (Brasil e escritórios internacionais); Ambiente complexo, de Missão Crítica, 24x7, com mais de 350 instancias (SQL Server e Oracle); Controle orçamentário da área; gerenciamento de projetos; gerenciamento de requisições, incidentes e problemas, com atuação direta na resolução de problemas/incidentes de maior complexidade em SQL Server;
+DBA Senior
+Somente para Assinantes, Bancário
+Salário final: R$ 8.000,00 ( 01/2008 - 04/2010)
+
+•	Instalação, Suporte e Manutenção de Servidores de Banco de Dados SQL Server em Ambiente Crítico. •	Servidores Standalone e em Cluster, Integração de Bases entre Servidores (Replicação, DTS e RPC). •	Suporte a Desenvolvedores; Execução e Monitoramento de Rotinas, Controle de Segurança; Realização de Restores; Atendimento a Chamados Internos; Tuning de Base de Dados; Criação e acompanhamento de Rotinas de Manutenção; •	Estudo e Criação de Documentação e Suporte para Migração de Compatibility Level (6.5 para 8.0 e 8.0 para 9.0) para Migração da versão SQL Server 2000 para a versão SQL Server 2005.
+Gerente de Banco de Dados (HandsOn)
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.000,00 ( 04/2005 - 12/2007)
+
+•	Além de ainda atuar diretamente como DBA, era responsável pela supervisão, treinamento e acompanhamento da equipe de DBAs. Responsável por assegurar o bom resultado do trabalho do time de Banco de Dados, atingindo as expectativas dos clientes em termos de qualidade, sem comprometer as metas orçamentárias e de prazos estabelecidas para cada projeto.
+DBA SQL Server
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.500,00 ( 02/2004 - 03/2005)
+
+•	Administração e Manutenção de SGBDs (SQL Server), Modelagem de Banco de Dados, desenvolvimento de Stored Procedures, criação e manutenção de Processos de Estatísticas com atualização automatizada, alimentação de dados automatizados de servidores distribuídos, criação e manutenção de Relatórios •	Geração de Relatórios utilizando Reporting Services, Migração de processos MySQL para SQL Server. Estudo e Migração de Bases para o SQL Server 2005.
+Estagiaria - Area de VAS
+Somente para Assinantes, Telecomunicação
+Salário final: R$ 1.500,00 ( 10/2003 - 01/2004)
+
+•	Teste de aplicações, aparelhos e chips celulares. Resolução “Trouble Tickets” (resolução de problemas relacionados à reclamação de usuários).
+Estagiaria - Area de MIS
+Somente para Assinantes, Financeiras
+Salário final: R$ 800,00 ( 06/2001 - 07/2002)
+
+•	Desenvolvimento de Data Warehouse, Data Mining, Otimização de Consultas (Query/SQL); •	Modelagem, Desenvolvimento e Otimização de novos Processos (Stored Procedures) •	Desenvolvimento de Relatórios Gerenciais em Power Builder, Processos Corporativos (FOX e ORACLE).
+DBA Sênior
+Somente para Assinantes, Academias e Esportes
+Salário final: R$ 8.000,00 ( 06/2016 - Até hoje)
+
+* Gerenciamento e Administração dos Servidores de Banco de Dados e Administração de Dados ? * Criação e implantação de processos de Política de Acesso, Dicionário de Dados, Normas e Padrões de Banco de Dados e Gerenciamento de Mudança (em fase de implantação).
+Idiomas
+Espanhol - Básico  Inglês - Avançado
+Habilidades e qualificações
+Banco de Dados Gerência de Equipe Gerência de Projeto Itil Sql Server Tuning de Banco de Dados Cluster Windows

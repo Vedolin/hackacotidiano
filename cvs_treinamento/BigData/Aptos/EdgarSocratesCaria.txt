@@ -1,0 +1,59 @@
+Edgar Socrates Caria
+Big Data Engineer at Semantix
+Summary
+Skills and Competences:
+* Big Data: Apache Spark, Hadoop MapReduce;
+* Programming languages: Java, (JSON e XML), C#, Ruby, Swift, Scala, Python;
+* Frameworks: Spring, Servelt, JSTL, JPA, Hibernate, Ruby on Rails, JSF;
+* Data Base: Data Modeling, Oracle 11g, PL/SQL, MySQL, Mongo DB, Apache Cassandra, Hive;
+* Tools: Visual Code, Visual Studio, Atom, Eclipse Neon, Net Beans, XCode, Android Studio e Android SDK,
+Terminal, Vim;
+* Front-end development: HTML5, CSS 3, JavaScript, Angular2; * Operational systems: Windows, Linux, e Mac OS;
+* Object-oriented programming;
+* Programming logic;
+* GitHub;
+* Design Thinking;
+* Methodology: SCRUM;
+* SWOT;
+Experience
+Trainee in Big Data Engineer at Semantix
+agosto de 2017 - Present
+Education
+FIAP
+Analise e Desenvolvimento de Sistemas, Programação de Computadores - Geral, 2016 - 2017
+
+Python 
+Apache Spark 
+MapReduce 
+Julio Cesar dos Santos recomendou esta competência
+Edgar também tem a competência…
+Pesquisa 
+Gestão de projetos 
+Design de software 
+ERP (Planejamento de recursos empresariais) 
+Modelagem de dados 
+Ruby 
+Servlets 
+Oracle Database 
+HTML5 
+JavaScript 
+Ruby on Rails 
+Microsoft Project 
+Spring MVC 
+AngularJS 
+PL/SQL 
+JSP 
+JPA 
+MongoDB 
+JSF
+ASP.NET MVC
+Scala 
+Design thinking 
+Inglês 
+JavaServer Pages (JSP) 
+Cascading Style Sheets (CSS) 
+Object-Oriented Programming (OOP) 
+Caso de uso 
+Android Studio 
+Cassandra 
+React.js

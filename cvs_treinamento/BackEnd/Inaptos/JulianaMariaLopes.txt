@@ -1,0 +1,133 @@
+Juliana Maria Lopes
+Big Data - Senior Data Engineer / Business Intelligence Specialist
+Summary
+# Big Data - Análise de Dados – Python; R; Apache Hadoop; Apache Spark; Machine Learning / Banco de Dados NoSql – MongoDB; Hive; Hbase; Cassandra; Amazon DynamoDB / Ecossistemas FastData – Microsoft Azure; AWS; Google Cloud; Cloudera.
+# Business Intelligence - Relatórios e Administração – Tableau Desktop 8.3; Oracle OBIEE 11.1.6 Administrator e Analytics; SAP BusinessObjects – Web Intelligence Infoview XI 3.1 e 4.0; Crystal Reports; SAP BusinessObjects – Administration Enterprise (CMC e CMS) XI 3.1; SAP BusinessObjects – XCelsius; Oracle OBIEE 10.1.3 Answers; IBM Alphablox; IBM WebSphere; Microsoft SQL Server Analysis Services; Fractal:Edge 8.5; Oracle Business Intelligence Discoverer; MicroStrategy 7.0 / Camada Semântica – SAP HANA 1.0;SAP BusinessObjects – Universe Design 6.5 / XI 3.1 e 4.0;Oracle OBIEE 10.1.3 Administrator / ETL – Oracle Data Integrator 11.1.1; PL/SQL; Oracle OWB 10g; Oracle OWB 11g; PowerCenter 7.2; Microsoft SQL Server Integration Services / Banco de Dados – Oracle 7i, 9i, 10g e 11g; SQL Server 2005 e 2008; IBM DB2 AIX; Teradata 8.2 / Metodologias – UML; Business BluePrints; Rational Method Composer; Eclipse Process Framework Project; Rational Robot; Rational Clear Case / Modelagem de Dados – Oracle Designer 10g; Erwin; IBM DataStudio.
+Experience
+Big Data - Senior Data Engineer - Contractor for Triad Systems at Telefônica Brasil
+setembro de 2017 - Present
+Projeto URM - Mapeamento e Ingestão de Dados (Apache Hive / Hadoop 2.6) no ambiente Big Data. Desenvolvimento de estruturas de automatização de Cargas (Apache Spark 2.1 / Scala).
+Big Data - Senior Data Engineer - Contractor for Altemp.tech at Natura
+julho de 2017 - setembro de 2017 (3 meses)
+Projeto Integra 2.0 (Cliente Natura) – Desenvolvimento de Modelos de Dados para Data Lake (Microsoft
+Azure HDInsight / Apache Hive / Hadoop 2.6); Desenvolvimento de Scripts de Ingestão de Dados (Apache Spark 2.1.0 / Python 3.6.1 / Anaconda 4.4.0 / Jupyter Notebook); Desenvolvimento de Dataflows para automatização de Carga de Dados (Apache NiFi 1.3.0)
+Consultora Sênior - Líder Técnico - Oracle Data Integrator at Infostrategy
+novembro de 2016 - julho de 2017 (9 meses)
+Guardião ODI (Cliente Sky Brasil) – Acompanhamento e Validação Técnica de Pacotes ODI entregues pelas
+fábricas de Software (Oracle Data Integrator 11.1.1 e 12).
+  Page 1
+Consultora Sênior - Arquitetura - Business Intelligence at IONS SYSTEMS LTDA
+dezembro de 2015 - novembro de 2016 (1 ano)
+Projeto Upgrade BI (Cliente JDE Coffee) – Desenvolvimento do Modelo de Dados (Microsoft SQLServer
+2012); Desenvolvimento de Cenários e Módulos de Conhecimento para Cargas ETL (Microsoft Integration Services 2012); Desenvolvimento de Cubos OLAP (Microsoft Analysis Services 2012); Desenvolvimento de Relatórios (Microsoft Reporting Services 2012 e SAP BusinessObjects 4.1); Desenvolvimento de Dashboards (SAP BusinessObjects Dashboard 4.1 – Xcelsius e SAP Lumira); Responsável pela Criação
+e Desenvolvimento dos DataMarts de Venda (Ordens de Venda, Descontos, Notas Fiscais), Operações (Estoque) e DataWarehouse Coorporativo.
+Consultora Sênior - Arquitetura - Business Intelligence at CIO on Demand - Brasil
+maio de 2015 - dezembro de 2015 (8 meses)
+Projeto Upgrade BI (Cliente JDE Coffee) – Desenvolvimento do Modelo de Dados (Microsoft SQLServer
+2012); Desenvolvimento de Cenários e Módulos de Conhecimento para Cargas ETL (Microsoft Integration Services 2012); Desenvolvimento de Cubos OLAP (Microsoft Analysis Services 2012); Desenvolvimento de Relatórios (Microsoft Reporting Services 2012 e SAP BusinessObjects 4.1); Desenvolvimento de Dashboards (SAP BusinessObjects Dashboard 4.1 – Xcelsius e SAP Lumira); Responsável pela Criação
+e Desenvolvimento dos DataMarts de Venda (Ordens de Venda, Descontos, Notas Fiscais), Operações (Estoque) e DataWarehouse Coorporativo.
+Consultora Sênior - Business Intelligence at Victus Consultoria
+janeiro de 2015 - maio de 2015 (5 meses)
+Projeto Satélite Fiscal e Contábil (Cliente NET Serviços) – Desenvolvimento de Cenários e Módulos de
+Conhecimento para Cargas ETL (Oracle Data Integrator 11.1.1).
+Consultor Administrativo Financeiro
+agosto de 2014 - janeiro de 2015 (6 meses)
+Projeto Esporte Movimento (Cliente Caixa Cultural) – Confecção da Prestação de Contas e Contrapartidas;
+Controle da Movimentação Financeira. Projeto Marc Chagall (Cliente Banco do Brasil) – Confecção da Prestação de Contas e Contrapartidas; Controle da Movimentação Financeira.
+Consultora Sênior - Business Intelligence at Spread Tecnologia
+novembro de 2013 - julho de 2014 (9 meses)
+(Cliente CVC) – Desenvolvimento da Camada Semântica (Oracle OBIEE 10.1.3 Administrator), Criação de
+Relatórios (Oracle OBIEE 10.1.3 Analytics) Tuning e Desenvolvimento de Rotinas Batch (PL/SQL), Análise e Criação de Modelos Multidimensionais utilizando como legado plataforma Oracle Apps, Desenvolvimento de Cenários e Módulos de Conhecimento para Cargas ETL (Oracle Data Integrator 11.1.1)
+Consultora Sênior - Business Intelligence at Walar IT Business
+setembro de 2013 - novembro de 2013 (3 meses)
+Page 2
+Projeto Integrar (Cliente Tigre) – Desenvolvimento de Modelo Multidimensional (SAP HANA Studio 1.0.48). Desenvolvimento da Camada Semântica (SAP BusinessObjects 4.0 – Universe Design XI 3.1) e Criação de Relatórios (SAP BusinessObjects 4.0 – Web Intelligence Infoview). Desenvolvimento da Painéis de Acompanhamento (SAP Lumira).
+Consultora Sênior - Business Intelligence at Conquest One
+outubro de 2012 - setembro de 2013 (1 ano)
+Projeto Porto Seguro (Cliente CVC)– Desenvolvimento da Camada Semântica (Oracle OBIEE 10.1.3
+Administrator), Criação de Relatórios (Oracle OBIEE 10.1.3 Analytics) Tuning e Desenvolvimento de Rotinas Batch (PL/SQL), Análise e Criação de Modelos Multidimensionais utilizando como legado plataforma Oracle Apps, Desenvolvimento de Cenários e Módulos de Conhecimento para Cargas ETL (Oracle Data Integrator 11.1.1)
+Professora Monitora at FIAP - Faculdade de Informática e Administração Paulista
+junho de 2012 - janeiro de 2013 (8 meses)
+Consultora Sênior - Business Intelligence at TQI - Technology and Quality on Information
+junho de 2012 - outubro de 2012 (5 meses)
+Projeto BI Operacional (Cliente CCEE) – Desenvolvimento da Camada Semântica (Oracle OBIEE 11.1.6
+Administrator), Criação de Relatórios (Oracle OBIEE 11.1.6 Analytics) Tuning e Desenvolvimento de Rotinas Batch (PL/SQL).
+Consultora Sênior - Business Intelligence at SQLTech Consultoria
+março de 2012 - junho de 2012 (4 meses)
+Projeto ITR (Cliente CCR) – Desenvolvimento da Camada Semântica (SAP BusinessObjects 4.0 – Universe
+Design XI 3.1) e Criação de Relatórios (SAP BusinessObjects 4.0 – Web Intelligence Infoview).
+Projeto Executivo (Cliente Raízen) - Manutenção de Relatórios (SAP BusinessObjects 3.1 – Web Intelligence Infoview) e Dashboard (SAP Xcelsius 2008 SP5)
+Projeto Odonto (Cliente Porto Seguro) - Desenvolvimento e Manutenção de Relatórios (SAP BusinessObjects 3.1 – Web Intelligence Infoview)
+Consultora Sênior - Business Intelligence at Veratis Technologies
+maio de 2011 - março de 2012 (11 meses)
+Projeto Agricultores Mais (Cliente Monsanto) – Desenvolvimento da Camada Semântica (SAP BO –
+Universe Design XI 3.1) e Criação de Relatórios (SAP BO – Web Intelligence Infoview XI 3.1), Manutenção e Desenvolvimento de Cargas ETL (Microsoft SQL Server Integration Services 2008), Desenvolvimento
+de Modelo de Dados (Microsoft SQL Server 2008), Levantamento de Requisitos e definição das Regras de Negócio.
+Page 3
+Projeto MIM (Cliente Roche) – Manutenção da Camada Semântica (SAP BO – Universe Design XI 3.1), Criação de Consultas e Relatórios (SAP BO – Web Intelligence Infoview XI 3.1). Projeto AutBank (Cliente Yamaha) – Manutenção da Camada Semântica e Criação de Relatórios (MicroStrategy 9.1), Manutenção e Desenvolvimento de Cargas ETL (Pentaho Kettle 3.2).
+Projeto MainDashboard (Cliente Shincariol) – Manutenção e Criação de Relatórios (SAP BO – Web Intelligence Infoview XI 3.1) .
+Consultora Sênior - Business Intelligence at Assurance IT
+fevereiro de 2011 - maio de 2011 (4 meses) Cliente: Natura Cosméticos
+Projeto Terra DW Histórico – Arquitetura de toda a solução envolvendo Mapeamento dos Processos de Negócio, KPIs e Métricas (Business Blueprints) e Desenvolvimento da Camada Semântica (SAP BO – Universe Design XI 3.1), Criação de Consultas e Relatórios (SAP BO – Web Intelligence Infoview XI 3.1 e Crystal Reports), Administração de ambiente e Permissões (SAP BO – Administration Enterprise (CMC e CMS) XI 3.1).
+Consultora Sênior - Business Intelligence at SYSPRICE
+junho de 2010 - dezembro de 2010 (7 meses) Cliente: KPMG Auditores Independentes
+Projeto DM Recursos Humanos – Arquitetura de toda a solução envolvendo Mapeamento dos Processos
+de Negócio, KPIs e Métricas (Business Blueprints) e Modelagem do Data Mart (Oracle Designer 10g), ETL - Extração/Transporte/Transformação/Carga (Oracle OWB 11g, PL/SQL), Desenvolvimento da Camada Semântica (SAP BO – Universe Design XI 3.1), Criação de Consultas e Relatórios (SAP BO – Web Intelligence Infoview XI 3.1 e Crystal Reports), Administração de ambiente e Permissões (SAP BO – Administration Enterprise (CMC e CMS) XI 3.1) e Execução de Dashboard (SAP BO – XCelsius).
+Projeto DM Finanças – Manutenção da Solução envolvendo ajustes na Modelagem do DM (Oracle Designer 10g), ETL - Extração/Transporte/Transformação/Carga (Oracle OWB 11g), Camada Semântica (BO – Universe Design 6.5), Consultas e Relatórios (BO – Desktop Intelligence 6.5).
+Treinamentos – Ministração e Desenvolvimento de Material de Treinamento baseado nas apostilas oficiais BOW310 - BusinessObjects Web Intelligence XI 3.0/3.1: Report Design e BOW320 - BusinessObjects Web Intelligence XI 3.0/3.1: Advanced Report Design.
+Consultora Sênior - Business Intelligence at Discover Technology
+janeiro de 2010 - junho de 2010 (6 meses) Cliente: Avon Cosméticos
+Page 4
+Projeto DW Brasil – Manutenção e Migração da Solução envolvendo ajustes na Modelagem do Data Mart (Oracle Designer 10g), ETL - Extração/Transporte/Transformação/Carga (Oracle OWB 10g e 11g, PL/
+SQL), Camada Semântica (SAP BO – Universe Design XI 3.1), Consultas e Relatórios (SAP BO – Desktop Intelligence XI 3.1 e Web Intelligence Infoview XI 3.1);
+Projeto DW Global IT – Manutenção da Solução envolvendo ajustes e criação de Mapas de Cargas e Process Flow (Oracle OWB 10g e 11g), Ajustes na Camada Semântica (Oracle OBIEE 10.1.3 Administrator), Criação de Relatórios Multiqueries (Oracle OBIEE 10.1.3 Answers).
+Consultora Sênior - Business Intelligence at Develop IT Solutions
+junho de 2009 - novembro de 2009 (6 meses) Cliente: CVC Turismo
+Projeto DW Brasil – Arquitetura da solução envolvendo Mapeamento dos Processos de Negócio (Metodologia Própria) e Modelagem do DM (Oracle Designer 10g), ETL - Extração/ Transformação/Carga (Oracle OWB 11g, PL/SQL), Desenvolvimento da Camada Semântica (Oracle OBIEE 10.1.3 Administrator), Criação de Relatórios Multiqueries (Oracle OBIEE 10.1.3 Answers).
+Consultora Sênior / Líder de Projetos - Business Intelligence at Advus Corporation
+junho de 2008 - julho de 2009 (1 ano 2 meses)
+Projeto Sistema Custos (Cliente Casas Bahia) – Arquitetura da solução envolvendo Modelagem de Dados
+(IBM DB2 AIX), Validação de Indicadores e Métricas, Desenvolvimento de Documentação (RMC – Rational Method Composer), Criação de Cubos e Relatórios Gerenciais (Fractal: Edge Administrator 8.5);
+Projeto Indicadores de Desenvolvimento (Cliente Banco Ítau)(Equipe de 6 pessoas) – Liderança da equipe de Arquitetura da solução envolvendo Mapeamento dos Processos de Negócio e Definição de Indicadores (Metodologia Própria), Modelagem do Data Mart (IBM DataStudio), ETL - Extração/Transformação/
+Carga (IBM DataStage 6.0), Criação de Cubos e Manutenção do WebService (IBM WebSphere), Criação de Relatórios Complexos (IBM Alphablox) e Documentação (EPF – Eclipse Process Framework Project);
+POCs Realizadas (Clientes Ajinomoto, Produban, WTorre, Klabin, Elektro) – Desenvolvimento de Prova
+de Conceito de BI utilizando como Banco de Dados (Microsoft SQL Server 2005), ETL (Microsoft SQL Server Integration Services), Criação de Bases de Dados OLAP (Microsoft SQL Server Analysis Services) e Desenvolvimento de Dashboards ( Fractal:Edge 8.5).
+Treinamentos – Ministração de Treinamentos de Testes Funcionais (Rational Robot e Rational Clear Case), Conceitos Introdutórios à Business Intelligence, Conceitos iniciais para Identificação de Indicadores e Métricas e Desenvolvimento de Relatórios (Fractal:Edge Administrator 8.5 e Client)
+Page 5
+Líder de Projetos at Imago IT Solutions
+dezembro de 2007 - maio de 2008 (6 meses) Cliente: Claro Telecomunicações
+Atividades Exercidas – Gerenciamento de Integração – Desenvolvimento de Planos de Projetos em conjunto com a área Comercial; Gerenciamento de Escopo – Elaboração de Project Charter e Definição de Premissas, Análise de Custo/Benefício e Elaboração de Estrutura Analítica do Projeto (WBS); Gerenciamento de Tempo – Qualificação de trabalho e esforço dos Projetos. Definição de Atividades, Desenvolvimento e Controle de Cronograma. Controle de lançamento de horas lançadas pelos recursos; Gerenciamento de Custo – Planejamento de custos de Recursos por Projeto, Orçamentação e Controle; Gerenciamento de Recursos – Montagem de Equipe, Entrevistas e Apoio; Gerenciamento de Comunicações – Desenvolvimento semanal de Relatório de Progresso do Projeto. Planejamento da distribuição da informação; Gerenciamento de
+Riscos – Identificação e Classificação de Riscos envolvidos no Projeto e Busca de Soluções e Respostas aos Riscos eminentes. Projeto Fábrica de Relatórios (Equipe de 12 pessoas) – Desenvolvimento de Relatórios Gerenciais (Oracle Business Intelligence Discoverer) e Modelagem do Data Mart (Erwin), ETL - Extração/
+Transporte/Transformação/Carga (Oracle 9i PL/SQL); Projeto ComTA (Equipe de 4 pessoas) – Liderança da Equipe da Manutenção do Sistema de Comissionamento de Vendas de Aparelhos (Java e PL/SQL).
+Analista de Sistemas Sênior - Business Intelligence at Systemplan Consultoria
+outubro de 2007 - dezembro de 2007 (3 meses) Cliente: TAM Linhas Aéreas
+Projeto Concorrentes – Arquitetura da solução envolvendo Mapeamento dos Processos de Negócio para estudo de precificação da concorrência em relação a passagens aéreas (Metodologia Própria baseada em RUP) e Modelagem do Data Mart (Oracle Designer 10g), ETL - Extração/Transporte/Transformação/Carga (PL/SQL), Desenvolvimento da Camada Semântica (BO – Universe Design 6.5), Criação de Relatórios (Crystal Reports).
+Analista de Sistemas Pleno - Business Intelligence at Novabase
+junho de 2005 - julho de 2006 (1 ano 2 meses) Cliente: VIVO Telecomunicações
+Projeto Sinapse – Validação dos Requisitos do Negócio entre Solicitante e Técnico de Modelagem do Processo no Banco de Dados (Teradata 8.2) e ETL (Documentação Própria, Oracle Designer 10g, PowerCenter 7), Validação dos Relatórios Desenvolvidos ao Usuário Final (MicroStrategy 7);
+Projeto Tableau Du Board – Arquitetura do Desenvolvimento de Indicadores de Medição de Desempenho perante a Anatel SMPs (Oracle 9i, PL/SQL);
+Projeto CLM – Arquitetura da solução envolvendo Mapeamento dos Processos de Negócio para Estudo de Campanhas de Ciclos de Vendas e Ofertas ao Cliente (Metodologia Própria) e Modelagem do Data Mart
+Page 6
+(Erwin 2007), ETL - Extração/Transporte/Transformação/Carga (PowerCenter 7.2, PL/SQL), Metadados e
+Relatórios (MicroStrategy 7);
+Projeto Fábrica de Relatórios – Desenvolvimento de Relatórios (PL/SQL) de origem nos Data Warehouse
+Regionais Plataforma Pré-Pago e Pós-Pago (Oracle 9i e DB2) de acordo com a Necessidade do Usuário, Ajustes de Performance em grandes análises de informações (Tuning).
+Analista de Sistemas Júnior - Business Intelligence at Banco PETRA S.A.
+janeiro de 2004 - fevereiro de 2005 (1 ano 2 meses)
+Atividades Exercidas – Acompanhamento da solução envolvendo Mapeamento dos Processos de Negócio
+para Cadastro de Clientes e Extrato da Carteira de Fundos de Investimentos (Metodologia Própria, UML), Modelagem do Banco de Dados (Oracle 9i), Apoio a Equipe da Bovespa na Manutenção dos Processos do Sistema (Sinacor), Desenvolvimento de Extração de Dados (PL/SQL), Ajustes na Camada Semântica (BO – Universe Design 6.5), Ajustes e Criação de Relatórios e Consultas (BO – Desktop Intelligence 6.5 e Crystal Reports).
+Education
+FIAP
+Big Data com Ecossistema Hadoop e Spark, Big Data, 2017 - 2017 Activities and Societies: Big Data com Ecossistema Hadoop e Spark FIAP
+MBA, Gestão de Tecnologia da Informação, 2005 - 2006
+FIAP
+Tecnólogo, Desenvolvimento de Software, 2003 - 2004
+Universidade Anhembi Morumbi
+Tecnólogo, Ciência da Computação, 2001 - 2003
+Colégio Agostiniano São José
+Ensino Médio, 1999 - 2001
+  Page 7
+Juliana Maria Lopes
+Big Data - Senior Data Engineer / Business Intelligence Specialist
+Contact Juliana Maria on LinkedIn
+          Page 8

@@ -1,0 +1,50 @@
+Alex Granado
+Cientista de dados
+Resumo
+Concentre-se em resolver problemas de negócios e criar novas abordagens usando técnicas avançadas de ciência de dados, visão estratégica de negócios e conhecimento forte em tecnologia da informação
+Experiência
+Cientista de dados da AMcom Sistemas de Informação
+novembro de 2017 - presente
+Cientista de dados | Prêmio analítico na SONDA
+março de 2017 - novembro de 2017 (9 meses)
+Aprendizado de máquinas / AI.
+Mineração de Dados (Compreensão de Negócios, Compreensão de Dados, Preparação de Dados, Modelagem, Avaliação e
+Desdobramento, desenvolvimento).
+Projetos: Clustering de clientes, Previsão de Churn, Prevenção de Fraude e Preços de Seguro. Ferramentas: SAS (Guia e Miner), SAP Predictive Analytics, R.
+Cientista de dados | Pré-vendas analíticas nas soluções NGR
+janeiro de 2017 - março de 2017 (3 meses)
+Aprendizado de máquinas / AI.
+Mineração de Dados (Compreensão de Negócios, Compreensão de Dados, Preparação de Dados, Modelagem, Avaliação e
+Desdobramento, desenvolvimento).
+Projetos: Clustering de clientes, Previsão de Churn, Previsão de vendas e Preços de produtos. Ferramentas: R, Azure Machine Learning, Power BI Desktop
+Cientista de dados | Consultor de inteligência de negócios da Amil
+maio de 2013 - dezembro de 2016 (3 anos 8 meses)
+Ciência dos dados
+Aprendizado de máquinas / AI.
+Mineração de Dados (Compreensão de Negócios, Compreensão de Dados, Preparação de Dados, Modelagem, Avaliação e
+Desdobramento, desenvolvimento).
+Projetos: Clustering de clientes, Previsão de Churn, Prevenção de Fraude e Preços de Seguro. Ferramentas: SAS (Guia e Miner), SAP Predictive Analytics, R.
+Modelagem dimensional de Business Intelligence
+  Página 1
+ETL
+Dashboards
+Projetos: implementação da PDW da Microsoft, implementação do EDW. Ferramentas: SQL, Oracle, SSIS, SSRS, SSAS, Microstrategy Desktop.
+Desenvolvedor de software em Seicom
+fevereiro de 2013 - abril de 2013 (3 meses) UML, OOP
+Ferramentas: Micosoft Visual Studio (c #, vb, Asp.Net)
+Analista de inteligência de negócios em Uppertools
+outubro de 2012 - fevereiro de 2013 (5 meses) Business Understanding
+ETL
+Dashboards
+Projetos: Implementação SAP Business One. Ferramentas: SQL, SSIS, SSRS, Crystal Reports
+Analista de Inteligência de Negócios da Universidade de Sorocaba
+setembro de 2010 - outubro de 2012 (2 anos 2 meses) Business Understanding.
+ETL.
+Dashboards.
+Projetos: TOTVS RM Implementation, EDW Implementation. Ferramentas: SQL, SSIS, SSRS, Crystal Reports.
+Estabelecimento de infraestrutura de TI na Universidade de Sorocaba
+junho de 2009 - setembro de 2010 (1 ano 4 meses) Manutenção de computadores
+Suporte ao usuário
+Diretório Active
+Educação
+Uninove - Universidade Nove de Julho
