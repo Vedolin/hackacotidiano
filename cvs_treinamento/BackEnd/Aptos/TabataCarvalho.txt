@@ -1,0 +1,79 @@
+Tábata Carvalho
+Desenvolvedora C#
+Summary
+Sou desenvolvedora de software C# e Java com 14 anos de experiência na área.
+Experience
+Programador sênior at Cnova - GPA
+novembro de 2017 - Present
+Desenvolvedor de software sênior at Clarify Sistemas
+janeiro de 2017 - novembro de 2017 (11 meses)
+• Análise e desenvolvimento na linguagem plataforma Dot.Net em ASPX com C#(CSharp), Web Forms,
+Windows Forms, MVC e Razor, JQuery, WebApi, Restful, TDD, Git, TFS, Akka, Junit, Jmeter, Telerik,
+Report Viewer, AngularJs, Bootstrap, NodeJS, Serive Bus, DocumentDB, Cache e Log. • Documentação DDL, UML, WBS uso de PMP.
+• Manutenção e administração ao Banco de Dados (SQL Server 2010).
+Programadora C# Senior
+maio de 2016 - dezembro de 2016 (8 meses)
+• Análise e desenvolvimento de sistemas na linguagem Active Server Pages (ASP) e na plataforma Dot.Net
+em ASPX com C#(CSharp) MVC 5 (Desktop e WEB (Razor), Entity Framework 6, Report Viewer e JSP. • Uso de Bootstrap, JQuery e AngularJS, TFS, Teste e Azure.
+• Documentação DDL, UML, WBS uso de PMP aliado ao Scrum.
+Programador C#
+agosto de 2013 - maio de 2016 (2 anos 10 meses)
+- Análise e desenvolvimento na linguagem Active Server Pages (ASP) e na plataforma Dot.Net em ASPX
+com C#(CSharp) e JSP.
+- CSS/HTML, Angulas.JS, NodeJS, Git, Jmeter, TFS, WebApi, MVC, MongoDB, Azure, Teste Unitário,
+TDD, DDD, Bootstrap, Microsoft Web Test Performance e Foundation.
+- Manipulação e administração de Banco de Dados (SQL Server 2007) e Oracle. - Projetos para empresas: Spack, Tramas, TechWeb, entre outras.
+Consultor sênior at P2S Tecnologia
+agosto de 2013 - março de 2015 (1 ano 8 meses)
+- Analise para desenvolvimento sistema PrimeStart(Delphi, XLS, XML). - Levantamento e acompanhamento de requisitos.
+  Page 1
+- Cadastro de cliente na base de dados (My Sql): criação de padronização, metas e ações de integridade dos dados.
+- Cadastro e acompanhamento de follows ups.
+- Criação de processos comercial e de implantação do sistema na empresa.
+- Elaboração de manuais do sistema, vídeos tutoriais para treinamento, marketing digital, posteriormente
+apoio nas atualizações dos documentos (wbs - project).
+- Treinamento técnico para novos funcionários da área de suporte.
+Desenvolvedor C# pleno at PSA TECH - CIO ON DEMAND
+março de 2012 - julho de 2013 (1 ano 5 meses)
+-Desenvolvimento em C#(Web Forms e ASPX), ADVPL e VB (esporádico).
+- Única responsável pelo projeto Sharepoint (Abyara Brasil Brokers).
+- Auto Gestão e idealização, planejamento e acompanhamento. Com uso da metodologia PMI e Scrum com
+uso de Model Canvas, ITIL.
+- Gestão para sistemas PHP, C#, Android, IOS, Dynamics e Totvs ECM.
+- Única responsável pela frente desenvolvimento e melhoria do CRM Dynamics. - Treinamento CRM Dynamics.
+Analista at Banco Santander
+setembro de 2009 - outubro de 2011 (2 anos 2 meses)
+- Desenvolvimento em Java e vba com uso SQL Server, para automatização de processos de indicadores de
+manifestação dos canais: Bacen, PROCON, SAC e Ouvidoria.
+- Planejamento e desenvolvimento de campanhas estratégicas baseadas em eventos, com uso de ferramentas
+em B.I (SAS) na área de CRM.
+- Planejamento, controle e entrega de campanhas de ofertas de produtos e serviços na área de Marketing de
+Relacionamento, com foco em CRM.
+Desenvolvimento para Web at Dualtec Cloud Builders
+agosto de 2008 - setembro de 2009 (1 ano 2 meses)
+- Manutenção e administração ao Banco de Dados (SQL Server 2007) e Oracle.
+- Programação na linguagem Active Server Pages (ASP) e na plataforma Dot.Net em ASPX com C#(CSharp)
+e JSP.
+- Reunião de Analise de Requisitos (interna/externa) com cliente final.
+- Era responsável pelo desenvolvimento e gerenciamento de projetos como: ILOCAL (Oesp), DHL, Foroni,
+entre outros.
+Analista de TI at FIAP
+novembro de 2003 - agosto de 2008 (4 anos 10 meses)
+- Responsável por configuração de rede de computadores nos sistemas Linux e Windows.
+- Monitoramento de aulas de informática oferecendo auxílio aos alunos de cursos de especialização,
+bacharelado, tecnologia, ensino médio fundamental e técnico.
+Page 2
+- Lecionando para crianças do ensino fundamental na disciplina de informática.
+- Desenvolvimento esporádico ASP, VB6 e VBA.
+- Elaboração de manuais com as políticas, normas e procedimentos organizacionais para os profissionais de
+Tecnologia que monitoram as aulas da graduação e especialização.
+Education
+FIAP - Faculdade de Informática e Administração Paulista
+Bacharel Sistemas de Informação, Tecnologia, 2007 - 2011
+COPI - Colégio Paulista
+Técnico processamento de dados, Information Technology, 2000 - 2003
+  Page 3
+Tábata Carvalho
+Desenvolvedora C#
+Contact Tábata on LinkedIn
+          Page 4

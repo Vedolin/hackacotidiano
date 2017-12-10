@@ -1,0 +1,38 @@
+ANALISTA DE DESENVOLVIMENTO SISTEMAS
+Dados Pessoais
+24 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de desenvolvimento sistemas
+Programador
+Salário
+Mínimo aceitavel: R$ 5.000,00
+Pretendido: R$ 6.000,00
+Resumo do currículo
+Experiência de 4 anos em TI com foco em desenvolvimento mobile - Android. Conhecimentos sólidos no desenvolvimento de aplicativos corporativos e de mercado para plataforma Android, versão 2.2 em diante, aplicando soluções utilizando web services RESTFul, modelagem de dados nativamente ou através de ORM, mapas online e offline, desenvolvimento de técnicas de geotracking, consultas geoespacial para SQLite, desenvolvimento de web services através da plataforma Google App Engine e gerenciamento de publicação da aplicação. Possui também experiência com Scrum auxiliando o Scrum Master como líder técnico da solução, conhecimento em iOS, experiência em .Net e suporte ao cliente. Cursando Analise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo estando no o 4° ano, com previsão de conclusão em Dezembro de 2015, possui inglês técnico e participou por 3 anos seguidos das finais regionais da Maratona Brasileira de Programação.
+Escolaridade
+ETEC JK
+Computação/Informática - Ensino Médio Técnico
+01/2010 - 12/2011
+FATEC SP
+Computação/Informática - Superior completo
+01/2012 - 12/2016
+Cursos importantes
+ETEC Diadema
+Curso de Expressão Verbal e Oratoria, 1hora
+Experiências profissionais
+Desenvolvedor Android
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 2.500,00 ( 01/2014 - Até hoje)
+
+Projeto AIA eletrônico Sistema de coleta de dados e autuação de crimes ambientais, projeto que contempla módulos web e mobile. Aplicativo desenvolvido através da metodologia SCRUM na plataforma Android (2.2+) de forma nativa, utilizando JAVA, ORM greenDAO, sincronização de dados através de web service RESTFul e ArcGIS. Integrante da equipe de desenvolvimento com destaque na modelagem de objetos, otimização para a persistência, envio dos dados, desenvolvimento do módulo de mapas com técnicas de geo tracking para demarcação de áreas na aplicação de multas e otimização querys de consulta geoespacial no SQLite. Projeto Terminal Embarcado Aplicativo utilizado de forma corporativa em dezeseis mil viaturas da policia militar do estado de São Paulo. Aplicativo desenvolvido através da metodologia SCRUM na plataforma Android (2.2+) de forma nativa, utilzando JAVA, ORM greenDAO, sincronização de dados através de web service RESTFul e Sygic. Responsavel pelo desevolvimento do módulo de relatório de ocorrências atendendo a solicitações diretamente do diretor do CPD, para exibição georeferenciada no mapa, com atualizações dinâmicas em determinado período de tempo.Responsavel pelo modulo de exibição de pontos de interesse no mapa.
+Analista de sistemas
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.800,00 ( 09/2012 - 12/2013)
+
+Modulo de controle de fontes JCL. Desenvolvido utilizando ASP.NET e JavaScript na modulo client e VB.NET e SQLServer para a parte servidor. Integrante da equipe responsável pela criação de procedures, desenvolvimento Front-end da aplicação e Back-end.
+Idiomas
+Espanhol - Básico  Inglês - Básico
+Habilidades e qualificações
+Excel Internet Sql Server Arcgis Scrum Android Java Access Word Powerpoint

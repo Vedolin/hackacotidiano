@@ -1,0 +1,30 @@
+ADMINISTRADOR DE BANCO DE DADOS
+Dados Pessoais
+37 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Administrador de banco de dados
+Programador
+Salário
+Mínimo aceitavel: R$ 4.000,00
+Pretendido: R$ 7.000,00
+Resumo do currículo
+Responsável por toda área de TI da empresa. Administração do servidor ERP e servidor de dados da empresa, manutenção de hardware e software e suporte aos usuários, pessoalmente e remotamente. Além da área de TI, devido ao longo tempo de empresa, participava de toda reunião estratégica da empresa. Atuava como um consultor de negócios abrangendo a área de produção, comercial, financeira e custos
+Escolaridade
+Fundação Santo André
+Computação/Informática - Superior incompleto
+01/2008 - 05/2010
+Cursos importantes
+Ka Solution
+Mcdba Sql Server, 150 Horas - 12/2010
+Experiências profissionais
+Administrador de banco de dados
+Somente para Assinantes, Industrial
+Salário final: R$ 7.000,00 ( 04/2014 - Até hoje)
+
+•	Instalação, configuração e administração de Windows Server 2008 e posteriores. •	Instalação e manutenção do Sql Server 2008 e posteriores. •	Manutenção de computadores. •	Configuração de roteadores. •	Programação em Visual Studio com VB.Net e C#. • Conhecimentos básicos de html e javascript. •	Atendimento a cliente e fornecedores. •	Elaboração Invoice, Packing list e certificado de origem para exportação. •	Conhecimento da área financeira, contas a receber, contas a pagar, fluxo de caixa, borderô para desconto de títulos com bancos e factoring. •	Emissão de notas fiscais de vendas, transferência, devoluções e serviços com ampla experiência em CFOP, crédito de impostos no simples nacional, lucro presumido e lucro real. Alíquotas de ICMS para vendas interestaduais. •	Conhecimentos básicos de contabilidade para apresentar um demonstrativo de resultados (DRE). •	Apuração de Custos. Formação de preço de venda de produtos.
+Idiomas
+Inglês - Técnico
+Habilidades e qualificações
+Programação Tunning de Banco de Dados Criação de Procedures Views e Functions

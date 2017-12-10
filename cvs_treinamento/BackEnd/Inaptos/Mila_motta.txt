@@ -1,0 +1,69 @@
+ANALISTA DE TI
+Dados Pessoais
+47 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista de TI
+Consultor de sistemas
+Arquiteto de sistemas
+Salário
+Mínimo aceitavel: R$ 9.500,00
+Pretendido: R$ 10.000,00
+Resumo do currículo
+18 anos de experiência corporativa e de tecnologia, visão estratégica abrangente e excelente comunicação, profissional capaz de assegurar tratamento adequado aos requisitos do negócio, conectando diferentes pontos de vista, e, ao mesmo construindo um alicerce para sustentar mudanças futuras, adaptando tudo isso ao tempo e recurso permitido pelo negócio, de preferência reduzindo custos e aumentando performance organizacional; Elaboração do escopo do projeto do sistema ou aplicação, definindo os padrões de arquitetura e a construção de diagramas de aplicação, selecionando os elementos estruturais e suas interfaces, mapeamento de conexões, sistemas internos e externos, tecnologia aplicada, requisitos de qualidade dos serviços, com os quais ele será composto;
+
+Participação em projeto de migração da plataforma de Oracle E Business Suite R12 Financial para SAP/R3. Pelo contexto existente, pela grande distância geográfica entre os sistemas que foram integrados, era necessária a utilização massiva de integrações assíncronas. Uma das partes dessa solução foi o desenvolvimento do Modelo de Dados Canônico (MDC). Projeto Adoção Oracle SOA Suite, atuando como um dos Arquitetos desempenhando as atividades de modelagem arquitetural, suporte ao desenvolvimento, implantação, aplicação de boas praticas voltadas Governança SOA como Arquitetura de Referencia, taxonomia de serviços, modelo OSIMM para medição do nivel de maturidade, arquitetura corporativa, padrões de desenvolvimento SOA.
+Escolaridade
+UNIP
+Computação/Informática - Superior completo
+01/1993 - 12/1997
+FGV
+Administração - Pós-graduação incompleta
+07/2015 - 08/2017
+Cursos importantes
+Ka Solution
+Implementing And Maintaining Microsoft Sql Server, 32 Horas
+Ka Solution
+Maintaining a Microsoft Sql Server 2005 Database, 32 Horas
+Unicamp
+Curso Extensão Arquitetura de Software, Component, 96 Horas
+IT Partners
+Itil Fundamentos Training, 16 Horas
+Oracle University USA
+Curso Oracle Database 10g: Real Administration Wor, 32 Horas
+Experiências profissionais
+Especialista em TI
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 10.000,00 ( 08/2014 - Até hoje)
+
+Como Especialista em TI utilizo e mantenho um conhecimento profundo das tecnologias de soluções mapeando os problemas comuns de negócios dos clientes da TCS. Outras atribuições: liderança técnica em projetos complexos, levantamento de requisitos técnicos sistêmicos, revisão de documentação e facilidade na coleta de informações para reunir e documentar os objetivos de negócios funcionais.
+Arquiteto de Aplicações
+Somente para Assinantes, Industrial
+Salário final: R$ 8.000,00 ( 10/2012 - 04/2014)
+
+Responsável pela criação e manutenção de uma arquitetura de aplicativos de todo o sistema que atinge a visão compartilhada do grupo de liderança da tecnologia e da organização da Avon. as responsabilidades incluem abordar os aspectos técnicos de necessidades de negócio, analisando as aplicações já existentes, soluções core e / ou customizadas pela Avon fazendo recomendações. Como Arquiteto de Aplicações utiliza e mantém um conhecimento profundo das tecnologias de soluções mapeando os problemas comuns de negócios dos clientes internos Avon para soluções tecnológicas end-to-end. Participo a nível sênior de discussões de decisão relacionadas com agilidade, o valor do negócio e desenvolvimento. Outras atribuições: liderança técnica em conduzir analise e facilidade em coleta de informações para reunir e documentar os objetivos de negócios funcionais.
+Arquiteto de Aplicações
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 6.500,00 ( 10/2007 - 10/2012)
+
+Atuando dentro da Gerencia de Arquitetura no planejamento, desenvolvimento e busca de novas tecnologias de Informação. Desenvolvimento de padrões, desenho da arquitetura de hardware e softwares para as áreas de negócios da GOL. Participação em Projetos do âmbito fiscal, Notas Fiscais Eletrônicas e Programa Federal Sped Fiscal e Contábil. Implementação Projeto do sistema de manutenção de aeronaves totalmente integrada da MRO – Manutenção, reparos e revisão geral (overhaul) - (AMOS) da Lufthansa System foi um projeto multidisciplinar entre equipes daqui do Brasil(Tivit, analistas de Negocio GOL) e Alemanha (consultores Lufthansa System), definição de uma estrutura adequada de conectividade entre o Data Center da Lufthansa System na Alemanha e o Oracle EBS, metodologia de implementar sistemas diferente da vista em produtos desenvolvidos nos USA.
+Engenheiro de Suporte Senior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.000,00 ( 09/2004 - 09/2007)
+
+Suporte Global Oracle USA por 3 anos, residindo em Orlando na Florida/USA, contato com clientes Américas, Europa e Oriente Médio e também apoio a área de desenvolvimento de Software e Aplicativos da Oracle em Bangalore - Índia. Suporte técnico ao Produto Oracle Enterprise Resources Planning (ERP - 11.0, 11i e R12), instalação, análise, levantamento, desenvolvimento de soluções técnicas as duvidas e problemas técnicos relacionados à funcionalidade do sistema (estruturação do sistema, aplicação de Patch, administração e manutenção do ERP), abrangendo os seus diversos módulos (OM, INV e GL) e tecnologias envolvidas (IAS, Framework, Java, RDBMS e etc.).
+Engenheiro de Suporte
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 5.000,00 ( 12/2001 - 09/2004)
+
+Suporte técnico ao Produto Oracle Enterprise Resources Planning (ERP - 11.0 e 11i), instalação, análise, levantamento, desenvolvimento de soluções técnicas as duvidas e problemas técnicos relacionados à funcionalidade do sistema (estruturação do sistema, aplicação de Patch, administração e manutenção do ERP), abrangendo os seus diversos módulos (OM, INV e GL) e tecnologias envolvidas (IAS, Framework, Java, RDBMS e etc.).
+Analista de Sistemas Senior
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 3.000,00 ( 02/2001 - 12/2001)
+
+Desenvolvedor soluções técnicas para o sistema Oracle ERP – Applications 11.0 Implantação do Oracle ERP 11.0 na ALCAN – Alumínios Canadenses, desenvolvendo soluções para as várias interfaces entre os sistemas de Plataforma AS400 e NT da empresa. Dentre os módulos os quais estive envolvido estão Order Entry, Inventor e Quality. O desenvolvimento de todas as soluções foi todo feito usando-se as ferramentas, Oracle Developer 2000 Release 2.1 e SQL Navigator 4.0.
+Idiomas
+Espanhol - Básico  Inglês - Fluente
+Habilidades e qualificações
+Internet Word Microsoft Sql 2005 Arquitetura Sistemas Oracle Developer 2000 Release 2.1 Oracle Order Entry/shipping Release 11 Oracle Datatabase Access Excel Powerpoint

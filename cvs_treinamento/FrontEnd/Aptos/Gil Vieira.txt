@@ -1,0 +1,49 @@
+Gil Vieira
+Frontend Developer na prodZ
+Summary
+N/A
+Experience
+Frontend Developer at prodZ
+outubro de 2017 - Present
+Frontend Developer at Sorte Online
+março de 2017 - setembro de 2017 (7 meses)
+Trabalhei no maior site de loteria do Brasil. Com uma equipe ágil, gerenciamos sites, aplicativos para
+dispositivos móveis e sistemas de back-office que suportam mais de 30 milhões de transações por ano.
+Ajudando com melhorias contínuas do desempenho, resolvendo problemas velhos do sistema e criando o maior app de loteria brasileira na Google play.
+(Asp.Net C # MVC 5, Razor, Python, PHP, VBScript, SQL, HTML 5, CSS3, JS, Cordova com AngularJS)
+Web Developer at Maples - Design and Marketing
+janeiro de 2016 - março de 2017 (1 ano 3 meses) Front-end, Back-end development and UI/UX design.
+Developing creative web experiences using HTML5, CSS3, JavaScript (AMD, require.js, jQuery), PHP, AngularJS, Joomla (legacy support) and CodeIgniter.
+My toolset include GruntJs, Jekyll, Sass (Bourbon and Compass).
+Desenvolvedor Web
+abril de 2014 - janeiro de 2016 (1 ano 10 meses)
+Developing creative web experiences using HTML5, CSS3, JavaScript, PHP, AngularJS, Ionic, Cordova,
+Nodejs, Karma, Jasmine, Symfony, Silex and CodeIgniter
+Designer de interface do usuário at Tagon8
+julho de 2013 - janeiro de 2014 (7 meses)
+Desenvolvimento de interfaces para aplicações web e móveis utilizando Photoshop e Ilustrator.
+  Page 1
+Eventualmente também atuava no desenvolvimento front-end com HTML, CSS e JavaScript (EmberJS principalmente).
+Web Designer e Desenvolvedor Front-End at Bitfotos
+fevereiro de 2012 - julho de 2013 (1 ano 6 meses)
+Desenvolvimento e manutenção dos sites da empresa (Wordpress). Desenvolvimento de aplicações em PHP.
+Análise de tráfego de sites, newsletter e redes sociais. Aplicativos para Facebook.
+Web Designer estagiário
+junho de 2011 - fevereiro de 2012 (9 meses)
+Criação de sites dinâmicos com PHP, Wordpress, Joomla e Drupal.
+Monitor de Sala De Informática
+agosto de 2008 - dezembro de 2009 (1 ano 5 meses)
+Atender aos usuários das salas de informática, atuando como facilitador, tirando dúvidas, fazendo sugestões
+de atividades e estimulando o uso de recursos do Programa (rede de projetos, navegação dos sites, links interessantes, atalhos pedagógicos para realização de pesquisas temáticas, etc.). Cadastramento de usuários, elaboração de relatórios, acompanhamento do desempenho das salas de informática.
+Education
+freeCodeCamp
+Desenvolvedor Web, Ciência da Computação, 2013 - 2017
+ETEC Carlos de Campos
+Informática para Internet, Internet, 2011 - 2012
+Activities and Societies: Gestão de Sistemas Operacionais, Operação de Programas e Aplicativos, Instalação
+e Manutenção de Computadores, Lógica de Programação, Desenvolvimento e Design de Websites, Arte Digital, Criação e Editoração de Imagens, Desenvolvimento de Software, Tecnologias e Linguagens para Banco de Dados, Inglês Instrumental, Ética e Cidadania Organizacional, Comunicação e Marketing na Internet, Programação para Internet, Redes, Protocolos e Seguranças da Informação, E-commerce.
+  Page 2
+Gil Vieira
+Frontend Developer na prodZ
+Contact Gil on LinkedIn
+          Page 3

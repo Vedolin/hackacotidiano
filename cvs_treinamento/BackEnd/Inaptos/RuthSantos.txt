@@ -1,0 +1,49 @@
+Ruth Santos
+Analista e desenvolvedora de Sistemas Mainframe
+Summary
+- Desenvolvimento de programas e rotinas para integração de sistemas bancários e varejo; - Elaboração e confecção de documentação de processos;
+- Integração de processos em mainframe;
+- Atuação na manutenção de sistemas de instituição financeira em ambiente mainframe;
+- Prestação de serviços dentro e fora do cliente, tendo versatilidade e postura para corresponder com todas as diversas expectativas;
+- Atuação em todo ciclo de desenvolvimento, desde a concepção até a implantação e manutenção de sistemas; - Metodologias Ágil/Scrum;
+- Atuação em grandes projetos de instituição financeira - Aymoré Financiamentos / Banco Santander / Banco
+Bradesco.
+- SAP Funcional R/3 Foundations - FI, CO, MM, PP, e SD.
+- SAP ABAP Foundations.
+- SAP ABAP Advanced.
+- Conhecimento nos sistemas: Conta corrente, Poupança, Débito, Crédito, Crédito imobiliário, Mis, Pagamentos
+integrados, Previdência, Cobrança, Agendamento, Boleto eletrônico, Leasing, Transferência, Câmbio, Doc,
+Ted.
+- Modelagem de dados UML Casos de Uso.
+Experience
+Analista de Sistemas Mainframe at Via Varejo SA
+janeiro de 2016 - Present
+Análise e Programação em mainframe, RDZ, ClearCase/Quest, Cics e Visual age, casos de uso, especificação funcional e técnica, modelagem de dados no erwin, construção de arquivos e massas de testes, evidências de teste.
+Analista de Sistemas Mainframe at Resource IT Solutions
+2012 - janeiro de 2016 (4 anos 1 mês)
+Análise e programação de sistemas em Mainframe, CICS, Diagrama de programas, especificação de
+programas, levantamento de requisitos, elaboração de PROCS, CONTROL-M, EASYTRIEVE (Cliente - Santander).
+Analista de Sistemas Mainframe at todo!
+  janeiro de 2011 - outubro de 2012 (1 ano 10 meses)
+Page 1
+- Especificação e desenvolvimento de programas. - Codificação em linguagem COBOL.
+- Execução de teste unitário e Integrado.
+- Acompanhamento de Homologação.
+- Evidência de Execução.
+- Analise e correção de abends/erro no processo.
+- Confecção de boletos (JCL) com amarração de control-m.
+- Analise para verificação de impacto e alteração do processo por demandas solicitadas pelo cliente. - Desenvolvimento de modelagem de dados com a ferramenta Together (Cliente - Bradesco).
+Programador de Sistemas Mainframe at Stefanini
+maio de 2009 - janeiro de 2011 (1 ano 9 meses)
+Programação de sistemas em Mainframe, CICS, elaboração de documentos, evidência de testes,
+especificação de programas, Diagrama de programas (Cliente - Santander).
+Education
+Universidade Estácio de Sá
+Pós graduação, Gestão estratégica em TI, 2015 - 2017
+Universidade de São Paulo
+Graduação, Tecnologia da Informação, 2006 - 2010
+  Page 2
+Ruth Santos
+Analista e desenvolvedora de Sistemas Mainframe
+Contact Ruth on LinkedIn
+          Page 3

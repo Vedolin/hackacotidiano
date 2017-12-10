@@ -1,0 +1,47 @@
+Henrique Nunes da Silva
+Developer
+Summary
+Sou estudande de Engenharia da Computação e há mais de 5 anos entrei no mundo do desenvolvimento. Atualmente trabalho na FIAP em tempo integral e sou um dos responsáveis pela área de tecnologia da Plin.
+Minha maior experiência é com desenvolvimento .NET e Javascript, mas gosto de estar aprendendo coisas novas a todo momento. Já desenvolvi alguns projetos em C, Python, Java e mais recentemente tenho brincado um pouco com .NET Core e desenvolvimento mobile multiplataforma com Xamarin Forms e NativeScript.
+Algumas das minhas qualificações:
+Javascript:
+• ES6/ES2017
+• Babel
+• TypeScript
+• Vue.js
+• AngularJS (1.x) • Node.js
+• Gulp
+• Webpack
+.NET:
+• ASP.NET MVC/Web API • WPF
+• Windows Forms
+• Xamarin Forms
+• [ASP].NET Core
+• Entity Framework
+• Dapper
+• Windows Services
+Bancos de dados: • SQL Server
+• MySQL
+• MongoDB
+ Page 1
+ Experience
+Desenvolvedor at FIAP
+fevereiro de 2015 - Present
+Aqui tive a oportunidade de desenvolver alguns dos sistemas mais críticos para a empresa, sendo que alguns impactam diretamente nas receitas da empresa e outros impactam na forma como praticamente todos os alunos interagem com a faculdade.
+Também fui responsável por trazer novas tecnologias, boas práticas e idealizar projetos junto a equipe que permitiram que o desenvolvimento .NET se tornasse mais rápido e menos suscetível a erros.
+Desenvolvedor full stack at Plin
+outubro de 2016 - Present
+Trabalho como desenvolvedor full stack da plataforma, site e blog. Também sou um dos responsáveis por gerenciar tudo que está relacionado a tecnologia, desde desenvolvimento de sistemas até gerenciamento de recursos disponíveis dos nossos servidores em nuvem.
+Suporte Técnico at FIAP
+julho de 2014 - fevereiro de 2015 (8 meses) Monitor de Laboratório at FIAP
+agosto de 2013 - julho de 2014 (1 ano)
+Education
+FIAP
+Bacharelado em Engenharia, Engenharia da Computação, 2013 - 2017
+Senac Brasil
+Técnico em Informática, 2011 - 2012
+  Page 2
+Henrique Nunes da Silva
+Developer
+Contact Henrique on LinkedIn
+          Page 3

@@ -1,0 +1,44 @@
+PROGRAMADOR
+Dados Pessoais
+24 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Programador
+Analista de desenvolvimento sistemas
+Salário
+Mínimo aceitavel: R$ 2.900,00
+Pretendido: R$ 3.500,00
+Resumo do currículo
+Escolhi o ramo de desenvolvimento, pois é gratificante ver um sistema pronto, modelado e trazendo agilidade e melhorias no processo do cliente. Tenho bom relacionamento interpessoal, sou atencioso e dedicado, estou preparado para o desafio de exercer novas funções e atividades com flexibilidade, busco sempre melhoria. Algumas experiências, e atividades complementares desenvolvidas por mim: * Intranet: sistema com objetivo de disseminar as informações da empresa, contendo as principais funções: folha de ponto, holerite, comunicados, aniversáriantes; *Geplan: Gestão de planejamentos: Gestão de Planejamentos: Desenvolvimento para cadastro de planejamento, possibilitando vincular tarefas e selecionar o responsável por cada uma delas. Com opções de reprogramar, alterar e inativar. Assim que o planejamento foi concluído, será possível imprimir o relatório do planejamento, com cada tarefa e o resultado final da tarefa. No menu Acompanhamento – Gráficos, consegue ter a visualização ampla do trabalho realizado pela equipe por cada planejamento. Portal do Contratante - Sistema desenvolvido para uma operadora de plano de saúde disponibilizar para seus contratantes a autonomia de movimentação de seus beneficiários. Podendo incluir, alterar, excluir, relatórios em tempo real de faturamento, mensalidade, sinistralidade, imposto de renda, entre outros. Possibilitando também a inserção de comunicados especifico para cada empresa.... Entre vários outros construídos a partir da necessidade
+Escolaridade
+ILES / ULBRA
+Computação/Informática - Superior completo
+02/2011 - 06/2016
+Cursos importantes
+ZILLION
+Php – do Básico À Orientação a Objetos, 40 Dias - 10/2015
+SESI
+Montagem e Manutenção de Comp., 60 Dias - 06/2009
+Agenda Geração Digital
+Marketing para Empresas, 20 - 11/2017
+Experiências profissionais
+Analista de sistemas
+Somente para Assinantes, Saúde/ Hospitalar
+Salário final: R$ 2.000,00 ( 02/2015 - Até hoje)
+
+Desenvolver soluções que visam melhorar a operacionalidade das atividade dos colaboradores em linguagem PHP, ministrar banco de dados (SQLServer, MySQL), suporte de 1º nivel, manutenção em hardware e software, parametrização de sistema, responsável pelo sistema de backup.
+Assistente
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.450,00 ( 02/2014 - 02/2015)
+
+Suporte de 1º nivel, manutenção em hardware e software, parametrização de ERP, ministrar treinamento do software, implantação de software ERP, desenvolvimento de manuais.
+Asssitente
+Somente para Assinantes, Contabilidade
+Salário final: R$ 1.450,00 ( 02/2012 - 02/2014)
+
+Suporte de 1º nivel, manutenção em hardware e software, ajudante em programação de linguagem java, jsp, banco de dados mysql.
+Idiomas
+Inglês - Intermediário
+Habilidades e qualificações
+Facilidade Na Relação Pessoal Aprendizado Rápido Buscar Melhorias Autocrítica Php Jquery Bootstrap Mysql Sqlserver Javascript Html Laravel

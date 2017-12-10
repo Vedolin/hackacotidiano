@@ -1,0 +1,43 @@
+ANALISTA PROGRAMADOR
+Dados Pessoais
+40 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Analista programador
+Programador
+Coordenador WEB
+Salário
+Mínimo aceitavel: R$ 4.500,00
+Pretendido: R$ 7.000,00
+Resumo do currículo
+15 Anos de trabalho com Análise e Desenvolvimento de Sistemas utilizando Tecnologias Microsoft. Liderando equipes de Desenvolvimento. ? 8 Anos Ministrando Treinamentos em Consultorias: ? IMPACTA TECNOLOGIA (JavaScript, Jquery, Visual C#, ASP.MVC, ASP.NET Webforms e Excel Básico, Excel Intermediário e Excel Avançado com VBA), ? SENAC (HTML5, JavaScript, CSS, MySQL e PHP). ? Atuação em Fábricas de Software, Equipes de Projetos e Alocação no Cliente ? Experiência com Sistemas (CRM, ERP, BI, CMS) ? Experiência em Ambientes (Windows, Web, Cloud) ? Integrações de Baixa e Alta Plataforma ? Migrações de ASP 3.0, VB 6.0, PHP, Delphi e VBA para .NET Conhecimentos Específicos ? Desenvolvimento para Leitores Biométricos, leitura de Código de Barras ? Desenvolvimento e integração comercial com balanças ? Windows 8, Visual Studio 2005 - 2013, .NET 4.5, EF 4.0 à 6.0, ASP.NET MVC 3.0 à 5.0, ASP3.0, VisualBasic6.0 e Access VBA. ? Desenvolvimento de aplicações COM+, com Visual Basic6.0 e ASP3.0 ? Desenvolvimento de aplicações Web e Desktop com C# Projetos desenvolvidos ? PDV – Ponto de vendas cyber café, com leitor de código de barras e controle de gaveta. ? Sistema de Apontamento Eletrônico, cálculo de horas extras, Banco de horas. ? Desenvolvimento e integração comercial com balanças. ? Controle de acesso integrando leitor biométrico. ? CRM – WorkFlow, controle de atividades e fluxo de trabalho. ? Nota fiscal Eletrônica. ? Sistema controle/logística de distribuição de materiais de c
+Escolaridade
+Unicid Cruzeiro do SUL
+Computação/Informática - Superior cursando - Desenvolvimento Web
+01/2016 - 12/2017
+Experiências profissionais
+Analista Programador
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 4.000,00 ( 07/2010 - Até hoje)
+
+Definição da arquitetura dos projetos (design patterns, coding standards, web standards) Analise e desenvolvimento de cronogramas Inspeção de código para garantir o uso dos padrões definidos Auxilio técnico no desenvolvimento Desenvolvimento de softwares (windows, web) Analise e desenvolvimento de aplicações desktop com Excel VBA. Versionamento do código fonte dos projetos Projeto Gestão Integrada de Educação Web Softwares e Tecnologias: Windows 7, Visual Studio 2010,2012 e 2013, SQL Server 2008, .NET 4.5, ASP.NET 4.5. Linguagens: Visual C# 5.0, HTML 5.0, CSS3, JavaScript, TSql, Jquery Documentações: MER, UML (Diagramas (Classe, Caso e Uso))
+Analista Programador
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 2.000,00 ( 11/2007 - 04/2009)
+
+Principais Atribuições Análise e levantamento de requisitos com analistas de negócio Especificação de requisitos (funcionais, não funcionais) Elaboração de modelos (conceitual, lógico, físico) Desenvolvimento de softwares web Versionamento do código fonte dos projetos Treinamento de profissionais da empresa (Visual C#, ASP.NET, SQL Server, Asp3.0, JavaScript) Migração de sistemas (VB 6.0, ASP 3.0) para .NET Interface entre fábrica de software e cliente Projetos desenvolvidos (Desenvolvimento Sistema Gestão Empresarial ERP, Desenvolvimento do módulo Cotação, módulo Ordem de Serviço, Desenvolvimento Nota Fiscal Eletrônica) Softwares e Tecnologias: Visual Studio (2003, 2005), SQL Server (2000,2005), Visio(2003), ASP.NET (Web Forms, Ajax). Linguagens: Visual Basic (6.0), Visual C#,HTML, CSS, JavaScript, TSql e ASP 3.0. Documentações: MER, UML (Diagramas (Classe, Caso e Uso, Componentes, Sequência, Colaboração, Objetos))
+Programador Web
+Somente para Assinantes, Recursos Humanos/ Recrutamento e seleção
+Salário final: R$ 1.285,00 ( 05/2005 - 07/2007)
+
+Principais Atribuições Desenvolvimento e Manutenção do sistema ERP Módulos Comercial Administrativo Recrutamento Financeiro Inspeção de código para garantir o uso dos padrões definidos Desenvolvimento de softwares Web Reuniões semanais de posicionamento das tarefas Softwares e Tecnologias: Visual Basic, DreamWeaver, SQL Server 2000. Linguagens: VB6.0, ASP3.0, HTML, CSS, JavaScript, Tsql. Documentações: MER, Cronogramas, Propostas Técnica.
+Coordenador de Informatica
+Somente para Assinantes, Informática/ Tecnologia
+Salário final: R$ 1.350,00 ( 07/1997 - 12/2004)
+
+Principais Atribuições Análise e levantamento de requisitos Treinamento de Equipe nas tecnologias (HTML, CSS, ASP3.0, JavaScript, VB5.0/6.0, Excel VBA e Access VBA) Projetos desenvolvidos (Avaliação online de treinamentos, Simulados dos cursos, Sistema de apontamento de horas, Controle de laboratórios, Controle de Aptidão profissional online) Controle e gerenciamento de informações MIS, usando Excel VBA, Access VBA e SQLServer2000. Softwares e Tecnologias: Visual Basic6.0, Access VBA, Excel VBA, ASP3.0, JavaScript e SQLServer2000. Linguagens: Visual Basic 6.0, VBA, HTML, CSS, VBScript, JavaScript, Tsql Documentações: MER.
+Idiomas
+Espanhol - Básico  Inglês - Básico
+Habilidades e qualificações
+Asp Visual C# Asp.net Mvc Asp.net Webforms Mysql Visualbasic Sql Server Excel Access Word Powerpoint Internet

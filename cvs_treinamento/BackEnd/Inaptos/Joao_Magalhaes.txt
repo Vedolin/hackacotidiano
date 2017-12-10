@@ -1,0 +1,45 @@
+ENGENHEIRO ELETRÔNICO
+Dados Pessoais
+27 anos, Masculino
+Por motivos de segurança, não exibiremos nome e contato.
+Objetivos Profissionais
+Cargo
+Engenheiro eletrônico
+Engenheiro de Automação
+Programador
+Salário
+Mínimo aceitavel: R$ 4.000,00
+Resumo do currículo
+Engenheiro eletrônico formado na Universidade Nacional Experimental Politêcnica "Antonio José de Sucre" (Bolivar, Venezuela), com interesse em pesquisa e desenvolvimento de sistemas analógicos e automação, técnicas avançadas de controle, eletrônica de potência e programação de microcontroladores. Com experiência em rede de automação usando PLC (Siemens, Mitsubishi e schneider electric) e programação de microcontroladores, simulações eletromagnéticas e desenho de PCIs.
+Escolaridade
+UNEXPO
+Engenharia Eletrônica - Superior completo - Automação, Controle, Firmware
+04/2008 - 12/2013
+Cursos importantes
+CT1 Centro de Treinamento
+Formação de Projetista de Circuitos Integrados, 2 Anos - 07/2016
+Experiências profissionais
+Engenheiro eletrônico
+Somente para Assinantes, Engenharia
+Salário final: R$ 5.200,00 ( 07/2016 - 11/2017)
+
+- Simulaciones electromagnéticas de antenas y sensores utilizando CST Studio. - Simulaciones de interfaces microelectrónicas (Verilog-AMS). - Caracterización de tags RFID, evaluando características y respuestas en frecuencia. - Programación de microcontroladores utilizando MPLAB Harmony. - Diseño de Placas de circuitos impresos.
+Trainee: Projetista de circuitos integrados
+Somente para Assinantes, Engenharia
+Salário final: R$ 2.000,00 ( 08/2015 - 05/2016)
+
+Como trainee no CPA Von braun, teve a oportunidade de trabalhar na área microeletrônica, projetando circuitos reguladores de tensão como circuitos bandgap e técnicas de otimização. Além disso, trabalhei com linguagem Verilog-Ams.
+Engenheiro de automacão e manutenção
+Somente para Assinantes, Industrial
+Salário final: R$ 3.000,00 ( 06/2014 - 08/2014)
+
+Manutenção da rede de PLC neste processo, donde tinham duas series: Mitsubishi (FX2N) e Siemens (S7). Cada dispositivo estava verificando as distintas etapas, lendo sinais analógicas e digitais e compartilhando informação entre eles e outros sistemas como variadores de frequência.
+Estágiario: Engenheiro de automação nível um
+Somente para Assinantes, Industrial
+Salário final: R$ 1.000,00 ( 04/2013 - 09/2013)
+
+Departamento de modelos matemáticos e sistemas inteligentes. Trabalhando no desenvolvimento de um sistema de seguimento (Tracking) de lingotes de aço no forno de barras (Laminação quente).
+Idiomas
+Espanhol - Fluente  Francês - Intermediário  Inglês - Avançado
+Habilidades e qualificações
+Automação C++ Microcontroladores Microeletronica Simulações Eletromagneticas Clp Pcb Firmware

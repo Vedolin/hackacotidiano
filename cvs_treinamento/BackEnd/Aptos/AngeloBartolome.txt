@@ -1,0 +1,57 @@
+Angelo Bartolome
+Desenvolvedor na FIAP
+Summary
+20 anos, São Paulo, criativo, auto-didata.
+- Apaixonado por novas tecnologias, por compartilhar experiencia e conhecimento e por aprender novas coisas.
+ Programação : C/C++
+: C#
+: Java
+: Objective-C : Python
+: Swift
+Plataformas
+: Desenvolvimento : Desenvolvimento : Desenvolvimento : Desenvolvimento : Desenvolvimento
+Bibliotecas Graficas: : Qt 5
+: Qt/QML
+: WPF
+: Windows Forms
+Mobile para Android - Avançado
+Mobile para iOS - Avançado
+Mobile Multiplataforma (Xamarin) - Moderado Nativo para Windows, OS X e Linux - Avançado de sistemas integrados usando Node.js - Moderado
+Web:
+: C# ASP.NET MVC
+: PHP
+: Node.js
+: Angular.js
+: HTML5, CSS & JavaScript
+Banco de Dados
+Page 1
+: MySQL
+: SQL Server : Firebase
+: MongoDB
+
+
+Experience
+Fundador at Dotcore Studio
+maio de 2017 - Present
+Desenvolvedor at FIAP
+ setembro de 2015 - Present
+Page 2
+Monitor de Laboratórios at FIAP
+março de 2015 - setembro de 2015 (7 meses)
+Desenvolvedor Mobile
+janeiro de 2015 - junho de 2015 (6 meses)
+Projeto Cadê Água - Participe enviando fotos de vazamentos de água no Brasil para o nosso mapa!
+Android - iOS PHP e MySQL Backend
+Aurora
+janeiro de 2010 - janeiro de 2012 (2 anos 1 mês)
+Qt QML based phone UI framework for Embedded Linux devices
+Education
+FIAP
+Bacharelado em Engenharia, Engenharia de Computação, 2015 - 2019
+ETEC Getúlio Vargas
+Técnico Em Eletrônica, Engenharia Elétrica e Eletrônica, 2012 - 2014 Activities and Societies: TCC - Carregador de aparelhos celular sem fio
+  Page 3
+Angelo Bartolome
+Desenvolvedor na FIAP
+Contact Angelo on LinkedIn
+          Page 4
